@@ -4,6 +4,7 @@ title: Estamos preparados para trabalhar na NASA
 wordpress_id: 231
 wordpress_url: http://rafael.adm.br/?p=231
 date: 2008-08-27 21:47:54 -03:00
+podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0011.mp3
 ---
 Depois de conversar com um amigo de vendas cai na real que nós, desenvolvedores brasileiros, estamos preparados mesmo para trabalhar na NASA. Ouça e veja por que...
 
@@ -11,4 +12,3 @@ Depois de conversar com um amigo de vendas cai na real que nós, desenvolvedores
 
 
 
-[podcast]http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0011.mp3[/podcast]

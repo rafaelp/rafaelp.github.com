@@ -11,51 +11,33 @@
       <div id="inside">
         <div id="content">
           <div class="post">
-            <p class="meta"><span class="date">04 abril 2012</span> ~ <span class="comments"><a href="#disqus_thread" data-disqus-identifier="{{ page.wordpress_id }} {{ page.wordpress_url }}"></a></span></p>
+            <p class="meta"><span class="date">{{ page.date | date_to_string }}</span> ~ <span class="comments"><a href="#disqus_thread" data-disqus-identifier="{{ page.wordpress_id }} {{ page.wordpress_url }}"></a></span></p>
             <h2 class="title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h2>
-              <div class="entry">
-                <div class="tweetmeme_button" style="float: left; margin-right: 10px;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Frafael.adm.br{{ page.url | cgi_escape }}%2F&amp;source=rafaelp&amp;style=normal&amp;service=bit.ly" height="61" width="50" frameborder="0" scrolling="no"></iframe></div>
-                {{ content }}
-                {{ if page.podcast }}
-                  <object type="application/x-shockwave-flash" name="pod_audio_1" style="outline-style: none; outline-width: initial; outline-color: initial; visibility: visible; " data="http://rafael.adm.br/wp-content/plugins/podcasting/player/player.swf" width="290" height="24" id="pod_audio_1"><param name="wmode" value="opaque"><param name="menu" value="false"><param name="flashvars" value="soundFile={{ page.podcast | cgi_escape }}&amp;playerID=pod_audio_1"></object>
-                  <script type="text/javascript">  
-                    AudioPlayer.embed("pod_audio_1", {soundFile: "{{ page.podcast | cgi_escape }}"});  
-                  </script>
-                {{ endif }}
-              </div><!-- /.entry -->
-              <div class="tags">
-              </div><!-- /.tags -->
-            </div><!-- /.post -->
-            <div id="disqus_thread"></div>
-            <!-- comments -->
-          </div><!-- /#content -->
-          {% include sidebar.ext %}
-      <div class="clear"></div>
-    </div><!-- /#inside -->
-  </div><!-- /#main -->
-  {% include footer.ext %}
-</div><!-- /#container -->
-{% include bottom_scripts.ext %}
-<script type="text/javascript">
-  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-  var disqus_shortname = 'rafaellima'; // required: replace example with your forum shortname
+            <div class="entry">
+              <div class="tweetmeme_button" style="float: left; margin-right: 10px;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Frafael.adm.br{{ page.url | cgi_escape }}%2F&amp;source=rafaelp&amp;style=normal&amp;service=bit.ly" height="61" width="50" frameborder="0" scrolling="no"></iframe></div>
+              {{ content }}
+              {{ if page.podcast != "" }}
+              <object type="application/x-shockwave-flash" name="pod_audio_1" style="outline-style: none; outline-width: initial; outline-color: initial; visibility: visible; " data="http://rafael.adm.br/wp-content/plugins/podcasting/player/player.swf" width="290" height="24" id="pod_audio_1"><param name="wmode" value="opaque"><param name="menu" value="false"><param name="flashvars" value="soundFile={{ page.podcast | cgi_escape }}&amp;playerID=pod_audio_1"></object>
+              <script type="text/javascript">
+              AudioPlayer.embed("pod_audio_1", {soundFile: "{{ page.podcast | cgi_escape }}"});
+              </script>
+              {{ endif }}
+            </div><!-- /.entry -->
+          </div><!-- /.post -->
+          <div id="disqus_thread"></div>
+          <!-- comments -->
+        </div><!-- /#content -->
+        {% include sidebar.ext %}
+        <div class="clear"></div>
+      </div><!-- /#inside -->
+    </div><!-- /#main -->
+    {% include footer.ext %}
+  </div><!-- /#container -->
+  <script type="text/javascript">
   var disqus_identifier = '{{ page.wordpress_id }} {{ page.wordpress_url }}';
   var disqus_url = 'http://rafael.adm.br{{ page.url }}';
   var disqus_title = "{{ page.title }}";
-
-  /* * * DON'T EDIT BELOW THIS LINE * * */
-  (function() {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-
-  (function () {
-      var s = document.createElement('script'); s.async = true;
-      s.type = 'text/javascript';
-      s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-      (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-  }());
-</script>
+  </script>
+  {% include bottom_scripts.ext %}
 </body>
 </html>

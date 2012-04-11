@@ -15,31 +15,31 @@ Lembrando que eu, usuário, entrei no site para <strong>comprar</strong> o siste
 
 Na primeira tela um botão grande "Download Ubuntu"...
 
-<a href="http://rafael.adm.br/wp-content/uploads/2009/11/ubuntu-1-cursor.png"><img class="aligncenter size-medium wp-image-419" title="Tela principal do Ubuntu" src="http://rafael.adm.br/wp-content/uploads/2009/11/ubuntu-1-cursor-300x169.png" alt="Tela principal do Ubuntu" width="300" height="169" /></a>
+<a href="/wp-content/uploads/2009/11/ubuntu-1-cursor.png"><img class="aligncenter size-medium wp-image-419" title="Tela principal do Ubuntu" src="/wp-content/uploads/2009/11/ubuntu-1-cursor-300x169.png" alt="Tela principal do Ubuntu" width="300" height="169" /></a>
 
 ... na tela seguinte, fica claro o que eu devo fazer. Neste caso não é venda, mas download, ok.
 
-<a href="http://rafael.adm.br/wp-content/uploads/2009/11/ubuntu-2.png"><img class="aligncenter size-medium wp-image-420" title="Tela seguinte do Ubuntu" src="http://rafael.adm.br/wp-content/uploads/2009/11/ubuntu-2-300x219.png" alt="Tela seguinte do Ubuntu" width="300" height="219" /></a>
+<a href="/wp-content/uploads/2009/11/ubuntu-2.png"><img class="aligncenter size-medium wp-image-420" title="Tela seguinte do Ubuntu" src="/wp-content/uploads/2009/11/ubuntu-2-300x219.png" alt="Tela seguinte do Ubuntu" width="300" height="219" /></a>
 
 <strong>Mac OS X</strong>
 
 Na primeira tela um ícone "Buy Now"...
 
-<a href="http://rafael.adm.br/wp-content/uploads/2009/11/mac-1-cursor.png"><img class="aligncenter size-medium wp-image-417" title="Tela principal do Mac OS X" src="http://rafael.adm.br/wp-content/uploads/2009/11/mac-1-cursor-300x187.png" alt="Tela principal do Mac OS X" width="300" height="187" /></a>
+<a href="/wp-content/uploads/2009/11/mac-1-cursor.png"><img class="aligncenter size-medium wp-image-417" title="Tela principal do Mac OS X" src="/wp-content/uploads/2009/11/mac-1-cursor-300x187.png" alt="Tela principal do Mac OS X" width="300" height="187" /></a>
 
 ... na tela seguinte, a página do produto na loja on-line com preço e carrinho de compras.
 
-<a href="http://rafael.adm.br/wp-content/uploads/2009/11/mac-2.png"><img class="aligncenter size-medium wp-image-418" title="Tela seguinte do Mac OS X" src="http://rafael.adm.br/wp-content/uploads/2009/11/mac-2-300x190.png" alt="Tela seguinte do Mac OS X" width="300" height="190" /></a>
+<a href="/wp-content/uploads/2009/11/mac-2.png"><img class="aligncenter size-medium wp-image-418" title="Tela seguinte do Mac OS X" src="/wp-content/uploads/2009/11/mac-2-300x190.png" alt="Tela seguinte do Mac OS X" width="300" height="190" /></a>
 
 <strong>Windows 7</strong>
 
 Na primeira tela um banner "Loja Virtual - Compre já o seu Windows 7"...
 
-<a href="http://rafael.adm.br/wp-content/uploads/2009/11/windows-1-cursor.png"><img class="aligncenter size-medium wp-image-421" title="Tela principal Microsoft" src="http://rafael.adm.br/wp-content/uploads/2009/11/windows-1-cursor-300x198.png" alt="Tela principal Microsoft" width="300" height="198" /></a>
+<a href="/wp-content/uploads/2009/11/windows-1-cursor.png"><img class="aligncenter size-medium wp-image-421" title="Tela principal Microsoft" src="/wp-content/uploads/2009/11/windows-1-cursor-300x198.png" alt="Tela principal Microsoft" width="300" height="198" /></a>
 
 ... na tela seguinte, "PAM"!!! Um computador Vaio da loja Fast e absolutamente <strong>nada</strong> sobre o Windows 7 :)
 
-<a href="http://rafael.adm.br/wp-content/uploads/2009/11/windows-2.png"><img class="aligncenter size-medium wp-image-422" title="Tela seguinte da Microsoft" src="http://rafael.adm.br/wp-content/uploads/2009/11/windows-2-300x199.png" alt="Tela seguinte da Microsoft" width="300" height="199" /></a>
+<a href="/wp-content/uploads/2009/11/windows-2.png"><img class="aligncenter size-medium wp-image-422" title="Tela seguinte da Microsoft" src="/wp-content/uploads/2009/11/windows-2-300x199.png" alt="Tela seguinte da Microsoft" width="300" height="199" /></a>
 
 Detalhe: O mesmo acontece quando você entra no <a href="http://www.microsoft.com/brasil/windows7/default.aspx">site específico do Windows</a> e clica em "Comprar" ou "Como Obter".
 

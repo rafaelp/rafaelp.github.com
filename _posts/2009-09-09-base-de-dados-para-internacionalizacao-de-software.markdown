@@ -9,7 +9,7 @@ Quando estava desenvolvendo o <a href="http://bielbid.com.br">BielBid</a>, eu cr
 
 Faça o download clicando no link abaixo:
 
-<a href="http://rafael.adm.br/wp-content/uploads/2009/07/rafaeladmbr-internacionalizacao_software.xls">Dados de Iocalização, idioma, moeda, países, estados e cidades</a>
+<a href="/wp-content/uploads/2009/07/rafaeladmbr-internacionalizacao_software.xls">Dados de Iocalização, idioma, moeda, países, estados e cidades</a>
 
 Você irá encontrar neste arquivo:
 <ul>

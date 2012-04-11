@@ -41,7 +41,7 @@ Para exemplificar como estamos trabalhando, um dos times que montamos foi para t
 
 Para a galera que trabalha no nosso escritório no Centro, temos um brinquedinho que sempre dá Ibope que é a nossa máquina de Pinball.
 
-<a href="http://rafael.adm.br/wp-content/uploads/2012/04/pinball.jpg"><img src="http://rafael.adm.br/wp-content/uploads/2012/04/pinball-300x225.jpg" alt="" title="pinball" width="300" height="225" class="aligncenter size-medium wp-image-712" /></a>
+<a href="/wp-content/uploads/2012/04/pinball.jpg"><img src="/wp-content/uploads/2012/04/pinball-300x225.jpg" alt="" title="pinball" width="300" height="225" class="aligncenter size-medium wp-image-712" /></a>
 
 Enfim, estamos contratando e de portas abertas para conversar com bons profissionais que buscam um lugar diferenciado para se trabalhar.
 

@@ -22,7 +22,7 @@ Na página de apresentação do workshop eu coloquei os elementos mais important
 </ul>
 
 Clique na imagem para ampliar:
-<a href="http://rafael.adm.br/wp-content/uploads/2011/10/workshop-lean-startup.png" target="_blank"><img src="http://rafael.adm.br/wp-content/uploads/2011/10/workshop-lean-startup-300x171.png" alt="" title="workshop-lean-startup" width="300" height="171" class="aligncenter size-medium wp-image-667" /></a>
+<a href="/wp-content/uploads/2011/10/workshop-lean-startup.png" target="_blank"><img src="/wp-content/uploads/2011/10/workshop-lean-startup-300x171.png" alt="" title="workshop-lean-startup" width="300" height="171" class="aligncenter size-medium wp-image-667" /></a>
 
 Neste caso o Call-to-Action é o botão realizar inscrição. A minha medida de conversão para esta página é a quantidade de cliques neste botão.
 
@@ -43,7 +43,7 @@ Desta vez o resultado não foi tão surpreendente pra mim, pois aconteceu o que 
 A página sem o preço se mostrou ser 172,9% melhor que a página com o preço.
 
 Veja o gráfico do resultado (clique na imagem para ampliar).
-<a href="http://rafael.adm.br/wp-content/uploads/2011/10/split-test-lean-startup-workshop-preco.png" target="_blank"><img src="http://rafael.adm.br/wp-content/uploads/2011/10/split-test-lean-startup-workshop-preco-300x164.png" alt="" title="split-test-lean-startup-workshop-preco" width="300" height="164" class="aligncenter size-medium wp-image-669" /></a>
+<a href="/wp-content/uploads/2011/10/split-test-lean-startup-workshop-preco.png" target="_blank"><img src="/wp-content/uploads/2011/10/split-test-lean-startup-workshop-preco-300x164.png" alt="" title="split-test-lean-startup-workshop-preco" width="300" height="164" class="aligncenter size-medium wp-image-669" /></a>
 
 <strong>Conclusão</strong>
 

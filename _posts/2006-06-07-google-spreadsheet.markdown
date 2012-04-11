@@ -7,7 +7,7 @@ date: 2006-06-07 20:56:40 -03:00
 ---
 Hoje recebi o convite do Google para utilizar sua planilha eletrônica na web, o <a title="Visitar o Google Spreadsheet (nova janela)" target="_blank" href="http://spreadsheets.google.com">Google Spreadsheet</a>. <strong>Confesso que fiquei abismado com o que eu vi.</strong> Já havia testado outros <a title="Googling (nova janela)" target="_blank" href="http://www.google.com.br/search?hs=GRm&hl=pt-BR&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&q=spreadsheet+web&btnG=Pesquisar&meta=">sisteminhas de planilhas</a> na web, mas nada se compara com o que eu vi hoje. Não quero escrever páginas e páginas sobre o serviço, pois mais cedo ou mais tarde todos vocês virão com os próprios olhos, por isso, vou ser bem direto:
 
-<a target="_blank" href="http://rafael.adm.br/wp-content/uploads/2006/06/google_spreadsheet.png"><img width="90%" height="90%" border="0" alt="Google Spreadsheet Screenshot" id="image51" src="http://rafael.adm.br/wp-content/uploads/2006/06/google_spreadsheet.png" /></a>
+<a target="_blank" href="/wp-content/uploads/2006/06/google_spreadsheet.png"><img width="90%" height="90%" border="0" alt="Google Spreadsheet Screenshot" id="image51" src="/wp-content/uploads/2006/06/google_spreadsheet.png" /></a>
 <strong>O que me impressionou:</strong>
 <ul>
 	<li>Possui 80% dos recursos realmente utilizados no dia a dia.</li>

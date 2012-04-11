@@ -13,6 +13,6 @@ A matéria faz um raio X das startups inovadoras no Brasil e traz números inter
 
 Abaixo a parte que fala da BielSystems.
 
-<a href="http://rafael.adm.br/wp-content/uploads/2011/06/bielsystems-pegn.jpg"><img src="http://rafael.adm.br/wp-content/uploads/2011/06/bielsystems-pegn-300x225.jpg" alt="" title="BielSystems na PEGN" width="300" height="225" class="aligncenter size-medium wp-image-515" /></a>
+<a href="/wp-content/uploads/2011/06/bielsystems-pegn.jpg"><img src="/wp-content/uploads/2011/06/bielsystems-pegn-300x225.jpg" alt="" title="BielSystems na PEGN" width="300" height="225" class="aligncenter size-medium wp-image-515" /></a>
 
 Abraço e até a próxima.

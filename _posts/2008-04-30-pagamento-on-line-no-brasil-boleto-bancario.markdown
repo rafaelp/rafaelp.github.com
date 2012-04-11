@@ -36,7 +36,7 @@ Você vai precisar de um software para gerar o boleto. De preferência que possa
 
 Na BielSystems usamos os serviços da Cobre Bem em conjunto com a nossa extranet desenvolvida "em casa". Além do sistema de geração do boleto, você vai precisar de um sistema de gerenciamento de boleto. A extranet da BielSystems cuida disso tudo. Enviamos o boleto em PDF por e-mail e realizamos a baixa automática de acordo com o arquivo retorno do banco. Abaixo uma captura de tela, qualquer semelhança com <a href="http://37signals.com">37signals</a> é pura coincidência!
 
-<a href="http://rafael.adm.br/wp-content/uploads/2008/04/bielsystems-extranet.png"><img src="http://rafael.adm.br/wp-content/uploads/2008/04/bielsystems-extranet.png" alt="Extranet da BielSystems" width="504" height="300" /></a>
+<a href="/wp-content/uploads/2008/04/bielsystems-extranet.png"><img src="/wp-content/uploads/2008/04/bielsystems-extranet.png" alt="Extranet da BielSystems" width="504" height="300" /></a>
 
 Nossa extranet é um web service que é acessado pelas nossas aplicações, ou seja, todo o processo está 100% automatizado, mas chegar neste ponto deu um trabalhão.
 

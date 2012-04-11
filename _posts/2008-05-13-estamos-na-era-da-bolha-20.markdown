@@ -7,7 +7,7 @@ date: 2008-05-13 23:49:44 -03:00
 ---
 Tenho visto algumas aplicações web que estão fechando deliberadamente por falta de suporte e capacidade de manutenção. Como exemplo, posso citar o <a href="http://blogbinders.com/">BlogBinders</a>:
 
-<img class="alignnone size-full wp-image-192" title="blogbinderscom" src="http://rafael.adm.br/wp-content/uploads/2008/05/blogbinderscom.png" alt="BlogBinders - Fechado." />
+<img class="alignnone size-full wp-image-192" title="blogbinderscom" src="/wp-content/uploads/2008/05/blogbinderscom.png" alt="BlogBinders - Fechado." />
 
 Isto acontece por que elas não têm um modelo comercial sustentável.
 

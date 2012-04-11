@@ -11,4 +11,4 @@ Desde a abertura de inscrições do Programa <a href="http://startupfarm.com.br"
 
 “Para atender essa demanda e com o objetivo de incentivar bons projetos e bons profissionais, o Startup Farm lança hoje 1 bolsa para times de startups com ideias inovadoras e 1 bolsa para desenvolvedores para a edição do Rio de Janeiro!”, anuncia Felipe Matos, fundador do Startup Farm. Além destas, o programa já oferecia 6 bolsas patrocinadas para times, sendo 5 pelo Peixe Urbano e uma pelo Moip.
 
-<a href="http://startupfarm.com.br" target="_blank"><img src="http://rafael.adm.br/wp-content/uploads/2011/10/2011.10.jpeg" alt="" title="2011.10" width="576" height="768" class="aligncenter size-full wp-image-654" style="border: 0" /></a>
+<a href="http://startupfarm.com.br" target="_blank"><img src="/wp-content/uploads/2011/10/2011.10.jpeg" alt="" title="2011.10" width="576" height="768" class="aligncenter size-full wp-image-654" style="border: 0" /></a>

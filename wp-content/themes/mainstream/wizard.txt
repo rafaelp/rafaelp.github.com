@@ -1,0 +1,55 @@
+Sobre o autor
+
+<img src="/wp-content/themes/mainstream/images/rafael_lima-foto.jpg" width="98" height="138" alt="Rafael Lima"/ align="left" style="margin: 0 0.5em 0 0">
+<p>Sou administrador e desenvolvedor. Meu papel é realizar a ligação entre o comercial e o técnico. Gosto de trabalhar basicamente com inovação.</p>
+<a class="noborder" href="http://feeds.feedburner.com/rafael_lima"><img src="http://feeds.feedburner.com/~fc/rafael_lima?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0; margin:0 1em 0 0" alt="" align="left" /></a>
+<span class="noborder"><script type="text/javascript" language="javascript" src="http://twittercounter.com/embed/?username=rafaelp"></script></span>
+
+Translate
+
+<ul>
+	<li><a href="http://translate.google.com/translate?hl=en&u=http://<?php echo $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']; ?>&langpair=pt|en">English</a></li>
+	<li><a href="http://translate.google.com/translate?hl=es&u=http://<?php echo $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']; ?>&langpair=pt|es">Spanish</a></li>
+	<li><a href="http://translate.google.com/translate?hl=fr&u=http://<?php echo $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']; ?>&langpair=pt|fr">French</a></li>
+	<li><a href="http://translate.google.com/translate?hl=de&u=http://<?php echo $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']; ?>&langpair=pt|de">German</a></li>
+</ul>
+
+
+Assine este blog
+
+<a class="noborder" href="http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/rafael_lima"><img src="http://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" style="border:0" alt="Add to Google Reader or Homepage"/></a>
+<a class="noborder" href="http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/rafael_lima" title="Rafael Lima"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" alt="" style="border:0"/></a>
+<a class="noborder" href="http://www.netvibes.com/subscribe.php?url=http://feeds.feedburner.com/rafael_lima"><img src="http://www.netvibes.com/img/add2netvibes.gif" width="91" height="17" alt="Add to netvibes" style="border:0" /></a>
+<a class="noborder" href="http://www.bloglines.com/sub/http://feeds.feedburner.com/rafael_lima" title="Rafael Lima" type="application/rss+xml"><img src="http://www.bloglines.com/images/sub_modern11.gif" alt="Subscreva-se em Bloglines" style="border:0"/></a>
+<a class="noborder" href="http://feeds.feedburner.com/rafael_lima"><img src="http://feeds.feedburner.com/~fc/rafael_lima?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt="" /></a>
+<span class="noborder"><script type="text/javascript" language="javascript" src="http://twittercounter.com/embed/?username=rafaelp"></script></span>
+
+Working With Rails
+
+<p style="text-align: center;margin: 0;padding: 10px 0;border: 0;"><a href="http://workingwithrails.com/recommendation/new/person/14248-rafael-lima" class="noborder"><img alt="Recommend Me" src="http://workingwithrails.com/images/tools/compact-small-button.jpg" border="0" style="border:0" /></p>
+
+
+Google Reader
+
+<script type="text/javascript" src="http://www.google.com/reader/ui/publisher-en.js"></script>
+<script type="text/javascript" src="http://www.google.com/reader/public/javascript/user/07254932675210357106/state/com.google/broadcast?n=10&callback=GRC_p(%7Bc%3A%22-%22%2Ct%3A%22%22%2Cs%3A%22false%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>
+
+
+Delicious
+
+<script type="text/javascript" src="http://del.icio.us/feeds/js/rafael.lima?count=10;title="></script>
+
+
+Empresas e Negócios
+
+<p style="text-align: center"><a href="http://bielsystems.com.br" title="BielSystems" target="_blank" ><img src="http://rafael.adm.br/wp-content/uploads/2009/09/header-logo.png" alt="BielSystems" width="265" height="60"></a></p>
+
+<p style="text-align: center"><a href="http://myfreecomm.com.br" title="Myfreecomm" target="_blank" ><img src="http://rafael.adm.br/wp-content/uploads/2009/09/logo-myfreecomm.png" alt="BielSystems" width="189" height="55"></a></p>
+
+<p style="text-align: center"><a href="http://www.financedesktop.com.br/download?utm_source=parceiros&utm_medium=banner&utm_content=185_53&utm_campaign=financedesktop" title="Sistema gratuito de gerenciamento financeiro pessoal que possui planejamento orçamentário, conciliação bancária, simulador de ações, gestão de finanças, tudo grátis!"><img border="0" alt="FinanceDesktop Download Gratuito" src="http://www.financedesktop.com.br/banners/fdb_azul_185_53.png" width="185" height="53" /></a></p>
+
+<p style="text-align: center"><a href="http://financaspessoais.blog.br/?utm_source=blogger&amp;utm_medium=badge&amp;utm_term=rafael-lima&amp;utm_content=232-58&amp;utm_campaign=blogwatch" target="_blank" border="0" title="Blog Finanças Pessoais"><img src="http://financaspessoais.blog.br/badges/financaspessoais_232x58.png" alt="Blog Finanças Pessoais" width="232" height="58"></a></p>
+
+Eu sou Rafael Lima, administrador focado em gestão de desenvolvimento de software e desenvolvedor desde 1997. Gosto de trabalhar com empreendedorismo focado em inovação.<br/>
+<br/>
+Hoje eu trabalho gerenciando equipes e gerando informação para investidores em tecnologia.

@@ -23,7 +23,7 @@ Fiz o que pude até a hora do embarque, por volta das 2:00h da manhã. Cheguei n
 
 <a href="http://twitter.com/fagiani/statuses/5512702471">Meu sumiço do almoço</a> foi até bom para dar tempo de eu acabar os últimos slides :) Mas juro, não foi proposital... Nesse meio tempo ainda tive que baixar o iWorks Trial e aprender a usar. O <a href="http://simplesideias.com.br">Nando</a> me ajudou um bocado.
 
-<a style="text-decoration: none;" href="http://rafael.adm.br/wp-content/uploads/2009/11/4083105357_6601df2241.jpg"><img class="aligncenter size-full wp-image-429" title="Palestra no Ceará on Rails" src="http://rafael.adm.br/wp-content/uploads/2009/11/4083105357_6601df2241.jpg" alt="Palestra no Ceará on Rails" width="500" height="375" /></a>
+<a style="text-decoration: none;" href="/wp-content/uploads/2009/11/4083105357_6601df2241.jpg"><img class="aligncenter size-full wp-image-429" title="Palestra no Ceará on Rails" src="/wp-content/uploads/2009/11/4083105357_6601df2241.jpg" alt="Palestra no Ceará on Rails" width="500" height="375" /></a>
 <p style="text-align: center;">Foto de <a href="http://www.flickr.com/photos/fagiani/">fagiani</a></p>
 Enfim, eu consegui fazer a palestra com início, meio e fim e acho que o saldo desse desafio foi positivo. Eu agradeço a todos que me ajudaram e <a href="https://twitter.com/#search?q=rafael%20lima%20cearaonrails%20palestra">deram o feedback sobre a palestra</a>. Agradeço ao <a href="http://simplesideias.com.br/">Nando Vieira</a> por ter me ajudado com o KeyNote e com o pau que deu no meio da apresentação. Agradeço também à galera do staff do evento que aceitou e colaborou com tudo para que eu viesse. Muito obrigado a todos.
 

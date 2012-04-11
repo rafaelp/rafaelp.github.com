@@ -16,7 +16,7 @@ Abrindo um parênteses...
 
 O Gmail possui um recurso chamado Web Clip que consiste numa barra que fica acima da lista de e-mail com o conteúdo dos feeds agregados passando.
 
-<img src="http://rafael.adm.br/wp-content/uploads/2008/03/gmail-customize-rss-clips.png" alt="Gmail Web Clip" height="94" width="600" />
+<img src="/wp-content/uploads/2008/03/gmail-customize-rss-clips.png" alt="Gmail Web Clip" height="94" width="600" />
 
 Por um tempo fiquei pensando por que que não existia uma integração entre o Google Reader e o Gmail para que o Web Clip apresentasse tudo que você tem no Google Reader.
 

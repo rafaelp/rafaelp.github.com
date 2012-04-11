@@ -9,4 +9,4 @@ Pessoal,
 
 Meus amigos Maurilio Alberone e Rafael Carvalho estão <a href="http://bizstart.com.br/workshop">realizando diversos workshops</a> pelo Brasil. Sugiro que dêem uma olhada.
 
-<a href="http://rafael.adm.br/wp-content/uploads/2012/03/email_mkt_bizstart_20120326.png"><img src="http://rafael.adm.br/wp-content/uploads/2012/03/email_mkt_bizstart_20120326.png" alt="" title="email_mkt_bizstart_20120326" width="600" height="832" class="aligncenter size-full wp-image-705" /></a>
+<a href="/wp-content/uploads/2012/03/email_mkt_bizstart_20120326.png"><img src="/wp-content/uploads/2012/03/email_mkt_bizstart_20120326.png" alt="" title="email_mkt_bizstart_20120326" width="600" height="832" class="aligncenter size-full wp-image-705" /></a>

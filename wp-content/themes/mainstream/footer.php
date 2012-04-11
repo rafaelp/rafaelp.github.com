@@ -1,0 +1,37 @@
+			<div class="clear"></div>
+		
+	</div><!-- /#inside -->
+	</div><!-- /#main -->
+	
+	<div id="footer">
+	
+		<ul>
+			<?php if (is_page()) { $highlight = "page_item"; } else {$highlight = "page_item current_page_item"; } ?>
+				
+			<li class="<?php echo $highlight; ?>"><a href="<?php bloginfo('url'); ?>">Home</a></li>
+			
+			<?php 
+				if (get_option('woo_foot_cat_menu') == 'true') 
+					wp_list_categories('sort_column=menu_order&depth=1&title_li=&exclude='.get_option('woo_foot_nav_exclude')); 
+				else
+					wp_list_pages('sort_column=menu_order&depth=1&title_li=&exclude='.get_option('woo_foot_nav_exclude')); 
+			?>
+		</ul>
+		
+		<p>
+			Copyright 2004-2010 Rafael Lima<span class="menu"> | Powered by <a href="http://wordpress.org/">WordPress</a><!-- | Hospedagem <a href="http://hostnet.com.br">Hostnet</a>--></span>
+			<!-- <?php echo get_num_queries(); ?> queries. <?php timer_stop(1); ?> seconds. -->
+		</p>
+
+
+		<p><a href="http://woothemes.com" title="<?php _e('WooThemes',woothemes); ?>"><img src="<?php bloginfo('template_directory'); ?>/images/woothemes.png" alt="<?php _e('WooThemes Logo',woothemes); ?>" /></a></p>
+	
+	</div><!-- /#footer -->
+
+</div><!-- /#container -->
+
+
+<?php wp_footer(); ?>
+<?php if ( get_option('woo_google_analytics') <> "" ) { echo stripslashes(get_option('woo_google_analytics')); } ?>
+</body>
+</html>

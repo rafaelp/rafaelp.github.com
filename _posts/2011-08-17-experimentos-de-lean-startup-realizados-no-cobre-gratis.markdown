@@ -22,7 +22,7 @@ No meu teste eu fiz a seguinte pergunta:
 <strong>Você deseja saber quanto custa o Cobre Grátis, onde você clica?</strong>
 
 Ao prosseguir, a pessoa via a seguinte tela (clique na imagem para ampliar).
-<a href="http://rafael.adm.br/wp-content/uploads/2011/08/cobregratis-sem-link.jpg"><img src="http://rafael.adm.br/wp-content/uploads/2011/08/cobregratis-sem-link-134x300.jpg" alt="" title="cobregratis-sem-link" width="134" height="300" class="aligncenter size-medium wp-image-573" /></a>
+<a href="/wp-content/uploads/2011/08/cobregratis-sem-link.jpg"><img src="/wp-content/uploads/2011/08/cobregratis-sem-link-134x300.jpg" alt="" title="cobregratis-sem-link" width="134" height="300" class="aligncenter size-medium wp-image-573" /></a>
 
 Liberei o link da pesquisa no meu Twitter e esperei as 24h para o resultado.
 A pesquisa recebeu 142 visitas, mas somente 49 prosseguiram.
@@ -30,7 +30,7 @@ O resultado parecia validar a minha hipótese, 3 pessoas clicaram no screenshot,
 Analisando melhor, eu vi que as pessoas ficaram na dúvida. O Verify marca quanto tempo demorou para a pessoa clicar e pude constatar que antes dos primeiros 10 segundos houveram apenas 3 cliques.
 
 Veja imagem parcial do resultado (clique na imagem para ampliar).
-<a href="http://rafael.adm.br/wp-content/uploads/2011/08/cobregratis-resultado-verify-leanstartup.png"><img src="http://rafael.adm.br/wp-content/uploads/2011/08/cobregratis-resultado-verify-leanstartup-300x163.png" alt="" title="cobregratis-resultado-verify-leanstartup" width="300" height="163" class="aligncenter size-medium wp-image-589" /></a>
+<a href="/wp-content/uploads/2011/08/cobregratis-resultado-verify-leanstartup.png"><img src="/wp-content/uploads/2011/08/cobregratis-resultado-verify-leanstartup-300x163.png" alt="" title="cobregratis-resultado-verify-leanstartup" width="300" height="163" class="aligncenter size-medium wp-image-589" /></a>
 
 Foi bem interessante este experimento, mas ele não foi o suficiente. Eu precisava saber se realmente retirar o link iria aumentar as conversões.
 
@@ -47,7 +47,7 @@ Este teste rodou com 517 visitantes dentre os quais 277 visualizaram a página o
 A taxa de conversão da página original foi de 22,4% enquanto a taxa de conversão da página sem o link, que eu achei que iria ser melhor, foi de apenas 16,3%. Ou seja, o número de contas criadas foi 27,4% pior, na página sem o link.
 
 Veja o gráfico do resultado (clique na imagem para ampliar).
-<a href="http://rafael.adm.br/wp-content/uploads/2011/08/cobregratis-resultado-teste-ab-leanstartup.png"><img src="http://rafael.adm.br/wp-content/uploads/2011/08/cobregratis-resultado-teste-ab-leanstartup-300x163.png" alt="" title="cobregratis-resultado-teste-ab-leanstartup" width="300" height="163" class="aligncenter size-medium wp-image-580" /></a>
+<a href="/wp-content/uploads/2011/08/cobregratis-resultado-teste-ab-leanstartup.png"><img src="/wp-content/uploads/2011/08/cobregratis-resultado-teste-ab-leanstartup-300x163.png" alt="" title="cobregratis-resultado-teste-ab-leanstartup" width="300" height="163" class="aligncenter size-medium wp-image-580" /></a>
 
 Depois deste teste eu deixei o link ali quietinho e o próximo passo é trabalhar na página de planos e preços em si.
 

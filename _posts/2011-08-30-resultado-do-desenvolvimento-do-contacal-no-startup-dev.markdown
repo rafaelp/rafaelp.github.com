@@ -16,7 +16,7 @@ Vale lembrar que nós não fizemos <a href="http://www.contacal.com.br/">o site 
 
 Pelo que pude perceber, nosso cliente ficou bem feliz e inclusive nos recomendou pelo Twitter :)
 
-<a href="http://rafael.adm.br/wp-content/uploads/2011/08/Screen-shot-2011-08-30-at-10.02.56-AM.png"><img src="http://rafael.adm.br/wp-content/uploads/2011/08/Screen-shot-2011-08-30-at-10.02.56-AM-269x300.png" alt="" title="Tweet do Joca" width="269" height="300" class="aligncenter size-medium wp-image-619" /></a>
+<a href="/wp-content/uploads/2011/08/Screen-shot-2011-08-30-at-10.02.56-AM.png"><img src="/wp-content/uploads/2011/08/Screen-shot-2011-08-30-at-10.02.56-AM-269x300.png" alt="" title="Tweet do Joca" width="269" height="300" class="aligncenter size-medium wp-image-619" /></a>
 
 Ele também escreveu um <a href="http://www.jocaonstuff.com/2011/08/lean-startup-validation-experiment-phase-2/">post sobre seus experimentos de Lean Startup</a>.
 

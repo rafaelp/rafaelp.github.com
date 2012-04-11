@@ -5,7 +5,7 @@ wordpress_id: 186
 wordpress_url: http://rafael.adm.br/?p=186
 date: 2008-05-11 17:09:40 -03:00
 ---
-<strong>Atualizado em 27/07/2011</strong>: Foi lançada uma ferramenta nacional, muito boa que eu recomendo: <a href="http://clientela.com.br"><img src="http://rafael.adm.br/wp-content/uploads/2011/07/clientela.png" alt="" title="clientela" width="116" height="25" class="aligncenter size-full wp-image-551"  border="0" style="border: 0; display: inline" /></a>
+<strong>Atualizado em 27/07/2011</strong>: Foi lançada uma ferramenta nacional, muito boa que eu recomendo: <a href="http://clientela.com.br"><img src="/wp-content/uploads/2011/07/clientela.png" alt="" title="clientela" width="116" height="25" class="aligncenter size-full wp-image-551"  border="0" style="border: 0; display: inline" /></a>
 
 Este post é uma tentativa de responder as perguntas do <a href="http://www.improveit.com.br/vinicius">Vinicius</a> feitas no <a href="http://blog.improveit.com.br">blog da Improve-It</a> no post entitulado <a href="http://blog.improveit.com.br/articles/2008/04/28/call-for-help">Call for Help</a>. O objetivo dele é justamente usar o poder do blog para fomentar discussão interessante para seu uso pessoal, uma iniciativa inteligente que eu apoio. As empresas poderiam criar seu <a href="http://blogempresa.com.br">Blog Empresa</a> e fazer isso também!
 
@@ -28,7 +28,7 @@ Durante os anos de experiência na <a href="http://bielsystems.com.br">BielSyste
 
 Hoje sou usuário pagante do HR, usamos na BielSystems e é a minha página inicial do navegador. No HR  você cadastra os contatos com todos os dados de contato. Vários e-mails, vários endereços, messengers, etc. Ele substitui o caderninho de endereços muito bem.
 
-<img class="alignnone size-full wp-image-189" title="hr-novo-contato1" src="http://rafael.adm.br/wp-content/uploads/2008/05/hr-novo-contato1.png" alt="Highrise - Novo contato" />
+<img class="alignnone size-full wp-image-189" title="hr-novo-contato1" src="/wp-content/uploads/2008/05/hr-novo-contato1.png" alt="Highrise - Novo contato" />
 
 Uma grande vantagem é a <a href="http://highrisehq.com/email">integração com e-mail</a> que é bem inteligente. Você pode encaminhar para o seu dropbox (um endereço de e-mail que chega no sistema), todas as mensagem recebidas de um contato. O HR cuida de guardar o e-mail automaticamente no histórico do contato. Além disso você pode enviar um e-mail para um contato, colocando o seu dropbox como cópia oculta (bcc), que ele também irá identificar e salvar o e-mail no histórico do contato. Essa integração é simplesmente fantástica. Permite o gerenciamento dos e-mails importantes, livres de spam, com custo de tempo zero.
 
@@ -68,7 +68,7 @@ No ambiente do admin é possível configurar o time, os módulos que serão util
 
 No ambiente do staff, os atendentes conseguem ver quem está navegando no site, convidar para um chat, gerenciar os tickets e todos os módulos liberados pelo admin. Uma coisa legal é a completude de opções. Aos responder um ticket, por exemplo, é apresentada uma interface similar ao de envio de e-mail de um webmail qualquer, mais as opções específicas do ticket tais como inserir uma resposta pré-definida, alterar status, label e responsável. Veja abaixo:
 
-<img class="alignnone size-full wp-image-187" title="kayako-responder-ticket" src="http://rafael.adm.br/wp-content/uploads/2008/05/kayako-responder-ticket.png" alt="Kayako - Responder ticket" />
+<img class="alignnone size-full wp-image-187" title="kayako-responder-ticket" src="/wp-content/uploads/2008/05/kayako-responder-ticket.png" alt="Kayako - Responder ticket" />
 
 O Kayako é mais voltado para o suporte em si, mas pode se encaixado na lista de sistemas de CRM quando falamos de aplicações web. Embora tenha várias opções, o custo de instalação é baixo e vale a pena pois com ele você já estará pronto para escalar.
 

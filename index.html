@@ -1,0 +1,58 @@
+--- 
+layout: index
+title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Marketing, Aplicação Web, Ruby on Rails.
+---
+
+{% for post in paginator.posts %}
+  <div class="post">
+    <p class="meta"><span class="date">{{ post.date | date_to_string }}</span> ~ <span class="comments"><a href="#disqus_thread" data-disqus-identifier="{{ post.wordpress_id }} {{ post.wordpress_url }}"></a></span></p>
+    <h2 class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+    <div class="entry">
+      <div class="tweetmeme_button" style="float: left; margin-right: 10px;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Frafael.adm.br{{ post.url | cgi_escape }}%2F&amp;source=rafaelp&amp;style=normal&amp;service=bit.ly" height="61" width="50" frameborder="0" scrolling="no"></iframe></div>
+      {{ post.content }}
+      {{ if post.podcast }}
+      <object type="application/x-shockwave-flash" name="pod_audio_1" style="outline-style: none; outline-width: initial; outline-color: initial; visibility: visible; " data="http://rafael.adm.br/wp-content/plugins/podcasting/player/player.swf" width="290" height="24" id="pod_audio_1"><param name="wmode" value="opaque"><param name="menu" value="false"><param name="flashvars" value="soundFile={{ post.podcast | cgi_escape }}&amp;playerID=pod_audio_1"></object>
+      <script type="text/javascript">  
+      AudioPlayer.embed("pod_audio_1", {soundFile: "{{ post.podcast | cgi_escape }}"});  
+      </script>
+      {{ endif }}
+    </div><!-- /.entry -->
+  </div><!-- /.post -->
+{% endfor %}
+
+<div class="pagenavi">
+  <div class="Nav">
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <a href="/">Anterior</a>
+        {% else %}
+        <a href="/page{{paginator.previous_page}}">Anterior</a>
+        {% endif %}
+      {% else %}
+        <span>Anterior</span>
+      {% endif %}
+
+        {% if paginator.page == 1 %}
+        <span class="current-page">1</span>
+        {% else %}
+        <a href="/">1</a>
+        {% endif %}
+
+        {% for count in (2..paginator.total_pages) %}
+          {% if count == paginator.page %}
+          <span class="current-page">{{count}}</span>
+          {% else %}
+          <a href="/page{{count}}">{{count}}</a>
+          {% endif %}
+        {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="/page{{paginator.next_page}}">Próxima</a>
+      {% else %}
+        <span>Próxima</span>
+      {% endif %}
+    </div>
+  </div>
+</div>

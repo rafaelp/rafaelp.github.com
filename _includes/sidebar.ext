@@ -1,0 +1,51 @@
+<div id="sidebar">
+  <div id="text-4" class="widget widget_text"><h3>Sobre o autor<span class="fold">&nbsp;</span></h3>			<div class="textwidget">	<img src="http://rafael.adm.br/wp-content/uploads/2011/06/rafael_lima-tratada-430x430-300x300.jpg" width="120" height="120" alt="Rafael Lima"/ align="left" style="margin: 0">
+    <p style="font-size: 1em">Empreendedor e Desenvolvedor Web. Fundador da <a href="http://bielsystems.com.br" target="_blank" style="color: #3080CB !important">BielSystems</a>, do <a href="http://startupdev.com.br" target="_blank" style="color: #3080CB !important">Startup DEV</a> e sócio da <a href="http://helabs.com.br" target="_blank" style="color: #3080CB !important">HE Labs</a>. <a href="/sobre" style="color: #3080CB !important">Leia mais..</a><br/>
+      <a href="http://scr.im/rafaelp" style="color: #3080CB !important">E-mail</a> | <a href="http://twitter.com/rafaelp" style="color: #3080CB !important">Twitter</a></p>
+      <!--span class="noborder"><script type="text/javascript" language="javascript" src="http://twittercounter.com/embed/?username=rafaelp"></script></span--></div>
+    </div>
+    <div id="text-8" class="widget widget_text">
+      <h3>Empresas e Negócios<span class="fold">&nbsp;</span></h3>
+      <div class="textwidget">
+        <p style="text-align: center"><a href="http://helabs.com.br" title="HE Labs" target="_blank" ><img src="http://rafael.adm.br/wp-content/uploads/2012/02/logo_helabs-1.gif" alt="HE Labs" width="240" height="62"></a></p>
+        <p style="text-align: center"><a href="http://startupdev.com.br" title="Startup DEV" target="_blank" ><img src="http://rafael.adm.br/wp-content/uploads/2012/02/logo-startupdev.png" alt="Startup DEV" width="240" height="55"></a></p>
+        <p style="text-align: center"><a href="http://bielsystems.com.br" title="BielSystems" target="_blank" ><img src="http://rafael.adm.br/wp-content/uploads/2009/09/header-logo.png" alt="BielSystems" width="265" height="60"></a></p>
+        <p style="text-align: center"><a title="Cobre Grátis" href="http://cobregratis.com.br/?utm_campaign=blogwatch&utm_source=rafael.adm.br&utm_medium=banner&utm_term=sidebar-empresas_negocios_parceiros"><img src="http://rafael.adm.br/wp-content/uploads/2009/11/small_CobreGratis3.gif" width="272" height="66" alt="Cobre Grátis"></a>
+        </div>
+      </div>
+      <div id="text-12" class="widget widget_text"><h3>Empreendedorismo Digital<span class="fold">&nbsp;</span></h3>			<div class="textwidget"><p align="center"><a href="http://workshop.bootstrappers.com.br" title="Workshop de Empreendedorismo Digital Lean Startup">
+        <img src="http://rafael.adm.br/wp-content/uploads/2011/05/small_Bootstrappers-11923-whiteBG.jpg" alt="Workshop de Empreendedorismo Digital com Lean Startup" border="0" />
+      </a></p>
+    </div>
+  </div>
+  <div id="text-10" class="widget widget_text"><h3>Princípios<span class="fold">&nbsp;</span></h3>			<div class="textwidget"><p align="center"><a href="http://rafael.adm.br/p/empretec-eu-fiz" title="Empretec - Eu fiz!">
+    <img src="http://rafael.adm.br/wp-content/uploads/2010/01/empretec.gif" alt="Empretec - Eu fiz!" border="0" />
+  </a></p>
+  <p align="center"><a href="http://smallactsmanifesto.org" title="Small Acts Manifesto"><img src="http://smallactsmanifesto.org/media/images/smallacts-badge-120x60-blue.png" style="border: none;" alt="Small Acts Manifesto" /></a></p></div>
+</div>
+<div id="linkcat-10" class="widget widget_links"><h3>Blogs Amigos<span class="fold">&nbsp;</span></h3>
+  <ul class='xoxo blogroll'>
+    <li><a href="http://marcelomurad.com/">Marcelo Murad</a></li>
+    <li><a href="http://renata.adm.br/">Renata Céli</a></li>
+    <li><a href="http://mergulhao.info/?utm_source=rafael.adm.br&amp;utm_medium=affiliate&amp;utm_content=textlink&amp;utm_campaign=horaextra">Sylvestre Mergulhão</a></li>
+    <li><a href="http://viniciusbraga.com">Vinicius Braga</a></li>
+    <li><a href="http://blog.improveit.com.br">Vinicius Manhães (Improve-It)</a></li>
+
+  </ul>
+</div>
+<div id="text-13" class="widget widget_text"><h3>Parceiros<span class="fold">&nbsp;</span></h3>			<div class="textwidget"><p style="text-align: center"><a href="http://beonthe.net" title="Tenha seu site em 24h com o Be on the Net">
+  <img src="http://beonthe.net/accounts/beonthe.net/images/tenha_site_beonthenet_160x55.png"
+  alt="Crie um site em 24h com o Be on the Net" title="Tenha seu site em 24h com o Be on the Net" />
+</a></p>
+
+<p style="text-align: center"><a href="http://bigbangcafe.net/" title="Apaixonados por camisetas originais, criativas e de qualidade">
+  <img src="http://rafael.adm.br/wp-content/uploads/2009/12/bbcafe_tees.png"
+  alt="Apaixonados por camisetas originais, criativas e de qualidade" title="Apaixonados por camisetas originais, criativas e de qualidade" />
+</a></p>
+
+<p style="text-align: center"><a href="http://treinatom.com.br/" title="Ministre cursos, webinars e eventos on-line em tempo real">
+  <img src="http://rafael.adm.br/wp-content/uploads/2011/05/BANNER_treinatom.png"
+  alt="Ministre cursos, webinars e eventos on-line em tempo real" title="Ministre cursos, webinars e eventos on-line em tempo real" />
+</a></p></div>
+</div>
+</div><!-- /#sidebar -->

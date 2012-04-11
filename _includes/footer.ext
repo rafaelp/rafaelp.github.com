@@ -1,0 +1,14 @@
+<div id="footer">
+  <ul>
+    <li class="page_item current_page_item"><a href="http://rafael.adm.br">Home</a></li>
+    <li class="page_item page-item-193"><a href="http://rafael.adm.br/voltandopracasa/" title="Podcast">Podcast</a></li>
+    <li class="page_item page-item-20"><a href="http://rafael.adm.br/tags/" title="Tags">Tags</a></li>
+    <li class="page_item page-item-78"><a href="http://rafael.adm.br/links/" title="Links">Links</a></li>
+    <li class="page_item page-item-17"><a href="http://rafael.adm.br/projetos/" title="Projetos">Projetos</a></li>
+    <li class="page_item page-item-19"><a href="http://rafael.adm.br/sobre/" title="Sobre">Sobre</a></li>
+  </ul>
+  <p>
+    Copyright 2004-2012 Rafael Lima<span class="menu"> | Powered by <a href="http://wordpress.org/">WordPress</a><!-- | Hospedagem <a href="http://hostnet.com.br">Hostnet</a>--></span>
+  </p>
+  <p><a href="http://woothemes.com" title="WooThemes"><img src="http://rafael.adm.br/wp-content/themes/mainstream/images/woothemes.png" alt="WooThemes Logo" /></a></p>
+</div><!-- /#footer -->

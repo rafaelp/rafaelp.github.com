@@ -1,0 +1,31 @@
+<div id="brasil"><img src="http://rafael.adm.br/wp-content/themes/mainstream/images/brasil.gif" alt="Brasil" title="Eu simplesmente gosto do Brasil" width="30" height="30" /></div>
+<div id="header">
+  <h1><a href="http://rafael.adm.br/">Rafael Lima</a></h1>
+  <h2>
+    <a href="/tag/empreendedorismo" title="Artigos relacionados a: Empreendedorismo">Empreendedorismo</a>,
+    <a href="/tag/web" title="Artigos relacionados a: Web">Web</a>,
+    <a href="/tag/agile" title="Artigos relacionados a: Agile">Agile</a>,
+    <a href="/tag/tecnologia" title="Artigos relacionados a: Tecnologia">Tecnologia</a>,
+    <a href="/tag/desenvolvimento" title="Artigos relacionados a: Desenvolvimento">Desenvolvimento</a>,
+    <a href="/tag/negócios" title="Artigos relacionados a: Negócios">Negócios</a>,
+    <a href="/tag/marketing" title="Artigos relacionados a: Marketing">Marketing</a>,
+    <a href="/tag/aplicacao-web" title="Artigos relacionados a: Aplicação Web">Aplicação Web</a>,
+    <a href="/tag/rails" title="Artigos relacionados a: Rails">Ruby on Rails</a>.
+  </h2>
+  <div id="top-ad">
+  </div><!-- /#top-ad -->
+  <div class="clear"></div>
+  <div id="navigation">
+    <ul id="nav">
+      <li class="page_item current_page_item"><a href="http://rafael.adm.br" title="Página inicial com os últimos artigos">Home</a></li>
+      <li class="page_item page-item-193"><a href="http://rafael.adm.br/voltandopracasa/" title="Podcast">Podcast</a></li>
+      <li class="page_item page-item-20"><a href="http://rafael.adm.br/tags/" title="Tags">Tags</a></li>
+      <li class="page_item page-item-78"><a href="http://rafael.adm.br/links/" title="Links">Links</a></li>
+      <li class="page_item page-item-17"><a href="http://rafael.adm.br/projetos/" title="Projetos">Projetos</a></li>
+      <li class="page_item page-item-19"><a href="http://rafael.adm.br/sobre/" title="Sobre">Sobre</a></li>
+      <li class="page_item"><a href="http://scr.im/rafaelp" title="Enviar e-mail">E-mail</a></li>
+      <li><a href="http://rafael.adm.br/wp-admin/">Administração</a></li>
+    </ul><!-- /#pagenav -->
+  </div><!-- /#navigation -->
+  <div class="clear"></div>
+</div><!-- /#header -->

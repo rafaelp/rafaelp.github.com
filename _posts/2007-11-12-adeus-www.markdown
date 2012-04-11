@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Adeus WWW
+wordpress_id: 145
+wordpress_url: http://rafael.adm.br/p/adeus-www/
+date: 2007-11-12 20:10:53 -02:00
+---
+O prefixo "www" nos endereços da web está depreciado. Ele aos poucos está sumindo, mas aqui no Brasil o número de pessoas que mantém o www ainda é grande e por isso estou escrevendo aqui sobre isso.
+Qual o motivo de não usar mais o "www"?
+Simplesmente por que não é necessário. Quando você acessa um site o navegador já pressupõe que seja web e acessa a porta certa com o protocolo certo, você não precisa dizer, no nome do domínio, que está querendo acessar a www. O prefixo "www" só deixa o endereço maior.
+Assim como você <strong>não precisa</strong> ter a palavra "mail" no endereço de e-mail, exemplo: seunome@MAIL.dominio.com.br
+
+Já tem anos que eu uso por exemplo <a href="http://bielsystems.com.br">http://bielsystems.com.br</a> ao invés de  <a href="http://www.bielsystems.com.br">http://www.bielsystems.com.br</a>
+
+Teste se o seu site já está preparado para isso, se não tiver, entre em contato com o responsável pela hospedagem do site, ele poderá te ajudar nisso.
+
+Se quiser ler mais sobre o assunto visite: <a href="http://no-www.org/">http://no-www.org</a>
+Abraços e até a próxima.

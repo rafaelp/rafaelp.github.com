@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: "N\xC3\xA3o estou sozinho (sobre o Knol)"
+wordpress_id: 151
+wordpress_url: http://rafael.adm.br/p/nao-estou-sozinho-sobre-o-knol/
+date: 2007-12-28 00:49:01 -02:00
+---
+Como declarei em posts anteriores, não vejo com bons olhos a iniciativa do Google com o Knol. Depois de levar algumas pauladas por expor essa minha opinião, resolvi fazer uma busca e ler mais ainda sobre o assunto.
+Separei alguns links de outros articulistas que compartilham esta idéia:
+<a href="http://librarianbydesign.blogspot.com/2007/12/googles-knol-good-ideabad-idea.html">http://librarianbydesign.blogspot.com/2007/12/googles-knol-good-ideabad-idea.html</a>
+
+<a href="http://blogsci.com/if-they-can-publish-so-can-i/the-problem-with-googles-knol-initiative">http://blogsci.com/if-they-can-publish-so-can-i/the-problem-with-googles-knol-initiative</a>
+
+<a href="http://www.oculture.com/2007/12/betting_against_googles_answer_to_wikipedia.html">http://www.oculture.com/2007/12/betting_against_googles_answer_to_wikipedia.html</a>
+
+<a href="http://www.techcrunch.com/2007/12/13/google-preparing-to-launch-game-changing-wikipedia-meets-squidoo-project/">http://www.techcrunch.com/2007/12/13/google-preparing-to-launch-game-changing-wikipedia-meets-squidoo-project/</a>
+
+<a href="http://searchengineland.com/071213-213400.php">http://searchengineland.com/071213-213400.php</a>
+
+<a href="http://www.techcrunch.com/2007/12/17/a-few-thoughts-on-google-knol/">http://www.techcrunch.com/2007/12/17/a-few-thoughts-on-google-knol/</a>
+
+<a href="http://db.tidbits.com/article/9360">http://db.tidbits.com/article/9360</a>

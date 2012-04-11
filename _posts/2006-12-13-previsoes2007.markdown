@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "Previs\xC3\xB5es para 2007"
+wordpress_id: 108
+wordpress_url: http://rafael.adm.br/p/previsoes2007/
+date: 2006-12-13 00:21:27 -02:00
+---
+Seguindo o meme do <a href="http://blog.fabioseixas.com.br/">Fábio Seixas</a> de fazer <a href="http://blog.fabioseixas.com.br/archives/2006/12/2007.html">previsões para 2007 em relação a web nacional</a>, deixo aqui as minhas:
+<ul>
+	<li>O número de blogs irá crescer em 3.000%</li>
+	<li>O sistema de comentários e respostas dos blogs irá melhorar significativamente</li>
+	<li>O VoIP irá aparecer mais com novos serviços de fax, conferência, etc</li>
+	<li>Você discará para qualquer número em qualquer estado pelo GPRS do seu celular através de um programa em java que a custo de ligação VoIP</li>
+	<li>As feiras e conferências terão anúncio por bluetooth</li>
+	<li>As aplicações web serão mais utilizadas</li>
+	<li>O custo do SMS irá cair em 50%</li>
+	<li>A maioria das aplicações web serão integradas a suíte Office da Microsoft</li>
+	<li>Haverá uma padronização/microformato código aberto para os widgets, apoiado pelo Google, Microsoft e Yahoo</li>
+	<li>Os indexadores darão preferência para sites com sitemaps, fazendo com que todos os sites (praticamente) utilizem uma engine de criação do sitemap</li>
+	<li>Os sites com e-commerce em geral terão, além do chat por teclado, uma opção que o usuário/visitante/comprador coloca o número do telefone e o site faz a ligação na mesma hora, conectando-o à central de vendas</li>
+	<li>Haverá uma correria por parte das empresas de call-center/contact-center para utilização do asterisk e plataformas de VoIP</li>
+	<li>A equipe do Mozilla receberá um investimento significativo do Google e do Yahoo</li>
+	<li>O Ruby on Rails entrará, de alguma forma, no Google Web Toolkit</li>
+</ul>
+
+Bem, se isso tudo vai acontecer ou não, não importa, só adianto que se acontecer vou estar feliz da vida.
+
+Abraços!

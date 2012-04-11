@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Caso Dove vs Greenpeace
+wordpress_id: 214
+wordpress_url: http://rafael.adm.br/?p=214
+date: 2008-08-15 20:56:40 -03:00
+---
+O tema da vez é responsabilidade social comentando o caso Dove x Greenpeace.
+
+[podcast]http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0002.mp3[/podcast]
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/Ei6JvK0W60I&amp;rel=0&amp;color1=11645361&amp;color2=13619151&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/Ei6JvK0W60I&amp;rel=0&amp;color1=11645361&amp;color2=13619151&amp;fs=1" allowfullscreen="true" wmode="transparent"></embed></object>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/odI7pQFyjso&amp;rel=0&amp;color1=11645361&amp;color2=13619151&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/odI7pQFyjso&amp;rel=0&amp;color1=11645361&amp;color2=13619151&amp;fs=1" allowfullscreen="true" wmode="transparent"></embed></object>

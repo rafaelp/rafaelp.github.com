@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Backup dos e-mails, chegou a hora de se preocupar
+wordpress_id: 320
+wordpress_url: http://rafael.adm.br/?p=320
+date: 2009-04-26 13:41:03 -03:00
+---
+Visto alguns <a href="http://www.techcrunch.com/2006/12/28/gmail-disaster-reports-of-mass-email-deletions/">problemas</a> com algumas contas no <a href="http://gmail.com">Gmail</a> que foram perdidas e o grande número de e-mails que eu já tenho lá, resolvi de uma vez por todas dedicar um tempo para configurar um backup automático dos e-mails no meu computador.
+
+Os links de referência são:
+
+<a href="http://pyropus.ca/software/getmail/">http://pyropus.ca/software/getmail/</a>
+
+<a href="http://georgedonnelly.com/unix/how-to-quickly-set-up-a-daily-backup-of-your-gmail-account">http://georgedonnelly.com/unix/how-to-quickly-set-up-a-daily-backup-of-your-gmail-account</a>
+
+<a href="http://www.mattcutts.com/blog/backup-gmail-in-linux-with-getmail/">http://www.mattcutts.com/blog/backup-gmail-in-linux-with-getmail/</a>
+
+Como estou fazendo no Mac, instalei o getmail com o port.
+<pre lang="bash">sudo port install getmail py25-socket-ssl</pre>
+Para instrução completa de como configurar o getmail, utilize os links acima.
+
+Lembrando: Qualquer serviço de webmail está suscetível a problemas. O getmail funciona com qualquer um deles. Então, se você já tem muitos e-mails importantes em algums destes serviços, seja ele gratuito ou não, pense se já não é a hora de configurar um backup.
+
+Abraços e até a próxima.

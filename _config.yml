@@ -1,6 +1,6 @@
 server: true
 auto: true
-exclude: README Gemfile Gemfile.lock CNAME
+exclude: README Gemfile Gemfile.lock
 permalink: /p/:title
 paginate: 5
 markdown: rdiscount

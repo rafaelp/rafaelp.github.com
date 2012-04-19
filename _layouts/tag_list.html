@@ -4,7 +4,7 @@ title: Tags
 ---
 
 {% for tag in page.tags %}
-    <h4><a href="/tag/{{ tag | replace:' ', '-' | downcase }}" name="{{ tag | replace:' ','-' | downcase }}">{{ tag }}</a></h4>
+    <h4><a href="/tag/{{ tag | parametrize }}" name="{{ tag | parametrize }}">{{ tag }}</a></h4>
     <ul>
         {% for post in site.tags[tag] %}
         <li><a href="{{post.url}}">{{ post.title }}</a></li>

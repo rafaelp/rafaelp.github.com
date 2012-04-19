@@ -1,3 +1,5 @@
+require 'htmlentities'
+
 module Jekyll
 
   class TagIndex < Page
@@ -48,7 +50,7 @@ module Jekyll
       if site.layouts.key? 'tag_index'
         dir = site.config['tag_dir'] || 'tags'
         site.tags.keys.each do |tag|
-          write_tag_index(site, File.join(dir, Permalink.make(tag)), tag)
+          write_tag_index(site, File.join(dir, Permalink.make(HTMLEntities.new.decode(tag))), tag)
         end
       end
 

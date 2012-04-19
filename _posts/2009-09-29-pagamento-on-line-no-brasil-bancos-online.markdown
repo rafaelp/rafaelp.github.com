@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 394
 wordpress_url: http://rafael.adm.br/?p=394
-date: 2009-09-29 22:38:39.000000000 -03:00
-categories:
+date: 2009-09-29 22:38:39 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - webapp
 - e-commerce
 - venda

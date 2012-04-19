@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 134
 wordpress_url: http://rafael.adm.br/p/a-importancia-da-modelagem-do-negocio-ou-da-empresa/
-date: 2007-08-14 23:45:42.000000000 -03:00
-categories:
+date: 2007-08-14 23:45:42 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Ocorreu comigo neste m&ecirc;s, essa &eacute; para o Pessoal do sistema <a href="http://www.pedagioondalivre.com.br/">Onda Livre</a>, algu&eacute;m conhece algum programador, desenvolvedor, analista ou administrador de l&aacute;!?!?
 

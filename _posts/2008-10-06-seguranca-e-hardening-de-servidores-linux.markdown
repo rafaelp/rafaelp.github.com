@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 257
 wordpress_url: http://rafael.adm.br/?p=257
-date: 2008-10-06 01:48:57.000000000 -03:00
-categories:
+date: 2008-10-06 01:48:57 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - servidores
 - seguran&ccedil;a
 - linux

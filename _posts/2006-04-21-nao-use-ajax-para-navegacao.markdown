@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 15
 wordpress_url: http://rafael.adm.br/nao-use-ajax-para-navegacao/
-date: 2006-04-21 11:04:37.000000000 -03:00
-categories:
+date: 2006-04-21 11:04:37 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - ajax

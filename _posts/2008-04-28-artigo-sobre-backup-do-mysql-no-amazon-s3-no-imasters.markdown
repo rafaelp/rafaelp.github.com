@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 183
 wordpress_url: http://rafael.adm.br/p/artigo-sobre-backup-do-mysql-no-amazon-s3-no-imasters/
-date: 2008-04-28 13:48:24.000000000 -03:00
-categories:
+date: 2008-04-28 13:48:24 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - seguran&ccedil;a
 - backup
 - banco de dados

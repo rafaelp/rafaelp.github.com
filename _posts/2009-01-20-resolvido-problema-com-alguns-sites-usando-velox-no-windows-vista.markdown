@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! '[Resolvido] Problema com alguns sites usando Velox no Windows Vista'
+title: "[Resolvido] Problema com alguns sites usando Velox no Windows Vista"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 272
 wordpress_url: http://rafael.adm.br/?p=272
-date: 2009-01-20 11:00:09.000000000 -02:00
-categories:
+date: 2009-01-20 11:00:09 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - windows
 - dicas
 - velox

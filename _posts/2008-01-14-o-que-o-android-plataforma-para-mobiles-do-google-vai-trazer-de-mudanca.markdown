@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 159
 wordpress_url: http://rafael.adm.br/p/o-que-o-android-plataforma-para-mobiles-do-google-vai-trazer-de-mudanca/
-date: 2008-01-14 09:21:43.000000000 -02:00
-categories:
+date: 2008-01-14 09:21:43 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - google
 - web
 - tend&ecirc;ncias

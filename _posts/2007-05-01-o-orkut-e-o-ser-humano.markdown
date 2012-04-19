@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 122
 wordpress_url: http://rafael.adm.br/p/o-orkut-e-o-ser-humano/
-date: 2007-05-01 15:10:11.000000000 -03:00
-categories:
+date: 2007-05-01 15:10:11 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - privacidade
 - orkut
 - sentimentos

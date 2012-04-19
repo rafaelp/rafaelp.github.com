@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,11 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 99
 wordpress_url: http://rafael.adm.br/p/outdoor-no-celular/
-date: 2006-11-01 01:31:50.000000000 -03:00
-categories:
+date: 2006-11-01 01:31:50 -03:00
+categories: 
 - Posts
 - Brainstorm
-tags:
+tags: 
 - Tecnologia
 - design
 - futuro

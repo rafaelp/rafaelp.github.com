@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 681
 wordpress_url: http://rafael.adm.br/?p=681
-date: 2011-12-03 21:55:38.000000000 -02:00
-categories:
+date: 2011-12-03 21:55:38 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - empreendedorismo
 - epretec
 - sebrae

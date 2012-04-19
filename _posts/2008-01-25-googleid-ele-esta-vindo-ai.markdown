@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'GoogleID: Ele est&aacute; vindo a&iacute;!'
+title: "GoogleID: Ele est&aacute; vindo a&iacute;!"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 162
 wordpress_url: http://rafael.adm.br/p/googleid-ele-esta-vindo-ai/
-date: 2008-01-25 23:27:30.000000000 -02:00
-categories:
+date: 2008-01-25 23:27:30 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - google
 - openid
 - tend&ecirc;ncias

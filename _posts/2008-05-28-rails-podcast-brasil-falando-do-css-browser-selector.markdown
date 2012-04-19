@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 202
 wordpress_url: http://rafael.adm.br/?p=202
-date: 2008-05-28 21:52:27.000000000 -03:00
-categories:
+date: 2008-05-28 21:52:27 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - rails
 - podcast
 - css browser selector

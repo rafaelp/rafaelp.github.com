@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 412
 wordpress_url: http://rafael.adm.br/?p=412
-date: 2009-10-19 15:33:35.000000000 -02:00
-categories:
+date: 2009-10-19 15:33:35 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - palestra
 - webapp

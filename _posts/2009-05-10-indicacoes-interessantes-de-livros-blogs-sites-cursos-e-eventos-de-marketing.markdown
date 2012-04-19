@@ -1,19 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: Indica&ccedil;&otilde;es interessantes de livros, blogs, sites, cursos e eventos
-  de Marketing
+title: Indica&ccedil;&otilde;es interessantes de livros, blogs, sites, cursos e eventos de Marketing
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 333
 wordpress_url: http://rafael.adm.br/?p=333
-date: 2009-05-10 16:07:02.000000000 -03:00
-categories:
+date: 2009-05-10 16:07:02 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - marketing
 - cursos
 - eventos

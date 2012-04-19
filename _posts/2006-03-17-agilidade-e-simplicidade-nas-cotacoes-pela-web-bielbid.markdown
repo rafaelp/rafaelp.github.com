@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'Agilidade e simplicidade nas cota&ccedil;&otilde;es pela web: BielBid'
+title: "Agilidade e simplicidade nas cota&ccedil;&otilde;es pela web: BielBid"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 13
 wordpress_url: http://rafael.adm.br/agilidade-e-simplicidade-nas-cotacoes-pela-web-bielbid/
-date: 2006-03-17 17:57:18.000000000 -03:00
-categories:
+date: 2006-03-17 17:57:18 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - projetos
 - cota&ccedil;&atilde;o

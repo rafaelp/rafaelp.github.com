@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 630
 wordpress_url: http://rafael.adm.br/?p=630
-date: 2011-09-12 13:16:05.000000000 -03:00
-categories:
+date: 2011-09-12 13:16:05 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Eu venho fazendo um <a href="http://workshop.bootstrappers.com.br" target="_blank">workshop de empreendedorismo</a> online para pessoas que desejam utilizar as mais novas t&eacute;cnicas de gest&atilde;o e desenvolvimento de novos produtos e mercados.
 

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 320
 wordpress_url: http://rafael.adm.br/?p=320
-date: 2009-04-26 13:41:03.000000000 -03:00
-categories:
+date: 2009-04-26 13:41:03 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - gmail
 - email
 - linux

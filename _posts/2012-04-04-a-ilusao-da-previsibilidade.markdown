@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 721
 wordpress_url: http://rafael.adm.br/?p=721
-date: 2012-04-04 18:14:27.000000000 -03:00
-categories:
+date: 2012-04-04 18:14:27 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Nossos projetos, como quaisquer outros na &aacute;rea de software, possuem um escopo que define o que deve ser feito. Tal escopo existe antes de o projeto ser iniciado e continua a existir ao longo do projeto at&eacute; que ele seja encerrado. Entretanto, ao contr&aacute;rio do que &eacute; usual, este escopo n&atilde;o &eacute; fixado em contrato. Ou seja, caso o cliente perceba a necessidade de fazer ajustes no escopo para que o software leve em conta seu aprendizado ao longo do projeto, ou mudan&ccedil;as nas circunst&acirc;ncias, ele pode. Em nossos projetos, o escopo &eacute; revisado freq&uuml;entemente para garantir que a equipe dedique seus esfor&ccedil;os ao que &eacute; mais priorit&aacute;rio em cada etapa do projeto.
 

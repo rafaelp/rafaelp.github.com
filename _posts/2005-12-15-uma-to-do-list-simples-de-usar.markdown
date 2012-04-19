@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -7,13 +7,14 @@ author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-excerpt: Módulo de To-do list para a página inicial personalizada do google.
+excerpt: "M\xC3\xB3dulo de To-do list para a p\xC3\xA1gina inicial personalizada do google."
 wordpress_id: 9
 wordpress_url: http://www.rafael.adm.br/?p=9
-date: 2005-12-15 18:31:00.000000000 -02:00
-categories:
+date: 2005-12-15 18:31:00 -02:00
+categories: 
 - Posts
 tags: []
+
 ---
 &Eacute; com grande satisfa&ccedil;&atilde;o que publico o m&oacute;dulo de to-do list para a p&aacute;gina personalizada do google!
 

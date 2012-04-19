@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 105
 wordpress_url: http://rafael.adm.br/p/enquete-da-capricho-sobre-o-orkut/
-date: 2006-11-21 23:36:57.000000000 -02:00
-categories:
+date: 2006-11-21 23:36:57 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - google
 - orkut
 ---

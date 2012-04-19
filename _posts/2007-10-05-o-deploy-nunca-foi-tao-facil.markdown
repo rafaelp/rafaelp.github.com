@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 142
 wordpress_url: http://rafael.adm.br/p/o-deploy-nunca-foi-tao-facil/
-date: 2007-10-05 20:22:47.000000000 -03:00
-categories:
+date: 2007-10-05 20:22:47 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - Tecnologia

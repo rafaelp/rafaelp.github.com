@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 65
 wordpress_url: http://rafael.adm.br/p/enquete-curiosa/
-date: 2006-08-13 21:17:19.000000000 -03:00
-categories:
+date: 2006-08-13 21:17:19 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - web
 ---
 <p>Encontrei esta enquete em um site de uma empresa de solu&ccedil;&otilde;es web!</p>

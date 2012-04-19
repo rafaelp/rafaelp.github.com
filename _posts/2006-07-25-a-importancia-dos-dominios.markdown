@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 60
 wordpress_url: http://rafael.adm.br/p/a-importancia-dos-dominios/
-date: 2006-07-25 23:35:07.000000000 -03:00
-categories:
+date: 2006-07-25 23:35:07 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - google
 - web
 ---

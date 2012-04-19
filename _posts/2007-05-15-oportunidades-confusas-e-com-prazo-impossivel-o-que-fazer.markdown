@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'Oportunidades confusas e com prazo imposs&iacute;vel: o que fazer?'
+title: "Oportunidades confusas e com prazo imposs&iacute;vel: o que fazer?"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 123
 wordpress_url: http://rafael.adm.br/p/oportunidades-confusas-e-com-prazo-impossivel-o-que-fazer/
-date: 2007-05-15 22:17:10.000000000 -03:00
-categories:
+date: 2007-05-15 22:17:10 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - projetos

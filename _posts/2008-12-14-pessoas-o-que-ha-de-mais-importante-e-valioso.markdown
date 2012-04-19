@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 271
 wordpress_url: http://rafael.adm.br/?p=271
-date: 2008-12-14 12:47:16.000000000 -02:00
-categories:
+date: 2008-12-14 12:47:16 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - empresa
 - empreendedorismo
 - trabalho

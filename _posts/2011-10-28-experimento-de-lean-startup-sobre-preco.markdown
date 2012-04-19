@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 665
 wordpress_url: http://rafael.adm.br/?p=665
-date: 2011-10-28 23:25:16.000000000 -02:00
-categories:
+date: 2011-10-28 23:25:16 -02:00
+categories: 
 - Posts
 tags: []
+
 ---
 Eu aplico t&eacute;cnicas de Lean Startup em todos os meus neg&oacute;cios . Esse &uacute;ltimo experimento que vou apresentar, mostra como o pre&ccedil;o &eacute; um fator fundamental no seu modelo de neg&oacute;cios.
 

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 140
 wordpress_url: http://rafael.adm.br/p/bons-profissionais-de-ti/
-date: 2007-09-16 17:40:28.000000000 -03:00
-categories:
+date: 2007-09-16 17:40:28 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Em resposta ao artigo <a href="http://pomoti.com/profissionais-mediocres-de-ti/">Profissionais med&iacute;ocres de TI</a> deixo aqui minhas percep&ccedil;&otilde;es.
 

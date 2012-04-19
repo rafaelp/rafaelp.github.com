@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 107
 wordpress_url: http://rafael.adm.br/p/nao-faca-tudo-que-voce-sabe-fazer/
-date: 2006-12-11 23:06:41.000000000 -02:00
-categories:
+date: 2006-12-11 23:06:41 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - neg&oacute;cios

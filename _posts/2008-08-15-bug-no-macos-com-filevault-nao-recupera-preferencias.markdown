@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 213
 wordpress_url: http://rafael.adm.br/?p=213
-date: 2008-08-15 20:53:28.000000000 -03:00
-categories:
+date: 2008-08-15 20:53:28 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - dicas
 - bug
 - mac

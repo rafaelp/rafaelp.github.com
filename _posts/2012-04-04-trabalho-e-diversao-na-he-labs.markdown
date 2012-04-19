@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 709
 wordpress_url: http://rafael.adm.br/?p=709
-date: 2012-04-04 16:35:18.000000000 -03:00
-categories:
+date: 2012-04-04 16:35:18 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Faz tempo que n&atilde;o escrevo, mas quem me <a href="http://twitter.com/rafaelp">acompanha no Twitter</a> sabe das minhas &uacute;ltimas realiza&ccedil;&otilde;es.
 

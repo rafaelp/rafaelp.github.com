@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 138
 wordpress_url: http://rafael.adm.br/p/google-comeca-a-abrir-o-bico/
-date: 2007-09-05 01:29:26.000000000 -03:00
-categories:
+date: 2007-09-05 01:29:26 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - Tecnologia
 - google
 - gmail

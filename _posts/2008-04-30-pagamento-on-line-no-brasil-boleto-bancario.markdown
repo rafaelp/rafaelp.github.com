@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 184
 wordpress_url: http://rafael.adm.br/p/pagamento-on-line-no-brasil-boleto-bancario/
-date: 2008-04-30 17:47:54.000000000 -03:00
-categories:
+date: 2008-04-30 17:47:54 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - webapp
 - e-commerce
 - venda

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 196
 wordpress_url: http://rafael.adm.br/?p=196
-date: 2008-05-22 22:40:02.000000000 -03:00
-categories:
+date: 2008-05-22 22:40:02 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - myfreecomm
 - financedesktop
 - finan&ccedil;as

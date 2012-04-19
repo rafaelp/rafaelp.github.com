@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 536
 wordpress_url: http://rafael.adm.br/?p=536
-date: 2011-06-28 16:04:42.000000000 -03:00
-categories:
+date: 2011-06-28 16:04:42 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 <strong>Atualizado:</strong> Uma pessoa do PagSeguro me ligou e finalmente atualizou o telefone no cadastro em 30 de Junho.
 

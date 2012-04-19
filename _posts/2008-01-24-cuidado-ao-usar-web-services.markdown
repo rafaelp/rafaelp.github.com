@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 161
 wordpress_url: http://rafael.adm.br/p/cuidado-ao-usar-web-services/
-date: 2008-01-24 23:57:01.000000000 -02:00
-categories:
+date: 2008-01-24 23:57:01 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - Tecnologia
 - servidores
 - seguran&ccedil;a

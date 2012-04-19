@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 455
 wordpress_url: http://rafael.adm.br/?p=455
-date: 2010-08-14 13:46:50.000000000 -03:00
-categories:
+date: 2010-08-14 13:46:50 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 O <a href="http://oxenterails.com.br">Oxente Rails 2010</a> foi sensacional! Manteve o clima de fam&iacute;lia do ano passado e incluiu empreendedorismo na grade de temas. Nada mais perfeito que Rails + Empreendedorismo para mim, que trabalho com desenvolvimento de aplicativos web inovadores escritos em Rails pela <a href="http://bielsystems.com.br">BielSystems</a>.
 <p style="text-align: center;"><a href="http://rafael.adm.br/wp-content/uploads/2010/08/39334_1552963270568_1429741111_31512896_431477_n.jpg"><img class="aligncenter size-full wp-image-456" title="#horaextra no Oxente Rails 2010" src="http://rafael.adm.br/wp-content/uploads/2010/08/39334_1552963270568_1429741111_31512896_431477_n.jpg" alt="" width="576" height="432" /></a></p>

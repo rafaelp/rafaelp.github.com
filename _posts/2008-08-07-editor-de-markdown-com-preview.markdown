@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 209
 wordpress_url: http://rafael.adm.br/?p=209
-date: 2008-08-07 23:33:03.000000000 -03:00
-categories:
+date: 2008-08-07 23:33:03 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - linux
 - gnome
 - ubuntu

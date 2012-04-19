@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 143
 wordpress_url: http://rafael.adm.br/p/java-x-rails-para-web/
-date: 2007-10-07 12:49:21.000000000 -03:00
-categories:
+date: 2007-10-07 12:49:21 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - rails

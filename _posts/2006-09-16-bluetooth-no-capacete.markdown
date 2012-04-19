@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 83
 wordpress_url: http://rafael.adm.br/p/bluetooth-no-capacete/
-date: 2006-09-16 13:57:27.000000000 -03:00
-categories:
+date: 2006-09-16 13:57:27 -03:00
+categories: 
 - Brainstorm
 tags: []
+
 ---
 A maioria de minhas id&eacute;ias ocorre quando estou no tr&acirc;nsito. Esta foi quando eu vi um motoqueiro conversando com o carona. Ele estava se virando para tr&aacute;s para poder falar pois o vento atrapalhava. Lembrei de outras ocasi&otilde;es que vi motoqueiros conversando com caronas, &eacute; sempre assim.
 

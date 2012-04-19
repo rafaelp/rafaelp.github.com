@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 463
 wordpress_url: http://rafael.adm.br/?p=463
-date: 2011-04-06 18:18:53.000000000 -03:00
-categories:
+date: 2011-04-06 18:18:53 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 O v&iacute;deo da minha palestra sobre bootstrapping de aplicativos web, realizada no Dev in Rio 2010, foi publicado pelo InfoQ.
 

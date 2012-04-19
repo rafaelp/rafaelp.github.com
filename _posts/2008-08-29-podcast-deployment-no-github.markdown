@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 232
 wordpress_url: http://rafael.adm.br/?p=232
-date: 2008-08-29 01:02:23.000000000 -03:00
-categories:
+date: 2008-08-29 01:02:23 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - projetos
 - podcast
 - opensource

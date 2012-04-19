@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 522
 wordpress_url: http://rafael.adm.br/?p=522
-date: 2011-06-20 10:57:14.000000000 -03:00
-categories:
+date: 2011-06-20 10:57:14 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Neste final de semana participei do <a href="http://www.frontinrio.com.br/">Front In Rio 2011</a>. O evento superou expectativas e foi um marco para o mercado de desenvolvimento front-end. Gostei muito de ter participado!
 

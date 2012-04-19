@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'Engine Yard: Um hosting estilo Rails'
+title: "Engine Yard: Um hosting estilo Rails"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 63
 wordpress_url: http://rafael.adm.br/p/engine-yard-um-hosting-estilo-rails/
-date: 2006-08-03 01:21:42.000000000 -03:00
-categories:
+date: 2006-08-03 01:21:42 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - rails

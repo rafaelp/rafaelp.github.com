@@ -1,19 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'Pacac&aacute; do CSS: t&eacute;cnicas, dicas e truques para os designers
-  de web'
+title: "Pacac&aacute; do CSS: t&eacute;cnicas, dicas e truques para os designers de web"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 190
 wordpress_url: http://rafael.adm.br/?p=190
-date: 2008-05-14 23:07:49.000000000 -03:00
-categories:
+date: 2008-05-14 23:07:49 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - web
 - design

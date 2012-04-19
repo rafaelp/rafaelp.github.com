@@ -1,19 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: Problema ao usar IE7 + Iframe + Session + Cookie + Dom&iacute;nio diferente
-  (cross-domain)
+title: Problema ao usar IE7 + Iframe + Session + Cookie + Dom&iacute;nio diferente (cross-domain)
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 177
 wordpress_url: http://rafael.adm.br/p/problema-ao-usar-ie7-iframe-session-cookie-dominio-diferente-cross-domain/
-date: 2008-03-20 11:49:27.000000000 -03:00
-categories:
+date: 2008-03-20 11:49:27 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - programa&ccedil;&atilde;o
 - dicas
 - bug

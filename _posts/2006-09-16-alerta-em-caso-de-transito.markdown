@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 82
 wordpress_url: http://rafael.adm.br/p/alerta-em-caso-de-transito/
-date: 2006-09-16 13:47:20.000000000 -03:00
-categories:
+date: 2006-09-16 13:47:20 -03:00
+categories: 
 - Brainstorm
-tags:
+tags: 
 - Brainstorm
 ---
 Eu moro em Niter&oacute;i e para ir para o Rio de Janeiro tenho que pegar a Ponte. Na maioria dos casos que passo pela manh&atilde; &eacute; para as reuni&otilde;es com meu companheiro de trabalho que mora na Barra, reuni&otilde;es estas que podem iniciar &agrave;s 8:00h ou &agrave;s 10:00h sem problemas. Assim como eu, alguns executivos possuem uma liberdade de hor&aacute;rio e podem atrasar sua chegada nas empresas sem muito problema.

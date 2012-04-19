@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 121
 wordpress_url: http://rafael.adm.br/p/uma-parte-da-minha-historia/
-date: 2007-04-29 12:22:31.000000000 -03:00
-categories:
+date: 2007-04-29 12:22:31 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Por conta deste blog, recebi um e-mail interessante, coloquei minha resposta aqui como forma de registrar uma parte da minha hist&oacute;ria como profissional.
 

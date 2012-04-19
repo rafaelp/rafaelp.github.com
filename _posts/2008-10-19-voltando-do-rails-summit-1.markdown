@@ -12,14 +12,15 @@ wordpress_url: http://rafael.adm.br/?p=261
 date: 2008-10-19 19:05:24 -02:00
 categories: 
 - "Podcast: Voltando pra Casa"
+- podcast
 tags: 
 - podcast
 - railssummit
+podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0025.mp3
 ---
-Voltando pra casa do Rails Summit com Henrique Bastos, Miguel Baldi, Marcio Trindade. Ouça a opinião de cada um.
+Voltando pra casa do Rails Summit com Henrique Bastos, Miguel Baldi, Marcio Trindade. Ou&ccedil;a a opini&atilde;o de cada um.
 
-Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de Áudio.
+Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.
 
-<a class="noborder" href="http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0025.mp3" title="Download"><img src="http://rafael.adm.br/images/download_green.gif" border="0" alt="Download" /></a> <a class="noborder" href="http://feeds.feedburner.com/rafael_lima_podcast" title="RSS"><img src="http://rafael.adm.br/images/icn-feed-16x16.png" border="0" alt="RSS" /></a>
+<a class="noborder" href="http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0025.mp3" title="Download"><img src="http://rafael.adm.br/wp-content/themes/rafael_lima-rockinblue/images/download_green.gif" border="0" alt="Download" /></a> <a class="noborder" href="http://feeds.feedburner.com/rafael_lima_podcast" title="RSS"><img src="http://rafael.adm.br/wp-content/themes/rafael_lima-rockinblue/images/icn-feed-16x16.png" border="0" alt="RSS" /></a>
 
-[podcast]http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0025.mp3[/podcast]

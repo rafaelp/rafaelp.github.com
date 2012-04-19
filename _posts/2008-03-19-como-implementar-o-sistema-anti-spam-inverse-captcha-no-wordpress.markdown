@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 174
 wordpress_url: http://rafael.adm.br/p/como-implementar-o-sistema-anti-spam-inverse-captcha-no-wordpress/
-date: 2008-03-19 00:01:47.000000000 -03:00
-categories:
+date: 2008-03-19 00:01:47 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - programa&ccedil;&atilde;o
 - dicas
 - blog

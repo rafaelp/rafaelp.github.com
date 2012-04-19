@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 181
 wordpress_url: http://rafael.adm.br/p/google-app-engine-vs-amazon-ec2/
-date: 2008-04-11 15:56:40.000000000 -03:00
-categories:
+date: 2008-04-11 15:56:40 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - webapp
 - servidores
 - tend&ecirc;ncias

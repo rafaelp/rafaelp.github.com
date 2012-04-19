@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 28
 wordpress_url: http://rafael.adm.br/p/tambem-quero-blogonversar/
-date: 2006-04-25 20:26:28.000000000 -03:00
-categories:
+date: 2006-04-25 20:26:28 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - meme
 - comunica&ccedil;&atilde;o
 - blog

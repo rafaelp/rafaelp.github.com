@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 46
 wordpress_url: http://rafael.adm.br/p/tendencias/
-date: 2006-05-23 23:51:30.000000000 -03:00
-categories:
+date: 2006-05-23 23:51:30 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - google
 - comunica&ccedil;&atilde;o

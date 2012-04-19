@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 317
 wordpress_url: http://rafael.adm.br/?p=317
-date: 2009-04-23 00:14:46.000000000 -03:00
-categories:
+date: 2009-04-23 00:14:46 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - gerenciamento
 - myfreecomm
 - administra&ccedil;&atilde;o

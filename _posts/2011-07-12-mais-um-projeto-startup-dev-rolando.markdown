@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 546
 wordpress_url: http://rafael.adm.br/?p=546
-date: 2011-07-12 10:19:23.000000000 -03:00
-categories:
+date: 2011-07-12 10:19:23 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - agile
 - development

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 80
 wordpress_url: http://rafael.adm.br/p/par-de-duas-cores/
-date: 2006-09-16 13:37:10.000000000 -03:00
-categories:
+date: 2006-09-16 13:37:10 -03:00
+categories: 
 - Brainstorm
-tags:
+tags: 
 - Brainstorm
 ---
 Imagina s&oacute;, as pessoas na rua andando com um lado do t&ecirc;nis azul e outro verde. Parece coisa de maluco n&eacute;!?!? Na verdade isso &eacute; apenas uma quest&atilde;o cultural. Se todos andassem assim ningu&eacute;m iria achar estranho.

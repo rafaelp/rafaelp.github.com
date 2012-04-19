@@ -1,19 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: Rodando scripts bin&aacute;rios 32bits em plataformas 64bits com linux baseado
-  em Debian
+title: Rodando scripts bin&aacute;rios 32bits em plataformas 64bits com linux baseado em Debian
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 325
 wordpress_url: http://rafael.adm.br/?p=325
-date: 2009-05-03 00:39:55.000000000 -03:00
-categories:
+date: 2009-05-03 00:39:55 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - web
 - servidores
 - servidor

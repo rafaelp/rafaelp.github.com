@@ -1,18 +1,19 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'O #horaextra est&aacute; crescendo!'
+title: "O #horaextra est&aacute; crescendo!"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 355
 wordpress_url: http://rafael.adm.br/?p=355
-date: 2009-07-01 00:54:31.000000000 -03:00
-categories:
+date: 2009-07-01 00:54:31 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 O <a href="http://twitter.com/#search?q=%23horaextra">#horaextra</a>, encontro que realizamos no <a href="http://rafael.adm.br/p/novo-ponto-de-encontro-do-hora-extra/">Centro do RIo de Janeiro</a> toda segunda-feira est&aacute; crescendo. Nesta &uacute;ltima segunda-feira contamos com 20 participantes (dois j&aacute; tinham ido embora quando tiramos a foto).
 

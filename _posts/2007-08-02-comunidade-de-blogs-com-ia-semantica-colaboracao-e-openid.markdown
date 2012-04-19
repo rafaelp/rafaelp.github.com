@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 133
 wordpress_url: http://rafael.adm.br/p/comunidade-de-blogs-com-ia-semantica-colaboracao-e-openid/
-date: 2007-08-02 01:08:52.000000000 -03:00
-categories:
+date: 2007-08-02 01:08:52 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - web
 - futuro
 - comunidade

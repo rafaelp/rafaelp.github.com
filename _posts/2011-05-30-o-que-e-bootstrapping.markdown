@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 483
 wordpress_url: http://rafael.adm.br/?p=483
-date: 2011-05-30 00:57:15.000000000 -03:00
-categories:
+date: 2011-05-30 00:57:15 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - business
 - bootstrapping

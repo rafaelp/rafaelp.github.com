@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 152
 wordpress_url: http://rafael.adm.br/p/a-microsoft-continua-uma-merda-eu-odeio-a-microsoft/
-date: 2008-01-06 23:09:36.000000000 -02:00
-categories:
+date: 2008-01-06 23:09:36 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - microsoft
 - problemas
 - dificuldade

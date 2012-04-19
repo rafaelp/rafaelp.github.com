@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 530
 wordpress_url: http://rafael.adm.br/?p=530
-date: 2011-06-22 10:00:48.000000000 -03:00
-categories:
+date: 2011-06-22 10:00:48 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 <strong>Nova Atualiza&ccedil;&atilde;o:</strong> Voc&ecirc; pode <a href="https://ecommerce.bielsystems.com.br/checkout/curso-seo">comprar o v&iacute;deo do curso</a> para assistir on-line pelo pre&ccedil;o que escolher!
 

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 59
 wordpress_url: http://rafael.adm.br/p/dunga-na-selecao/
-date: 2006-07-24 22:21:12.000000000 -03:00
-categories:
+date: 2006-07-24 22:21:12 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 - Boa tarde Senhor.
 - Boa tarde, tudo bom?

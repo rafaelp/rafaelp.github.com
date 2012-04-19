@@ -1,18 +1,19 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'Startup DEV: Amigo n&atilde;o se compra'
+title: "Startup DEV: Amigo n&atilde;o se compra"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 644
 wordpress_url: http://rafael.adm.br/?p=644
-date: 2011-10-10 16:32:44.000000000 -03:00
-categories:
+date: 2011-10-10 16:32:44 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Estamos prontos para fazer mais um Startup DEV!
 

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 45
 wordpress_url: http://rafael.adm.br/p/google-car/
-date: 2006-05-19 00:52:46.000000000 -03:00
-categories:
+date: 2006-05-19 00:52:46 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - google
 - privacidade
 - futuro

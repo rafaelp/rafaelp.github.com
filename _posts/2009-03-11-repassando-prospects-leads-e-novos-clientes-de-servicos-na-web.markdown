@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 304
 wordpress_url: http://rafael.adm.br/?p=304
-date: 2009-03-11 23:51:02.000000000 -03:00
-categories:
+date: 2009-03-11 23:51:02 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - projetos
 - servi&ccedil;o
 - empresa

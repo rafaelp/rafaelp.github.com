@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 653
 wordpress_url: http://rafael.adm.br/?p=653
-date: 2011-10-19 00:26:59.000000000 -02:00
-categories:
+date: 2011-10-19 00:26:59 -02:00
+categories: 
 - Posts
 tags: []
+
 ---
 Faltam 7 dias para o fim das inscri&ccedil;&otilde;es no <a href="http://startupfarm.com.br" target="_blank">Startup Farm</a> e na reta final, o Programa oferece mais duas bolsas de 100%, sendo uma para times com projetos inovadores e outra para desenvolvedores individuais. Ainda est&atilde;o abertas inscri&ccedil;&otilde;es para 6 startups que querem ser patrocinadas pelo Peixe Urbano e pelo Moip!
 

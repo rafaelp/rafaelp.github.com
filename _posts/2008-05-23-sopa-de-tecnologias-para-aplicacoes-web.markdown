@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 199
 wordpress_url: http://rafael.adm.br/?p=199
-date: 2008-05-23 08:51:48.000000000 -03:00
-categories:
+date: 2008-05-23 08:51:48 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - webapp

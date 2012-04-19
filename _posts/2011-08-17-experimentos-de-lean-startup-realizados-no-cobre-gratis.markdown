@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 571
 wordpress_url: http://rafael.adm.br/?p=571
-date: 2011-08-17 18:51:08.000000000 -03:00
-categories:
+date: 2011-08-17 18:51:08 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - webapp
 - startup
 - leanstartup

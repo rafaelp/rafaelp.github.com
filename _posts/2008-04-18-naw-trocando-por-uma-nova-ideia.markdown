@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'NAW: Trocando por uma nova id&eacute;ia'
+title: "NAW: Trocando por uma nova id&eacute;ia"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 182
 wordpress_url: http://rafael.adm.br/p/naw-trocando-por-uma-nova-ideia/
-date: 2008-04-18 22:02:08.000000000 -03:00
-categories:
+date: 2008-04-18 22:02:08 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - webapp
 - Brainstorm
 - marketing

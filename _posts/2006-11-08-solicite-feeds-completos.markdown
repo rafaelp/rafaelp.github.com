@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 102
 wordpress_url: http://rafael.adm.br/p/solicite-feeds-completos/
-date: 2006-11-08 23:37:35.000000000 -02:00
-categories:
+date: 2006-11-08 23:37:35 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - blog
 - web2.0
 ---

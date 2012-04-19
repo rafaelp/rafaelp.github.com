@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 477
 wordpress_url: http://rafael.adm.br/?p=477
-date: 2011-05-04 19:53:55.000000000 -03:00
-categories:
+date: 2011-05-04 19:53:55 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - startup
 - empreendedorismo

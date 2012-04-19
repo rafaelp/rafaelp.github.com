@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 108
 wordpress_url: http://rafael.adm.br/p/previsoes2007/
-date: 2006-12-13 00:21:27.000000000 -02:00
-categories:
+date: 2006-12-13 00:21:27 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - meme
 - previsoes2007
 ---

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 95
 wordpress_url: http://rafael.adm.br/p/googleblogsconversaetc/
-date: 2006-10-24 23:52:04.000000000 -03:00
-categories:
+date: 2006-10-24 23:52:04 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - integra&ccedil;&atilde;o
 ---
 <strong>Pesquisa Google</strong>

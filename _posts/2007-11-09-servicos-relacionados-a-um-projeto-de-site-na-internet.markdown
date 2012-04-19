@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 144
 wordpress_url: http://rafael.adm.br/p/servicos-relacionados-a-um-projeto-de-site-na-internet/
-date: 2007-11-09 01:01:36.000000000 -02:00
-categories:
+date: 2007-11-09 01:01:36 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - programa&ccedil;&atilde;o
 - design
 - consultoria

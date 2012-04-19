@@ -1,19 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: Produto para cria&ccedil;&atilde;o de sites e publica&ccedil;&atilde;o de fotos
-  na internet
+title: Produto para cria&ccedil;&atilde;o de sites e publica&ccedil;&atilde;o de fotos na internet
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 312
 wordpress_url: http://rafael.adm.br/?p=312
-date: 2009-04-18 17:01:55.000000000 -03:00
-categories:
+date: 2009-04-18 17:01:55 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - simplicidade
 - internet

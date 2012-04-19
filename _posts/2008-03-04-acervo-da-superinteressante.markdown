@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 170
 wordpress_url: http://rafael.adm.br/p/acervo-da-superinteressante/
-date: 2008-03-04 17:01:11.000000000 -03:00
-categories:
+date: 2008-03-04 17:01:11 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - conte&uacute;do
 - revista
 - estudo

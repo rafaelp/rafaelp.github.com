@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 451
 wordpress_url: http://rafael.adm.br/?p=451
-date: 2010-03-22 10:50:20.000000000 -03:00
-categories:
+date: 2010-03-22 10:50:20 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - palestra
 - webapp
 - evento

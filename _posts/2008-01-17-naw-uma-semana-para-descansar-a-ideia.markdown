@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'NAW: Uma semana para descansar a id&eacute;ia'
+title: "NAW: Uma semana para descansar a id&eacute;ia"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 160
 wordpress_url: http://rafael.adm.br/p/naw-uma-semana-para-descancar-a-ideia/
-date: 2008-01-17 04:11:55.000000000 -02:00
-categories:
+date: 2008-01-17 04:11:55 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - webapp
 - NAW
 - tempo

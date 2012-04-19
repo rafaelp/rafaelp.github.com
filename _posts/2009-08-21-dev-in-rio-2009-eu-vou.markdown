@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'Dev in Rio 2009: eu vou!'
+title: "Dev in Rio 2009: eu vou!"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 392
 wordpress_url: http://rafael.adm.br/?p=392
-date: 2009-08-21 13:28:29.000000000 -03:00
-categories:
+date: 2009-08-21 13:28:29 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - evento
 - devinrio

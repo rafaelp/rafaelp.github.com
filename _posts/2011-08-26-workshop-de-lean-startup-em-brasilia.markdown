@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 605
 wordpress_url: http://rafael.adm.br/?p=605
-date: 2011-08-26 11:09:36.000000000 -03:00
-categories:
+date: 2011-08-26 11:09:36 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Eu tenho estudado e aplicado as t&eacute;cnicas de Lean Startup em meus neg&oacute;cios faz tempo. Nos &uacute;ltimos meses eu comecei a compartilhar o que eu estou aprendendo atrav&eacute;s do <a href="http://bit.ly/leanstartup-bsb">Workshop Bootstrappers</a>, que come&ccedil;ou sendo um workshop online, realizado pelo <a href="http://treinatom.com.br">Treina TOM</a>.
 

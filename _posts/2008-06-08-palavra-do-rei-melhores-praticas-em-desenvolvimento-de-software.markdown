@@ -1,19 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: Palavra do Rei - melhores pr&aacute;ticas em desenvolvimento de software (proposta
-  de meme)
+title: Palavra do Rei - melhores pr&aacute;ticas em desenvolvimento de software (proposta de meme)
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 203
 wordpress_url: http://rafael.adm.br/?p=203
-date: 2008-06-08 21:45:13.000000000 -03:00
-categories:
+date: 2008-06-08 21:45:13 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - meme

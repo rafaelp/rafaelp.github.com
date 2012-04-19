@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 70
 wordpress_url: http://rafael.adm.br/p/email-queue-in-railsqueue-de-email-no-rails/
-date: 2006-08-17 23:22:15.000000000 -03:00
-categories:
+date: 2006-08-17 23:22:15 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - rails

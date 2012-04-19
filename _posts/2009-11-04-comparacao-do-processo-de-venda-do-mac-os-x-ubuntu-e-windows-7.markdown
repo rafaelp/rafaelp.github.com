@@ -1,19 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: Compara&ccedil;&atilde;o do processo de venda do Mac OS X, Ubuntu e Windows
-  7
+title: Compara&ccedil;&atilde;o do processo de venda do Mac OS X, Ubuntu e Windows 7
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 416
 wordpress_url: http://rafael.adm.br/?p=416
-date: 2009-11-04 11:38:17.000000000 -02:00
-categories:
+date: 2009-11-04 11:38:17 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - windows
 - microsoft
 - sistema

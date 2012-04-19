@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'NAW: O primeiro dia'
+title: "NAW: O primeiro dia"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 154
 wordpress_url: http://rafael.adm.br/p/naw-o-primeiro-dia/
-date: 2008-01-09 00:28:57.000000000 -02:00
-categories:
+date: 2008-01-09 00:28:57 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - webapp
 - NAW

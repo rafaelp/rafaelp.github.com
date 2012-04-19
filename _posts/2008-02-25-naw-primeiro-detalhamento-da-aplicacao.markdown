@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'NAW: Primeiro detalhamento da aplica&ccedil;&atilde;o'
+title: "NAW: Primeiro detalhamento da aplica&ccedil;&atilde;o"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 167
 wordpress_url: http://rafael.adm.br/p/naw-primeiro-detalhamento-da-aplicacao/
-date: 2008-02-25 11:52:41.000000000 -03:00
-categories:
+date: 2008-02-25 11:52:41 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - webapp
 - Brainstorm
 - marketing

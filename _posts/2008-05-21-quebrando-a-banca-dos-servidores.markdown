@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 198
 wordpress_url: http://rafael.adm.br/?p=198
-date: 2008-05-21 00:21:05.000000000 -03:00
-categories:
+date: 2008-05-21 00:21:05 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Neste final de semana fui ao cinema ver o filme <a href="http://www.youtube.com/watch?v=NGFoCtDUGy8">Quebrando a Banca</a> e fiz uma analogia ao trabalho de manuten&ccedil;&atilde;o de uma aplica&ccedil;&atilde;o web.
 

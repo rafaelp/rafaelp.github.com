@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 79
 wordpress_url: http://rafael.adm.br/p/nao-sejamos-ingenuos/
-date: 2006-09-13 00:02:59.000000000 -03:00
-categories:
+date: 2006-09-13 00:02:59 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Sabemos que o lema do Google &eacute; "Do not do evil", em portugu&ecirc;s: N&atilde;o seja mau
 

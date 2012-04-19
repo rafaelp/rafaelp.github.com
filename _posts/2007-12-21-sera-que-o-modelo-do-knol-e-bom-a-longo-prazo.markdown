@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 150
 wordpress_url: http://rafael.adm.br/p/sera-que-o-modelo-do-knol-e-bom-a-longo-prazo/
-date: 2007-12-21 09:10:54.000000000 -02:00
-categories:
+date: 2007-12-21 09:10:54 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - Tecnologia
 - google
 - lixo-virtual

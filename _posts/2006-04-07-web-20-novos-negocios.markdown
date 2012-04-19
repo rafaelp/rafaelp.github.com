@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 14
 wordpress_url: http://rafael.adm.br/web-20-novos-negocios/
-date: 2006-04-07 07:43:21.000000000 -03:00
-categories:
+date: 2006-04-07 07:43:21 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - neg&oacute;cios
 - palestra

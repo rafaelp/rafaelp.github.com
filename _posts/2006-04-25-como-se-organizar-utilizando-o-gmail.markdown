@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 27
 wordpress_url: http://rafael.adm.br/p/como-se-organizar-utilizando-o-gmail/
-date: 2006-04-25 19:19:16.000000000 -03:00
-categories:
+date: 2006-04-25 19:19:16 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - Tecnologia
 - google
 - gmail

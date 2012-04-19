@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 176
 wordpress_url: http://rafael.adm.br/p/configurando-sistema-de-backup-do-banco-de-dados-mysql-no-amazon-s3-em-10-minutos/
-date: 2008-03-20 02:20:11.000000000 -03:00
-categories:
+date: 2008-03-20 02:20:11 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - seguran&ccedil;a
 - backup
 - banco de dados

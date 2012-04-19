@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,11 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 215
 wordpress_url: http://rafael.adm.br/?p=215
-date: 2008-08-15 21:22:18.000000000 -03:00
-categories:
-- ! 'Podcast: Voltando pra Casa'
+date: 2008-08-15 21:22:18 -03:00
+categories: 
+- "Podcast: Voltando pra Casa"
 - podcast
-tags:
+tags: 
 - neg&oacute;cios
 - webapp
 - podcast

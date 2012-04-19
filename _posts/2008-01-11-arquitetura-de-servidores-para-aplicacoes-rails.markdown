@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 156
 wordpress_url: http://rafael.adm.br/p/arquitetura-de-servidores-para-aplicacoes-rails/
-date: 2008-01-11 14:01:07.000000000 -02:00
-categories:
+date: 2008-01-11 14:01:07 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - rails
 - webapp
 - servidores

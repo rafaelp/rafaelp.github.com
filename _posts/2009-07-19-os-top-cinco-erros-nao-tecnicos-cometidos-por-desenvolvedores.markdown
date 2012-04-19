@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 364
 wordpress_url: http://rafael.adm.br/?p=364
-date: 2009-07-19 14:50:50.000000000 -03:00
-categories:
+date: 2009-07-19 14:50:50 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - problemas

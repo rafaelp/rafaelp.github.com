@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 25
 wordpress_url: http://rafael.adm.br/p/usuarios-10-na-web-20/
-date: 2006-04-22 20:35:23.000000000 -03:00
-categories:
+date: 2006-04-22 20:35:23 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - usu&aacute;rios
 - api
 - integra&ccedil;&atilde;o

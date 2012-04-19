@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 460
 wordpress_url: http://rafael.adm.br/?p=460
-date: 2010-12-08 00:43:41.000000000 -02:00
-categories:
+date: 2010-12-08 00:43:41 -02:00
+categories: 
 - Posts
 tags: []
+
 ---
 Vou aproveitar um e-mail que escrevi hoje e post&aacute;-lo aqui, pois pode ser relevante para mais pessoas.
 

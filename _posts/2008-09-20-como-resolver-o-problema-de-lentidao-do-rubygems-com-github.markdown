@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 248
 wordpress_url: http://rafael.adm.br/?p=248
-date: 2008-09-20 12:17:47.000000000 -03:00
-categories:
+date: 2008-09-20 12:17:47 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - rails
 - ruby
 - github

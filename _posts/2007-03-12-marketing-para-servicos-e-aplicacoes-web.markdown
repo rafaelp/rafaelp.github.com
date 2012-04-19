@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 114
 wordpress_url: http://rafael.adm.br/p/marketing-para-servicos-e-aplicacoes-web/
-date: 2007-03-12 13:44:59.000000000 -03:00
-categories:
+date: 2007-03-12 13:44:59 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - marketing
 - roi

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 151
 wordpress_url: http://rafael.adm.br/p/nao-estou-sozinho-sobre-o-knol/
-date: 2007-12-28 00:49:01.000000000 -02:00
-categories:
+date: 2007-12-28 00:49:01 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - Tecnologia
 - google
 - internet

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 447
 wordpress_url: http://rafael.adm.br/?p=447
-date: 2010-03-07 14:21:36.000000000 -03:00
-categories:
+date: 2010-03-07 14:21:36 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - empretec
 - cce
 ---

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,11 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 84
 wordpress_url: http://rafael.adm.br/p/brainstorm/
-date: 2006-09-16 13:30:05.000000000 -03:00
-categories:
+date: 2006-09-16 13:30:05 -03:00
+categories: 
 - Posts
 - Brainstorm
-tags:
+tags: 
 - Brainstorm
 ---
 Lancei a <a href="http://rafael.adm.br/c/brainstorm">se&ccedil;&atilde;o Brainstorm no meu site</a>. Costumo dirigir muito e enquanto dirijo, vou pensando e a minha imagina&ccedil;&atilde;o voa. Eu tenho algumas id&eacute;ias, de produtos, servi&ccedil;os, marketing e neg&oacute;cios. Algumas delas eu coloco em pr&aacute;tica ou est&atilde;o na minha lista de futuros projetos. Por&eacute;m nem todas s&atilde;o vi&aacute;veis de eu realizar e s&atilde;o sugest&otilde;es para empresas e pessoas que est&atilde;o dispostas a investir em id&eacute;ias novas.

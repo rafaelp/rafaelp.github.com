@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 149
 wordpress_url: http://rafael.adm.br/p/discussao-sobre-o-uso-do-orkut/
-date: 2007-12-20 10:19:05.000000000 -02:00
-categories:
+date: 2007-12-20 10:19:05 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - Tecnologia
 - google
 - comunica&ccedil;&atilde;o

@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'NAW: Organiza&ccedil;&atilde;o inicial e escolha do dom&iacute;nio'
+title: "NAW: Organiza&ccedil;&atilde;o inicial e escolha do dom&iacute;nio"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 155
 wordpress_url: http://rafael.adm.br/p/naw-organizacao-inicial-e-escolha-do-dominio/
-date: 2008-01-09 23:28:21.000000000 -02:00
-categories:
+date: 2008-01-09 23:28:21 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - webapp
 - NAW

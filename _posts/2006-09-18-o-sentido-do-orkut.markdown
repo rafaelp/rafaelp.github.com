@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 85
 wordpress_url: http://rafael.adm.br/p/o-sentido-do-orkut/
-date: 2006-09-18 10:12:10.000000000 -03:00
-categories:
+date: 2006-09-18 10:12:10 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - usu&aacute;rios
 - Tecnologia
 - usabilidade

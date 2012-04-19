@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 112
 wordpress_url: http://rafael.adm.br/p/amazonia-para-sempre/
-date: 2007-02-05 09:24:12.000000000 -02:00
-categories:
+date: 2007-02-05 09:24:12 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - marketing
 - utilidade
 - amaz&ocirc;nia

@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'Knol: Um passo do Google contra a sustentabilidade'
+title: "Knol: Um passo do Google contra a sustentabilidade"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 148
 wordpress_url: http://rafael.adm.br/p/knol-um-passo-do-google-contra-a-sustentabilidade/
-date: 2007-12-17 10:41:57.000000000 -02:00
-categories:
+date: 2007-12-17 10:41:57 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - google
 - internet
 - lixo-virtual

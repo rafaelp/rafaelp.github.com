@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 40
 wordpress_url: http://rafael.adm.br/p/gmail-detecta-eventos/
-date: 2006-05-10 12:30:26.000000000 -03:00
-categories:
+date: 2006-05-10 12:30:26 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - google
 - gmail
 - email

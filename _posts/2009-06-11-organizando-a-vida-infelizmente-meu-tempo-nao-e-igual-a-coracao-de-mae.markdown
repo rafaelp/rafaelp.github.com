@@ -1,19 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: Organizando a vida, infelizmente meu tempo n&atilde;o &eacute; igual a cora&ccedil;&atilde;o
-  de m&atilde;e.
+title: Organizando a vida, infelizmente meu tempo n&atilde;o &eacute; igual a cora&ccedil;&atilde;o de m&atilde;e.
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 344
 wordpress_url: http://rafael.adm.br/?p=344
-date: 2009-06-11 14:25:07.000000000 -03:00
-categories:
+date: 2009-06-11 14:25:07 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - webapp
 - servi&ccedil;o

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 36
 wordpress_url: http://rafael.adm.br/p/guerra-dos-browsers/
-date: 2006-04-27 15:14:59.000000000 -03:00
-categories:
+date: 2006-04-27 15:14:59 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Realmente tenho a sensa&ccedil;&atilde;o de que a web est&aacute; entrando em uma nova era. Fala-se muito de web 2.0, foco no usu&aacute;rio, etc etc...
 

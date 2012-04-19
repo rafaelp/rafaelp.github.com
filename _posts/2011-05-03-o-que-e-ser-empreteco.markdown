@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 469
 wordpress_url: http://rafael.adm.br/?p=469
-date: 2011-05-03 16:33:49.000000000 -03:00
-categories:
+date: 2011-05-03 16:33:49 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Ser Empreteco &eacute; ter realizado o semin&aacute;rio do Sebrae chamado <a href="http://empretec.sebrae.com.br/">Empretec</a>.
 

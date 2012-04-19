@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 172
 wordpress_url: http://rafael.adm.br/p/otimizando-leitura-dos-feeds/
-date: 2008-03-12 19:02:57.000000000 -03:00
-categories:
+date: 2008-03-12 19:02:57 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - gmail
 - feed
 - rss

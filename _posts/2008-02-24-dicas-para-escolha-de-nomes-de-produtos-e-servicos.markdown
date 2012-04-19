@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 158
 wordpress_url: http://rafael.adm.br/p/dicas-para-escolha-de-nomes-de-produtos-e-servicos/
-date: 2008-02-24 14:29:19.000000000 -03:00
-categories:
+date: 2008-02-24 14:29:19 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - neg&oacute;cios
 - projetos
 - servi&ccedil;o

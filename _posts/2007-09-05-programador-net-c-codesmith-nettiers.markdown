@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 139
 wordpress_url: http://rafael.adm.br/p/programador-net-c-codesmith-nettiers/
-date: 2007-09-05 16:17:19.000000000 -03:00
-categories:
+date: 2007-09-05 16:17:19 -03:00
+categories: 
 - Posts
 tags: []
+
 ---
 Procuramos para trabalhar na BielSystems um programador C# para desenvolvimento de sites e de aplica&ccedil;&otilde;es web.
 

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,11 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 270
 wordpress_url: http://rafael.adm.br/?p=270
-date: 2008-11-21 08:17:29.000000000 -02:00
-categories:
+date: 2008-11-21 08:17:29 -02:00
+categories: 
 - Posts
-tags:
-- ! '#horaextra'
+tags: 
+- "#horaextra"
 ---
 <strong>Atualizado: </strong> Veja o an&uacute;ncio do <a href="http://rafael.adm.br/p/novo-ponto-de-encontro-do-hora-extra/">novo ponto de encontro</a>.
 

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 73
 wordpress_url: http://rafael.adm.br/p/noticias-boas-de-uma-tacada-so/
-date: 2006-08-23 00:28:26.000000000 -03:00
-categories:
+date: 2006-08-23 00:28:26 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - comunica&ccedil;&atilde;o
 - not&iacute;cias
 - clipping

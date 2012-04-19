@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 38
 wordpress_url: http://rafael.adm.br/p/etiquetagem-sistema-de-tags-para-navegacao/
-date: 2006-05-05 13:21:00.000000000 -03:00
-categories:
+date: 2006-05-05 13:21:00 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - navega&ccedil;&atilde;o

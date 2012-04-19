@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 120
 wordpress_url: http://rafael.adm.br/p/como-converter-seus-e-mail-do-thunderbird-para-o-windows-mail-vista/
-date: 2007-04-29 13:03:01.000000000 -03:00
-categories:
+date: 2007-04-29 13:03:01 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - email
 - how-to
 - windows

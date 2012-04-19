@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: rafael.lima@email.com.br
 author_url: http://
 wordpress_id: 92
 wordpress_url: http://rafael.adm.br/p/92/
-date: 2006-10-15 16:50:00.000000000 -03:00
-categories:
+date: 2006-10-15 16:50:00 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - api
 - google
 - blog

@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 62
 wordpress_url: http://rafael.adm.br/p/simplicidade-requer-tempo/
-date: 2006-08-01 17:38:07.000000000 -03:00
-categories:
+date: 2006-08-01 17:38:07 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - Tecnologia
 - usabilidade
 - design

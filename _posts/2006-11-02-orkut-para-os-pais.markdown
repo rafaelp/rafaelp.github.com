@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 101
 wordpress_url: http://rafael.adm.br/p/orkut-para-os-pais/
-date: 2006-11-02 11:48:25.000000000 -03:00
-categories:
+date: 2006-11-02 11:48:25 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - google
 - privacidade
 - orkut

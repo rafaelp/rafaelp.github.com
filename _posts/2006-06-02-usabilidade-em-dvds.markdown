@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 48
 wordpress_url: http://rafael.adm.br/p/usabilidade-em-dvds/
-date: 2006-06-02 23:51:19.000000000 -03:00
-categories:
+date: 2006-06-02 23:51:19 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - Tecnologia
 - usabilidade
 - eletr&ocirc;nicos

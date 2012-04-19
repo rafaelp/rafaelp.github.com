@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 368
 wordpress_url: http://rafael.adm.br/?p=368
-date: 2009-08-11 20:06:39.000000000 -03:00
-categories:
+date: 2009-08-11 20:06:39 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - linux
 - programas
 ---

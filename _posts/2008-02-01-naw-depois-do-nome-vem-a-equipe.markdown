@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'NAW: Depois do nome, vem a equipe'
+title: "NAW: Depois do nome, vem a equipe"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 163
 wordpress_url: http://rafael.adm.br/p/naw-depois-do-nome-vem-a-equipe/
-date: 2008-02-01 03:00:27.000000000 -02:00
-categories:
+date: 2008-02-01 03:00:27 -02:00
+categories: 
 - Posts
-tags:
+tags: 
 - webapp
 - infra-estrutura
 - marketing

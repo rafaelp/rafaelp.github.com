@@ -1,18 +1,18 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: ! 'Brainstorm: SkolTaxi'
+title: "Brainstorm: SkolTaxi"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 130
 wordpress_url: http://rafael.adm.br/p/brainstorm-skoltaxi/
-date: 2007-07-16 23:52:44.000000000 -03:00
-categories:
+date: 2007-07-16 23:52:44 -03:00
+categories: 
 - Brainstorm
-tags:
+tags: 
 - Brainstorm
 ---
 A id&eacute;ia original n&atilde;o era exatamente isso, mas depois no dia seguinte fui comentar com minha irm&atilde; e acabei chegando a esta vers&atilde;o da id&eacute;ia. Para quem n&atilde;o sabe, brainstorm s&atilde;o posts sobre id&eacute;ias criativas (e malucas!) que tenho basicamente sobre marketing e divulga&ccedil;&atilde;o. A id&eacute;ia de hoje ronda sobre o seguinte slogan:

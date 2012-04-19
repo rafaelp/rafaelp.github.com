@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 77
 wordpress_url: http://rafael.adm.br/p/os-detalhes-da-tabela-de-planos-no-bielbid/
-date: 2006-08-28 10:48:50.000000000 -03:00
-categories:
+date: 2006-08-28 10:48:50 -03:00
+categories: 
 - Posts
-tags:
+tags: 
 - desenvolvimento
 - comunica&ccedil;&atilde;o
 - usabilidade

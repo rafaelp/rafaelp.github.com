@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 status: publish
 published: true
@@ -7,13 +7,14 @@ author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-excerpt: Alguns módulos para sua página personalizada do Google
+excerpt: "Alguns m\xC3\xB3dulos para sua p\xC3\xA1gina personalizada do Google"
 wordpress_id: 10
 wordpress_url: http://www.rafael.adm.br/?p=10
-date: 2006-01-02 01:03:32.000000000 -02:00
-categories:
+date: 2006-01-02 01:03:32 -02:00
+categories: 
 - Posts
 tags: []
+
 ---
 Pessoal,
 

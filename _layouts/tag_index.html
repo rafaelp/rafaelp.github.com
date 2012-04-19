@@ -3,7 +3,8 @@ layout: index
 title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Marketing, Aplicação Web, Ruby on Rails.
 ---
 
-{% for post in paginator.posts %}
+<h2 class="result_heading">Posts com a Tag: <a href="http://rafael.adm.br/tag/{{ page.tag | replace:' ', '-' | downcase }}/" rel="tag">{{ page.tag }}</a></h2>
+{% for post in site.tags[page.tag] %}
   {% include post.ext %}
 {% endfor %}
 

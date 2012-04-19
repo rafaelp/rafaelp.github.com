@@ -1,0 +1,175 @@
+<HTML>
+<HEAD><TITLE>Tutorial de HTML</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#029632" LINK="#000000" VLINK="#029632">
+<CENTER><IMG SRC="htmlm.jpg" ALT="HTML ???" WIDTH=250 HEIGHT=40 BORDER=0></CENTER>
+<BR><BR>
+<DT><FONT  SIZE=+1><B>Frames</B></FONT>
+<P><DD>Os frames são divisões de telas do seu browser que permite a utilização de vários documentos no formato HTML..
+<DD>Os frames são visualizados pelo Netscape Navigator, e pelo Internet Explorer. Caso esteja usando versões 3.0 de ambos navegadores, verá que as bordas dos frames de meu titulo estão invisíveis, tudo isso você aprende aqui !
+<HR>
+<DT><FONT  SIZE=+1><B>Estrutura</B></FONT>
+<P><DD>Assim como o corpo do HTML, os frames tem sua estrutura. Eles entram no lugar do corpo, substituindo o <BODY></BODY> por <FRAMESET></FRAMESET>
+<P>
+<DT>Ex:
+<XMP>
+<DT><HTML>
+<DT><HEAD>
+<DT><TITLE>
+<DT>Título do Documento
+<DT></TITLE>
+<DT><FRAMESET>
+<DT>Sintaxe dos Frames
+<DT></FRAMESET>
+<DT></BODY>
+<DT></HEAD>
+</XMP>
+
+<HR>
+<DT><FONT  SIZE=+1><B>Sintaxe</B></FONT>
+<P><DD>Primeiramente devemos fazer um documento HTML para ele ser especificado pela sintaxe de frames, no caso chamado de Frame1.htm.
+<XMP>
+<DT><HTML>
+<DT><HEAD>
+<DT><TITLE>
+<DT>Frame 1
+<DT></TITLE>
+<DT></HEAD>
+<DT><BODY>
+<DT><FONT  SIZE=+1><B>Frame n1</B></FONT>
+<DT></BODY>
+</XMP>
+
+<HR WIDTH=50%>
+<P><DD>A primeira especificação é o FRAMESET, que é acompanhado pelas definições ROWS e COLS.
+<HR WIDTH=20%>
+<DT>ROWS
+<DD>Especifica o numero de frames e a altura de cada um.
+
+<DT>Ex:
+<XMP>
+<DT><FRAMESET ROWS="20%,30%,50%">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT></FRAMESET>
+</XMP>
+
+<P><DD>Neste exemplo de cima, ele chama 3 frames, o 1º com 20% da tela, o 2º com 30% da tela, o 3º com 50% da tela (ambos em altura). 
+<HR WIDTH=20%>
+<DT>COLS
+<DD>Especifica o numero de frames e a largura de cada um.
+
+<DT>Ex:
+<XMP>
+<DT><FRAMESET COLS="20%,30%,50%">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT></FRAMESET>
+</XMP>
+
+<P><DD>Neste exemplo de cima, ele chama 3 frames, o 1º com 20% da tela, o 2º com 30% da tela, o 3º com 50% da tela (ambos em largura). 
+<HR WIDTH=50%>
+<P><DD>A segunda especificação é o FRAME, que é acompanhado pelas definições SRC, NAME, SCROLLING, NORESIZE, TARGET.
+
+<HR WIDTH=20%>
+<DT>SRC
+<DD>Especifica o documento de formato HTML chamado para o frame.
+<DD>Indispensável, por que sem ele só o documento aparecerá vazio, só com as divisões.
+
+<DT>Ex:
+<XMP>
+<DT><FRAMESET COLS="20%,30%,50%">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT></FRAMESET>
+</XMP>
+
+<HR WIDTH=20%>
+<DT>NAME
+<DD>Especifica o nome do documento de formato HTML chamado para o frame.
+<DD>É extremamente necessário para o uso do Target, que será visto a seguir.
+
+<DT>Ex:
+<XMP>
+<DT><FRAMESET COLS="20%,30%,50%">
+<DT><FRAME SRC="FRAME1.HTM" NAME="Principal">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT></FRAMESET>
+</XMP>
+
+<HR WIDTH=20%>
+<DT>SCROLLING
+<DD>Define se o Frame terá barr de rolagem, o default é Auto.
+<DD>Fornece as opções: Yes, No, Auto.
+<DT>Yes - Exibe a barra de rolagem independente do tamanho do documento.
+<DT>No - Não exibe a barra de rolagem, mesmo que o documento seja maior que o tamanho especificado.
+<DT>Auto - Só exibe a barra de rolagem se o documento for maior que a área especificada.
+<P>
+<DT>Ex:
+<XMP>
+<DT><FRAMESET COLS="20%,30%,50%">
+<DT><FRAME SRC="FRAME1.HTM" SCROLLING="no">
+<DT><FRAME SRC="FRAME1.HTM" SCROLLING="yes">
+<DT><FRAME SRC="FRAME1.HTM" SCROLLING="auto">
+<DT></FRAMESET>
+</XMP>
+
+<HR WIDTH=20%>
+<DT>NORESIZE
+<DD>Impossibilita o usuário de mudar o tamanho da área especificada do Frame.
+<DD>Por default o usuário pode mudar esta área.
+
+<DT>Ex:
+<XMP>
+<DT><FRAMESET COLS="20%,30%,50%">
+<DT><FRAME SRC="FRAME1.HTM" NORESIZE>
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT></FRAMESET>
+</XMP>
+
+<HR WIDTH=20%>
+<DT>TARGET
+<DD>Define qual a área (Frame) que aparecerá o documento especificado pelo link.
+<DD>Mais útil na utilizaçãode Menus e índices.
+<DD>Necessita do NAME.
+
+<XMP>
+<DT>Ex:
+<DT><FRAMESET COLS="20%,30%,50%">
+<DT><FRAME SRC="FRAME1.HTM" NAME="Principal">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT><FRAME SRC="FRAME1.HTM">
+<DT></FRAMESET>
+<DT>O Link:
+<DT><A HREF="http://www.microsoft.com" TARGET="Principal"> Microsoft </A>
+</XMP>
+<DT>Se você quiser criar um link que chama uma nova tela do browser basta colocar TARGET="um nome que não existe".
+
+<HR WIDTH=20%>
+<DT>BORDER
+<DD>Define qual a borda que o frame terá.
+<DD>Define a cor da borda que o frame ter&aacute;.
+<DD>Mais útil na utilizaçãode de backgrounds iguais.
+
+<DT>Ex:
+<XMP>
+<DT><FRAMESET COLS="20%,30%,50%" FRAMEBORDER="NO" BORDER=0>
+<DT><FRAME SRC="FRAME1.HTM" FRAMEBORDER="NO" BORDER=0>
+<DT><FRAME SRC="FRAME1.HTM" BORDERCOLOR="#8080FF">
+<DT><FRAME SRC="FRAME1.HTM" FRAMEBORDER="NO" BORDER=0>
+<DT></FRAMESET>
+</XMP>
+
+<HR>
+<DT><FONT  SIZE=+2><B><I>Consulte !</I></B></FONT>
+<DD>Pena, só agora no final né, mas existe um programa chamado Frame-It, que faz tudo isto para você caso queira Frames meio enrolados de fazer, é só pegar em versão Shareware em:
+<DT><A HREF="http://www.iinet.net.au/~bwh/frame-it.html"  onMouseOver="self.status='                     ';return true">http://www.iinet.net.au/~bwh/frame-it.html</A>
+<HR>
+<SCRIPT>document.write("<FONT  SIZE=-1><I><CENTER>Última Atualização: " + top.atualizado + ".</CENTER></I></FONT>")</SCRIPT>
+</BODY>
+</HTML>

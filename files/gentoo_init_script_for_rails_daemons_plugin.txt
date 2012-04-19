@@ -1,0 +1,36 @@
+#!/sbin/runscript
+
+
+# Gentoo users: add this script to 'default' run level.
+# ==================================================
+#
+# rails_daemons         This shell script takes care of starting and stopping
+#                       the daemons plugin of one  rails project.
+#
+# Copyright (c) by Rafael Lima (http://rafael.adm.br)
+
+project_name="Your project name"
+project_path="/path/of/your/project"
+
+depend() {
+        need localmount cron
+}
+
+checkconfig() {
+        if [ ! -d ${project_path} ] ; then
+                eerror "The project directory does not exists! Please, check your configuration."
+        fi
+}
+
+start() {
+        checkconfig || return 1
+        ebegin "Starting ${project_name} daemons"
+        ${project_path}/script/daemons start
+        eend $?
+}
+
+stop () {
+        ebegin "Stopping ${project_name} daemons"
+        ${project_path}/script/daemons stop
+        eend $?
+}

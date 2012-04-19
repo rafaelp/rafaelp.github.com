@@ -12,34 +12,35 @@ title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Mar
     <!-- Pagination links -->
     <div class="pagination">
       {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/">Anterior</a>
-        {% else %}
-        <a href="/page/{{paginator.previous_page}}">Anterior</a>
+        {% if paginator.page >= 4 %}
+          <a href="/">« Primeira</a>
         {% endif %}
-      {% else %}
-        <span>Anterior</span>
+        <a href="/page/{{paginator.previous_page}}">«</a>
       {% endif %}
 
-        {% if paginator.page == 1 %}
-        <span class="current-page">1</span>
-        {% else %}
+      {% if paginator.page == 1 %}
+        <strong class="on">1</strong>
+      {% elsif paginator.page < 5 %}
         <a href="/">1</a>
-        {% endif %}
+      {% endif %}
 
-        {% for count in (2..paginator.total_pages) %}
-          {% if count == paginator.page %}
-          <span class="current-page">{{count}}</span>
-          {% else %}
+      {% capture offset %}{{paginator.page | minus: 5 }}{% endcapture %}
+
+      {% for count in (2..paginator.total_pages) limit:7 offset:offset %}
+        {% if count == paginator.page %}
+          <strong class="on">{{count}}</strong>
+        {% else %}
           <a href="/page/{{count}}">{{count}}</a>
-          {% endif %}
-        {% endfor %}
+        {% endif %}
+      {% endfor %}
 
       {% if paginator.next_page %}
-        <a href="/page/{{paginator.next_page}}">Próxima</a>
-      {% else %}
-        <span>Próxima</span>
+        <a href="/page/{{paginator.next_page}}">»</a>
+        {% if paginator.page <= (paginator.total_pages - 5) %}
+          <a href="/page/{{paginator.total_pages}}">Última »</a>
+        {% endif %}
       {% endif %}
+
     </div>
   </div>
 </div>

@@ -1,9 +1,10 @@
 --- 
 layout: index
 title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Marketing, Aplicação Web, Ruby on Rails.
+permalink: c/voltandopracasa
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.categories.podcast %}
   <div class="post">
     <p class="meta"><span class="date">{{ post.date | date_to_string }}</span> ~ <span class="comments"><a href="#disqus_thread" data-disqus-identifier="{{ post.wordpress_id }} {{ post.wordpress_url }}"></a></span></p>
     <h2 class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
@@ -19,40 +20,3 @@ title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Mar
     </div><!-- /.entry -->
   </div><!-- /.post -->
 {% endfor %}
-
-<div class="pagenavi">
-  <div class="Nav">
-    <!-- Pagination links -->
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/">Anterior</a>
-        {% else %}
-        <a href="/page/{{paginator.previous_page}}">Anterior</a>
-        {% endif %}
-      {% else %}
-        <span>Anterior</span>
-      {% endif %}
-
-        {% if paginator.page == 1 %}
-        <span class="current-page">1</span>
-        {% else %}
-        <a href="/">1</a>
-        {% endif %}
-
-        {% for count in (2..paginator.total_pages) %}
-          {% if count == paginator.page %}
-          <span class="current-page">{{count}}</span>
-          {% else %}
-          <a href="/page/{{count}}">{{count}}</a>
-          {% endif %}
-        {% endfor %}
-
-      {% if paginator.next_page %}
-        <a href="/page/{{paginator.next_page}}">Próxima</a>
-      {% else %}
-        <span>Próxima</span>
-      {% endif %}
-    </div>
-  </div>
-</div>

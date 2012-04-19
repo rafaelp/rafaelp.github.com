@@ -20,7 +20,8 @@ Se precisar colocar um segundo número pode ser o do fax: 21 2586-6001
 Obrigado.
 
 Resposta:
-<blockquote><strong>Olá cliente, para concluirmos a alteração de seu telefone fixo, você deverá enviar-nos uma cópia da parte interna de sua conta de telefone</strong>. Para isto acesse sua conta PagSeguro, clique no menu "meus dados", "documentos" e selecione a opção "comprovante de endereço".
+<blockquote>
+  <strong>Olá cliente, para concluirmos a alteração de seu telefone fixo, você deverá enviar-nos uma cópia da parte interna de sua conta de telefone</strong>. Para isto acesse sua conta PagSeguro, clique no menu "meus dados", "documentos" e selecione a opção "comprovante de endereço".
 
 Não será aceito o envio de comprovantes de telefone celular, voip ou comprovante retirado da internet.
 
@@ -36,12 +37,14 @@ Leandro Oliveira
 Equipe de Atendimento PagSeguro https://pagseguro.uol.com.br/
 PagSeguro. A solução completa para pagamentos online.
 
-DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>
+DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml
+</blockquote>
 
 <strong>Não tenho isso. Contrato um escritório virtual que me fornece esse telefone. O telefone antigo era VoIP e tmb não tinha a conta de telefone. Como proceder?</strong>
 
 Resposta:
-<blockquote><strong>Olá Cliente, informamos que, por razões de segurança, o Pagseguro só efetua alteação de telefone mediante envio de documentação.</strong>
+<blockquote>
+  <strong>Olá Cliente, informamos que, por razões de segurança, o Pagseguro só efetua alteação de telefone mediante envio de documentação.</strong>
 
 Atenciosamente,
 Leandro Oliveira
@@ -49,7 +52,8 @@ Leandro Oliveira
 Equipe de Atendimento PagSeguro https://pagseguro.uol.com.br/
 PagSeguro. A solução completa para pagamentos online.
 
-DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>
+DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml
+</blockquote>
 
 <strong>Leandro,
 
@@ -63,7 +67,8 @@ Por favor, verifique este caso especificamente, independente do script padrão. 
 Obrigado.
 
 Resposta:
-<blockquote><strong>Olá cliente, como foi informado em seu atendimento anterior, por razões de segurança, o Pagseguro só efetua alteração de dados (telefone, endereço, razão social,...) mediante envio de documentação comprobatória.</strong>
+<blockquote>
+  <strong>Olá cliente, como foi informado em seu atendimento anterior, por razões de segurança, o Pagseguro só efetua alteração de dados (telefone, endereço, razão social,...) mediante envio de documentação comprobatória.</strong>
 
 Para concluirmos a alteração de seu telefone fixo, você deverá enviar-nos uma cópia da parte interna de sua conta de telefone. Para isto acesse sua conta PagSeguro, clique no menu "meus dados", "documentos" e selecione a opção "comprovante de endereço".
 
@@ -81,4 +86,5 @@ Leandro Oliveira
 Equipe de Atendimento PagSeguro https://pagseguro.uol.com.br/
 PagSeguro. A solução completa para pagamentos online.
 
-DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>
+DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml
+</blockquote>

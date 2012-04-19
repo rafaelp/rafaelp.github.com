@@ -3,3 +3,4 @@ auto: true
 exclude: README Gemfile Gemfile.lock CNAME
 permalink: /p/:title
 paginate: 5
+markdown: rdiscount

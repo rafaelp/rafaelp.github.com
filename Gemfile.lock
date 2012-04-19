@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rafaelp/jekyll.git
-  revision: b70763f376a9646612c0822fb2c1b454ee4f6569
+  revision: 24dd8644bb82e32e3aaa8715bd6d2b80cf243fff
   specs:
     jekyll (0.11.2)
       albino (~> 1.3)

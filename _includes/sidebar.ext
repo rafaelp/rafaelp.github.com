@@ -1,4 +1,9 @@
 <div id="sidebar">
+  <p style="text-align: center">
+    <a href="http://feeds.feedburner.com/rafael_lima" target="_blank"><img src="http://a.dryicons.com/images/icon_sets/coquette_icons_set/png/64x64/rss.png" width="64" height="64" style="margin: 0 0.5em"></a>
+    <a href="http://twitter.com/rafaelp" target="_blank"><img src="http://c.dryicons.com/images/icon_sets/coquette_part_4_icons_set/png/64x64/twitter.png" width="64" height="64" style="margin: 0 0.5em"></a>
+    <a href="http://scr.im/rafaelp" target="_blank"><img src="http://b.dryicons.com/images/icon_sets/coquette_icons_set/png/64x64/mail.png" width="64" height="64" style="margin: 0 0.5em""></a>
+  </p>
   <div id="text-4" class="widget widget_text"><h3>Sobre o autor<span class="fold">&nbsp;</span></h3>			<div class="textwidget">	<img src="/wp-content/uploads/2011/06/rafael_lima-tratada-430x430-300x300.jpg" width="120" height="120" alt="Rafael Lima"/ align="left" style="margin: 0">
     <p style="font-size: 1em">Empreendedor e Desenvolvedor Web. Fundador da <a href="http://bielsystems.com.br" target="_blank" style="color: #3080CB !important">BielSystems</a>, do <a href="http://startupdev.com.br" target="_blank" style="color: #3080CB !important">Startup DEV</a> e sócio da <a href="http://helabs.com.br" target="_blank" style="color: #3080CB !important">HE Labs</a>. <a href="/sobre" style="color: #3080CB !important">Leia mais..</a><br/>
       <a href="http://scr.im/rafaelp" style="color: #3080CB !important">E-mail</a> | <a href="http://twitter.com/rafaelp" style="color: #3080CB !important">Twitter</a></p>

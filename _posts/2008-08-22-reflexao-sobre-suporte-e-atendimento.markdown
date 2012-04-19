@@ -14,7 +14,7 @@ categories:
 - "Podcast: Voltando pra Casa"
 tags: 
 - webapp
-- "contrata\xC3\xA7\xC3\xA3o"
+- "contratação"
 - suporte
 - atendimento
 - podcast

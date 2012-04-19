@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Depend\xC3\xAAncias externas em um servi\xC3\xA7o no modelo aplica\xC3\xA7\xC3\xA3o web"
+title: "Depend\xC3\xAAncias externas em um servi\xC3\xA7o no modelo aplicação web"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br

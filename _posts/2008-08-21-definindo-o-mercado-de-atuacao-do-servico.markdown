@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Definindo o mercado de atua\xC3\xA7\xC3\xA3o do servi\xC3\xA7o"
+title: "Definindo o mercado de atuação do servi\xC3\xA7o"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br

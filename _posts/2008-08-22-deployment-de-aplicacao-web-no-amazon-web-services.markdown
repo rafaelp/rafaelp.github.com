@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Deployment de aplica\xC3\xA7\xC3\xA3o web no Amazon Web Services"
+title: "Deployment de aplicação web no Amazon Web Services"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br

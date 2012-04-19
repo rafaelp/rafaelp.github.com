@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Marketing vs Produ\xC3\xA7\xC3\xA3o"
+title: "Marketing vs Produção"
 author: podcast_deployment
 author_login: podcast_deployment
 author_email: rafael.lima.paula@gmail.com
@@ -14,10 +14,10 @@ categories:
 - "Podcast: Voltando pra Casa"
 tags: 
 - desenvolvimento
-- "programa\xC3\xA7\xC3\xA3o"
+- "programação"
 - marketing
 - podcast
-- "produ\xC3\xA7\xC3\xA3o"
+- "produção"
 ---
 Meu lado comercial manda tocar o barco e publicar o código que simplesmente funciona e o meu lado desenvolvedor manda utilizar todas as boas práticas. O que eu faço?
 

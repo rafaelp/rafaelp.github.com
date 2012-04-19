@@ -14,7 +14,7 @@ categories:
 - "Podcast: Voltando pra Casa"
 tags: 
 - desenvolvimento
-- "programa\xC3\xA7\xC3\xA3o"
+- "programação"
 - podcast
 - carreira
 ---

@@ -8,19 +8,6 @@ var pageTracker = _gat._getTracker("UA-257015-5");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<script src="http://cdn.wibiya.com/Toolbars/dir_0009/Toolbar_9298/Loader_9298.js" type="text/javascript"></script>
-<script type="text/javascript" id="navegg" src="http://lt.navegg.com/lt.js?12596"></script>
-<!-- Iniciar código rankmonitor.com.br #### Não modifique nada ou seu contador poderá parar de funcionar #### -->
-<div id="rankmonitor_tracking">
-</div>
-<script type="text/javascript">
-(function() {
-  var _rm = document.createElement('script'); _rm.type = 'text/javascript';
-  _rm.src = 'http://www.rankmonitor.com.br/monitor/4e1e3474f233190001000004.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(_rm, s);
-  })();
-</script>
-<!-- Fim do código rankmonitor.com.br -->
 <script type="text/javascript">
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
 var disqus_shortname = 'rafaellima'; // required: replace example with your forum shortname

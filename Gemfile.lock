@@ -20,6 +20,7 @@ GEM
     directory_watcher (1.4.1)
     fast-stemmer (1.0.1)
     haml (3.1.4)
+    htmlentities (4.3.1)
     jekyll_ext (0.1.4)
     kramdown (0.13.5)
     liquid (2.3.0)
@@ -35,6 +36,7 @@ PLATFORMS
 
 DEPENDENCIES
   haml (= 3.1.4)
+  htmlentities (= 4.3.1)
   jekyll!
   jekyll_ext (= 0.1.4)
   rdiscount (= 1.6.8)

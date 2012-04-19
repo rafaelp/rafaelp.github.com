@@ -1,27 +1,25 @@
----
+--- 
 layout: post
 status: publish
 published: true
-title: Depend&ecirc;ncias externas em um servi&ccedil;o no modelo aplica&ccedil;&atilde;o
-  web
+title: "Depend\xC3\xAAncias externas em um servi\xC3\xA7o no modelo aplica\xC3\xA7\xC3\xA3o web"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 218
 wordpress_url: http://rafael.adm.br/?p=218
-date: 2008-08-20 00:45:02.000000000 -03:00
-categories:
-- ! 'Podcast: Voltando pra Casa'
-- podcast
-tags:
+date: 2008-08-20 00:45:02 -03:00
+categories: 
+- "Podcast: Voltando pra Casa"
+tags: 
 - desenvolvimento
 - webapp
-- servi&ccedil;o
+- "servi\xC3\xA7o"
 - podcast
-podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0005.mp3
 ---
-N&oacute;s nos preocupamos com as depend&ecirc;ncias externas em software, mas ser&aacute; que pensamos nas depend&ecirc;ncias externas do servi&ccedil;o como um todo!?
+Nós nos preocupamos com as dependências externas em software, mas será que pensamos nas dependências externas do serviço como um todo!?
 
-<a class="noborder" href="http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0005.mp3" title="Download"><img src="http://rafael.adm.br/wp-content/themes/rafael_lima-rockinblue/images/download_green.gif" border="0" alt="Download" /></a> <a class="noborder" href="http://feeds.feedburner.com/rafael_lima_podcast" title="RSS"><img src="http://rafael.adm.br/wp-content/themes/rafael_lima-rockinblue/images/icn-feed-16x16.png" border="0" alt="RSS" /></a>
+<a class="noborder" href="http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0005.mp3" title="Download"><img src="http://rafael.adm.br/images/download_green.gif" border="0" alt="Download" /></a> <a class="noborder" href="http://feeds.feedburner.com/rafael_lima_podcast" title="RSS"><img src="http://rafael.adm.br/images/icn-feed-16x16.png" border="0" alt="RSS" /></a>
 
+[podcast]http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0005.mp3[/podcast]

@@ -1,12 +1,13 @@
 require 'nokogiri'
 require 'rdiscount'
+require 'htmlentities'
 
 module Liquid
   
   module ExtendedFilters
     
     def parametrize(input)
-      Permalink.make(input)
+      Permalink.make(HTMLEntities.new.decode(input))
     end
 
     def date_to_month(input)

@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Empretec, eu fiz!
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 432
 wordpress_url: http://rafael.adm.br/?p=432
 date: 2009-12-06 22:56:07 -02:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- empreendedorismo
+- business
+- empretec
 ---
 <span style="color: #999999;">Mesmo que você não tenha feito o Empretec, pode ler este post, pois não revelo nada sobre a metodologia.</span>
 

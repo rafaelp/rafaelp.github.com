@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Resultado do desenvolvimento do ContaCal no Startup DEV
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 617
 wordpress_url: http://rafael.adm.br/?p=617
 date: 2011-08-30 10:11:21 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- development
+- startupdev
+- leanstartup
+- clientefeliz
 ---
 Na semana passada, <a href="http://rafael.adm.br/p/startup-dev-da-vez-contacal/">realizamos um Startup DEV</a> para o desenvolvimento de um sistema chamado ContaCal.
 
@@ -16,7 +30,7 @@ Vale lembrar que nós não fizemos <a href="http://www.contacal.com.br/">o site 
 
 Pelo que pude perceber, nosso cliente ficou bem feliz e inclusive nos recomendou pelo Twitter :)
 
-<a href="/wp-content/uploads/2011/08/Screen-shot-2011-08-30-at-10.02.56-AM.png"><img src="/wp-content/uploads/2011/08/Screen-shot-2011-08-30-at-10.02.56-AM-269x300.png" alt="" title="Tweet do Joca" width="269" height="300" class="aligncenter size-medium wp-image-619" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2011/08/Screen-shot-2011-08-30-at-10.02.56-AM.png"><img src="http://rafael.adm.br/wp-content/uploads/2011/08/Screen-shot-2011-08-30-at-10.02.56-AM-269x300.png" alt="" title="Tweet do Joca" width="269" height="300" class="aligncenter size-medium wp-image-619" /></a>
 
 Ele também escreveu um <a href="http://www.jocaonstuff.com/2011/08/lean-startup-validation-experiment-phase-2/">post sobre seus experimentos de Lean Startup</a>.
 

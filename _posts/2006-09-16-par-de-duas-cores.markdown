@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Par de duas cores
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 80
 wordpress_url: http://rafael.adm.br/p/par-de-duas-cores/
 date: 2006-09-16 13:37:10 -03:00
+categories: 
+- Brainstorm
+tags: 
+- Brainstorm
 ---
 Imagina só, as pessoas na rua andando com um lado do tênis azul e outro verde. Parece coisa de maluco né!?!? Na verdade isso é apenas uma questão cultural. Se todos andassem assim ninguém iria achar estranho.
 

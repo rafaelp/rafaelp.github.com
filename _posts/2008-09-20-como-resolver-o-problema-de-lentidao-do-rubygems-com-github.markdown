@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Como resolver o problema de lentid\xC3\xA3o do Rubygems com Github"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 248
 wordpress_url: http://rafael.adm.br/?p=248
 date: 2008-09-20 12:17:47 -03:00
+categories: 
+- Posts
+tags: 
+- rails
+- ruby
+- github
+- gem
+- rubygems
 ---
 Toda vez que eu ia instalar uma nova gem, eu tinha que esperar a atualização dos metadados de todas as novidades do GitHub. Isso era um pé no saco pois tornava uma simples instalação muiiiiito lenta.
 

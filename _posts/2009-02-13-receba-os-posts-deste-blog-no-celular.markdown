@@ -1,9 +1,20 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Receba os posts deste blog no celular
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 277
 wordpress_url: http://rafael.adm.br/?p=277
 date: 2009-02-13 16:06:51 -02:00
+categories: 
+- Posts
+tags: 
+- Celular
+- posts
 ---
 <strong>Atualização: Dependendo da operadora você pode ter custo para receber o SMS.</strong>
 

@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Como converter seus e-mail do Thunderbird para o Windows Mail (Vista)
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 120
 wordpress_url: http://rafael.adm.br/p/como-converter-seus-e-mail-do-thunderbird-para-o-windows-mail-vista/
 date: 2007-04-29 13:03:01 -03:00
+categories: 
+- Posts
+tags: 
+- email
+- how-to
+- windows
+- mail
+- thunderbird
 ---
 Meu pai comprou um novo computador com o Windows Vista. Antes ele tinha o Windows XP rodando o Firefox e Thunderbird como eu mesmo havia sugerido. Agora, como o Vista já tem tudo arrumadinho e bonitinho ele resolveu usar o Intenet Explorer 7 e o Windows Mail (antigo Outlook Express).
 

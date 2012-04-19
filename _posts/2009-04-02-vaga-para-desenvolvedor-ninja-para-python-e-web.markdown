@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Vaga para Desenvolvedor Ninja para Python e Web
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 306
 wordpress_url: http://rafael.adm.br/?p=306
 date: 2009-04-02 17:29:47 -03:00
+categories: 
+- Posts
+tags: 
+- "programa\xC3\xA7\xC3\xA3o"
+- web
+- python
+- desenvolvedor
+- oportunidade
+- programador
 ---
 Este texto foi copiado do <a href="http://henriquebastos.net/2009/04/02/vaga-para-desenvolvedor-ninja-para-python-e-web/">post do Henrique</a>.
 

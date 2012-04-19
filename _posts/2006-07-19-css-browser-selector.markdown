@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: CSS Browser Selector
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 58
 wordpress_url: http://rafael.adm.br/p/css-browser-selector/
 date: 2006-07-19 23:29:24 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- tweak
+- web
+- snippet
+- css
 ---
 Simple trick to help you on CSS hacks!
 

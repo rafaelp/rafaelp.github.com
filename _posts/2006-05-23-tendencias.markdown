@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Tend\xC3\xAAncias"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 46
 wordpress_url: http://rafael.adm.br/p/tendencias/
 date: 2006-05-23 23:51:30 -03:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- google
+- "comunica\xC3\xA7\xC3\xA3o"
+- futuro
+- imprensa
+- web2.0
 ---
 Para quem não conhece, o <a title="Visitar o Google Trends (nova janela)" target="_blank" href="http://www.google.com/trends">Google Trends</a>, é uma ferramenta que apresenta, em forma de gráficos, a relação entre dois ou mais termos de busca.
 

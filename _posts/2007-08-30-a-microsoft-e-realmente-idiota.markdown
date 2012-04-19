@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "A Microsoft \xC3\xA9 realmente idiota"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 136
 wordpress_url: http://rafael.adm.br/p/a-microsoft-e-realmente-idiota/
 date: 2007-08-30 23:50:20 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Eu esqueci minha senha do hotmail, na tela de login cliquei em "Esqueci minha senha".
 Na tela seguinte digitei o meu e-mail e os caracteres anti-spam.

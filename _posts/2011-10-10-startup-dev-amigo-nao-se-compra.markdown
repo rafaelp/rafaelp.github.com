@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Startup DEV: Amigo n\xC3\xA3o se compra"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 644
 wordpress_url: http://rafael.adm.br/?p=644
 date: 2011-10-10 16:32:44 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Estamos prontos para fazer mais um Startup DEV!
 
@@ -11,7 +21,7 @@ Para quem não sabe, o <a href="http://startupdev.com.br">Startup DEV</a> é um 
 
 O Startup DEV que começa amanhã tratará de um tema muito especial: adoção de animais domésticos, principalmente cães e gatos. É preciso muita responsabilidade ao possuir um animal. Eles tem sentimento e precisam de cuidado especial, tão como fornecemos a nossos filhos.
 
-<a href="http://www.amigonaosecompra.com.br/"><img src="/wp-content/uploads/2011/10/logomarca-amigonaosecompra.png" alt="" title="logomarca-amigonaosecompra" width="248" height="77" class="aligncenter size-full wp-image-646" border="0" style="border: 0" /></a>
+<a href="http://www.amigonaosecompra.com.br/"><img src="http://rafael.adm.br/wp-content/uploads/2011/10/logomarca-amigonaosecompra.png" alt="" title="logomarca-amigonaosecompra" width="248" height="77" class="aligncenter size-full wp-image-646" border="0" style="border: 0" /></a>
 
 O portal Amigo não se compra vai ajudar animais abandonados de todo o país a terem um novo lar. O portal irá facilitar a adoção de animais ao permitir que ONGs e protetores independentes divulguem os animais que tem para adoção.
 

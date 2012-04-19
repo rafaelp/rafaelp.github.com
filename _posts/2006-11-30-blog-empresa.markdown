@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Blog para Empresas
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 106
 wordpress_url: http://rafael.adm.br/p/blog-empresa/
 date: 2006-11-30 14:38:35 -02:00
+categories: 
+- Posts
+tags: []
+
 ---
 Lançamos hoje o serviço <a href="http://blogempresa.com.br">Blog Empresa - A plataforma para blogs corporativos</a>.
 

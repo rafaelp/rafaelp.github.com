@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Pagamento on-line no Brasil - Bancos Online
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 394
 wordpress_url: http://rafael.adm.br/?p=394
 date: 2009-09-29 22:38:39 -03:00
+categories: 
+- Posts
+tags: 
+- webapp
+- e-commerce
+- venda
+- "cobran\xC3\xA7a"
+- pagamento
 ---
 Se você possui um negócio na internet, cujo modelo de remuneração seja baseado em venda de licença ou créditos para o usuário final, você irá precisar de uma infra-estrutura de pagamento online.
 

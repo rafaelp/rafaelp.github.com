@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Workshop de Lean Startup em Bras\xC3\xADlia"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 605
 wordpress_url: http://rafael.adm.br/?p=605
 date: 2011-08-26 11:09:36 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Eu tenho estudado e aplicado as técnicas de Lean Startup em meus negócios faz tempo. Nos últimos meses eu comecei a compartilhar o que eu estou aprendendo através do <a href="http://bit.ly/leanstartup-bsb">Workshop Bootstrappers</a>, que começou sendo um workshop online, realizado pelo <a href="http://treinatom.com.br">Treina TOM</a>.
 

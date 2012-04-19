@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Trabalho e Divers\xC3\xA3o na HE Labs"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 709
 wordpress_url: http://rafael.adm.br/?p=709
 date: 2012-04-04 16:35:18 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Faz tempo que não escrevo, mas quem me <a href="http://twitter.com/rafaelp">acompanha no Twitter</a> sabe das minhas últimas realizações.
 
@@ -41,7 +51,7 @@ Para exemplificar como estamos trabalhando, um dos times que montamos foi para t
 
 Para a galera que trabalha no nosso escritório no Centro, temos um brinquedinho que sempre dá Ibope que é a nossa máquina de Pinball.
 
-<a href="/wp-content/uploads/2012/04/pinball.jpg"><img src="/wp-content/uploads/2012/04/pinball-300x225.jpg" alt="" title="pinball" width="300" height="225" class="aligncenter size-medium wp-image-712" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2012/04/pinball.jpg"><img src="http://rafael.adm.br/wp-content/uploads/2012/04/pinball-300x225.jpg" alt="" title="pinball" width="300" height="225" class="aligncenter size-medium wp-image-712" /></a>
 
 Enfim, estamos contratando e de portas abertas para conversar com bons profissionais que buscam um lugar diferenciado para se trabalhar.
 

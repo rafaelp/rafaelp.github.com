@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "N\xC3\xA3o fa\xC3\xA7a tudo que voc\xC3\xAA sabe fazer"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 107
 wordpress_url: http://rafael.adm.br/p/nao-faca-tudo-que-voce-sabe-fazer/
 date: 2006-12-11 23:06:41 -02:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- "neg\xC3\xB3cios"
+- projetos
 ---
 Muitas vezes os desenvolvedores querem fazer tudo da maneira mais automatizada e desenvolver por conta própria todas as funcionalidades dos sistemas de sua própria empresa ou dos projetos desenvolvidos para os clientes.
 

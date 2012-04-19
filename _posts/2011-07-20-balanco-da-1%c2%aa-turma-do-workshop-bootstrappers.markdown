@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Balan\xC3\xA7o da 1\xC2\xAA turma do Workshop Bootstrappers"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 548
 wordpress_url: http://rafael.adm.br/?p=548
 date: 2011-07-20 20:56:22 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Há cerca de dois meses atrás eu vislumbrei um <a href="http://bootstrappers.com.br/workshop">workshop de empreendedorismo</a> onde eu pudesse falar sobre o aprendizado adquirido no processo de gestão da <a href="http://bielsystems.com.br">BielSystems</a> e criação dos novos produtos como o <a href="http://cobregratis.com.br">Cobre Grátis</a>.
 

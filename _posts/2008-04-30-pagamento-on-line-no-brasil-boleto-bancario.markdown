@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Pagamento on-line no Brasil - Boleto Banc\xC3\xA1rio"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 184
 wordpress_url: http://rafael.adm.br/p/pagamento-on-line-no-brasil-boleto-bancario/
 date: 2008-04-30 17:47:54 -03:00
+categories: 
+- Posts
+tags: 
+- webapp
+- e-commerce
+- venda
+- "cobran\xC3\xA7a"
+- pagamento
 ---
 <strong>Atualizado em 06/11/2009:</strong> O <a href="http://cobregratis.com.br/?utm_campaign=blogwatch&amp;utm_source=rafael.adm.br&amp;utm_medium=link&amp;utm_term=pagamento-on-line-no-brasil-boleto-bancario">Cobre Grátis</a> emite e gerencia boletos bancários gratuitamente.
 
@@ -36,7 +50,7 @@ Você vai precisar de um software para gerar o boleto. De preferência que possa
 
 Na BielSystems usamos os serviços da Cobre Bem em conjunto com a nossa extranet desenvolvida "em casa". Além do sistema de geração do boleto, você vai precisar de um sistema de gerenciamento de boleto. A extranet da BielSystems cuida disso tudo. Enviamos o boleto em PDF por e-mail e realizamos a baixa automática de acordo com o arquivo retorno do banco. Abaixo uma captura de tela, qualquer semelhança com <a href="http://37signals.com">37signals</a> é pura coincidência!
 
-<a href="/wp-content/uploads/2008/04/bielsystems-extranet.png"><img src="/wp-content/uploads/2008/04/bielsystems-extranet.png" alt="Extranet da BielSystems" width="504" height="300" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2008/04/bielsystems-extranet.png"><img src="http://rafael.adm.br/wp-content/uploads/2008/04/bielsystems-extranet.png" alt="Extranet da BielSystems" width="504" height="300" /></a>
 
 Nossa extranet é um web service que é acessado pelas nossas aplicações, ou seja, todo o processo está 100% automatizado, mas chegar neste ponto deu um trabalhão.
 

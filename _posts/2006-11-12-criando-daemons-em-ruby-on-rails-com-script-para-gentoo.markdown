@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Criando daemons em Ruby on Rails (com script para Gentoo)
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 104
 wordpress_url: http://rafael.adm.br/p/criando-daemons-em-ruby-on-rails-com-script-para-gentoo/
 date: 2006-11-12 13:29:32 -02:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- rails
+- ruby
+- gentoo
 ---
 <h4>ruby on rails+daemon gem+daemon plugin+capistrano+gentoo linux</h4>
 

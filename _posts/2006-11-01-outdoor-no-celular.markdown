@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Outdoor no Celular
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 99
 wordpress_url: http://rafael.adm.br/p/outdoor-no-celular/
 date: 2006-11-01 01:31:50 -03:00
+categories: 
+- Posts
+- Brainstorm
+tags: 
+- Tecnologia
+- design
+- futuro
+- Brainstorm
+- marketing
 ---
 Eu adoro pensar no futuro, como a tecnologia pode beneficiar (ou não!) nossas vidas. Conversei ontem com meu parceiro Marcelo e ele me falou sobre uma nova forma de publicidade que está dando as caras por aí. Trata-se de anúncios por <a href="http://www.google.com.br/search?hl=pt-BR&hs=d96&lr=&client=firefox-a&rls=org.mozilla:en-US:official&defl=pt&q=define:Bluetooth&sa=X&oi=glossary_definition&ct=title">bluetooth</a>.
 

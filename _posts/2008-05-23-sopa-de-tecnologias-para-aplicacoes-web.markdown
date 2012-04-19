@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Sopa de Tecnologias para Aplica\xC3\xA7\xC3\xB5es Web"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 199
 wordpress_url: http://rafael.adm.br/?p=199
 date: 2008-05-23 08:51:48 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- webapp
 ---
 Nesta semana, estava me preparando para uma reunião e acabei listando algumas palavras chaves importantes para desenvolvimento de uma aplicação web. São elas:
 <ul>

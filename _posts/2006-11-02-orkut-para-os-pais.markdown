@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Orkut para os pais
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 101
 wordpress_url: http://rafael.adm.br/p/orkut-para-os-pais/
 date: 2006-11-02 11:48:25 -03:00
+categories: 
+- Posts
+tags: 
+- google
+- privacidade
+- orkut
+- amizades
 ---
 Quando escrevi o post <a href="http://rafael.adm.br/p/o-sentido-do-orkut">O sentido do Orkut</a>, não imaginei a repercussão que daria e muito menos que faria uma "parte 2".
 

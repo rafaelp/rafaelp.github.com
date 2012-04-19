@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Rapidinha: Planilha e Velocidade"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 49
 wordpress_url: http://rafael.adm.br/p/rapidinha-planilha-e-velocidade/
 date: 2006-06-07 00:06:50 -03:00
+categories: 
+- Posts
+tags: 
+- google
+- "comunica\xC3\xA7\xC3\xA3o"
+- planilha
+- webapp
 ---
 Já parou para perceber a velocidade com que as coisas estão acontecendo? As notícias agoras são dadas em termos de horas!
 <blockquote><span class="navegacao">"O Google vai lançar uma planilha na web dentro de algumas horas, segundo acaba de informar o Wall Street Journal."</span>

@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Nova Home Page do Yahoo
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 43
 wordpress_url: http://rafael.adm.br/p/nova-home-page-do-yahoo/
 date: 2006-05-17 13:20:33 -03:00
+categories: 
+- Posts
+tags: 
+- yahoo
+- design
+- interface
+- web2.0
 ---
 Recentemente o Yahoo <a target="_blank" title="Ver o post (nova janela)" href="http://www.ysearchblog.com/archives/000304.html">publicou em seu blog</a> que estará renovando sua <a title="Visitar o Preview (nova janela)" target="_blank" href="http://www.yahoo.com/preview">página inicial</a>. Eu entrei para analisar e duas coisas me chamaram muito a atenção! Não farei uma análise da página incial nova aqui, mas comentarei sobre dois detalhes, um que gostei muito e outro que não gostei tanto.
 
@@ -22,11 +35,11 @@ Segundo a <a title="Visitar o site (nova janela)" target="_blank" href="http://3
 
 Na primeira vez que você entra na <a target="_blank" title="Ver o preview (nova janela)" href="http://www.yahoo.com/preview">página nova do Yahoo</a>, ele apresenta uma barra bem no topo oferecendo um tour.
 
-<img width="486" height="36" id="image42" alt="Yahoo Blank State- Toolbar" src="/wp-content/uploads/2006/05/yahho_blank_state-toolbar.png" />
+<img width="486" height="36" id="image42" alt="Yahoo Blank State- Toolbar" src="http://rafael.adm.br/wp-content/uploads/2006/05/yahho_blank_state-toolbar.png" />
 
 Ao clicar em "Take a quick tour" ele baixa uma "camada" por cima da própria página e começa a mostrar cada área, com suas opções e uma breve explicação sobre como utilizá-las.
 
-<img id="image44" alt="Yahoo Blank State- Screenshot" src="/wp-content/uploads/2006/05/yahoo_blank_state-full.png" />
+<img id="image44" alt="Yahoo Blank State- Screenshot" src="http://rafael.adm.br/wp-content/uploads/2006/05/yahoo_blank_state-full.png" />
 
 Achei genial esta solução. Eu imaginava algo do gênero para o <a title="Visitar o site do BielBid (nova janela)" target="_blank" href="http://bielbid.com.br">sitema de compras BielBid</a>, não como uma camada por cima, mas com textos explicativos perto de cada opção. Fatalmente irei utilizar a <a title="Visitar o preview (nova janela)" target="_blank" href="http://www.yahoo.com/preview">solução do Yahoo</a> para cada tela do meu sistema.
 Eu já pensei sobre algumas vantagens de utilizar esta solução:

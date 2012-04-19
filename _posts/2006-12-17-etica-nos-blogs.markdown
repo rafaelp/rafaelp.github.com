@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "\xC3\x89tica nos blogs"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 109
 wordpress_url: http://rafael.adm.br/p/etica-nos-blogs/
 date: 2006-12-17 20:38:55 -02:00
+categories: 
+- Posts
+tags: []
+
 ---
 <strong>Atualizado:</strong>
 1. Meu objetivo com este post era ajudar a blogosfera a postar com mais cuidado.

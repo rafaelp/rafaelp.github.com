@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Experimento de Lean Startup sobre Pre\xC3\xA7o"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 665
 wordpress_url: http://rafael.adm.br/?p=665
 date: 2011-10-28 23:25:16 -02:00
+categories: 
+- Posts
+tags: []
+
 ---
 Eu aplico técnicas de Lean Startup em todos os meus negócios . Esse último experimento que vou apresentar, mostra como o preço é um fator fundamental no seu modelo de negócios.
 
@@ -22,7 +32,7 @@ Na página de apresentação do workshop eu coloquei os elementos mais important
 </ul>
 
 Clique na imagem para ampliar:
-<a href="/wp-content/uploads/2011/10/workshop-lean-startup.png" target="_blank"><img src="/wp-content/uploads/2011/10/workshop-lean-startup-300x171.png" alt="" title="workshop-lean-startup" width="300" height="171" class="aligncenter size-medium wp-image-667" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2011/10/workshop-lean-startup.png" target="_blank"><img src="http://rafael.adm.br/wp-content/uploads/2011/10/workshop-lean-startup-300x171.png" alt="" title="workshop-lean-startup" width="300" height="171" class="aligncenter size-medium wp-image-667" /></a>
 
 Neste caso o Call-to-Action é o botão realizar inscrição. A minha medida de conversão para esta página é a quantidade de cliques neste botão.
 
@@ -43,7 +53,7 @@ Desta vez o resultado não foi tão surpreendente pra mim, pois aconteceu o que 
 A página sem o preço se mostrou ser 172,9% melhor que a página com o preço.
 
 Veja o gráfico do resultado (clique na imagem para ampliar).
-<a href="/wp-content/uploads/2011/10/split-test-lean-startup-workshop-preco.png" target="_blank"><img src="/wp-content/uploads/2011/10/split-test-lean-startup-workshop-preco-300x164.png" alt="" title="split-test-lean-startup-workshop-preco" width="300" height="164" class="aligncenter size-medium wp-image-669" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2011/10/split-test-lean-startup-workshop-preco.png" target="_blank"><img src="http://rafael.adm.br/wp-content/uploads/2011/10/split-test-lean-startup-workshop-preco-300x164.png" alt="" title="split-test-lean-startup-workshop-preco" width="300" height="164" class="aligncenter size-medium wp-image-669" /></a>
 
 <strong>Conclusão</strong>
 

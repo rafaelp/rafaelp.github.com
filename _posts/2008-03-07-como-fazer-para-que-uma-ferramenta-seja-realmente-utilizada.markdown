@@ -1,9 +1,26 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Como fazer para que uma ferramenta seja realmente utilizada?
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 171
 wordpress_url: http://rafael.adm.br/p/como-fazer-para-que-uma-ferramenta-seja-realmente-utilizada/
 date: 2008-03-07 14:07:41 -03:00
+categories: 
+- Posts
+tags: 
+- google
+- usabilidade
+- webapp
+- sistema
+- cms
+- "conte\xC3\xBAdo"
+- "manuten\xC3\xA7\xC3\xA3o"
+- "aplica\xC3\xA7\xC3\xA3o"
 ---
 Este post é uma resposta ao comentário feito pelo Alessandro no <a href="http://rafael.adm.br/p/google-sites/">post sobre o Google Sites.</a>
 <blockquote>Rafael, também estamos avaliando o Google Sites para centralizar as informações de um projeto da empresa.

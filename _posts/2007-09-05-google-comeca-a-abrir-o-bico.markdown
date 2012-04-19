@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Google come\xC3\xA7a a abrir o bico"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 138
 wordpress_url: http://rafael.adm.br/p/google-comeca-a-abrir-o-bico/
 date: 2007-09-05 01:29:26 -03:00
+categories: 
+- Posts
+tags: 
+- Tecnologia
+- google
+- gmail
+- email
+- "tend\xC3\xAAncias"
 ---
 Você acha que seus atuais 2.8GB de espaço do Gmail vão aumentar para sempre? Não é o que parece. O Google começa a vender storage (espaço em disco) e por conta disso podemos concluir que o contador do espaço disponível no Gmail uma hora vai parar.
 

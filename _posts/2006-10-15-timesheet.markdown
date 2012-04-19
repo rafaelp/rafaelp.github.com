@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Timesheet
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 94
 wordpress_url: http://rafael.adm.br/p/timesheet/
 date: 2006-10-15 18:21:57 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- usabilidade
+- simplicidade
 ---
 O <a href="http://simplesideias.com.br">Nando Vieira</a> está desenvolvendo um sistema de <a href="http://simplesideias.com.br/timesheet/">Timesheet para linux</a>. Ele pergunta no final do post se existe alguma funcionalidade que você gostaria que tivesse.
 

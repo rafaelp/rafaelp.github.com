@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Bluetooth no capacete
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 83
 wordpress_url: http://rafael.adm.br/p/bluetooth-no-capacete/
 date: 2006-09-16 13:57:27 -03:00
+categories: 
+- Brainstorm
+tags: []
+
 ---
 A maioria de minhas idéias ocorre quando estou no trânsito. Esta foi quando eu vi um motoqueiro conversando com o carona. Ele estava se virando para trás para poder falar pois o vento atrapalhava. Lembrei de outras ocasiões que vi motoqueiros conversando com caronas, é sempre assim.
 

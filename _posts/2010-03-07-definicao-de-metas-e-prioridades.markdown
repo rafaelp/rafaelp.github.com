@@ -1,9 +1,20 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Defini\xC3\xA7\xC3\xA3o de Metas e Prioridades"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 447
 wordpress_url: http://rafael.adm.br/?p=447
 date: 2010-03-07 14:21:36 -03:00
+categories: 
+- Posts
+tags: 
+- empretec
+- cce
 ---
 Em resposta ao <a href="http://twitter.com/arsolto/statuses/10125064363">Tweete do Alan</a>, resolvi publicar este post.
 

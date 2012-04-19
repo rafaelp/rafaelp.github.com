@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: O Orkut e o ser humano
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 122
 wordpress_url: http://rafael.adm.br/p/o-orkut-e-o-ser-humano/
 date: 2007-05-01 15:10:11 -03:00
+categories: 
+- Posts
+tags: 
+- privacidade
+- orkut
+- sentimentos
+- comunidade
 ---
 Nesse final de semana eu estava na sauna do condomínio com uns amigos e ouvi uma definição curiosa sobre o Orkut. Eu particularmente achei ótima e por isso resolvi postar aqui.
 

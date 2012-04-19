@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Page Up e Page Down no Terminal do Mac
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 239
 wordpress_url: http://rafael.adm.br/?p=239
 date: 2008-09-09 00:07:01 -03:00
+categories: 
+- Posts
+tags: 
+- editor
+- mac
+- macos
 ---
 Cada vez que eu precisava editar um arquivo grande pelo terminal do mac estava sendo um parto. Não conseguia de jeito nenhum usa o page up e page down.
 

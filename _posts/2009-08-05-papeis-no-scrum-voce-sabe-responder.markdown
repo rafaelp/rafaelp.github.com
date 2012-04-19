@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Pap\xC3\xA9is no SCRUM - Voc\xC3\xAA sabe responder?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 375
 wordpress_url: http://rafael.adm.br/?p=375
 date: 2009-08-05 12:03:10 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- gerenciamento
+- software
+- "gest\xC3\xA3o"
+- scrum
 ---
 <strong>Atualização em 18/08/09</strong> - Depois de esvaziar o buffer neste post, continuei lendo e pesquisando sorbe o assunto. Pretendo formatar um modelo que funcione bem para as características específicas aqui da Myfreecomm. Nas leituras achei <a href="http://blog.xebia.com/2009/07/04/flow-to-ready-iterate-to-done/">este post que responde exatamente as minhas perguntas</a>.
 

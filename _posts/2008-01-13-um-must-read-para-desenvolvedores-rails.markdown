@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Um must-read para desenvolvedores Rails
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 157
 wordpress_url: http://rafael.adm.br/p/um-must-read-para-desenvolvedores-rails/
 date: 2008-01-13 02:22:16 -02:00
+categories: 
+- Posts
+tags: 
+- "programa\xC3\xA7\xC3\xA3o"
+- rails
+- ruby
 ---
 Acabei de ler o <a href="http://www.zedshaw.com/rants/rails_is_a_ghetto.html">post do Zed sobre a decisão de largar a comunidade Rails</a>.
 

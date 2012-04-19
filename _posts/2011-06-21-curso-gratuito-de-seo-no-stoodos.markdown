@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Curso gratuito de SEO no Stoodos
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 527
 wordpress_url: http://rafael.adm.br/?p=527
 date: 2011-06-21 00:23:43 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 <strong>Atualização:</strong> Você pode <a href="https://ecommerce.bielsystems.com.br/checkout/curso-seo">comprar o vídeo do curso</a> para assistir on-line pelo preço que escolher!
 

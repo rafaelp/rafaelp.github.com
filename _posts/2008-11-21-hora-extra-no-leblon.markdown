@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Hora Extra no Leblon
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 270
 wordpress_url: http://rafael.adm.br/?p=270
 date: 2008-11-21 08:17:29 -02:00
+categories: 
+- Posts
+tags: 
+- "#horaextra"
 ---
 <strong>Atualizado: </strong> Veja o anúncio do <a href="http://rafael.adm.br/p/novo-ponto-de-encontro-do-hora-extra/">novo ponto de encontro</a>.
 

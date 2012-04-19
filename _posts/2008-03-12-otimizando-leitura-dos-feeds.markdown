@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Otimizando leitura dos feeds
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 172
 wordpress_url: http://rafael.adm.br/p/otimizando-leitura-dos-feeds/
 date: 2008-03-12 19:02:57 -03:00
+categories: 
+- Posts
+tags: 
+- gmail
+- feed
+- rss
+- "not\xC3\xADcia"
+- "informa\xC3\xA7\xC3\xA3o"
+- "otimiza\xC3\xA7\xC3\xA3o"
 ---
 Quem usa um agregador de feeds a bastante tempo sabe como se torna um problema ler tudo que pipoca diariamente.
 
@@ -16,7 +31,7 @@ Abrindo um parênteses...
 
 O Gmail possui um recurso chamado Web Clip que consiste numa barra que fica acima da lista de e-mail com o conteúdo dos feeds agregados passando.
 
-<img src="/wp-content/uploads/2008/03/gmail-customize-rss-clips.png" alt="Gmail Web Clip" height="94" width="600" />
+<img src="http://rafael.adm.br/wp-content/uploads/2008/03/gmail-customize-rss-clips.png" alt="Gmail Web Clip" height="94" width="600" />
 
 Por um tempo fiquei pensando por que que não existia uma integração entre o Google Reader e o Gmail para que o Web Clip apresentasse tudo que você tem no Google Reader.
 

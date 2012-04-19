@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Arquitetura de servidores para aplica\xC3\xA7\xC3\xB5es Rails"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 156
 wordpress_url: http://rafael.adm.br/p/arquitetura-de-servidores-para-aplicacoes-rails/
 date: 2008-01-11 14:01:07 -02:00
+categories: 
+- Posts
+tags: 
+- rails
+- webapp
+- servidores
+- "tend\xC3\xAAncias"
+- web-services
+- datacenter
 ---
 Eu estudei ontem várias opções de arquitetura para aplicações web, focando um pouco em Rails. Eu queria chegar há uma opção econômica que tivesse alta performance, alta disponibilidade e fosse altamente escalável.
 

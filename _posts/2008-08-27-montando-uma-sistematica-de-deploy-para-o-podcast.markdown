@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Montando uma sistem\xC3\xA1tica de deploy para o Podcast"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 216
 wordpress_url: http://rafael.adm.br/?p=216
 date: 2008-08-27 21:58:45 -03:00
+categories: 
+- Posts
+tags: 
+- dicas
+- podcast
+- mac
+- macos
+- "automatiza\xC3\xA7\xC3\xA3o"
 ---
 Todos nós sabemos que um projeto de software que não possui um deploy seguro e automático acaba falhando em algum momento. O deploy é o ato de colocar o que foi desenvolvido em produção.
 

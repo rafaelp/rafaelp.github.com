@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Engine Yard: Um hosting estilo Rails"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 63
 wordpress_url: http://rafael.adm.br/p/engine-yard-um-hosting-estilo-rails/
 date: 2006-08-03 01:21:42 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- rails
+- Tecnologia
+- servidores
+- infra-estrutura
 ---
 Estou muito perto de lançar o <a href="http://bielbid.com.br">sistema web de e-Procurement BielBid</a> e estive estudando mais a fundo a questão do deployment, que significa colocar o site on-line ou subir para o(s) servidor(es) de produção.
 

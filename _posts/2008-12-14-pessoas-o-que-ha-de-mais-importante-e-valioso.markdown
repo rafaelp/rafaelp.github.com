@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Pessoas, o que h\xC3\xA1 de mais importante e valioso"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 271
 wordpress_url: http://rafael.adm.br/?p=271
 date: 2008-12-14 12:47:16 -02:00
+categories: 
+- Posts
+tags: 
+- empresa
+- empreendedorismo
+- trabalho
+- "gest\xC3\xA3o"
 ---
 Eu vivo falando isso, mas me dei conta que nunca escrevi aqui.
 

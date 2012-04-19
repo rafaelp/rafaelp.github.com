@@ -1,9 +1,26 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Palavra do Rei - melhores pr\xC3\xA1ticas em desenvolvimento de software (proposta de meme)"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 203
 wordpress_url: http://rafael.adm.br/?p=203
 date: 2008-06-08 21:45:13 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- meme
+- dicas
+- equipe
+- myfreecomm
+- software
+- "melhores pr\xC3\xA1ticas"
 ---
 Na <a href="http://myfreecomm.com.br">Myfreecom</a> criamos uma série de regras que são o início do que virá a ser o conjunto de melhores práticas no desenvolvimento de software na empresa. "O Rei" é a inteligência superior resultante da opinião pessoal de cada um em relação a desenvolvimento de software.
 

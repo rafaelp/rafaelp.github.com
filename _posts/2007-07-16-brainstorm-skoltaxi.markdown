@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Brainstorm: SkolTaxi"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 130
 wordpress_url: http://rafael.adm.br/p/brainstorm-skoltaxi/
 date: 2007-07-16 23:52:44 -03:00
+categories: 
+- Brainstorm
+tags: 
+- Brainstorm
 ---
 A idéia original não era exatamente isso, mas depois no dia seguinte fui comentar com minha irmã e acabei chegando a esta versão da idéia. Para quem não sabe, brainstorm são posts sobre idéias criativas (e malucas!) que tenho basicamente sobre marketing e divulgação. A idéia de hoje ronda sobre o seguinte slogan:
 <strong>"Se beber, não dirija, pegue o SkolTaxi"</strong>

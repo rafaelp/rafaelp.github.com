@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Usabilidade em DVDs
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 48
 wordpress_url: http://rafael.adm.br/p/usabilidade-em-dvds/
 date: 2006-06-02 23:51:19 -03:00
+categories: 
+- Posts
+tags: 
+- Tecnologia
+- usabilidade
+- "eletr\xC3\xB4nicos"
 ---
 Após ler o post do André Valongueiro sobre <a title="Ver o post (nova janela)" target="_blank" href="http://valongueiro.blogspot.com/2006/05/usurios-dementes-e-usabilidade-uma.html">usabilidade no controle remoto de um DVD</a>, resolvi deixar a minha observação também.
 

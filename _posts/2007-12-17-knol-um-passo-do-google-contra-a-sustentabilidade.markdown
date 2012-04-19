@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Knol: Um passo do Google contra a sustentabilidade"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 148
 wordpress_url: http://rafael.adm.br/p/knol-um-passo-do-google-contra-a-sustentabilidade/
 date: 2007-12-17 10:41:57 -02:00
+categories: 
+- Posts
+tags: 
+- google
+- internet
+- lixo-virtual
+- sustentabilidade
+- knol
+- blog
 ---
 O Google está desenvolvendo um sistema chamado Knol (abreviatura de knowledge) que será rival da <a href="http://wikipedia.org">Wikipedia</a>. O <a href="http://googleblog.blogspot.com/2007/12/encouraging-people-to-contribute.html">anúncio foi feito no blog oficial</a>.
 

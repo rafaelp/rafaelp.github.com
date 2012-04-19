@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Participa\xC3\xA7\xC3\xA3o no Rails Summit"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 259
 wordpress_url: http://rafael.adm.br/?p=259
 date: 2008-10-17 21:30:39 -03:00
+categories: 
+- Posts
+tags: 
+- rails
+- comunidade
+- evento
+- railssummit
+- tdd
 ---
 Este post é só para constar que a Rails Summit foi excelente. <a href="http://www.akitaonrails.com/2008/10/17/rails-summit-ressaca-2">Fábio Akita</a> e <a href="http://locaweb.com.br/railssummit">Locaweb</a> estão de parabéns pelo sucesso do evento.
 

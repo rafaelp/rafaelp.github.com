@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Organizando a vida, infelizmente meu tempo n\xC3\xA3o \xC3\xA9 igual a cora\xC3\xA7\xC3\xA3o de m\xC3\xA3e."
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 344
 wordpress_url: http://rafael.adm.br/?p=344
 date: 2009-06-11 14:25:07 -03:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- webapp
+- "servi\xC3\xA7o"
+- produto
 ---
 Quem me acompanha por este blog ou pelo <a href="http://twitter.com/rafaelp">Twitter</a> sabe que no momento eu estou organizando minha vida e me desfazendo de alguns projetos pessoais. Eu já resolvi a <a href="http://rafael.adm.br/p/repassando-prospects-leads-e-novos-clientes-de-servicos-na-web/">questão dos prospects e clientes de serviços</a> e ontem eu <a href="http://twitter.com/rafaelp/status/2102976765">publiquei</a> <a href="http://twitter.com/rafaelp/status/2103020341">alguns</a> <a href="http://twitter.com/rafaelp/status/2103484126">tweets</a> <a href="http://twitter.com/rafaelp/status/2103504901">sobre</a> <a href="http://twitter.com/rafaelp/status/2103514940">produtos</a>.
 
@@ -21,13 +34,13 @@ O projeto mais simples que quero repassar é o <a href="http://rlwidgets.com/">R
 
 O RL Widgets é o conjunto de 3 widgets do iGoogle. Hoje conta com mais de 60 mil usuários cadastrados em todo o mundo e recebe cerca de 4.000 visitas diariamente hoje em dia.
 
-<a href="/wp-content/uploads/2009/06/picture-1.png" class="noborder"><img class="aligncenter size-medium wp-image-347" title="Visitas do RL Widgets" src="/wp-content/uploads/2009/06/picture-1-300x151.png" alt="Visitas do RL Widgets" width="300" height="151" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2009/06/picture-1.png" class="noborder"><img class="aligncenter size-medium wp-image-347" title="Visitas do RL Widgets" src="http://rafael.adm.br/wp-content/uploads/2009/06/picture-1-300x151.png" alt="Visitas do RL Widgets" width="300" height="151" /></a>
 
 Eu poderia deixá-lo parado como está, pois não me dá trabalho nenhum, mas mal ou bem isso fica em background, como uma pendência que tenho que resolver.
 
 Esse projeto é bem interessante para aqueles que desejam explorar o mercado internacional. Foi uma experiência incrível me comunicar com pessoas de todo o mundo. Recebi e-mails em francês, alemão, chinês ou japonês (nem sei identificar) e mais...
 
-<a href="/wp-content/uploads/2009/06/picture-3.png" class="noborder"><img class="aligncenter size-medium wp-image-348" title="Mapa das Visitas" src="/wp-content/uploads/2009/06/picture-3-300x180.png" alt="Mapa das Visitas" width="300" height="180" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2009/06/picture-3.png" class="noborder"><img class="aligncenter size-medium wp-image-348" title="Mapa das Visitas" src="http://rafael.adm.br/wp-content/uploads/2009/06/picture-3-300x180.png" alt="Mapa das Visitas" width="300" height="180" /></a>
 
 A monetização da aplicação foi através de doações, eu queria ver como funcionava esse processo. Ele está ligado ao Paypal onde recebo as doações e acreditem, recebi mais de U$ 1.500,00.
 

@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Using Gmail as email aggregator
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 26
 wordpress_url: http://rafael.adm.br/p/using-gmail-as-a-email-aggregator/
 date: 2006-04-24 00:47:14 -03:00
+categories: 
+- Posts
+tags: 
+- google
+- gmail
+- tweak
+- email
+- aggregator
+- email-aggregator
 ---
 I realized today that gmail has an option to aggregate multiple accounts in your gmail account. In other words, you can send an email with from address of another service, using gmail interface. Now we can aggregate all of our accounts on a unique gmail account.
 If you want to use you gmail account as an email aggregator, like me, follow these steps:

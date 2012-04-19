@@ -1,9 +1,26 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Problema ao usar IE7 + Iframe + Session + Cookie + Dom\xC3\xADnio diferente (cross-domain)"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 177
 wordpress_url: http://rafael.adm.br/p/problema-ao-usar-ie7-iframe-session-cookie-dominio-diferente-cross-domain/
 date: 2008-03-20 11:49:27 -03:00
+categories: 
+- Posts
+tags: 
+- "programa\xC3\xA7\xC3\xA3o"
+- dicas
+- bug
+- ie7
+- ifreame
+- session
+- cookie
+- cross-domain
 ---
 Passei por um problema agora no sistema que faço para a <a href="http://www.telequality.com.br">Telequality</a> que é chato e não tem muita coisa escrita sobre.
 

@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Guerra dos Browsers
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 36
 wordpress_url: http://rafael.adm.br/p/guerra-dos-browsers/
 date: 2006-04-27 15:14:59 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Realmente tenho a sensação de que a web está entrando em uma nova era. Fala-se muito de web 2.0, foco no usuário, etc etc...
 

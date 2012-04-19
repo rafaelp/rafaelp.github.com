@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "O que \xC3\xA9 Bootstrapping?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 483
 wordpress_url: http://rafael.adm.br/?p=483
 date: 2011-05-30 00:57:15 -03:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- business
+- bootstrapping
 ---
 Existem várias definições para Bootstrapping, como você pode <a href="http://en.wikipedia.org/wiki/Bootstrapping" target="_blank">conferir na Wikipedia</a>, mas eu vou falar aqui somente sobre a definição relacionada à empresas.
 

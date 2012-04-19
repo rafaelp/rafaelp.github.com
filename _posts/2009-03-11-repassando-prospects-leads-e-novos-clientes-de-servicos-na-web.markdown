@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Repassando prospects, leads e novos clientes de servi\xC3\xA7os na web"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 304
 wordpress_url: http://rafael.adm.br/?p=304
 date: 2009-03-11 23:51:02 -03:00
+categories: 
+- Posts
+tags: 
+- projetos
+- "servi\xC3\xA7o"
+- empresa
+- empreendedorismo
+- cliente
+- proposta
 ---
 Como eu <a href="http://twitter.com/rafaelp/status/1311762446">divulguei no Twitter</a> hoje, estou buscando uma empresa para firmar uma parceria. Por conta do meu histórico de 12 anos de desenvolvimento de sistemas e pelos clientes que já adquiri, hoje em dia eu recebo no mínimo um pedido de proposta por semana.
 

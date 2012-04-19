@@ -1,9 +1,25 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Dicas para escolha de nomes de produtos e servi\xC3\xA7os"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 158
 wordpress_url: http://rafael.adm.br/p/dicas-para-escolha-de-nomes-de-produtos-e-servicos/
 date: 2008-02-24 14:29:19 -03:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- projetos
+- "servi\xC3\xA7o"
+- dicas
+- startup
+- produto
+- empresa
 ---
 As dicas a seguir servem para escolha de nomes para novas empresas, produtos ou serviços.
 <ul>

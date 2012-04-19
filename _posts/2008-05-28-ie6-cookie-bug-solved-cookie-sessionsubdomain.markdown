@@ -1,9 +1,26 @@
 --- 
 layout: post
+status: publish
+published: true
 title: IE 6 Cookie bug - Setting cookies fails when the hostname of the server contains an underscore.
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 201
 wordpress_url: http://rafael.adm.br/?p=201
 date: 2008-05-28 13:44:42 -03:00
+categories: 
+- Posts
+tags: 
+- dicas
+- bug
+- session
+- cookie
+- ie6
+- ie
+- solved
+- trick
 ---
 <strong>Setting  	cookies fails when the hostname of the server contains an underscore. </strong>
 

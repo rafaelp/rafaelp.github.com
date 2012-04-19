@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "O deploy nunca foi t\xC3\xA3o f\xC3\xA1cil"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 142
 wordpress_url: http://rafael.adm.br/p/o-deploy-nunca-foi-tao-facil/
 date: 2007-10-05 20:22:47 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- Tecnologia
+- webapp
 ---
 Para agilizar ainda mais o processo de deploy de sites e aplicações web sugiro a utilização do <a href="http://labs.peritor.com/webistrano">Webistrano</a>.
 

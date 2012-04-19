@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "O que \xC3\xA9 ser Empreteco?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 469
 wordpress_url: http://rafael.adm.br/?p=469
 date: 2011-05-03 16:33:49 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Ser Empreteco é ter realizado o seminário do Sebrae chamado <a href="http://empretec.sebrae.com.br/">Empretec</a>.
 

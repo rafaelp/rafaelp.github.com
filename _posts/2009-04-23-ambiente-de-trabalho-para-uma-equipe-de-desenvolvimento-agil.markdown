@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Ambiente de trabalho para uma equipe de desenvolvimento \xC3\xA1gil"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 317
 wordpress_url: http://rafael.adm.br/?p=317
 date: 2009-04-23 00:14:46 -03:00
+categories: 
+- Posts
+tags: 
+- gerenciamento
+- myfreecomm
+- "administra\xC3\xA7\xC3\xA3o"
+- agile
+- scrum
+- "organiza\xC3\xA7\xC3\xA3o"
 ---
 Ultimamente tenho pensado sobre o ambiente de trabalho da <a href="http://myfreecomm.com.br">Myfreecomm</a>. Quem <a href="http://twitter.com/rafaelp">me acompanha no Twitter</a> tem percebido que meus estudos estão focados nesta área. Nesta semana iremos começar uma pequena revolução na organização física da empresa.
 

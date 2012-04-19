@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Testes do site em diversos navegadores
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 238
 wordpress_url: http://rafael.adm.br/?p=238
 date: 2008-09-08 21:51:30 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- design
+- css
+- browser
+- teste
 ---
 Essa é uma rapidinha, aproveitei da resposta que dei por e-mail a um amigo.
 

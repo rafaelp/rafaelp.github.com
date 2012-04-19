@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Recebendo fax no e-mail: emailfax.com.br"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 111
 wordpress_url: http://rafael.adm.br/p/recebendo-fax-no-e-mail-emailfaxcombr/
 date: 2007-01-19 19:16:15 -02:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- Tecnologia
+- web
+- "servi\xC3\xA7o"
+- utilidade
+- blog
 ---
 Olá Pessoal,
 

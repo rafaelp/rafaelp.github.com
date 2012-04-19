@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Valida\xC3\xA7\xC3\xA3o de formul\xC3\xA1rios ultra simples"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 128
 wordpress_url: http://rafael.adm.br/p/validacao-de-formularios-ultra-simples/
 date: 2007-06-18 00:40:17 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- web
+- design
+- webapp
+- javascript
 ---
 <p>Rápido e rasteiro este post tem o objetivo de introduzir na vida de vocês o <a href="http://tetlaw.id.au/view/blog/really-easy-field-validation-with-prototype/">Really Easy Field Validation</a>.</p>
 <p>Se você é <strong>programador web</strong>, utilize ou mostre para o seu designer.</p>

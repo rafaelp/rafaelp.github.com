@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Resumo do Projeto DDA
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 414
 wordpress_url: http://rafael.adm.br/?p=414
 date: 2009-10-28 15:56:48 -02:00
+categories: 
+- Posts
+tags: 
+- "cobran\xC3\xA7a"
+- dda
+- boleto
 ---
 O <a href="http://www.febraban.org.br/projetodda/">projeto DDA</a>, lançado no último dia 19, altera a maneira como o sacado (cliente que paga) recebe as cobranças realizadas pelo cedente (empressa emissora da cobrança). O objetivo do projeto é substituir o boleto bancário impresso pelo chamado boleto eletrônico.
 

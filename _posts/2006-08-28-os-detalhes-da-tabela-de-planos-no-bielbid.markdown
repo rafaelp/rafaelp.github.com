@@ -1,9 +1,25 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Os detalhes da tabela de planos no BielBid
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 77
 wordpress_url: http://rafael.adm.br/p/os-detalhes-da-tabela-de-planos-no-bielbid/
 date: 2006-08-28 10:48:50 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "comunica\xC3\xA7\xC3\xA3o"
+- usabilidade
+- design
+- interface
+- simplicidade
+- bielbid
 ---
 O <a href="http://bielbid.com.br">sistema web que agiliza o processo de cotação</a> foi lançado na segunda-feira passada. Nossa estratégia foi disponibilizá-lo na segunda passada e começar a divulgá-lo hoje, uma semana depois.
 Hoje iniciaremos os anúncios no sistema <a href="https://adwords.google.com">Google Ad Words</a>, enviaremos o Press Release para alguns jornalistas da área e começaremos a postar nossa experiência, eu em desenvolvimento, e <a href="http://viniciusbraga.com">Vinicius Braga em design</a>, baseado no trabalho que vem sendo realizado com o <a href="http://bielbid.com.br">BielBid</a>.
@@ -13,7 +29,7 @@ Nós acreditamos na simplicidade e fizemos o site de apresentação/venda do pro
 
 Durante esta semana convidamos algumas pessoas chaves para conhecer e avaliar o <a href="http://bielbid.com.br">BielBid</a> e por serem conhecidas, pudemos conversar e extrair alguns fatos curiosos. O que mais nos chamou a atenção foi a <a href="http://bielbid.com.br/pt-BR/signup">tabela de planos</a>.
 
-<img id="image75" src="/wp-content/uploads/2006/08/bielbid-planos-antes.png" alt="BielBid - Tabela de Planos - Antes" />
+<img id="image75" src="http://rafael.adm.br/wp-content/uploads/2006/08/bielbid-planos-antes.png" alt="BielBid - Tabela de Planos - Antes" />
 
 No dia do lançamento, a tabela de planos estava conforme a figura acima. Sem ler o resto do post você consegue identificar as falhas que já percebemos? (Para melhor compreensão seria legal conhecer <a href="http://bielbid.com.br">o que é o BielBid</a>)
 
@@ -36,7 +52,7 @@ No dia do lançamento, a tabela de planos estava conforme a figura acima. Sem le
 
 Conversa vai conversa vem, mudamos. <strong>Estamos na web, devemos estar sempre prontos para mudar!</strong>
 
-<img id="image76" src="/wp-content/uploads/2006/08/bielbid-planos-depois.png" alt="BielBid - Tabela de Planos - Depois" />
+<img id="image76" src="http://rafael.adm.br/wp-content/uploads/2006/08/bielbid-planos-depois.png" alt="BielBid - Tabela de Planos - Depois" />
 
 Fizemos as adequações afim de evitar estas dúvidas. Já adianto que iremos mudar mais uma vez, já percebi no final de semana que podemos melhorar um dos tópicos. Provavelmente, ou melhor, certamente daqui a um mês a <a href="http://bielbid.com.br/pt-BR/signup">tabela de planos</a> estará bem diferente! Visite-nos que verás.
 

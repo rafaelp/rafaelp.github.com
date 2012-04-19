@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "N\xC3\xA3o use ajax para navega\xC3\xA7\xC3\xA3o"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 15
 wordpress_url: http://rafael.adm.br/nao-use-ajax-para-navegacao/
 date: 2006-04-21 11:04:37 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- ajax
+- "navega\xC3\xA7\xC3\xA3o"
+- web2.0
 ---
 Existe uma discussão grande sobre a utilização do ajax, suas vantagens e deficiências. O recente artigo da <a href="http://webinsider.uol.com.br/">Web Insider</a>, <a href="http://webinsider.uol.com.br/vernoticia.php/id/2801">"Ajax também enfrenta problemas. Veja quais são."</a> nos traz algumas desvantagens na utilização do ajax. Não acho que são desvantagens dependendo de como você utiliza a tecnologia.
 

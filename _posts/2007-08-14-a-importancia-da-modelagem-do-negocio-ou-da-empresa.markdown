@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "A import\xC3\xA2ncia da modelagem do neg\xC3\xB3cio (ou da empresa)"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 134
 wordpress_url: http://rafael.adm.br/p/a-importancia-da-modelagem-do-negocio-ou-da-empresa/
 date: 2007-08-14 23:45:42 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Ocorreu comigo neste mês, essa é para o Pessoal do sistema <a href="http://www.pedagioondalivre.com.br/">Onda Livre</a>, alguém conhece algum programador, desenvolvedor, analista ou administrador de lá!?!?
 

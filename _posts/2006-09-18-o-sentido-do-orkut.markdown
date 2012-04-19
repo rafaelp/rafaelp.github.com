@@ -1,9 +1,25 @@
 --- 
 layout: post
+status: publish
+published: true
 title: O sentido do Orkut
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 85
 wordpress_url: http://rafael.adm.br/p/o-sentido-do-orkut/
 date: 2006-09-18 10:12:10 -03:00
+categories: 
+- Posts
+tags: 
+- "usu\xC3\xA1rios"
+- Tecnologia
+- usabilidade
+- privacidade
+- orkut
+- sentimentos
+- amizades
 ---
 Este texto surgiu como resposta ao artigo <a href="http://www.usabilidoido.com.br/o_design_do_orkut_incentiva_ciumes_.html">O design do Orkut incentiva ciúmes?</a>.
 

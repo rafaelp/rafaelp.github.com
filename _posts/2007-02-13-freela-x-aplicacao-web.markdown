@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Freela x Aplica\xC3\xA7\xC3\xA3o Web"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 113
 wordpress_url: http://rafael.adm.br/p/freela-x-aplicacao-web/
 date: 2007-02-13 10:23:07 -02:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- projetos
+- design
+- webapp
 ---
 O <a href="http://fatorw.com">Walmar Andrade</a> escreveu sobre <a href="http://fatorw.com/2007/02/08/getting-real/">O impacto da metodologia Getting Real</a> em seu blog semana passada. Postei um comentário e respondendo o e-mail dele resolvi fazer este rápido post.
 

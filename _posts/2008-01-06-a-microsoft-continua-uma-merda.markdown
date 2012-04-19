@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: A Microsoft continua uma merda
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 152
 wordpress_url: http://rafael.adm.br/p/a-microsoft-continua-uma-merda-eu-odeio-a-microsoft/
 date: 2008-01-06 23:09:36 -02:00
+categories: 
+- Posts
+tags: 
+- microsoft
+- problemas
+- dificuldade
+- complexidade
 ---
 A Microsoft ferrou com o meu domingo, o que era pra ser fácil e rápido virou um inferno.
 

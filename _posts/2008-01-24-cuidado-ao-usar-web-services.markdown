@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Cuidado ao usar web services
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 161
 wordpress_url: http://rafael.adm.br/p/cuidado-ao-usar-web-services/
 date: 2008-01-24 23:57:01 -02:00
+categories: 
+- Posts
+tags: 
+- Tecnologia
+- servidores
+- "seguran\xC3\xA7a"
+- web-services
+- conectividade
 ---
 Utilizar web-services é muito bom, mas exige alguns cuidados. Nesta semana tive um problema que nunca imaginei que pudesse acontecer.
 

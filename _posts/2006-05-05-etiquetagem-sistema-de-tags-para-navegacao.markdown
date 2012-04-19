@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Etiquetagem (sistema de tags) para navega\xC3\xA7\xC3\xA3o"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 38
 wordpress_url: http://rafael.adm.br/p/etiquetagem-sistema-de-tags-para-navegacao/
 date: 2006-05-05 13:21:00 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- "navega\xC3\xA7\xC3\xA3o"
+- tags
+- usabilidade
 ---
 Eu estava de frente para o sistema de gestão, ou <a target="_blank" title="Definições de ERP no Google (nova janela)" href="http://www.google.com/search?hs=w5L&hl=en&lr=&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&q=define%3A+ERP&btnG=Search">ERP</a> como queiram chamar, Advanced Protheus da <a target="_blank" href="http://www.microsiga.com.br/">Microsiga</a> quando tive uma idéa. Não sei ainda se é boa ou ruim, pois não apliquei em nenhum projeto, mas deixo meu post aqui para compartilhar.
 

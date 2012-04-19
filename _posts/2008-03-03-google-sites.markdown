@@ -1,9 +1,25 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Google Sites
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 168
 wordpress_url: http://rafael.adm.br/p/google-sites/
 date: 2008-03-03 21:26:04 -03:00
+categories: 
+- Posts
+tags: 
+- projetos
+- google
+- webapp
+- sistema
+- cms
+- "conte\xC3\xBAdo"
+- gerenciamento
 ---
 Hoje estou avaliando o <a href="http://sites.google.com/">Google Sites</a>. Eu estava buscando uma ferramenta para documentar a concepção dos projetos da BielSystems e estava com dificuldades de achar.
 

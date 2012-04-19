@@ -1,9 +1,25 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Por que desenvolvimento de software \xC3\xA9 caro?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 268
 wordpress_url: http://rafael.adm.br/?p=268
 date: 2008-11-12 00:25:04 -02:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- "neg\xC3\xB3cios"
+- carreira
+- profissional
+- business
+- agile
 ---
 Uma das coisas que me marcaram nas palestras do <a href="http://flickr.com/search/?q=%23railssummit">Rails Summit</a> foi o <a href="http://improveit.com.br/empresa/vinicius">Vinicius Teles</a> dizendo que desenvolvimento de software é caro.
 

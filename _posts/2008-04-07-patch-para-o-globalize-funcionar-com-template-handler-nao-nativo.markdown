@@ -1,9 +1,25 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Patch para o Globalize funcionar com template handler n\xC3\xA3o nativo"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 180
 wordpress_url: http://rafael.adm.br/p/patch-para-o-globalize-funcionar-com-template-handler-nao-nativo/
 date: 2008-04-07 21:03:53 -03:00
+categories: 
+- Posts
+tags: 
+- "programa\xC3\xA7\xC3\xA3o"
+- rails
+- globalize
+- dicas
+- bug
+- globalization
+- patch
 ---
 Quando usamos o <a href="http://www.globalize-rails.org">Globalize 1.2</a>, plugin de internacionalização para <a href="http://rubyonrails.com">Rails</a>, com parsers de templates não nativos, tais como <a href="http://www.liquidmarkup.org/">Liquid</a>, <a href="http://haml.hamptoncatlin.com/">HAML</a> ou <a href="http://github.com/Squeegy/fleximage/wikis">FlexImage</a> caimos num bug que pode tirar o sono de qualquer um.
 

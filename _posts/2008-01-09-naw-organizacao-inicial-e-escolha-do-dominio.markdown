@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "NAW: Organiza\xC3\xA7\xC3\xA3o inicial e escolha do dom\xC3\xADnio"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 155
 wordpress_url: http://rafael.adm.br/p/naw-organizacao-inicial-e-escolha-do-dominio/
 date: 2008-01-09 23:28:21 -02:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- webapp
+- NAW
 ---
 Este post faz parte de uma série chamada NAW (Nova Aplicação Web) que visa acompanhar <a href="http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/">a criação de um serviço web</a> da idéia ao lançamento. <a href="http://rafael.adm.br/tag/naw">Todos os posts da série</a> iniciam com as letras NAW.
 <hr />Hoje eu pensei bastante sobre o projeto. Não trabalhei diretamente, pois o dia foi frenético e tinha alguns projetos para entregar. No final do dia quando dei uma saída para malhar, fui e voltei pensando no nome, na anatomia do sistema, nas possibilidade de comercialização e estratégia de divulgação.O início é um momento confuso, pois você está cheio de coisa na cabeça e quanto mais você pensa, mais detalhes surgem. As vezes é difícil organizar tudo na mente e chega a hora de começar a escrever e "materializar" as idéias. Os posts aqui são uma forma de registrar e organizar o que venho pensando, mas nem tudo poderei publicar. Neste caso o ideal é um Wiki restrito.

@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "A import\xC3\xA2ncia da escolha das palavras certas no desenvolvimento de sistemas"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 424
 wordpress_url: http://rafael.adm.br/?p=424
 date: 2009-11-05 14:04:03 -02:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- dicas
+- sistema
 ---
 Estamos desenvolvendo na <a href="http://myfreecomm.com.br">Myfreecomm</a> um sistema de cobrança que está ficando muito interessante. Ele irá resolver um problema real e trará muita conveniência no dia-a-dia das empresas que realizam cobrança com integração com os bancos.
 

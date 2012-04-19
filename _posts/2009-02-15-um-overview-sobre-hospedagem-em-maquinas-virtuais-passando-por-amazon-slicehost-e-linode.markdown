@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Um overview sobre hospedagem em m\xC3\xA1quinas virtuais, passando por Amazon, Slicehost e Linode."
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 280
 wordpress_url: http://rafael.adm.br/?p=280
 date: 2009-02-15 11:01:24 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Especificamente na época entre o Natal e o Ano novo, andei pesquisando sobre as opções de hospedagem em máquinas virtuais. Hoje já migrei grande parte das aplicações/sites (chamarei de sites para facilitar) da <a href="http://myfreecomm.com.br">Myfreecomm</a> e da <a href="http://bielsystems.com.br">BielSystems</a> e pretendo colocar aqui a experiência que obtive neste processo. Avaliei os serviços <a href="http://aws.amazon.com/ec2">Amazon EC2</a>, <a href="http://aws.amazon.com/ebs">Amazon EBS</a>, <a href="http://aws.amazon.com/s3">Amazon S3</a>, <a href="http://slicehost.com">Slicehost</a> e <a href="http://linode.com">Linode</a>.
 
@@ -28,7 +38,7 @@ Quando você está em servidores virtualizados, basta acessar o Web Console de d
 
 Tanto o Linode quando Slicehost oferecem esta opção, o Linode ainda oferece um SSH direto para o host onde você pode rodar alguns comandos específicos para saber uso de cpu e memória, visualizar processos ativos e reiniciar a máquina virtual.
 
-<img class="alignnone size-full wp-image-293" title="Web Console Slicehost" src="/wp-content/uploads/2009/02/picture-4.png" alt="Web Console Slicehost" width="556" height="122" />
+<img class="alignnone size-full wp-image-293" title="Web Console Slicehost" src="http://rafael.adm.br/wp-content/uploads/2009/02/picture-4.png" alt="Web Console Slicehost" width="556" height="122" />
 
 Todo o controle das máquinas virtuais no Amazon S3 é feito por linha de comando e conexão SSH.
 
@@ -38,7 +48,7 @@ O backup é outra vantagem incrível. Quando estamos em servidores dedicados, co
 
 O Slicehost possui esta facilidade possibilitando configurar backups automáticos semanais e diários. Ele permite o armazenamento de um backup semanal, um diário e um snapshot que pode ser criado manualmente a qualquer momento. Os backups são feitos com a máquina rodando. Este serviço é cobrado a parte.
 
-<img class="alignnone size-full wp-image-292" title="Backup no Slicehost" src="/wp-content/uploads/2009/02/picture-3.png" alt="Backup no Slicehost" width="501" height="357" />
+<img class="alignnone size-full wp-image-292" title="Backup no Slicehost" src="http://rafael.adm.br/wp-content/uploads/2009/02/picture-3.png" alt="Backup no Slicehost" width="501" height="357" />
 
 No plano do Linode você tem X GB e pode distribuir em quantas partições quiser. Ele não possui uma opção de backup, mas permite que você duplique uma partição criada. Então, para ter backups é necessário utilizar apenas a metade do espaço disponível para as partições de uso, de forma que a outra metade fique disponível para a cópia da partição. Além disso é necessário que a máquina esteja parada para realizar a cópia das partições. Não é nada prático.
 
@@ -78,7 +88,7 @@ Embora o Linode tenha o maior número de opções, eu escolhi pelo Slicehost, si
 
 Veja as opções que o painel de controle do Slicehost oferece:
 
-<img class="alignnone size-full wp-image-294" title="Opçoes do Painel de Controle do Slicehost" src="/wp-content/uploads/2009/02/picture-6.png" alt="Opçoes do Painel de Controle do Slicehost" width="484" height="70" />
+<img class="alignnone size-full wp-image-294" title="Opçoes do Painel de Controle do Slicehost" src="http://rafael.adm.br/wp-content/uploads/2009/02/picture-6.png" alt="Opçoes do Painel de Controle do Slicehost" width="484" height="70" />
 
 Era tudo que eu precisava para ter mais segurança. Depois de decidido, mãos a obra!
 

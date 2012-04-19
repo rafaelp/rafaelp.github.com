@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "N\xC3\xA3o sejamos ing\xC3\xAAnuos"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 79
 wordpress_url: http://rafael.adm.br/p/nao-sejamos-ingenuos/
 date: 2006-09-13 00:02:59 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Sabemos que o lema do Google é "Do not do evil", em português: Não seja mau
 

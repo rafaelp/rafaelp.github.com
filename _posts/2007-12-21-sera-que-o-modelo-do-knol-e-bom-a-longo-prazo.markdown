@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Ser\xC3\xA1 que o modelo do Knol \xC3\xA9 bom a longo prazo?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 150
 wordpress_url: http://rafael.adm.br/p/sera-que-o-modelo-do-knol-e-bom-a-longo-prazo/
 date: 2007-12-21 09:10:54 -02:00
+categories: 
+- Posts
+tags: 
+- Tecnologia
+- google
+- lixo-virtual
+- sustentabilidade
+- wikipedia
+- knol
 ---
 Escrevi antes sobre o <a href="http://rafael.adm.br/p/knol-um-passo-do-google-contra-a-sustentabilidade/">lixo virtual que será produzido pelo Knol</a>.
 

@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Amaz\xC3\xB4nia para Sempre"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 112
 wordpress_url: http://rafael.adm.br/p/amazonia-para-sempre/
 date: 2007-02-05 09:24:12 -02:00
+categories: 
+- Posts
+tags: 
+- marketing
+- utilidade
+- "amaz\xC3\xB4nia"
+- sempre
+- "amaz\xC3\xB4nia-para-sempre"
+- desmatamento
 ---
 Foram desmatados 17 mil quilômetros quadrados da Floresta Amazônica nos últimos 3 anos, quase metade do território da Holanda. Esse é um dos dados apresentados na Carta Aberta de Artistas Brasileiros sobre a devastação da Amazônia.
 

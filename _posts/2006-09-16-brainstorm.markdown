@@ -1,9 +1,20 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Brainstorm
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 84
 wordpress_url: http://rafael.adm.br/p/brainstorm/
 date: 2006-09-16 13:30:05 -03:00
+categories: 
+- Posts
+- Brainstorm
+tags: 
+- Brainstorm
 ---
 Lancei a <a href="http://rafael.adm.br/c/brainstorm">seção Brainstorm no meu site</a>. Costumo dirigir muito e enquanto dirijo, vou pensando e a minha imaginação voa. Eu tenho algumas idéias, de produtos, serviços, marketing e negócios. Algumas delas eu coloco em prática ou estão na minha lista de futuros projetos. Porém nem todas são viáveis de eu realizar e são sugestões para empresas e pessoas que estão dispostas a investir em idéias novas.
 

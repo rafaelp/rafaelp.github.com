@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Indica\xC3\xA7\xC3\xB5es interessantes de livros, blogs, sites, cursos e eventos de Marketing"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 333
 wordpress_url: http://rafael.adm.br/?p=333
 date: 2009-05-10 16:07:02 -03:00
+categories: 
+- Posts
+tags: 
+- marketing
+- cursos
+- eventos
 ---
 Meu primo Ian me repassou um e-mail que ele recebeu, com algumas indicações de livros, blogs e sites, cursos e eventos interessantes. Achei bem legal e pedi permissão para Luiz Felipe, autor do e-mail, para publicá-lo aqui no blog.
 

@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "NAW: Trocando por uma nova id\xC3\xA9ia"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 182
 wordpress_url: http://rafael.adm.br/p/naw-trocando-por-uma-nova-ideia/
 date: 2008-04-18 22:02:08 -03:00
+categories: 
+- Posts
+tags: 
+- webapp
+- Brainstorm
+- marketing
+- NAW
 ---
 Este post faz parte de uma série chamada NAW (Nova Aplicação Web) que visa acompanhar <a href="http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/">a criação de um serviço web</a> da idéia ao lançamento. <a href="http://rafael.adm.br/tag/naw">Todos os posts da série</a> iniciam com as letras NAW.
 

@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "eu, a web, n\xC3\xB3s..."
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 86
 wordpress_url: http://rafael.adm.br/p/eu-a-web-nos/
 date: 2006-09-22 15:40:15 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Que surpresa. Coincidência ou não a web faz aniversário hoje, 22 de setembro, dia do meu aniversário!!! Vejam em <a href="http://www.onewebday.org/">OneWebDay</a>.
 

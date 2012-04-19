@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Bug no MacOS com FileVault n\xC3\xA3o recupera prefer\xC3\xAAncias"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 213
 wordpress_url: http://rafael.adm.br/?p=213
 date: 2008-08-15 20:53:28 -03:00
+categories: 
+- Posts
+tags: 
+- dicas
+- bug
+- mac
+- macos
 ---
 Todas vez que eu reinicio o computador, o Firefox pergunta se eu desejo definí-lo como navegador padrão. O mesmo acontece com o Audim.
 

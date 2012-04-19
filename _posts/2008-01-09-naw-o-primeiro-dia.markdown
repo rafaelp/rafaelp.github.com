@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "NAW: O primeiro dia"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 154
 wordpress_url: http://rafael.adm.br/p/naw-o-primeiro-dia/
 date: 2008-01-09 00:28:57 -02:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- webapp
+- NAW
 ---
 Este post faz parte de uma série chamada NAW (Nova Aplicação Web) que visa acompanhar <a href="http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/">a criação de um serviço web</a> da idéia ao lançamento. <a href="http://rafael.adm.br/tag/naw">Todos os posts da série</a> iniciam com as letras NAW.
 <hr />Embora a idéia tenha sido despertada na madrugada de segunda-feira, considero terça dia 08/01/2008 como o primeiro dia de trabalho neste novo projeto. Hoje pela tarde foi quando eu amarrei mais a idéia inicial e formatei em um serviço utilizável.

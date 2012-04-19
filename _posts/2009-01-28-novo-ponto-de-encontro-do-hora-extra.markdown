@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Novo ponto de encontro do Hora Extra
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 275
 wordpress_url: http://rafael.adm.br/?p=275
 date: 2009-01-28 22:44:54 -02:00
+categories: 
+- Posts
+tags: 
+- "#horaextra"
 ---
 Como dito no <a href="http://rafael.adm.br/p/hora-extra-no-leblon/">post anterior</a>, uma galera do Rio se reúne toda segunda-feira para trocar idéia sobe negócios, desenvolvimento, web, rails, etc...
 

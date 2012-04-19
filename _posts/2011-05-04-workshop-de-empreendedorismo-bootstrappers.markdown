@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Workshop de Empreendedorismo Bootstrappers
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 477
 wordpress_url: http://rafael.adm.br/?p=477
 date: 2011-05-04 19:53:55 -03:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- startup
+- empreendedorismo
+- workshop
 ---
 Estou anunciando hoje o <a href="http://bootstrappers.com.br/workshop/">workshop de empreendedorismo</a> que estou realizando. O nome é <a href="http://bootstrappers.com.br/workshop/">Workshop Bootstrappers</a>.
 

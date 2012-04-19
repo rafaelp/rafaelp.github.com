@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Falhas sucessivas nos aplicativos do Google
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 205
 wordpress_url: http://rafael.adm.br/?p=205
 date: 2008-07-23 21:32:28 -03:00
+categories: 
+- Posts
+tags: 
+- google
+- gmail
+- bug
+- problema
 ---
 <strong>Atualizado (4 horas depois da publicação):</strong> Por conta de escrever este post fiquei sabendo que o Orkut tem um bug que deixou diversos perfis fora do ar no mundo todo nesta segunda-feira. <a href="http://g1.globo.com/Noticias/Tecnologia/0,,MUL688717-6174,00-GOOGLE+PROMETE+ORKUT+NORMALIZADO+ATE+QUINTAFEIRA.html">Mais informações no G1</a>
 

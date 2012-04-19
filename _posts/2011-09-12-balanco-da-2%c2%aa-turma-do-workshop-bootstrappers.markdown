@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Balan\xC3\xA7o da 2\xC2\xAA turma do Workshop Bootstrappers"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 630
 wordpress_url: http://rafael.adm.br/?p=630
 date: 2011-09-12 13:16:05 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Eu venho fazendo um <a href="http://workshop.bootstrappers.com.br" target="_blank">workshop de empreendedorismo</a> online para pessoas que desejam utilizar as mais novas técnicas de gestão e desenvolvimento de novos produtos e mercados.
 
@@ -15,14 +25,14 @@ O conteúdo do workshop gira em torno de Empreendedorismo, <a href="http://en.wi
 
 No final eu faço uma pesquisa para saber o que os participantes acharam do workshop. <strong>Nem todos respondem, mas todos que responderam acharam o workshop excelente!</strong> Veja o resultado:
 
-<a href="/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-12.34.15-PM.png" target="_blank"><img src="/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-12.34.15-PM-300x176.png" alt="" title="Resultado da segunda turma do Workshop Bootstrappers" width="300" height="176" class="aligncenter size-medium wp-image-631" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-12.34.15-PM.png" target="_blank"><img src="http://rafael.adm.br/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-12.34.15-PM-300x176.png" alt="" title="Resultado da segunda turma do Workshop Bootstrappers" width="300" height="176" class="aligncenter size-medium wp-image-631" /></a>
 
 Mais uma vez eu fiquei muito feliz e foi muito gratificante realizar este trabalho.
 Além de ter sido muito engraçado! Olha o Business Model Canvas que saiu por lá :)
 
-<a href="/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-1.00.56-PM.png" target="_blank"><img src="/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-1.00.56-PM-300x225.png" alt="" title="Business Model Ian 1/2" width="300" height="225" class="aligncenter size-medium wp-image-633" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-1.00.56-PM.png" target="_blank"><img src="http://rafael.adm.br/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-1.00.56-PM-300x225.png" alt="" title="Business Model Ian 1/2" width="300" height="225" class="aligncenter size-medium wp-image-633" /></a>
 
-<a href="/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-1.01.13-PM.png" target="_blank"><img src="/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-1.01.13-PM-300x224.png" alt="" title="Business Model Ian 2/2" width="300" height="224" class="aligncenter size-medium wp-image-636" /></a>
+<a href="http://rafael.adm.br/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-1.01.13-PM.png" target="_blank"><img src="http://rafael.adm.br/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-1.01.13-PM-300x224.png" alt="" title="Business Model Ian 2/2" width="300" height="224" class="aligncenter size-medium wp-image-636" /></a>
 
 Enfim, é muito divertido fazer o Workshop Bootstrappers e eu não perco por esperar a próxima turma que já está com as inscrições abertas. Ela será nos dias 16 e 23 de outubro.
 

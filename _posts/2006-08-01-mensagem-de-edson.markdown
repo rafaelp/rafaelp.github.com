@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Mensagem de Edson
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 61
 wordpress_url: http://rafael.adm.br/p/mensagem-de-edson/
 date: 2006-08-01 15:31:54 -03:00
+categories: 
+- Posts
+tags: 
+- brasil
+- copa
+- imprensa
 ---
 O jogador Roberto Carlos, em seu blog, escreveu a mensagem abaixo e um
 torcedor (Edson) respondeu:

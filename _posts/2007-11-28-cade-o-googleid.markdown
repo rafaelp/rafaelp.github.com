@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Cad\xC3\xAA o GoogleID?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 147
 wordpress_url: http://rafael.adm.br/p/cade-o-googleid/
 date: 2007-11-28 00:14:35 -02:00
+categories: 
+- Posts
+tags: 
+- Tecnologia
+- "seguran\xC3\xA7a"
+- openid
+- "tend\xC3\xAAncias"
+- internet
 ---
 Por que o Google não se torna um provedor de OpenID?
 

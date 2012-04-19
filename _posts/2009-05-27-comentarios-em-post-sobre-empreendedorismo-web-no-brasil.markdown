@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Coment\xC3\xA1rios em post sobre empreendedorismo web no Brasil"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 342
 wordpress_url: http://rafael.adm.br/?p=342
 date: 2009-05-27 11:57:02 -03:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- web
+- "administra\xC3\xA7\xC3\xA3o"
+- empreendedorismo
 ---
 Registro aqui meu comentário no <a href="http://leonardofaria.net/2009/05/25/o-desafio-de-crescer/comment-page-1/#comment-14187">post do Leonardo Faria sobre empreendedorismo no Brasil</a>
 

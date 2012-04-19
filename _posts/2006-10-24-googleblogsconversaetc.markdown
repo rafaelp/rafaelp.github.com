@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Google+Blogs+Conversa+Etc
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 95
 wordpress_url: http://rafael.adm.br/p/googleblogsconversaetc/
 date: 2006-10-24 23:52:04 -03:00
+categories: 
+- Posts
+tags: 
+- "integra\xC3\xA7\xC3\xA3o"
 ---
 <strong>Pesquisa Google</strong>
 Por que será que o botão de busca do Google é "Google Search" ao invés de "Web Search" como é o do Yahoo??? Já perceberam!?

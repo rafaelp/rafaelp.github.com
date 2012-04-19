@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Os top cinco erros n\xC3\xA3o t\xC3\xA9cnicos cometidos por desenvolvedores"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 364
 wordpress_url: http://rafael.adm.br/?p=364
 date: 2009-07-19 14:50:50 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- problemas
+- dicas
 ---
 Eu gostei tanto <a href="http://www.makinggoodsoftware.com/2009/07/07/5-top-non-technical-mistakes-made-by-programmers/">deste artigo</a> que resolvi traduzí-lo e publicá-lo aqui.
 <strong> </strong>

@@ -1,9 +1,20 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Programas mais importantes
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 368
 wordpress_url: http://rafael.adm.br/?p=368
 date: 2009-08-11 20:06:39 -03:00
+categories: 
+- Posts
+tags: 
+- linux
+- programas
 ---
 Instalei uma nova máquina pra mim no trabalho recentemente e percebi que preciso de muito poucos prgramas para o dia-a-dia.
 

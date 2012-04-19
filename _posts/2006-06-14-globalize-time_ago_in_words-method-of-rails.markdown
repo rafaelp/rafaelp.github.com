@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Globalize time_ago_in_words method of Rails
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 52
 wordpress_url: http://rafael.adm.br/p/globalize-time_ago_in_words-methos-of-rails/
 date: 2006-06-14 20:02:27 -03:00
+categories: 
+- Posts
+tags: 
+- rails
+- ruby
+- snippet
+- code
+- globalize
+- i18n
 ---
 To localize the <strong>distance_of_time_in_words</strong> and <strong>time_ago_in_words</strong> methods of Ruby on Rails with <a href="http://globalize-rails.org">Globalize Plugin</a>, put these lines on your <strong>app/helpers/application_helper.rb</strong>
 

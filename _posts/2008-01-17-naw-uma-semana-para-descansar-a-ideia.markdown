@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "NAW: Uma semana para descansar a id\xC3\xA9ia"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 160
 wordpress_url: http://rafael.adm.br/p/naw-uma-semana-para-descancar-a-ideia/
 date: 2008-01-17 04:11:55 -02:00
+categories: 
+- Posts
+tags: 
+- webapp
+- NAW
+- tempo
 ---
 Este post faz parte de uma série chamada NAW (Nova Aplicação Web) que visa acompanhar <a href="http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/">a criação de um serviço web</a> da idéia ao lançamento. <a href="http://rafael.adm.br/tag/naw">Todos os posts da série</a> iniciam com as letras NAW.
 <hr />

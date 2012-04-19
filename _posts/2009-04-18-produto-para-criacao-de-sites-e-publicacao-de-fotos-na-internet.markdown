@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Produto para cria\xC3\xA7\xC3\xA3o de sites e publica\xC3\xA7\xC3\xA3o de fotos na internet"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 312
 wordpress_url: http://rafael.adm.br/?p=312
 date: 2009-04-18 17:01:55 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- simplicidade
+- internet
+- produto
+- fotos
+- site
 ---
 A BielSystems durante bastante tempo fez projetos de sites e blogs sob demanda. Por conta de conhecer muitos designers e ter formado, vamos dizer, uma parceria legal com eles, muitos projetos eram de "colocar a programação" no design concebido.
 

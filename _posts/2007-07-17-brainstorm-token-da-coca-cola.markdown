@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Brainstorm: Token da Coca-Cola"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 131
 wordpress_url: http://rafael.adm.br/p/brainstorm-token-da-coca-cola/
 date: 2007-07-17 00:12:22 -03:00
+categories: 
+- Brainstorm
+tags: 
+- Brainstorm
 ---
 Essa eu pensei faz tempo. Trata-se de uma campanha custosa e que envolve muitas variáveis. Imagino que a Coca-Cola poderia realizá-la.
 

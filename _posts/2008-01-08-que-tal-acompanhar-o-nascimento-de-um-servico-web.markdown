@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Que tal acompanhar o nascimento de um servi\xC3\xA7o web!?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 153
 wordpress_url: http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/
 date: 2008-01-08 23:53:50 -02:00
+categories: 
+- Posts
+tags: 
+- Tecnologia
+- web
+- webapp
+- "servi\xC3\xA7o"
+- NAW
 ---
 Já tem tempo que estou pensando sobre algum novo serviço web para desenvolver. No ano passado a única aplicação web lançada pela <a href="http://bielsystems.com.br">BielSystems</a> foi o <a href="http://emailfax.com.br">EmailFax</a>. Além dela tive diversas outras idéias de aplicações e sistemas que envolviam VoIP, SMS entre outras tecnologias, mas nenhuma delas me encheu os olhos.
 

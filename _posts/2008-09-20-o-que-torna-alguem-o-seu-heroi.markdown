@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "O que torna algu\xC3\xA9m o seu her\xC3\xB3i?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 249
 wordpress_url: http://rafael.adm.br/?p=249
 date: 2008-09-20 15:28:47 -03:00
+categories: 
+- Posts
+tags: 
+- "lideran\xC3\xA7a"
+- amor
+- dinheiro
 ---
 Este post é uma reflexão em cima do <a href="http://www.akitaonrails.com/2008/9/20/off-topic-o-poder-do-mito-redux">artigo do Fábio Akita sobre O Poder do Mito</a>.
 

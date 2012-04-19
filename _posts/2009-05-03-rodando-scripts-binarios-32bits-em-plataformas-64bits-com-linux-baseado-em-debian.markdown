@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Rodando scripts bin\xC3\xA1rios 32bits em plataformas 64bits com linux baseado em Debian"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 325
 wordpress_url: http://rafael.adm.br/?p=325
 date: 2009-05-03 00:39:55 -03:00
+categories: 
+- Posts
+tags: 
+- web
+- servidores
+- servidor
+- apache
+- "configura\xC3\xA7\xC3\xA3o"
+- script
 ---
 <strong> Atualizado:</strong> Pareceu o dia inteiro, quando escrevi isso, mas depois constatei que foram umas 5 horas.
 

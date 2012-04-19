@@ -1,9 +1,20 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Solicite feeds completos
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 102
 wordpress_url: http://rafael.adm.br/p/solicite-feeds-completos/
 date: 2006-11-08 23:37:35 -02:00
+categories: 
+- Posts
+tags: 
+- blog
+- web2.0
 ---
 Tomei conhecimento da <a href="http://www.arcanjo.org/blog/?p=70">campanha pelos feeds completos</a> lendo o artigo do <a href="http://www.brunodulcetti.com/blog/2006/11/03/deixe-seus-feeds-completos-uma-campanha-rafael-arcanjo.html">Bruno Dulcetti</a>.
 

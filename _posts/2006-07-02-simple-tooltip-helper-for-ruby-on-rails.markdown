@@ -1,9 +1,23 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Simple tooltip helper for Ruby on Rails
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 53
 wordpress_url: http://rafael.adm.br/p/simple-tooltip-helper-for-ruby-on-rails/
 date: 2006-07-02 22:36:36 -03:00
+categories: 
+- Posts
+tags: 
+- rails
+- ruby
+- snippet
+- helper
+- tooltip
 ---
 A simple tooltip helper with span tag and title attrbute for Ruby on Rails framework.
 

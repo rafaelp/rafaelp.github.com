@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "O cara que trabalha com CSS/XHTML \xC3\xA9 considerado programador?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 403
 wordpress_url: http://rafael.adm.br/?p=403
 date: 2009-08-28 14:08:53 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- web
+- designer
 ---
 Essa foi a <a href="http://twitter.com/egenial/status/3603437277">pergunta que o Carlos Eduardo fez no Twitter</a>.
 

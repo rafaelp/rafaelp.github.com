@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Cuidado ao fazer migra\xC3\xA7\xC3\xA3o de reposit\xC3\xB3rio subversion"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 315
 wordpress_url: http://rafael.adm.br/?p=315
 date: 2009-04-22 10:22:40 -03:00
+categories: 
+- Posts
+tags: 
+- servidor
+- svn
+- subversion
+- apache
+- "configura\xC3\xA7\xC3\xA3o"
+- "migra\xC3\xA7\xC3\xA3o"
 ---
 Este final de semana eu fiz uma migração de um servidor subversion. Como eu esperava, teria algumas dores de cabeça pois o subversion é muito sensível. Fiz muitos testes durane o processo e consegui uma maneira que funcionasse.
 

@@ -1,9 +1,37 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Bootstrapping de Aplica\xC3\xA7\xC3\xB5es Web no Cear\xC3\xA1 on Rails 2009"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+excerpt: "Esses \xC3\xBAltimos tr\xC3\xAAs dias foram muito loucos pra mim. Uma sequ\xC3\xAAncia de acontecimentos resultou em um final de semana bem interessante, pelo menos at\xC3\xA9 agora.\r\n\
+  \r\n\
+  Tudo come\xC3\xA7ou quando eu coloquei no ar, na noite de quinta-feira (05/11/09), o site do <a href=\"http://cobregratis.com.br\">Cobre Gr\xC3\xA1tis</a>, uma nova aplica\xC3\xA7\xC3\xA3o web que estou lan\xC3\xA7ando. Na sexta-feira de manh\xC3\xA3 o <a href=\"http://tapajos.me\">Tapaj\xC3\xB3s</a> me ligou dizendo que teve um problema pessoal e que n\xC3\xA3o poderia realizar a palestra sobre CouchDB no <a href=\"http://cearaonrails.com.br/\">Cear\xC3\xA1 On Rails</a> e me perguntando se eu gostaria de ir no lugar dele.\r\n\
+  \r\n\
+  Eu gostaria de agradecer imensamente ao <a href=\"http://tapajos.me\">Tapa</a> por ter lembrado de mim e ter feito o convite. Gostaria tamb\xC3\xA9m de deixar um grande abra\xC3\xA7o e vibra\xC3\xA7\xC3\xA3o positiva para que fique tudo bem em rela\xC3\xA7\xC3\xA3o ao problema que ele teve.\r\n\
+  \r\n\
+  Voltando ao dia de sexta-feira, depois de alguns telefonemas, fechamos a minha vinda para o <a href=\"http://cearaonrails.com.br/\">Cear\xC3\xA1 On Rails</a> por volta das 12:00h. A partir da\xC3\xAD foi uma loucura. Depois do dia de trabalho normal na <a href=\"http://myfreecomm.com.br\">Myfreecomm</a>, fui pra casa me arrumar e ir para o aeroporto. Meu vo\xC3\xB4 era 1:25h da manh\xC3\xA3 de s\xC3\xA1bado.\r\n\
+  \r\n\
+  Quando estava com a mala arrumada e sentei para come\xC3\xA7ar a pensar na palestra, faltavam 30 minutos para eu sair de casa e ir para o aeroporto. \xC3\x89 claro que n\xC3\xA3o deu pra fazer nada!\r\n\
+  \r\n\
+  Chegando no aeroporto fiz o check-in e comecei a preparar a palestra, foram duas horas, com uma pequena interrup\xC3\xA7\xC3\xA3o para um <a href=\"https://twitter.com/rafaelp/status/5496678566\">doido</a> que pediu para comprar uma passagem pela internet no meu laptop.\r\n\
+  \r\n\
+  Fiz o que pude at\xC3\xA9 a hora do embarque, por volta das 2:00h da manh\xC3\xA3. Cheguei no hotel em Natal umas 5:00h e fui dormir. No dia seguinte acordei por volta das 8:00h e fui fazendo a palestra nos momentos que davam at\xC3\xA9 o \xC3\xBAltimo minuto, literalmente.\r\n\
+  \r\n"
 wordpress_id: 427
 wordpress_url: http://rafael.adm.br/?p=427
 date: 2009-11-07 19:59:27 -02:00
+categories: 
+- Posts
+tags: 
+- palestra
+- rails
+- webapp
+- business
+- cearaonrails
 ---
 Esses últimos três dias foram muito loucos pra mim. Uma sequência de acontecimentos resultou em um final de semana bem interessante, pelo menos até agora.
 
@@ -19,11 +47,11 @@ Chegando no aeroporto fiz o check-in e comecei a preparar a palestra, foram duas
 
 Fiz o que pude até a hora do embarque, por volta das 2:00h da manhã. Cheguei no hotel em Natal umas 5:00h e fui dormir. No dia seguinte acordei por volta das 8:00h e fui fazendo a palestra nos momentos que davam até o último minuto, literalmente.
 
-<!--more-->
+<a id="more"></a><a id="more-427"></a>
 
 <a href="http://twitter.com/fagiani/statuses/5512702471">Meu sumiço do almoço</a> foi até bom para dar tempo de eu acabar os últimos slides :) Mas juro, não foi proposital... Nesse meio tempo ainda tive que baixar o iWorks Trial e aprender a usar. O <a href="http://simplesideias.com.br">Nando</a> me ajudou um bocado.
 
-<a style="text-decoration: none;" href="/wp-content/uploads/2009/11/4083105357_6601df2241.jpg"><img class="aligncenter size-full wp-image-429" title="Palestra no Ceará on Rails" src="/wp-content/uploads/2009/11/4083105357_6601df2241.jpg" alt="Palestra no Ceará on Rails" width="500" height="375" /></a>
+<a style="text-decoration: none;" href="http://rafael.adm.br/wp-content/uploads/2009/11/4083105357_6601df2241.jpg"><img class="aligncenter size-full wp-image-429" title="Palestra no Ceará on Rails" src="http://rafael.adm.br/wp-content/uploads/2009/11/4083105357_6601df2241.jpg" alt="Palestra no Ceará on Rails" width="500" height="375" /></a>
 <p style="text-align: center;">Foto de <a href="http://www.flickr.com/photos/fagiani/">fagiani</a></p>
 Enfim, eu consegui fazer a palestra com início, meio e fim e acho que o saldo desse desafio foi positivo. Eu agradeço a todos que me ajudaram e <a href="https://twitter.com/#search?q=rafael%20lima%20cearaonrails%20palestra">deram o feedback sobre a palestra</a>. Agradeço ao <a href="http://simplesideias.com.br/">Nando Vieira</a> por ter me ajudado com o KeyNote e com o pau que deu no meio da apresentação. Agradeço também à galera do staff do evento que aceitou e colaborou com tudo para que eu viesse. Muito obrigado a todos.
 

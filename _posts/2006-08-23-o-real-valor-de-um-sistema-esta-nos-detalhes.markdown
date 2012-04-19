@@ -1,9 +1,26 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "O real valor de um sistema est\xC3\xA1 nos detalhes"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 74
 wordpress_url: http://rafael.adm.br/p/o-real-valor-de-um-sistema-esta-nos-detalhes/
 date: 2006-08-23 20:51:55 -03:00
+categories: 
+- Posts
+tags: 
+- projetos
+- Tecnologia
+- "comunica\xC3\xA7\xC3\xA3o"
+- usabilidade
+- design
+- interface
+- futuro
+- simplicidade
 ---
 Achei interessante o post do <a href="http://zeroseis.com.br/">Fabrício</a> relatando a <a href="http://zeroseis.com.br/blog/tchau-bloglines-ola-newshutch">saída do Bloglines em troca do Newshutch</a>. O que me chamou a atenção foi o último parágrafo:
 

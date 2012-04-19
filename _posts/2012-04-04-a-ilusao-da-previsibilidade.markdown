@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "A ilus\xC3\xA3o da previsibilidade"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 721
 wordpress_url: http://rafael.adm.br/?p=721
 date: 2012-04-04 18:14:27 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Nossos projetos, como quaisquer outros na área de software, possuem um escopo que define o que deve ser feito. Tal escopo existe antes de o projeto ser iniciado e continua a existir ao longo do projeto até que ele seja encerrado. Entretanto, ao contrário do que é usual, este escopo não é fixado em contrato. Ou seja, caso o cliente perceba a necessidade de fazer ajustes no escopo para que o software leve em conta seu aprendizado ao longo do projeto, ou mudanças nas circunstâncias, ele pode. Em nossos projetos, o escopo é revisado freqüentemente para garantir que a equipe dedique seus esforços ao que é mais prioritário em cada etapa do projeto.
 

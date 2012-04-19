@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Expertise invis\xC3\xADvel"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 68
 wordpress_url: http://rafael.adm.br/p/expertise-invisivel/
 date: 2006-08-16 23:37:46 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- "neg\xC3\xB3cios"
+- web
 ---
 <strong>1º DIA (ONTEM)</strong>
 Tudo começou ontem, quando estava conversando sobre o andamento do <a href="http://bielbid.com.br">BielBid</a>, idéias para próximos projetos e outras coisas mais com um <a href="http://telequality.com.br/">grande parceiro, o Leco</a> . Ele comentou sobre um amigo que também está desenvolvendo uma aplicação web e enquanto conversávamos comentou:

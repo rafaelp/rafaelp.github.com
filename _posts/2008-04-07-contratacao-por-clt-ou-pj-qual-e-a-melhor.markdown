@@ -1,9 +1,21 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Contrata\xC3\xA7\xC3\xA3o por CLT ou PJ. Qual \xC3\xA9 a melhor?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 179
 wordpress_url: http://rafael.adm.br/p/contratacao-por-clt-ou-pj-qual-e-a-melhor/
 date: 2008-04-07 19:11:13 -03:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- "contrata\xC3\xA7\xC3\xA3o"
+- lei
 ---
 Em resposta à matéria: <a href="http://webinsider.uol.com.br/index.php/2008/04/02/contratacoes-por-clt-ou-pj-qual-e-a-melhor/ ">Contratação por CLT ou PJ. Qual é a melhor?</a>
 

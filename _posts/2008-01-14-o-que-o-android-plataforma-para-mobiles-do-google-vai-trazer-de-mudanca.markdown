@@ -1,9 +1,24 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "O que o Android, plataforma para mobiles do Google, vai trazer de mudan\xC3\xA7a?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 159
 wordpress_url: http://rafael.adm.br/p/o-que-o-android-plataforma-para-mobiles-do-google-vai-trazer-de-mudanca/
 date: 2008-01-14 09:21:43 -02:00
+categories: 
+- Posts
+tags: 
+- google
+- web
+- "tend\xC3\xAAncias"
+- android
+- mobile
+- Celular
 ---
 <div id="strConteudo">Conversando sobre o Android com um amigo no final de semana, comentei sobre este texto que havia escrito para o iMasters. Ele disse que, embora acompanhasse meu blog, não tinha visto ainda. Percebi que realmente nem mencionei este artigo aqui no blog. Resolvi publicá-lo aqui também. Vou procurar publicar aqui no blog todos os artigos que escrevo para fora.
 

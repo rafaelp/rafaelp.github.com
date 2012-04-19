@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Programador .NET C# CodeSmith .netTiers
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 139
 wordpress_url: http://rafael.adm.br/p/programador-net-c-codesmith-nettiers/
 date: 2007-09-05 16:17:19 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Procuramos para trabalhar na BielSystems um programador C# para desenvolvimento de sites e de aplicações web.
 

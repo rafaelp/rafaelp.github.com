@@ -1,9 +1,25 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Oportunidades confusas e com prazo imposs\xC3\xADvel: o que fazer?"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 123
 wordpress_url: http://rafael.adm.br/p/oportunidades-confusas-e-com-prazo-impossivel-o-que-fazer/
 date: 2007-05-15 22:17:10 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- projetos
+- design
+- "servi\xC3\xA7o"
+- "an\xC3\xA1lise"
+- consultoria
 ---
 O "Amigo X" (não identificarei a pessoa) entrou em contato comigo e enviou a especificação de um projeto complexo que envolvia desenvolvimento de um sistema de gestão dos serviços prestados pela empresa dele. Este sistema seria integrado ao site da empresa e além disso o escopo do projeto incluía mudança da identidade visual e sistemática de newsletter.
 

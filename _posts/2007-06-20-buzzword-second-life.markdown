@@ -1,9 +1,19 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Buzzword: Second Life"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 129
 wordpress_url: http://rafael.adm.br/p/buzzword-second-life/
 date: 2007-06-20 19:40:00 -03:00
+categories: 
+- Posts
+tags: []
+
 ---
 Entrei no <a href="http://secondlife.com">Second Life</a> ontem ponto. Não tem como postergar, hoje, como desenvolvedor web eu preciso conhecer este ambiente (não vou chamar de jogo). Eu já havia lido bastante e venho acompanhando desde o início do ano, mas nunca tinha efetivamente criado um avatar e iniciado a segunda vida. Até por que não havia programa para linux...
 Curioso é que hoje ao ler meus feeds, percebi que cerca de 30% das notícias falavam sobre algo que está acontecendo no Second Life. As notícias abaixo são as de hoje na Info Exame:

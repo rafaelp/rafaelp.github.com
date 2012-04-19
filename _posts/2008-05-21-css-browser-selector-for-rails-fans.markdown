@@ -1,9 +1,26 @@
 --- 
 layout: post
+status: publish
+published: true
 title: CSS Browser Selector for Rails fans
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 194
 wordpress_url: http://rafael.adm.br/?p=194
 date: 2008-05-21 21:59:50 -03:00
+categories: 
+- Posts
+tags: 
+- desenvolvimento
+- "programa\xC3\xA7\xC3\xA3o"
+- rails
+- css
+- dicas
+- browser
+- selector
+- plugin
 ---
 Hey all,
 

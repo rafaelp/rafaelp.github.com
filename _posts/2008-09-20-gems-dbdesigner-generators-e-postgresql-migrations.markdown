@@ -1,9 +1,26 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Gems DBDesigner Generators e Postgresql Migrations
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 250
 wordpress_url: http://rafael.adm.br/?p=250
 date: 2008-09-20 16:03:42 -03:00
+categories: 
+- Posts
+tags: 
+- rails
+- ruby
+- gem
+- rubygems
+- postgresql
+- migration
+- dbdesigner
+- database
 ---
 Publiquei duas gems que escrevi para a aplicação que estou desenvolvendo na <a href="http://myfreecomm.com.br">Myfreecomm</a>.
 

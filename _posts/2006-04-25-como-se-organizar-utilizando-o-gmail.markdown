@@ -1,9 +1,25 @@
 --- 
 layout: post
+status: publish
+published: true
 title: Como se organizar utilizando o Gmail
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 27
 wordpress_url: http://rafael.adm.br/p/como-se-organizar-utilizando-o-gmail/
 date: 2006-04-25 19:19:16 -03:00
+categories: 
+- Posts
+tags: 
+- Tecnologia
+- google
+- gmail
+- email
+- pim
+- to-do
+- tarefas
 ---
 Se você está sentindo a necessidade de organizar suas tarefas e pendências a fazer, deixo duas dicas. A primeira é utilizar a <a title="Visitar o site RL Widgets (nova janela)" href="http://rlwidgets.com">RL ToDoList</a>, o sisteminha na web que eu fiz ;-) para organização da sua lista de tarefas. A outra opção é utilizar o Gmail.
 O Gmail possui algumas características interessantes que possibilitam a utilização do sistema de e-mail como um PIM (Personal Information Manager) ou gerenciador de informações pessoais. Os gerenciadores de informações pessoais permitem você organizar suas informações independente da natureza.

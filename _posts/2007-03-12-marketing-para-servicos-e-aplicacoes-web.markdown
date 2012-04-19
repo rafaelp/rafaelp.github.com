@@ -1,9 +1,22 @@
 --- 
 layout: post
+status: publish
+published: true
 title: "Marketing para Servi\xC3\xA7os e Aplica\xC3\xA7\xC3\xB5es Web"
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 114
 wordpress_url: http://rafael.adm.br/p/marketing-para-servicos-e-aplicacoes-web/
 date: 2007-03-12 13:44:59 -03:00
+categories: 
+- Posts
+tags: 
+- "neg\xC3\xB3cios"
+- marketing
+- roi
+- "an\xC3\xA1lise"
 ---
 Muitas vezes nós simplesmente copiamos idéias de especialistas sem adaptá-las a nossa realidade. Vou discorrer aqui a questão do site de uma página só (One Page Site) e da nova técnica que estou desenvolvendo.
 

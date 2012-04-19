@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,28 +9,28 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 546
 wordpress_url: http://rafael.adm.br/?p=546
-date: 2011-07-12 10:19:23 -03:00
-categories: 
+date: 2011-07-12 10:19:23.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
 - agile
 - development
 - startupdev
 ---
-Tenho pouco tempo para escrever este post, pois meu deadline agora é de 48 horas.
-Eu e o <a href="http://mergulhao.info">Sylveste Mergulhão</a> começamos mais um projeto do <a href="http://startupdev.com.br">Startup DEV</a>.
+Tenho pouco tempo para escrever este post, pois meu deadline agora &eacute; de 48 horas.
+Eu e o <a href="http://mergulhao.info">Sylveste Mergulh&atilde;o</a> come&ccedil;amos mais um projeto do <a href="http://startupdev.com.br">Startup DEV</a>.
 
-Startup DEV é um modelo de venda e desenvolvimento de software totalmente inovador.
+Startup DEV &eacute; um modelo de venda e desenvolvimento de software totalmente inovador.
 Nos propomos a desenvolver um aplicativo em 48h para nossos clientes.
 
-Para saber mais como isso tudo funciona, você pode acompanhar o desenvolvimento pelo IRC
+Para saber mais como isso tudo funciona, voc&ecirc; pode acompanhar o desenvolvimento pelo IRC
 Servidor: irc.freenode.net
 Canal: startupdev
 
-Isso tudo é BETA! Não sabemos como tudo irá acontecer.
-Só estamos dispostos a compartilhar toda a experiência.
+Isso tudo &eacute; BETA! N&atilde;o sabemos como tudo ir&aacute; acontecer.
+S&oacute; estamos dispostos a compartilhar toda a experi&ecirc;ncia.
 
-Sempre que rolar um projeto, nós avisaremos pelos Twitters <a href="http://twitter.com/rafaelp">@rafaelp</a> <a href="http://twitter.com/smergulhao">@smergulhao</a>.
+Sempre que rolar um projeto, n&oacute;s avisaremos pelos Twitters <a href="http://twitter.com/rafaelp">@rafaelp</a> <a href="http://twitter.com/smergulhao">@smergulhao</a>.
 
-Abraço!
+Abra&ccedil;o!

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,12 +9,12 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 273
 wordpress_url: http://rafael.adm.br/?p=273
-date: 2009-01-23 01:11:14 -02:00
-categories: 
+date: 2009-01-23 01:11:14.000000000 -02:00
+categories:
 - Posts
-tags: 
+tags:
 - classificados
-- "gr\xC3\xA1tis"
+- gr&aacute;tis
 - festa
 ---
 O <a href="http://redeparede.com.br/">RedeParede</a> promoveu uma festa e o resultado foi o <a href="http://redeparede.com.br/rio-de-janeiro/bloggers">Rio Geeks</a>. Achei legal a minha caricatura!

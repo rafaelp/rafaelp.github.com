@@ -1,42 +1,42 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Que tal acompanhar o nascimento de um servi\xC3\xA7o web!?"
+title: Que tal acompanhar o nascimento de um servi&ccedil;o web!?
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 153
 wordpress_url: http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/
-date: 2008-01-08 23:53:50 -02:00
-categories: 
+date: 2008-01-08 23:53:50.000000000 -02:00
+categories:
 - Posts
-tags: 
+tags:
 - Tecnologia
 - web
 - webapp
-- "servi\xC3\xA7o"
+- servi&ccedil;o
 - NAW
 ---
-Já tem tempo que estou pensando sobre algum novo serviço web para desenvolver. No ano passado a única aplicação web lançada pela <a href="http://bielsystems.com.br">BielSystems</a> foi o <a href="http://emailfax.com.br">EmailFax</a>. Além dela tive diversas outras idéias de aplicações e sistemas que envolviam VoIP, SMS entre outras tecnologias, mas nenhuma delas me encheu os olhos.
+J&aacute; tem tempo que estou pensando sobre algum novo servi&ccedil;o web para desenvolver. No ano passado a &uacute;nica aplica&ccedil;&atilde;o web lan&ccedil;ada pela <a href="http://bielsystems.com.br">BielSystems</a> foi o <a href="http://emailfax.com.br">EmailFax</a>. Al&eacute;m dela tive diversas outras id&eacute;ias de aplica&ccedil;&otilde;es e sistemas que envolviam VoIP, SMS entre outras tecnologias, mas nenhuma delas me encheu os olhos.
 
-Algumas delas estão engatilhadas. Uma em específico eu fiz, cheguei a arrumar um nome, registrar domínio e colocar tudo on-line, mas não fui em frente pois não achei uma boa estratégia de divulgação e rentabilização. Era uma solução de envio de recados por voz que chegam no email em formato mp3. Eu uso até hoje. Sempre que lembro de algo pra fazer e estou na rua, faço a ligação, deixo o meu recado e quando chego em casa ou no escritório ouço o recado que chegou no meu e-mail.
-<strong>Em 2007 foram cerca de 10 idéias de novos produtos/serviços web a serem desenvolvido, mas nenhum deles parecia ser muito viável.</strong>
+Algumas delas est&atilde;o engatilhadas. Uma em espec&iacute;fico eu fiz, cheguei a arrumar um nome, registrar dom&iacute;nio e colocar tudo on-line, mas n&atilde;o fui em frente pois n&atilde;o achei uma boa estrat&eacute;gia de divulga&ccedil;&atilde;o e rentabiliza&ccedil;&atilde;o. Era uma solu&ccedil;&atilde;o de envio de recados por voz que chegam no email em formato mp3. Eu uso at&eacute; hoje. Sempre que lembro de algo pra fazer e estou na rua, fa&ccedil;o a liga&ccedil;&atilde;o, deixo o meu recado e quando chego em casa ou no escrit&oacute;rio ou&ccedil;o o recado que chegou no meu e-mail.
+<strong>Em 2007 foram cerca de 10 id&eacute;ias de novos produtos/servi&ccedil;os web a serem desenvolvido, mas nenhum deles parecia ser muito vi&aacute;vel.</strong>
 
-Como eu não tenho fôlego de tempo e dinheiro para desenvolver todos e testar qual pode dar certo, não desenvolvi nenhum deles. Guardei-os e vou esperar a ocasião certa para desenvolver ou divulgar. Gosto de trabalhar com as restrições.
-Vira e mexe surge uma idéia, as vezes meio loucas, as vezes bem técnicas, as vezes bem ousadas. Algumas pessoas já me falaram para anotar todas as idéias, mas eu não faço isso.
+Como eu n&atilde;o tenho f&ocirc;lego de tempo e dinheiro para desenvolver todos e testar qual pode dar certo, n&atilde;o desenvolvi nenhum deles. Guardei-os e vou esperar a ocasi&atilde;o certa para desenvolver ou divulgar. Gosto de trabalhar com as restri&ccedil;&otilde;es.
+Vira e mexe surge uma id&eacute;ia, as vezes meio loucas, as vezes bem t&eacute;cnicas, as vezes bem ousadas. Algumas pessoas j&aacute; me falaram para anotar todas as id&eacute;ias, mas eu n&atilde;o fa&ccedil;o isso.
 
-<strong>Não gosto de anotar as idéias, deixo só na mente de propósito, dessa forma faço uma triagem natural e dou atenção apenas às que permanecem. Dou bastante valor à intuição.
+<strong>N&atilde;o gosto de anotar as id&eacute;ias, deixo s&oacute; na mente de prop&oacute;sito, dessa forma fa&ccedil;o uma triagem natural e dou aten&ccedil;&atilde;o apenas &agrave;s que permanecem. Dou bastante valor &agrave; intui&ccedil;&atilde;o.
 </strong>
 
-Já faz um tempo que estou pensando sobre um recurso que vi em um sistema e achei bastante interessante. Pensei em como poderia aplicar este recurso aos sistemas atuais da BielSystems, mas não se aplicava. Permaneci pensando e tentando achar novas aplicações para o recurso em questão.
+J&aacute; faz um tempo que estou pensando sobre um recurso que vi em um sistema e achei bastante interessante. Pensei em como poderia aplicar este recurso aos sistemas atuais da BielSystems, mas n&atilde;o se aplicava. Permaneci pensando e tentando achar novas aplica&ccedil;&otilde;es para o recurso em quest&atilde;o.
 
-Na madrugada de domingo para segunda, no início do dia 07/01/2008 eu estava dirigindo e pensando sobre isso, foi quando deu o estalo. Comecei a achar um caminho e fui explorando esta idéia. Dormi sem dar muita atenção, mas ela retornou no dia seguinte e mais forte hoje, terça-feira (ainda não dormi, por isso digo hoje), pois consegui formatar melhor a idéia em um serviço e me pareceu bastante interessante.
-Estou escrevendo aqui pois é muito provável que eu desenvolva esta idéia. Pretendo começar uma série de posts relatando o passo-a-passo do que eu estiver fazendo em relação a esse novo projeto. O título de todos os posts começarão com as letras NAW de Nova Aplicação Web. Além disso associarei sempre à tag NAW
-Não pretendo divulgar a idéia nem o recurso em questão, pelo menos por enquanto. Mas vou dar o máximo de informações possíveis em relação ao processo, as ações em cada momento e as decisões tomadas.
-Não estou garantindo que irei realizar este projeto, pois não fiz estudo de viabiidade, nem plano de negócios, nem nada. Apenas tive a idéia e mostrei a dois amigos (passo que relatarei no próximo post).
+Na madrugada de domingo para segunda, no in&iacute;cio do dia 07/01/2008 eu estava dirigindo e pensando sobre isso, foi quando deu o estalo. Comecei a achar um caminho e fui explorando esta id&eacute;ia. Dormi sem dar muita aten&ccedil;&atilde;o, mas ela retornou no dia seguinte e mais forte hoje, ter&ccedil;a-feira (ainda n&atilde;o dormi, por isso digo hoje), pois consegui formatar melhor a id&eacute;ia em um servi&ccedil;o e me pareceu bastante interessante.
+Estou escrevendo aqui pois &eacute; muito prov&aacute;vel que eu desenvolva esta id&eacute;ia. Pretendo come&ccedil;ar uma s&eacute;rie de posts relatando o passo-a-passo do que eu estiver fazendo em rela&ccedil;&atilde;o a esse novo projeto. O t&iacute;tulo de todos os posts come&ccedil;ar&atilde;o com as letras NAW de Nova Aplica&ccedil;&atilde;o Web. Al&eacute;m disso associarei sempre &agrave; tag NAW
+N&atilde;o pretendo divulgar a id&eacute;ia nem o recurso em quest&atilde;o, pelo menos por enquanto. Mas vou dar o m&aacute;ximo de informa&ccedil;&otilde;es poss&iacute;veis em rela&ccedil;&atilde;o ao processo, as a&ccedil;&otilde;es em cada momento e as decis&otilde;es tomadas.
+N&atilde;o estou garantindo que irei realizar este projeto, pois n&atilde;o fiz estudo de viabiidade, nem plano de neg&oacute;cios, nem nada. Apenas tive a id&eacute;ia e mostrei a dois amigos (passo que relatarei no pr&oacute;ximo post).
 
-Pode ser que cheguemos a conclusão que não vale a pena fazer, que o sistema não é rentável ou descrubamos que o que pensamos já existe. O importante e que aconteça o que acontecer, isso vai ser relatado em meu blog. Do início ao fim, seja o fim a conclusão do desenvolvimento ou a decisão de parar.
+Pode ser que cheguemos a conclus&atilde;o que n&atilde;o vale a pena fazer, que o sistema n&atilde;o &eacute; rent&aacute;vel ou descrubamos que o que pensamos j&aacute; existe. O importante e que aconte&ccedil;a o que acontecer, isso vai ser relatado em meu blog. Do in&iacute;cio ao fim, seja o fim a conclus&atilde;o do desenvolvimento ou a decis&atilde;o de parar.
 
 Espero que aproveitem!

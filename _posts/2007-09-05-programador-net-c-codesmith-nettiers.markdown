@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,29 +9,28 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 139
 wordpress_url: http://rafael.adm.br/p/programador-net-c-codesmith-nettiers/
-date: 2007-09-05 16:17:19 -03:00
-categories: 
+date: 2007-09-05 16:17:19.000000000 -03:00
+categories:
 - Posts
 tags: []
-
 ---
-Procuramos para trabalhar na BielSystems um programador C# para desenvolvimento de sites e de aplicações web.
+Procuramos para trabalhar na BielSystems um programador C# para desenvolvimento de sites e de aplica&ccedil;&otilde;es web.
 
-DISPONIBILIDADE: O candidato deverá ter disponibilidade de 6h/dia no mínimo.
+DISPONIBILIDADE: O candidato dever&aacute; ter disponibilidade de 6h/dia no m&iacute;nimo.
 
-CONTRATAÇÃO PERMANENTE: Iremos fechar um valor fixo mensal mais um valor por hora além das 6h/dia, se necessário.
+CONTRATA&Ccedil;&Atilde;O PERMANENTE: Iremos fechar um valor fixo mensal mais um valor por hora al&eacute;m das 6h/dia, se necess&aacute;rio.
 
-Preferimos moradores de Niterói, São Gonçalo ou Rio de Janeiro.
+Preferimos moradores de Niter&oacute;i, S&atilde;o Gon&ccedil;alo ou Rio de Janeiro.
 
-O trabalho consiste em desenvolver sites baseando-se no protótipo em HTML pré-existente e no modelo de dados pré-existente.
+O trabalho consiste em desenvolver sites baseando-se no prot&oacute;tipo em HTML pr&eacute;-existente e no modelo de dados pr&eacute;-existente.
 
-Necessário conhecimento em:
+Necess&aacute;rio conhecimento em:
 
 .NET
 C#
 MS SQL Server
 CodeSmith
 .netTiers
-Desejável Nolics.net
+Desej&aacute;vel Nolics.net
 
-Por favor enviar currículo por e-mail para contato arroba bielsystems.com.br 
+Por favor enviar curr&iacute;culo por e-mail para contato arroba bielsystems.com.br 

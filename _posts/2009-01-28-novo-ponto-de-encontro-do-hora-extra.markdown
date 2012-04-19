@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,20 +9,20 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 275
 wordpress_url: http://rafael.adm.br/?p=275
-date: 2009-01-28 22:44:54 -02:00
-categories: 
+date: 2009-01-28 22:44:54.000000000 -02:00
+categories:
 - Posts
-tags: 
-- "#horaextra"
+tags:
+- ! '#horaextra'
 ---
-Como dito no <a href="http://rafael.adm.br/p/hora-extra-no-leblon/">post anterior</a>, uma galera do Rio se reúne toda segunda-feira para trocar idéia sobe negócios, desenvolvimento, web, rails, etc...
+Como dito no <a href="http://rafael.adm.br/p/hora-extra-no-leblon/">post anterior</a>, uma galera do Rio se re&uacute;ne toda segunda-feira para trocar id&eacute;ia sobe neg&oacute;cios, desenvolvimento, web, rails, etc...
 
-Preciso informar que o "escritório" mudou para o <a href="http://www.jiraubar.com.br/">Jirau Bar/Ao Vivo</a> que fica na esquina na <a href="http://www.jiraubar.com.br/comochegar.html">1 de Março com São José</a> no Centro do RJ.
+Preciso informar que o "escrit&oacute;rio" mudou para o <a href="http://www.jiraubar.com.br/">Jirau Bar/Ao Vivo</a> que fica na esquina na <a href="http://www.jiraubar.com.br/comochegar.html">1 de Mar&ccedil;o com S&atilde;o Jos&eacute;</a> no Centro do RJ.
 
-Normalmente chegamos umas 19:30h. Agora não podemos atrasar muito pois no Centro os bares fecham mais cedo...
+Normalmente chegamos umas 19:30h. Agora n&atilde;o podemos atrasar muito pois no Centro os bares fecham mais cedo...
 
 Geralmente eu lembro o pessoal pelo <a href="http://twitter.com/rafaelp">meu Twitter</a>.
 
-Espero você lá!
+Espero voc&ecirc; l&aacute;!
 
-Abraços
+Abra&ccedil;os

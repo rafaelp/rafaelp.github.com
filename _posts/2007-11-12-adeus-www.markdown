@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,24 +9,24 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 145
 wordpress_url: http://rafael.adm.br/p/adeus-www/
-date: 2007-11-12 20:10:53 -02:00
-categories: 
+date: 2007-11-12 20:10:53.000000000 -02:00
+categories:
 - Posts
-tags: 
+tags:
 - Tecnologia
 - web
 - futuro
-- "tend\xC3\xAAncias"
+- tend&ecirc;ncias
 - web2.0
 ---
-O prefixo "www" nos endereços da web está depreciado. Ele aos poucos está sumindo, mas aqui no Brasil o número de pessoas que mantém o www ainda é grande e por isso estou escrevendo aqui sobre isso.
-Qual o motivo de não usar mais o "www"?
-Simplesmente por que não é necessário. Quando você acessa um site o navegador já pressupõe que seja web e acessa a porta certa com o protocolo certo, você não precisa dizer, no nome do domínio, que está querendo acessar a www. O prefixo "www" só deixa o endereço maior.
-Assim como você <strong>não precisa</strong> ter a palavra "mail" no endereço de e-mail, exemplo: seunome@MAIL.dominio.com.br
+O prefixo "www" nos endere&ccedil;os da web est&aacute; depreciado. Ele aos poucos est&aacute; sumindo, mas aqui no Brasil o n&uacute;mero de pessoas que mant&eacute;m o www ainda &eacute; grande e por isso estou escrevendo aqui sobre isso.
+Qual o motivo de n&atilde;o usar mais o "www"?
+Simplesmente por que n&atilde;o &eacute; necess&aacute;rio. Quando voc&ecirc; acessa um site o navegador j&aacute; pressup&otilde;e que seja web e acessa a porta certa com o protocolo certo, voc&ecirc; n&atilde;o precisa dizer, no nome do dom&iacute;nio, que est&aacute; querendo acessar a www. O prefixo "www" s&oacute; deixa o endere&ccedil;o maior.
+Assim como voc&ecirc; <strong>n&atilde;o precisa</strong> ter a palavra "mail" no endere&ccedil;o de e-mail, exemplo: seunome@MAIL.dominio.com.br
 
-Já tem anos que eu uso por exemplo <a href="http://bielsystems.com.br">http://bielsystems.com.br</a> ao invés de  <a href="http://www.bielsystems.com.br">http://www.bielsystems.com.br</a>
+J&aacute; tem anos que eu uso por exemplo <a href="http://bielsystems.com.br">http://bielsystems.com.br</a> ao inv&eacute;s de  <a href="http://www.bielsystems.com.br">http://www.bielsystems.com.br</a>
 
-Teste se o seu site já está preparado para isso, se não tiver, entre em contato com o responsável pela hospedagem do site, ele poderá te ajudar nisso.
+Teste se o seu site j&aacute; est&aacute; preparado para isso, se n&atilde;o tiver, entre em contato com o respons&aacute;vel pela hospedagem do site, ele poder&aacute; te ajudar nisso.
 
 Se quiser ler mais sobre o assunto visite: <a href="http://no-www.org/">http://no-www.org</a>
-Abraços e até a próxima.
+Abra&ccedil;os e at&eacute; a pr&oacute;xima.

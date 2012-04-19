@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,17 +9,17 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 178
 wordpress_url: http://rafael.adm.br/p/jung/
-date: 2008-03-26 10:29:22 -03:00
-categories: 
+date: 2008-03-26 10:29:22.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - pensamentos
 ---
 
-<blockquote>O passo que conduz a uma consciência mais alta deixa-nos sem qualquer
-segurança, com a retaguarda desguarnecida. O indivíduo deve entregar-se
-ao Caminho com toda a sua energia, pois só mediante sua integridade
-poderá prosseguir e só ela será uma garantia de que tal caminho não se
+<blockquote>O passo que conduz a uma consci&ecirc;ncia mais alta deixa-nos sem qualquer
+seguran&ccedil;a, com a retaguarda desguarnecida. O indiv&iacute;duo deve entregar-se
+ao Caminho com toda a sua energia, pois s&oacute; mediante sua integridade
+poder&aacute; prosseguir e s&oacute; ela ser&aacute; uma garantia de que tal caminho n&atilde;o se
 torne uma aventura absurda.</blockquote>
-O segredo da flor de ouro - Um livro de vida chinês, C.G. Jung, R.
+O segredo da flor de ouro - Um livro de vida chin&ecirc;s, C.G. Jung, R.
 Wilhelm, Ed. Vozes

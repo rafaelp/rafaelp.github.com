@@ -1,31 +1,31 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Valida\xC3\xA7\xC3\xA3o de formul\xC3\xA1rios ultra simples"
+title: Valida&ccedil;&atilde;o de formul&aacute;rios ultra simples
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 128
 wordpress_url: http://rafael.adm.br/p/validacao-de-formularios-ultra-simples/
-date: 2007-06-18 00:40:17 -03:00
-categories: 
+date: 2007-06-18 00:40:17.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
-- "programa\xC3\xA7\xC3\xA3o"
+- programa&ccedil;&atilde;o
 - web
 - design
 - webapp
 - javascript
 ---
-<p>Rápido e rasteiro este post tem o objetivo de introduzir na vida de vocês o <a href="http://tetlaw.id.au/view/blog/really-easy-field-validation-with-prototype/">Really Easy Field Validation</a>.</p>
-<p>Se você é <strong>programador web</strong>, utilize ou mostre para o seu designer.</p>
-<p>Se você é  <strong>designer de web</strong>, utilize ou mostre para seu programador.</p>
-<p>Se você não é nenhum dos dois mas precisa fazer um formulário em html, utilize também!</p>
-<p>Se você é <strong>contratante de serviços de web</strong>, peça para a contratada utilizar (o projeto vai sair mais barato!)<br />
-Esta biblioteca é demais para validação de formulários. Muito simples de implementar!</p>
-<p>Eu estou usando em todos os projetos de uns meses para cá! Ela é baseada no <a href="http://prototypejs.org">prototypejs</a> um framework de javascript também muito interessante.</p>
-<p>Abraços a todos.
+<p>R&aacute;pido e rasteiro este post tem o objetivo de introduzir na vida de voc&ecirc;s o <a href="http://tetlaw.id.au/view/blog/really-easy-field-validation-with-prototype/">Really Easy Field Validation</a>.</p>
+<p>Se voc&ecirc; &eacute; <strong>programador web</strong>, utilize ou mostre para o seu designer.</p>
+<p>Se voc&ecirc; &eacute;  <strong>designer de web</strong>, utilize ou mostre para seu programador.</p>
+<p>Se voc&ecirc; n&atilde;o &eacute; nenhum dos dois mas precisa fazer um formul&aacute;rio em html, utilize tamb&eacute;m!</p>
+<p>Se voc&ecirc; &eacute; <strong>contratante de servi&ccedil;os de web</strong>, pe&ccedil;a para a contratada utilizar (o projeto vai sair mais barato!)<br />
+Esta biblioteca &eacute; demais para valida&ccedil;&atilde;o de formul&aacute;rios. Muito simples de implementar!</p>
+<p>Eu estou usando em todos os projetos de uns meses para c&aacute;! Ela &eacute; baseada no <a href="http://prototypejs.org">prototypejs</a> um framework de javascript tamb&eacute;m muito interessante.</p>
+<p>Abra&ccedil;os a todos.
 </p>

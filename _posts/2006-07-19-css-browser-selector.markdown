@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,12 +9,12 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 58
 wordpress_url: http://rafael.adm.br/p/css-browser-selector/
-date: 2006-07-19 23:29:24 -03:00
-categories: 
+date: 2006-07-19 23:29:24.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
-- "programa\xC3\xA7\xC3\xA3o"
+- programa&ccedil;&atilde;o
 - tweak
 - web
 - snippet
@@ -38,11 +38,11 @@ EXAMPLE
 
 Source of this example:
 <pre>
-&lt;div class="example"&gt;
+<div class="example">
 </pre>
 <br />
 <pre>
-&lt;style type="text/css"&gt;
+<style type="text/css">
 .ie .example {
   background-color: yellow
 }
@@ -62,7 +62,7 @@ Source of this example:
   width: 100px;
   height: 100px;
 }
-&lt;/style&gt;
+</style>
 
 </pre>
 
@@ -73,8 +73,8 @@ DOWNLOAD
 
 USAGE
 
-1. Copy and paste the line above, inside &lt;head&gt; and &lt;/head&gt; tag
-<p>&lt;script src="css_browser_selector.js" type="text/javascript"&gt;&lt;/script&gt;</p>
+1. Copy and paste the line above, inside <head> and </head> tag
+<p><script src="css_browser_selector.js" type="text/javascript"></script></p>
 
 2. Set the CSS attributes putting the code of the browser
 <p>Examples:</p>

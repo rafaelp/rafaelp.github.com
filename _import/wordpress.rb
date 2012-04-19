@@ -300,4 +300,4 @@ module Jekyll
   end
 end
 
-Jekyll::WordPress.process("rafael_adm_br","root","",nil,{:comments => false, :clean_entities => false})
+Jekyll::WordPress.process("rafael_adm_br","root","",nil,{:comments => false})

@@ -1,53 +1,53 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Marketing para Servi\xC3\xA7os e Aplica\xC3\xA7\xC3\xB5es Web"
+title: Marketing para Servi&ccedil;os e Aplica&ccedil;&otilde;es Web
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 114
 wordpress_url: http://rafael.adm.br/p/marketing-para-servicos-e-aplicacoes-web/
-date: 2007-03-12 13:44:59 -03:00
-categories: 
+date: 2007-03-12 13:44:59.000000000 -03:00
+categories:
 - Posts
-tags: 
-- "neg\xC3\xB3cios"
+tags:
+- neg&oacute;cios
 - marketing
 - roi
-- "an\xC3\xA1lise"
+- an&aacute;lise
 ---
-Muitas vezes nós simplesmente copiamos idéias de especialistas sem adaptá-las a nossa realidade. Vou discorrer aqui a questão do site de uma página só (One Page Site) e da nova técnica que estou desenvolvendo.
+Muitas vezes n&oacute;s simplesmente copiamos id&eacute;ias de especialistas sem adapt&aacute;-las a nossa realidade. Vou discorrer aqui a quest&atilde;o do site de uma p&aacute;gina s&oacute; (One Page Site) e da nova t&eacute;cnica que estou desenvolvendo.
 
-O pessoal da <a href="http://37signals.com">37signals</a> defende a idéia de que um site pode ter uma página só. Realmente, o site deles tem apenas uma página!
+O pessoal da <a href="http://37signals.com">37signals</a> defende a id&eacute;ia de que um site pode ter uma p&aacute;gina s&oacute;. Realmente, o site deles tem apenas uma p&aacute;gina!
 
-Eu também devo ter um site de uma página só?
+Eu tamb&eacute;m devo ter um site de uma p&aacute;gina s&oacute;?
 
-Foi o que me perguntei em meados de 2006 e cheguei a conclusão de que a resposta seria SIM.  Muito mais fácil de manter e atualizar, direto, simples, etc etc.
+Foi o que me perguntei em meados de 2006 e cheguei a conclus&atilde;o de que a resposta seria SIM.  Muito mais f&aacute;cil de manter e atualizar, direto, simples, etc etc.
 
-O site da <a href="http://bielsystems.com.br">BielSystems</a>, minha empresa, é baseado nessa filosofia e funciona muito bem.
+O site da <a href="http://bielsystems.com.br">BielSystems</a>, minha empresa, &eacute; baseado nessa filosofia e funciona muito bem.
 
-Fiz isso também no site do <a href="http://emailfax.com.br">EmailFax, sistema de fax pela internet</a> da BielSystems.
+Fiz isso tamb&eacute;m no site do <a href="http://emailfax.com.br">EmailFax, sistema de fax pela internet</a> da BielSystems.
 
-Mês passado chegou a hora de investir no marketing do EmailFax e para isso recorri aos relatórios do <a href="http://www.google.com/analytics/">Google Analytics</a>, que já estavam sendo alimentado pelo site desde o lançamento. Foi quando comecei a perceber que algo estava errado.
+M&ecirc;s passado chegou a hora de investir no marketing do EmailFax e para isso recorri aos relat&oacute;rios do <a href="http://www.google.com/analytics/">Google Analytics</a>, que j&aacute; estavam sendo alimentado pelo site desde o lan&ccedil;amento. Foi quando comecei a perceber que algo estava errado.
 
-Quando fui analisar os relatórios percebi que o site de uma página só não me acrescentava nenhuma informação! Todas as pessoas entravam e saiam naquela página. Não havia percentual de desistência por conteúdo, não era possível fazer uma análise navegacional, muito menos o mais importante: acompanhar as conversões.
+Quando fui analisar os relat&oacute;rios percebi que o site de uma p&aacute;gina s&oacute; n&atilde;o me acrescentava nenhuma informa&ccedil;&atilde;o! Todas as pessoas entravam e saiam naquela p&aacute;gina. N&atilde;o havia percentual de desist&ecirc;ncia por conte&uacute;do, n&atilde;o era poss&iacute;vel fazer uma an&aacute;lise navegacional, muito menos o mais importante: acompanhar as convers&otilde;es.
 
-(Vou começar a falar mais sobre marketing na web nos próximos artigos, falarei mais sobre acompanhamento de conversão, por enquanto você pode ficar com <a href="http://adwords.google.com/support/bin/answer.py?answer=6365&topic=29">este link</a>.)
+(Vou come&ccedil;ar a falar mais sobre marketing na web nos pr&oacute;ximos artigos, falarei mais sobre acompanhamento de convers&atilde;o, por enquanto voc&ecirc; pode ficar com <a href="http://adwords.google.com/support/bin/answer.py?answer=6365&topic=29">este link</a>.)
 
-Basicamente os relatórios não apresentavam informações, apenas dados como percentual de visitantes com navegador X, resolução de telas e outras mais que não acrescentam muita coisa nas decisões de marketing para a venda do produto.
+Basicamente os relat&oacute;rios n&atilde;o apresentavam informa&ccedil;&otilde;es, apenas dados como percentual de visitantes com navegador X, resolu&ccedil;&atilde;o de telas e outras mais que n&atilde;o acrescentam muita coisa nas decis&otilde;es de marketing para a venda do produto.
 
-<strong>Neste momento percebi que site de uma página só não é bom apresentação de produtos.</strong>
+<strong>Neste momento percebi que site de uma p&aacute;gina s&oacute; n&atilde;o &eacute; bom apresenta&ccedil;&atilde;o de produtos.</strong>
 
-Então pensei: Mas por quê a 37signals, empresa pioneira, faz site de uma página só?
+Ent&atilde;o pensei: Mas por qu&ecirc; a 37signals, empresa pioneira, faz site de uma p&aacute;gina s&oacute;?
 
-A resposta está na pergunta. <strong>A 37signals é uma empresa pioneira</strong> na internet mundial. Ela possui milhares de clientes, aparições nas principais revistas de negócios e tecnologia e seu blog possui mais de 50.00 leitores. Eles não precisam trabalhar o marketing no site, mas sim dentro dos produtos. A abordagem é diferente.
+A resposta est&aacute; na pergunta. <strong>A 37signals &eacute; uma empresa pioneira</strong> na internet mundial. Ela possui milhares de clientes, apari&ccedil;&otilde;es nas principais revistas de neg&oacute;cios e tecnologia e seu blog possui mais de 50.00 leitores. Eles n&atilde;o precisam trabalhar o marketing no site, mas sim dentro dos produtos. A abordagem &eacute; diferente.
 
-A conclusão por enquanto é de que devemos evitar sites de uma página só para divulgação do produto, por mais simples que seja.
+A conclus&atilde;o por enquanto &eacute; de que devemos evitar sites de uma p&aacute;gina s&oacute; para divulga&ccedil;&atilde;o do produto, por mais simples que seja.
 
-Chegar a essa conclusão demandou uma experiência prática e isso é legal. No Brasil as coisas funcionam diferente, os consumidores têm atitudes diferentes e não podemos aceitar tudo que dá certo lá fora. Precisamos criar nossas técnicas a partir das experiências obtidas. Com esta experiência tive uma idéia e estou desenvolvendo uma técnica que chamei de "O site que conversa".
+Chegar a essa conclus&atilde;o demandou uma experi&ecirc;ncia pr&aacute;tica e isso &eacute; legal. No Brasil as coisas funcionam diferente, os consumidores t&ecirc;m atitudes diferentes e n&atilde;o podemos aceitar tudo que d&aacute; certo l&aacute; fora. Precisamos criar nossas t&eacute;cnicas a partir das experi&ecirc;ncias obtidas. Com esta experi&ecirc;ncia tive uma id&eacute;ia e estou desenvolvendo uma t&eacute;cnica que chamei de "O site que conversa".
 
-Este será um tema para os próximos capítulos, <a href="http://rafael.adm.br/feed/">acompanhe o blog assinando o feed em RSS</a>.
+Este ser&aacute; um tema para os pr&oacute;ximos cap&iacute;tulos, <a href="http://rafael.adm.br/feed/">acompanhe o blog assinando o feed em RSS</a>.
 
-Abraços a todos.
+Abra&ccedil;os a todos.

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,45 +9,45 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 135
 wordpress_url: http://rafael.adm.br/p/a-bolha-do-second-life/
-date: 2007-08-19 13:39:41 -03:00
-categories: 
+date: 2007-08-19 13:39:41.000000000 -03:00
+categories:
 - Posts
-tags: 
-- "neg\xC3\xB3cios"
+tags:
+- neg&oacute;cios
 - Tecnologia
 - web
 - futuro
 - second-life
 - e-commerce
 ---
-Faz tempo que estou acompanhando o Second Life. Sempre me interessei em ler todas as notícias nas principais revistas sobre este ambiente e procurei estar atento ao que acontecia. No dia 20/06/2007 eu <a href="http://rafael.adm.br/p/buzzword-second-life/">entrei pela primeira vez</a> para ver como funcionava. Não saí da ilha de aprendizado, fiquei só ali, andei, pulei, voei, e ponto.
+Faz tempo que estou acompanhando o Second Life. Sempre me interessei em ler todas as not&iacute;cias nas principais revistas sobre este ambiente e procurei estar atento ao que acontecia. No dia 20/06/2007 eu <a href="http://rafael.adm.br/p/buzzword-second-life/">entrei pela primeira vez</a> para ver como funcionava. N&atilde;o sa&iacute; da ilha de aprendizado, fiquei s&oacute; ali, andei, pulei, voei, e ponto.
 
-O motivo maior para eu ter entrado pela primeira vez, foi a possibilidade de executar um projeto dentro do Second Life. Achei que iria entrar novamente, mas naturalmente não ocorreu. Eu nunca fui ligado à jogos e talvez seja isso que não tenha me motivado a interagir novamente naquele ambiente.
+O motivo maior para eu ter entrado pela primeira vez, foi a possibilidade de executar um projeto dentro do Second Life. Achei que iria entrar novamente, mas naturalmente n&atilde;o ocorreu. Eu nunca fui ligado &agrave; jogos e talvez seja isso que n&atilde;o tenha me motivado a interagir novamente naquele ambiente.
 
-<strong>Comecei a refletir sobre esse assunto e cheguei a conclusão que o Second Life não é o ambiente ideal para empresas em geral.</strong>
+<strong>Comecei a refletir sobre esse assunto e cheguei a conclus&atilde;o que o Second Life n&atilde;o &eacute; o ambiente ideal para empresas em geral.</strong>
 
-Como uma empresa pode aumentar seus lucros utilizando o Second Life? Esta é uma questão importante. Por mais que existam milhões de usuários se relacionando, a exploração das atitudes destes no ambiente virtual, não traz informações relevantes que possam aumentar as vendas no mundo real, por exemplo.
+Como uma empresa pode aumentar seus lucros utilizando o Second Life? Esta &eacute; uma quest&atilde;o importante. Por mais que existam milh&otilde;es de usu&aacute;rios se relacionando, a explora&ccedil;&atilde;o das atitudes destes no ambiente virtual, n&atilde;o traz informa&ccedil;&otilde;es relevantes que possam aumentar as vendas no mundo real, por exemplo.
 
-<strong>Enquanto no Orkut as pessoas estão colocando a sua vida real, no Second Life elas estão brincando de viver.</strong>
+<strong>Enquanto no Orkut as pessoas est&atilde;o colocando a sua vida real, no Second Life elas est&atilde;o brincando de viver.</strong>
 
-Qual dos dois ambientes geram informações mais relevantes para uma pesquisa de marketing? o Orkut é uma real fonte de informação relevante para as empresas, seja para o pessoal de marketing ou para o pessoal de RH. O Second Life, não.
+Qual dos dois ambientes geram informa&ccedil;&otilde;es mais relevantes para uma pesquisa de marketing? o Orkut &eacute; uma real fonte de informa&ccedil;&atilde;o relevante para as empresas, seja para o pessoal de marketing ou para o pessoal de RH. O Second Life, n&atilde;o.
 
-O que funcionou bem no Second Life foram as ações de divulgação de marcas e produtos. Acho que deram certo pelo simples fato de terem sido as primeiras. Agora o Second Life não é novidade!
+O que funcionou bem no Second Life foram as a&ccedil;&otilde;es de divulga&ccedil;&atilde;o de marcas e produtos. Acho que deram certo pelo simples fato de terem sido as primeiras. Agora o Second Life n&atilde;o &eacute; novidade!
 
-<strong>Não sai mais nas revistas que tal empresa montou seu escritório no Second Life... As primeiras empresas que entraram no ambiente virtual já saíram nas revistas e já tiveram suas marcas divulgadas. Eu diria que deveriam até fechar seus escritórios agora, pois assim vão conseguir divulgar ainda mais suas marcas!</strong>
+<strong>N&atilde;o sai mais nas revistas que tal empresa montou seu escrit&oacute;rio no Second Life... As primeiras empresas que entraram no ambiente virtual j&aacute; sa&iacute;ram nas revistas e j&aacute; tiveram suas marcas divulgadas. Eu diria que deveriam at&eacute; fechar seus escrit&oacute;rios agora, pois assim v&atilde;o conseguir divulgar ainda mais suas marcas!</strong>
 
-Esperem para os próximos dias notícias como "Empresa XPTO resolve fechar escritório no Second Life".
+Esperem para os pr&oacute;ximos dias not&iacute;cias como "Empresa XPTO resolve fechar escrit&oacute;rio no Second Life".
 
-O movimento é esse, novidade, euforia, revistas, matérias, análise do retorno, fechamento... Foi assim com a internet na bolha de 2001.
+O movimento &eacute; esse, novidade, euforia, revistas, mat&eacute;rias, an&aacute;lise do retorno, fechamento... Foi assim com a internet na bolha de 2001.
 
-O que me levou a ter essa opinião foram as seguintes questões:
+O que me levou a ter essa opini&atilde;o foram as seguintes quest&otilde;es:
 
 Qual o potencial do Second Life?
 
-Quais negócios podem acontecer de fato dentro do Second Life?
+Quais neg&oacute;cios podem acontecer de fato dentro do Second Life?
 
-Será que algum dias as pessoas vão comprar mais lá do que nos websites?
+Ser&aacute; que algum dias as pessoas v&atilde;o comprar mais l&aacute; do que nos websites?
 
-Eu tenho dúvidas, acho que cada vez mais o Second Life vai perder força e não vejo este ambiente como tendência para os negócios na internet.
+Eu tenho d&uacute;vidas, acho que cada vez mais o Second Life vai perder for&ccedil;a e n&atilde;o vejo este ambiente como tend&ecirc;ncia para os neg&oacute;cios na internet.
 
-Abraços a todos e até a próxima.
+Abra&ccedil;os a todos e at&eacute; a pr&oacute;xima.

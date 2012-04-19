@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,27 +9,27 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 132
 wordpress_url: http://rafael.adm.br/p/openid/
-date: 2007-07-17 00:28:59 -03:00
-categories: 
+date: 2007-07-17 00:28:59.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - Tecnologia
 - usabilidade
 - webapp
-- "seguran\xC3\xA7a"
-- "servi\xC3\xA7o"
+- seguran&ccedil;a
+- servi&ccedil;o
 - openid
 ---
-Estou maravilhado com a idéia filosófica por trás do <a href="http://openid.net">OpenID</a>.
-Conseguiram montar um esquema em que você possa realizar um login apenas para acessar qualquer sistema, de forma segura e descentralizada. É isso mesmo, você passa a ter apenas um login e senha para acessar todos os sistemas. Teoricamente acabou o problema de vários logins e milhões de senhas.
+Estou maravilhado com a id&eacute;ia filos&oacute;fica por tr&aacute;s do <a href="http://openid.net">OpenID</a>.
+Conseguiram montar um esquema em que voc&ecirc; possa realizar um login apenas para acessar qualquer sistema, de forma segura e descentralizada. &Eacute; isso mesmo, voc&ecirc; passa a ter apenas um login e senha para acessar todos os sistemas. Teoricamente acabou o problema de v&aacute;rios logins e milh&otilde;es de senhas.
 
-Teoricamente por que embora o "movimento OpenID" esteja bastante forte no exterior, acho que ele ainda não chegou no Brasil. Sua turnê deve estar marcada para meados de 2008, acredito eu.
-Faz muito sentido termos uma conta OpenID no momento que os sistema que precisamos entrar possuem suporte a este tipo de autenticação.
+Teoricamente por que embora o "movimento OpenID" esteja bastante forte no exterior, acho que ele ainda n&atilde;o chegou no Brasil. Sua turn&ecirc; deve estar marcada para meados de 2008, acredito eu.
+Faz muito sentido termos uma conta OpenID no momento que os sistema que precisamos entrar possuem suporte a este tipo de autentica&ccedil;&atilde;o.
 
-Eu como desenvolvedor e diretor da BielSystems, empresa de tecnologia e aplicações web, já coloquei nos planos a utilização do OpenID como alternativa para o velho login e senha dos nossos produtos. Imagino que ainda este ano estaremos com suporte a este método de autenticação principalmente no <a href="http://emailfax.com.br">EmailFax</a> e no <a href="http://blogempresa.com.br">Blog Empresa.</a>
+Eu como desenvolvedor e diretor da BielSystems, empresa de tecnologia e aplica&ccedil;&otilde;es web, j&aacute; coloquei nos planos a utiliza&ccedil;&atilde;o do OpenID como alternativa para o velho login e senha dos nossos produtos. Imagino que ainda este ano estaremos com suporte a este m&eacute;todo de autentica&ccedil;&atilde;o principalmente no <a href="http://emailfax.com.br">EmailFax</a> e no <a href="http://blogempresa.com.br">Blog Empresa.</a>
 
-Além disso vou colocar a opção de comentários via OpenID e login via OpenID para a área de administração em todos os sites baseados em Word Press que gerencio, inclusive este!
+Al&eacute;m disso vou colocar a op&ccedil;&atilde;o de coment&aacute;rios via OpenID e login via OpenID para a &aacute;rea de administra&ccedil;&atilde;o em todos os sites baseados em Word Press que gerencio, inclusive este!
 
 Fiquem de olho.
 
-Abraços
+Abra&ccedil;os

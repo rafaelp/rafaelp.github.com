@@ -1,41 +1,41 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Tend\xC3\xAAncias"
+title: Tend&ecirc;ncias
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 46
 wordpress_url: http://rafael.adm.br/p/tendencias/
-date: 2006-05-23 23:51:30 -03:00
-categories: 
+date: 2006-05-23 23:51:30.000000000 -03:00
+categories:
 - Posts
-tags: 
-- "neg\xC3\xB3cios"
+tags:
+- neg&oacute;cios
 - google
-- "comunica\xC3\xA7\xC3\xA3o"
+- comunica&ccedil;&atilde;o
 - futuro
 - imprensa
 - web2.0
 ---
-Para quem não conhece, o <a title="Visitar o Google Trends (nova janela)" target="_blank" href="http://www.google.com/trends">Google Trends</a>, é uma ferramenta que apresenta, em forma de gráficos, a relação entre dois ou mais termos de busca.
+Para quem n&atilde;o conhece, o <a title="Visitar o Google Trends (nova janela)" target="_blank" href="http://www.google.com/trends">Google Trends</a>, &eacute; uma ferramenta que apresenta, em forma de gr&aacute;ficos, a rela&ccedil;&atilde;o entre dois ou mais termos de busca.
 
-Experimente comparar os termos <a title="Comparação entre google e microsoft (nova janela)" target="_blank" href="http://google.com/trends?q=google%2Cmicrosoft&ctab=0&geo=all&date=all">google e microsoft</a>?
+Experimente comparar os termos <a title="Compara&ccedil;&atilde;o entre google e microsoft (nova janela)" target="_blank" href="http://google.com/trends?q=google%2Cmicrosoft&ctab=0&geo=all&date=all">google e microsoft</a>?
 
-Gostei da relação que ele faz com as notícias "relevantes" que foram veiculadas em determinadas épocas
+Gostei da rela&ccedil;&atilde;o que ele faz com as not&iacute;cias "relevantes" que foram veiculadas em determinadas &eacute;pocas
 
-O curioso é que das três notícias destacadas sobre a <a title="Site da Microsoft (nova janela)" target="_blank" href="http://www.microsoft.com">Microsoft</a>, no exemplo acima, uma remete a um erro 404, outra às regras da corte americana sendo aplicadas à Microsoft e outra sobre o atraso no lançamento do <a target="_blank" title="Windows Vista - em inglês (nova janela)" href="http://www.microsoft.com/windowsvista/default.aspx">Windows Vista</a>.
+O curioso &eacute; que das tr&ecirc;s not&iacute;cias destacadas sobre a <a title="Site da Microsoft (nova janela)" target="_blank" href="http://www.microsoft.com">Microsoft</a>, no exemplo acima, uma remete a um erro 404, outra &agrave;s regras da corte americana sendo aplicadas &agrave; Microsoft e outra sobre o atraso no lan&ccedil;amento do <a target="_blank" title="Windows Vista - em ingl&ecirc;s (nova janela)" href="http://www.microsoft.com/windowsvista/default.aspx">Windows Vista</a>.
 
-Ok, isso foi só um detalhe que eu percebi...
+Ok, isso foi s&oacute; um detalhe que eu percebi...
 
-Mas de qualquer forma esta relação com as notícias é bem interessante e me faz pensar que os serviços de assessoria de imprensa irão perceber uma mudança no mercado a partir daí, e para melhor. Acredito que cada vez mais o Google fará uma relação entre o conteúdo gerado na web com o conteúdo gerado nos meios "convencionais" de mídia.
+Mas de qualquer forma esta rela&ccedil;&atilde;o com as not&iacute;cias &eacute; bem interessante e me faz pensar que os servi&ccedil;os de assessoria de imprensa ir&atilde;o perceber uma mudan&ccedil;a no mercado a partir da&iacute;, e para melhor. Acredito que cada vez mais o Google far&aacute; uma rela&ccedil;&atilde;o entre o conte&uacute;do gerado na web com o conte&uacute;do gerado nos meios "convencionais" de m&iacute;dia.
 
-Não duvido que o fator "aparições na mídia convencional" façam parte do sistema <a title="PageRank explained - em inglês (nova janela)" target="_blank" href="http://www.webworkshop.net/pagerank.html">PageRank</a>, responsável por ordenar o resultado da busca pelas palavras chaves.
-É neste momento que a assessoria de imprensa entra. As empresas, no intuito de ter uma boa colocação no resultado das buscas, não irão sair em busca somente de links relacionados, mas também de notas, artigos e matérias nos demias meios de comunicação.
+N&atilde;o duvido que o fator "apari&ccedil;&otilde;es na m&iacute;dia convencional" fa&ccedil;am parte do sistema <a title="PageRank explained - em ingl&ecirc;s (nova janela)" target="_blank" href="http://www.webworkshop.net/pagerank.html">PageRank</a>, respons&aacute;vel por ordenar o resultado da busca pelas palavras chaves.
+&Eacute; neste momento que a assessoria de imprensa entra. As empresas, no intuito de ter uma boa coloca&ccedil;&atilde;o no resultado das buscas, n&atilde;o ir&atilde;o sair em busca somente de links relacionados, mas tamb&eacute;m de notas, artigos e mat&eacute;rias nos demias meios de comunica&ccedil;&atilde;o.
 
-Acredito que comece pelo conteúdo escrito, já que o Google News indexa com tranquilidade, mas nada impede que posteriormente o ranking leve em consideração citações em <a title="TV Shows em Google Video (nova janela)" target="_blank" href="http://video.google.com/videosearch?q=type%3Atvshow">programas de tv</a> e até mesmo em <a title="Google Books" target="_blank" href="http://books.google.com/">livros</a>, nas referências bibliográficas!
+Acredito que comece pelo conte&uacute;do escrito, j&aacute; que o Google News indexa com tranquilidade, mas nada impede que posteriormente o ranking leve em considera&ccedil;&atilde;o cita&ccedil;&otilde;es em <a title="TV Shows em Google Video (nova janela)" target="_blank" href="http://video.google.com/videosearch?q=type%3Atvshow">programas de tv</a> e at&eacute; mesmo em <a title="Google Books" target="_blank" href="http://books.google.com/">livros</a>, nas refer&ecirc;ncias bibliogr&aacute;ficas!
 
 As empresas de assessoria de imprensa podem se preparar...
 

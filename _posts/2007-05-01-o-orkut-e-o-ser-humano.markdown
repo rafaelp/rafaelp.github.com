@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,25 +9,25 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 122
 wordpress_url: http://rafael.adm.br/p/o-orkut-e-o-ser-humano/
-date: 2007-05-01 15:10:11 -03:00
-categories: 
+date: 2007-05-01 15:10:11.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - privacidade
 - orkut
 - sentimentos
 - comunidade
 ---
-Nesse final de semana eu estava na sauna do condomínio com uns amigos e ouvi uma definição curiosa sobre o Orkut. Eu particularmente achei ótima e por isso resolvi postar aqui.
+Nesse final de semana eu estava na sauna do condom&iacute;nio com uns amigos e ouvi uma defini&ccedil;&atilde;o curiosa sobre o Orkut. Eu particularmente achei &oacute;tima e por isso resolvi postar aqui.
 
-Estávamos conversando e o pessoal começou a falar bem do Orkut. Comentavam sobre como era bom saber quem está "interessado em você" e como se sentiam bem em ver as mulheres que entravam no perfil de cada um.
-Eu fiquei só ouvindo.. Trocaram idéia sobre a opção de você ver quem está acessando o seu perfil em contrapartida de que os outros pudessem ver que você está entrando no perfil dos outros. Falaram sobre as contas fakes, etc...
+Est&aacute;vamos conversando e o pessoal come&ccedil;ou a falar bem do Orkut. Comentavam sobre como era bom saber quem est&aacute; "interessado em voc&ecirc;" e como se sentiam bem em ver as mulheres que entravam no perfil de cada um.
+Eu fiquei s&oacute; ouvindo.. Trocaram id&eacute;ia sobre a op&ccedil;&atilde;o de voc&ecirc; ver quem est&aacute; acessando o seu perfil em contrapartida de que os outros pudessem ver que voc&ecirc; est&aacute; entrando no perfil dos outros. Falaram sobre as contas fakes, etc...
 
 Em um momento oportuno eu apenas comentei:
-- "Eu escrevi um <a href="http://rafael.adm.br/p/o-sentido-do-orkut/">artigo sobre o Orkut</a> em meu site... mas não falei muito bem dele não..." 
+- "Eu escrevi um <a href="http://rafael.adm.br/p/o-sentido-do-orkut/">artigo sobre o Orkut</a> em meu site... mas n&atilde;o falei muito bem dele n&atilde;o..." 
 
 Um dos caras, que falava empolgado na conversa anterior, retrucou enquanto pensava:
-- "É... parando para analisar assim.. tipo.. se você pensar bem.. o Orkut é um negócio escroto..."
+- "&Eacute;... parando para analisar assim.. tipo.. se voc&ecirc; pensar bem.. o Orkut &eacute; um neg&oacute;cio escroto..."
 
 E concluiu:
--"... mas como o ser humano é escroto também, casou certinho!"
+-"... mas como o ser humano &eacute; escroto tamb&eacute;m, casou certinho!"

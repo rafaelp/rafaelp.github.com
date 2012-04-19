@@ -1,18 +1,19 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: IE 6 Cookie bug - Setting cookies fails when the hostname of the server contains an underscore.
+title: IE 6 Cookie bug - Setting cookies fails when the hostname of the server contains
+  an underscore.
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 201
 wordpress_url: http://rafael.adm.br/?p=201
-date: 2008-05-28 13:44:42 -03:00
-categories: 
+date: 2008-05-28 13:44:42.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - dicas
 - bug
 - session
@@ -30,12 +31,12 @@ Source: <a href="http://www.enhanceie.com/ie/bugs.asp">http://www.enhanceie.com/
 
 ***
 
-Passei horas tentando descobrir este bug! Na verdade estava usando o Drupal e foi um parto até descobrir que o problema não tinha nada haver com ele.
+Passei horas tentando descobrir este bug! Na verdade estava usando o Drupal e foi um parto at&eacute; descobrir que o problema n&atilde;o tinha nada haver com ele.
 
-Depois percebi que um simples script que setava uma variável na session não funcionava no IE6. Depois de algumas buscas e principalmente da ajuda do meu amigo Cesar descobrimos o link acima.
+Depois percebi que um simples script que setava uma vari&aacute;vel na session n&atilde;o funcionava no IE6. Depois de algumas buscas e principalmente da ajuda do meu amigo Cesar descobrimos o link acima.
 
-<strong>Resumo: Não utilize undescore "_" em subdomínios.</strong>
+<strong>Resumo: N&atilde;o utilize undescore "_" em subdom&iacute;nios.</strong>
 
-Isso é o maravilhoso IE!
+Isso &eacute; o maravilhoso IE!
 
 Por essas e outras que <a href="http://rafael.adm.br/p/a-microsoft-continua-uma-merda/">eu amo a Microsoft</a>.

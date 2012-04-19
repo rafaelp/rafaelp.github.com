@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,86 +9,85 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 536
 wordpress_url: http://rafael.adm.br/?p=536
-date: 2011-06-28 16:04:42 -03:00
-categories: 
+date: 2011-06-28 16:04:42.000000000 -03:00
+categories:
 - Posts
 tags: []
-
 ---
 <strong>Atualizado:</strong> Uma pessoa do PagSeguro me ligou e finalmente atualizou o telefone no cadastro em 30 de Junho.
 
-<strong>Disclaimer:</strong> O objetivo deste post é tentar resolver o problema.
+<strong>Disclaimer:</strong> O objetivo deste post &eacute; tentar resolver o problema.
 
-O PagSeguro tem alguma política muito burra ou dei azar de cair com um atendente idiota. Veja o histórico do atendimento:
+O PagSeguro tem alguma pol&iacute;tica muito burra ou dei azar de cair com um atendente idiota. Veja o hist&oacute;rico do atendimento:
 
-<strong>Gostaria de atualiza o número de telefone da minha empresa. Está aparecendo o número antigo.
-O número novo é: 21 2586-6327</strong>
+<strong>Gostaria de atualiza o n&uacute;mero de telefone da minha empresa. Est&aacute; aparecendo o n&uacute;mero antigo.
+O n&uacute;mero novo &eacute;: 21 2586-6327</strong>
 
-Pode excluir o número de São Paulo.
-Se precisar colocar um segundo número pode ser o do fax: 21 2586-6001
+Pode excluir o n&uacute;mero de S&atilde;o Paulo.
+Se precisar colocar um segundo n&uacute;mero pode ser o do fax: 21 2586-6001
 
 Obrigado.
 
 Resposta:
-<blockquote><strong>Olá cliente, para concluirmos a alteração de seu telefone fixo, você deverá enviar-nos uma cópia da parte interna de sua conta de telefone</strong>. Para isto acesse sua conta PagSeguro, clique no menu "meus dados", "documentos" e selecione a opção "comprovante de endereço".
+<blockquote><strong>Ol&aacute; cliente, para concluirmos a altera&ccedil;&atilde;o de seu telefone fixo, voc&ecirc; dever&aacute; enviar-nos uma c&oacute;pia da parte interna de sua conta de telefone</strong>. Para isto acesse sua conta PagSeguro, clique no menu "meus dados", "documentos" e selecione a op&ccedil;&atilde;o "comprovante de endere&ccedil;o".
 
-Não será aceito o envio de comprovantes de telefone celular, voip ou comprovante retirado da internet.
+N&atilde;o ser&aacute; aceito o envio de comprovantes de telefone celular, voip ou comprovante retirado da internet.
 
-Serão aceitos documentos em nome do pai, filho ou cônjuge do interessado, com a devida comprovação do parentesco, através de documento de identidade reconhecido pela legislação federal, certidão de nascimento ou certidão de casamento.
+Ser&atilde;o aceitos documentos em nome do pai, filho ou c&ocirc;njuge do interessado, com a devida comprova&ccedil;&atilde;o do parentesco, atrav&eacute;s de documento de identidade reconhecido pela legisla&ccedil;&atilde;o federal, certid&atilde;o de nascimento ou certid&atilde;o de casamento.
 
-Este documento somente será aceito se estiver dentro do prazo de 90 dias.
+Este documento somente ser&aacute; aceito se estiver dentro do prazo de 90 dias.
 
-Para alterar seu telefone celular cadastrado basta nos informar o novo número através deste canald de atendimento.
+Para alterar seu telefone celular cadastrado basta nos informar o novo n&uacute;mero atrav&eacute;s deste canald de atendimento.
 
 Atenciosamente,
 Leandro Oliveira
 
 Equipe de Atendimento PagSeguro https://pagseguro.uol.com.br/
-PagSeguro. A solução completa para pagamentos online.
+PagSeguro. A solu&ccedil;&atilde;o completa para pagamentos online.
 
-DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>
+D&Uacute;VIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>
 
-<strong>Não tenho isso. Contrato um escritório virtual que me fornece esse telefone. O telefone antigo era VoIP e tmb não tinha a conta de telefone. Como proceder?</strong>
+<strong>N&atilde;o tenho isso. Contrato um escrit&oacute;rio virtual que me fornece esse telefone. O telefone antigo era VoIP e tmb n&atilde;o tinha a conta de telefone. Como proceder?</strong>
 
 Resposta:
-<blockquote><strong>Olá Cliente, informamos que, por razões de segurança, o Pagseguro só efetua alteação de telefone mediante envio de documentação.</strong>
+<blockquote><strong>Ol&aacute; Cliente, informamos que, por raz&otilde;es de seguran&ccedil;a, o Pagseguro s&oacute; efetua altea&ccedil;&atilde;o de telefone mediante envio de documenta&ccedil;&atilde;o.</strong>
 
 Atenciosamente,
 Leandro Oliveira
 
 Equipe de Atendimento PagSeguro https://pagseguro.uol.com.br/
-PagSeguro. A solução completa para pagamentos online.
+PagSeguro. A solu&ccedil;&atilde;o completa para pagamentos online.
 
-DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>
+D&Uacute;VIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>
 
 <strong>Leandro,
 
-O telefone que está cadastrado está errado!!!!
-O PagSeguro prefere deixar o errado à trocar pelo correto? Qual o sentido disso?
+O telefone que est&aacute; cadastrado est&aacute; errado!!!!
+O PagSeguro prefere deixar o errado &agrave; trocar pelo correto? Qual o sentido disso?
 
-Liga pra lá e veja. Agora, se você ligar para o correto: 21 2586-6327 vai atender a secretária falando BielSystems...</strong>
+Liga pra l&aacute; e veja. Agora, se voc&ecirc; ligar para o correto: 21 2586-6327 vai atender a secret&aacute;ria falando BielSystems...</strong>
 
-Por favor, verifique este caso especificamente, independente do script padrão. Senão serei obrigado a publicar que o PagSeguro não preza pela segurança por preferir deixar um telefone errado ao invés de corrigir e colocar o correto.
+Por favor, verifique este caso especificamente, independente do script padr&atilde;o. Sen&atilde;o serei obrigado a publicar que o PagSeguro n&atilde;o preza pela seguran&ccedil;a por preferir deixar um telefone errado ao inv&eacute;s de corrigir e colocar o correto.
 
 Obrigado.
 
 Resposta:
-<blockquote><strong>Olá cliente, como foi informado em seu atendimento anterior, por razões de segurança, o Pagseguro só efetua alteração de dados (telefone, endereço, razão social,...) mediante envio de documentação comprobatória.</strong>
+<blockquote><strong>Ol&aacute; cliente, como foi informado em seu atendimento anterior, por raz&otilde;es de seguran&ccedil;a, o Pagseguro s&oacute; efetua altera&ccedil;&atilde;o de dados (telefone, endere&ccedil;o, raz&atilde;o social,...) mediante envio de documenta&ccedil;&atilde;o comprobat&oacute;ria.</strong>
 
-Para concluirmos a alteração de seu telefone fixo, você deverá enviar-nos uma cópia da parte interna de sua conta de telefone. Para isto acesse sua conta PagSeguro, clique no menu "meus dados", "documentos" e selecione a opção "comprovante de endereço".
+Para concluirmos a altera&ccedil;&atilde;o de seu telefone fixo, voc&ecirc; dever&aacute; enviar-nos uma c&oacute;pia da parte interna de sua conta de telefone. Para isto acesse sua conta PagSeguro, clique no menu "meus dados", "documentos" e selecione a op&ccedil;&atilde;o "comprovante de endere&ccedil;o".
 
-Não será aceito o envio de comprovantes de telefone celular, voip ou comprovante retirado da internet.
+N&atilde;o ser&aacute; aceito o envio de comprovantes de telefone celular, voip ou comprovante retirado da internet.
 
-Serão aceitos documentos em nome do pai, filho ou cônjuge do interessado, com a devida comprovação do parentesco, através de documento de identidade reconhecido pela legislação federal, certidão de nascimento ou certidão de casamento.
+Ser&atilde;o aceitos documentos em nome do pai, filho ou c&ocirc;njuge do interessado, com a devida comprova&ccedil;&atilde;o do parentesco, atrav&eacute;s de documento de identidade reconhecido pela legisla&ccedil;&atilde;o federal, certid&atilde;o de nascimento ou certid&atilde;o de casamento.
 
-Este documento somente será aceito se estiver dentro do prazo de 90 dias.
+Este documento somente ser&aacute; aceito se estiver dentro do prazo de 90 dias.
 
-Para alterar seu telefone celular cadastrado basta nos informar o novo número através deste canald de atendimento.
+Para alterar seu telefone celular cadastrado basta nos informar o novo n&uacute;mero atrav&eacute;s deste canald de atendimento.
 
 Atenciosamente,
 Leandro Oliveira
 
 Equipe de Atendimento PagSeguro https://pagseguro.uol.com.br/
-PagSeguro. A solução completa para pagamentos online.
+PagSeguro. A solu&ccedil;&atilde;o completa para pagamentos online.
 
-DÚVIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>
+D&Uacute;VIDAS? Acesse: https://pagseguro.uol.com.br/atendimento/perguntas_frequentes.jhtml</blockquote>

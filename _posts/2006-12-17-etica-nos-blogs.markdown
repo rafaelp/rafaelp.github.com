@@ -1,25 +1,24 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "\xC3\x89tica nos blogs"
+title: ! '&Eacute;tica nos blogs'
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 109
 wordpress_url: http://rafael.adm.br/p/etica-nos-blogs/
-date: 2006-12-17 20:38:55 -02:00
-categories: 
+date: 2006-12-17 20:38:55.000000000 -02:00
+categories:
 - Posts
 tags: []
-
 ---
 <strong>Atualizado:</strong>
 1. Meu objetivo com este post era ajudar a blogosfera a postar com mais cuidado.
-2. Troquei uns e-mails com o Bruno e, embora eu tenha recriminado sua atitude, ele foi bem legal e falou sinceramente que seu objetivo era diversão e não pensou em nenhum momento em prejudicar o Submarino ou denegrir a imagem dos programadores.
-3. Realmente, quem fez isso foram todas as pessoas que postaram comentários e que, embora eu não tenha dito, foram as que mais contribuíram para que eu escrevesse esse post.
-4. Confesso que por um momento achei que o Bruno não deixaria meu comentário no post dele e por isso escrevi aqui. Agradeço ao Bruno pela sua atitude autêntica de deixar o post e de me responder com suas considerações.
+2. Troquei uns e-mails com o Bruno e, embora eu tenha recriminado sua atitude, ele foi bem legal e falou sinceramente que seu objetivo era divers&atilde;o e n&atilde;o pensou em nenhum momento em prejudicar o Submarino ou denegrir a imagem dos programadores.
+3. Realmente, quem fez isso foram todas as pessoas que postaram coment&aacute;rios e que, embora eu n&atilde;o tenha dito, foram as que mais contribu&iacute;ram para que eu escrevesse esse post.
+4. Confesso que por um momento achei que o Bruno n&atilde;o deixaria meu coment&aacute;rio no post dele e por isso escrevi aqui. Agrade&ccedil;o ao Bruno pela sua atitude aut&ecirc;ntica de deixar o post e de me responder com suas considera&ccedil;&otilde;es.
 
 
 ***
@@ -28,23 +27,23 @@ Em resposta ao <a href="http://brunotorres.net/eu-respeitaria-mais-se-fizessem-u
 
 ***
 
-Assim como você preferia um comentário, o Submarino também iria preferir um e-mail de alerta.
+Assim como voc&ecirc; preferia um coment&aacute;rio, o Submarino tamb&eacute;m iria preferir um e-mail de alerta.
 
-<blockquote>"O interessante é que se eles tivessem feito um comentário no post, de maneira educada e/ou bem-humorada, eu teria até mesmo tirado o post do ar ou, sei lá, feito algo amigável. E, claro, continuaria cliente. Aliás, me tornaria até um cliente melhor, com certeza."</blockquote>
+<blockquote>"O interessante &eacute; que se eles tivessem feito um coment&aacute;rio no post, de maneira educada e/ou bem-humorada, eu teria at&eacute; mesmo tirado o post do ar ou, sei l&aacute;, feito algo amig&aacute;vel. E, claro, continuaria cliente. Ali&aacute;s, me tornaria at&eacute; um cliente melhor, com certeza."</blockquote>
 
 
 O Submarino poderia dizer:
 
-<blockquote>"O interessante é que se ele tivesse enviado um e-mail, de maneira educada e/ou bem-humorada, nós teríamos dado de graça os livros que ele estava querendo. E, claro, ofereceríamos promoções melhores".</blockquote>
+<blockquote>"O interessante &eacute; que se ele tivesse enviado um e-mail, de maneira educada e/ou bem-humorada, n&oacute;s ter&iacute;amos dado de gra&ccedil;a os livros que ele estava querendo. E, claro, oferecer&iacute;amos promo&ccedil;&otilde;es melhores".</blockquote>
 
-Quando eu encontro esse tipo de problema em sites de terceiros, eu mando um e-mail para o responsável alertando-o. Assim que eu gostaria que fizessem comigo.
+Quando eu encontro esse tipo de problema em sites de terceiros, eu mando um e-mail para o respons&aacute;vel alertando-o. Assim que eu gostaria que fizessem comigo.
 
-Afinal de contas você não gostaria que a qualidade dos sites brasileiros fosse melhor?
+Afinal de contas voc&ecirc; n&atilde;o gostaria que a qualidade dos sites brasileiros fosse melhor?
 
-Desde que li achei sua atitude extremamente anti-ética. Ilegal, como você perguntou, pode não ser mas carece completamente de ética e princípios.
+Desde que li achei sua atitude extremamente anti-&eacute;tica. Ilegal, como voc&ecirc; perguntou, pode n&atilde;o ser mas carece completamente de &eacute;tica e princ&iacute;pios.
 
-Você não acha que poderia chamar atenção para a necessidade de validação no servidor de outra maneira?
+Voc&ecirc; n&atilde;o acha que poderia chamar aten&ccedil;&atilde;o para a necessidade de valida&ccedil;&atilde;o no servidor de outra maneira?
 
-O cara bom é aquele que simplesmente faz melhor e não se engrandece com o erro dos outros.
+O cara bom &eacute; aquele que simplesmente faz melhor e n&atilde;o se engrandece com o erro dos outros.
 
-Obs: Não tenho relação nenhuma com o Submarino e aliás concordo plenamente que em geral no Brasil o desenvolvedor não tem muito valor e é por isso que essas coisas acontecem!
+Obs: N&atilde;o tenho rela&ccedil;&atilde;o nenhuma com o Submarino e ali&aacute;s concordo plenamente que em geral no Brasil o desenvolvedor n&atilde;o tem muito valor e &eacute; por isso que essas coisas acontecem!

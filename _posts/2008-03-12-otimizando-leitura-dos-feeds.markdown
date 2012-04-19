@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,46 +9,46 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 172
 wordpress_url: http://rafael.adm.br/p/otimizando-leitura-dos-feeds/
-date: 2008-03-12 19:02:57 -03:00
-categories: 
+date: 2008-03-12 19:02:57.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - gmail
 - feed
 - rss
-- "not\xC3\xADcia"
-- "informa\xC3\xA7\xC3\xA3o"
-- "otimiza\xC3\xA7\xC3\xA3o"
+- not&iacute;cia
+- informa&ccedil;&atilde;o
+- otimiza&ccedil;&atilde;o
 ---
 Quem usa um agregador de feeds a bastante tempo sabe como se torna um problema ler tudo que pipoca diariamente.
 
-<strong>Eu tomei uma decisão que está funcionando muito bem, abaixo vou discorrer sobre a minha idéia.</strong>
-Eu agrego alguns feeds de revistas e sites de publicação, que o conteúdo é basicamente notícias, e outros feeds de blogs cujo volume é bem mais baixo.
+<strong>Eu tomei uma decis&atilde;o que est&aacute; funcionando muito bem, abaixo vou discorrer sobre a minha id&eacute;ia.</strong>
+Eu agrego alguns feeds de revistas e sites de publica&ccedil;&atilde;o, que o conte&uacute;do &eacute; basicamente not&iacute;cias, e outros feeds de blogs cujo volume &eacute; bem mais baixo.
 
-Sempre que eu abria o Google Reader, cada feed tinha em média 3 novidades enquanto os feeds de notícias tinham 200. O que acabava acontecendo é que eu lia as últimas 10 notícias e marcava o resto como lido.
+Sempre que eu abria o Google Reader, cada feed tinha em m&eacute;dia 3 novidades enquanto os feeds de not&iacute;cias tinham 200. O que acabava acontecendo &eacute; que eu lia as &uacute;ltimas 10 not&iacute;cias e marcava o resto como lido.
 
-Abrindo um parênteses...
+Abrindo um par&ecirc;nteses...
 
-O Gmail possui um recurso chamado Web Clip que consiste numa barra que fica acima da lista de e-mail com o conteúdo dos feeds agregados passando.
+O Gmail possui um recurso chamado Web Clip que consiste numa barra que fica acima da lista de e-mail com o conte&uacute;do dos feeds agregados passando.
 
 <img src="http://rafael.adm.br/wp-content/uploads/2008/03/gmail-customize-rss-clips.png" alt="Gmail Web Clip" height="94" width="600" />
 
-Por um tempo fiquei pensando por que que não existia uma integração entre o Google Reader e o Gmail para que o Web Clip apresentasse tudo que você tem no Google Reader.
+Por um tempo fiquei pensando por que que n&atilde;o existia uma integra&ccedil;&atilde;o entre o Google Reader e o Gmail para que o Web Clip apresentasse tudo que voc&ecirc; tem no Google Reader.
 
 Depois de um tempo eu achei a resposta.
 
 Voltando ao meu problema...
 
-<strong>Então eu percebi que nunca lia as notícias e foi nessa hora que cheguei a conclusão de que haviam os dois grandes grupos de feeds, os blogs e as notícias. A diferença básica entre eles é o tempo.</strong>
+<strong>Ent&atilde;o eu percebi que nunca lia as not&iacute;cias e foi nessa hora que cheguei a conclus&atilde;o de que haviam os dois grandes grupos de feeds, os blogs e as not&iacute;cias. A diferen&ccedil;a b&aacute;sica entre eles &eacute; o tempo.</strong>
 
-As notícias só importam no momento, são mais dinâmicas e eu quero recebê-las a toda hora. os blogs são conteúdos interessantes, muitas vezes atemporais e que podem ser lidos uma vez por semana sem problemas.
+As not&iacute;cias s&oacute; importam no momento, s&atilde;o mais din&acirc;micas e eu quero receb&ecirc;-las a toda hora. os blogs s&atilde;o conte&uacute;dos interessantes, muitas vezes atemporais e que podem ser lidos uma vez por semana sem problemas.
 
-O que eu fiz é muito simples, eu configurei os Web Clips para os feeds  das notícias e o Google Reader com os feeds do blogs. Simples porém útil!
+O que eu fiz &eacute; muito simples, eu configurei os Web Clips para os feeds  das not&iacute;cias e o Google Reader com os feeds do blogs. Simples por&eacute;m &uacute;til!
 
-Como eu uso o gmail o dia inteiro, vou recebendo as notícias acima da lista dos e-mails, acabo lendo em tempo as que acho interessante.
+Como eu uso o gmail o dia inteiro, vou recebendo as not&iacute;cias acima da lista dos e-mails, acabo lendo em tempo as que acho interessante.
 
-O Google Reader  eu continuo acessando uma vez por semana, mas com a diferença de que ao invés de ter 900 itens não lidos, agora eu tenho 100, em média.  Agora dá até vontade de ler tudo!
+O Google Reader  eu continuo acessando uma vez por semana, mas com a diferen&ccedil;a de que ao inv&eacute;s de ter 900 itens n&atilde;o lidos, agora eu tenho 100, em m&eacute;dia.  Agora d&aacute; at&eacute; vontade de ler tudo!
 
-Não sei se todo mundo já faz isso, mas de qualquer forma espero que tenham gostado da dica.
+N&atilde;o sei se todo mundo j&aacute; faz isso, mas de qualquer forma espero que tenham gostado da dica.
 
-Abraços e até a próxima.
+Abra&ccedil;os e at&eacute; a pr&oacute;xima.

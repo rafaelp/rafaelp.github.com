@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,22 +9,22 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 414
 wordpress_url: http://rafael.adm.br/?p=414
-date: 2009-10-28 15:56:48 -02:00
-categories: 
+date: 2009-10-28 15:56:48.000000000 -02:00
+categories:
 - Posts
-tags: 
-- "cobran\xC3\xA7a"
+tags:
+- cobran&ccedil;a
 - dda
 - boleto
 ---
-O <a href="http://www.febraban.org.br/projetodda/">projeto DDA</a>, lançado no último dia 19, altera a maneira como o sacado (cliente que paga) recebe as cobranças realizadas pelo cedente (empressa emissora da cobrança). O objetivo do projeto é substituir o boleto bancário impresso pelo chamado boleto eletrônico.
+O <a href="http://www.febraban.org.br/projetodda/">projeto DDA</a>, lan&ccedil;ado no &uacute;ltimo dia 19, altera a maneira como o sacado (cliente que paga) recebe as cobran&ccedil;as realizadas pelo cedente (empressa emissora da cobran&ccedil;a). O objetivo do projeto &eacute; substituir o boleto banc&aacute;rio impresso pelo chamado boleto eletr&ocirc;nico.
 
-As empresas que emitem boleto impresso, o fazem de duas maneiras. Elas mesmas imprimem e enviam o boleto diretamente ao sacado ou elas enviam para um banco um arquivo que contém as informações dos títulos para que o banco imprima e envie a cobrança.
+As empresas que emitem boleto impresso, o fazem de duas maneiras. Elas mesmas imprimem e enviam o boleto diretamente ao sacado ou elas enviam para um banco um arquivo que cont&eacute;m as informa&ccedil;&otilde;es dos t&iacute;tulos para que o banco imprima e envie a cobran&ccedil;a.
 
-O <a href="http://www.febraban.org.br/projetodda/">projeto DDA</a> atua no segundo caso, onde as cobranças são enviadas para que o banco processe. Ao invés de imprimir o boleto e enviá-lo em meios físicos, o banco irá checar na<a href="http://www.cip-bancos.org.br/"> Câmara Interbancária de Pagamentos</a> (CIP) se o sacado optou por receber as cobranças em meio eletrônico. Caso o sacado tenha feito o opt-in pelo DDA o banco enviará para o sistema da CIP, a cobrança em questão.
+O <a href="http://www.febraban.org.br/projetodda/">projeto DDA</a> atua no segundo caso, onde as cobran&ccedil;as s&atilde;o enviadas para que o banco processe. Ao inv&eacute;s de imprimir o boleto e envi&aacute;-lo em meios f&iacute;sicos, o banco ir&aacute; checar na<a href="http://www.cip-bancos.org.br/"> C&acirc;mara Interbanc&aacute;ria de Pagamentos</a> (CIP) se o sacado optou por receber as cobran&ccedil;as em meio eletr&ocirc;nico. Caso o sacado tenha feito o opt-in pelo DDA o banco enviar&aacute; para o sistema da CIP, a cobran&ccedil;a em quest&atilde;o.
 
-A partir desse momento os bancos os quais o sacado se registrou para receber as cobranças serão notificados e exibirão nos seus respectivos sistemas de internet banking a opção para que o pagamento seja realizado.
+A partir desse momento os bancos os quais o sacado se registrou para receber as cobran&ccedil;as ser&atilde;o notificados e exibir&atilde;o nos seus respectivos sistemas de internet banking a op&ccedil;&atilde;o para que o pagamento seja realizado.
 
-Você, como pessoa física ou jurídica, pode optar por receber cobranças pelo meio eletrônica no seu banco. Só preste atenção como está implementado o sistema, pois se não houver notificação por e-mail, pode ser que a cobrança chegue lá e você nem veja.
+Voc&ecirc;, como pessoa f&iacute;sica ou jur&iacute;dica, pode optar por receber cobran&ccedil;as pelo meio eletr&ocirc;nica no seu banco. S&oacute; preste aten&ccedil;&atilde;o como est&aacute; implementado o sistema, pois se n&atilde;o houver notifica&ccedil;&atilde;o por e-mail, pode ser que a cobran&ccedil;a chegue l&aacute; e voc&ecirc; nem veja.
 
-Abraços e até a próxima.
+Abra&ccedil;os e at&eacute; a pr&oacute;xima.

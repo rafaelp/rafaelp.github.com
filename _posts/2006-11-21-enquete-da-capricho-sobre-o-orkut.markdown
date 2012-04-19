@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 105
 wordpress_url: http://rafael.adm.br/p/enquete-da-capricho-sobre-o-orkut/
-date: 2006-11-21 23:36:57 -02:00
-categories: 
+date: 2006-11-21 23:36:57.000000000 -02:00
+categories:
 - Posts
-tags: 
+tags:
 - google
 - orkut
 ---
@@ -20,4 +20,4 @@ Vejam que curioso o resultado da enquete feita pela revista Capricho sobre o Ork
 
 <a href="http://capricho.abril.com.br/enquetes/10646_resultado.shtml">http://capricho.abril.com.br/enquetes/10646_resultado.shtml</a>
 
-O que vocês acham sobre o resultado?
+O que voc&ecirc;s acham sobre o resultado?

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,11 +9,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 57
 wordpress_url: http://rafael.adm.br/p/better-gsub-method-for-prototype-library/
-date: 2006-07-14 17:32:04 -03:00
-categories: 
+date: 2006-07-14 17:32:04.000000000 -03:00
+categories:
 - Posts
-tags: 
-- "programa\xC3\xA7\xC3\xA3o"
+tags:
+- programa&ccedil;&atilde;o
 - rails
 - ruby
 - javascript

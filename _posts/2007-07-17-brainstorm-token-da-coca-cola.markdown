@@ -1,36 +1,36 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Brainstorm: Token da Coca-Cola"
+title: ! 'Brainstorm: Token da Coca-Cola'
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 131
 wordpress_url: http://rafael.adm.br/p/brainstorm-token-da-coca-cola/
-date: 2007-07-17 00:12:22 -03:00
-categories: 
+date: 2007-07-17 00:12:22.000000000 -03:00
+categories:
 - Brainstorm
-tags: 
+tags:
 - Brainstorm
 ---
-Essa eu pensei faz tempo. Trata-se de uma campanha custosa e que envolve muitas variáveis. Imagino que a Coca-Cola poderia realizá-la.
+Essa eu pensei faz tempo. Trata-se de uma campanha custosa e que envolve muitas vari&aacute;veis. Imagino que a Coca-Cola poderia realiz&aacute;-la.
 
-Existe um dispositivo parecido com um token que é utilizado para autenticação de usuários em sistemas acessados remotamente. Este token funciona da seguinte maneira:
+Existe um dispositivo parecido com um token que &eacute; utilizado para autentica&ccedil;&atilde;o de usu&aacute;rios em sistemas acessados remotamente. Este token funciona da seguinte maneira:
 
-Ao entrar em um site, aparece na tela de login uma área do mesmo tamanho do token. Nesta área ficam aparecendo diversos pontos coloridos sumindo e aparecendo "aleatoriamente". Ao encostar fisicamente o token no monitor, o token exibe uma série de caracteres a serem digitados no formulário de login. Isso garante que a pessoa que tem o token é quem está se logando.
+Ao entrar em um site, aparece na tela de login uma &aacute;rea do mesmo tamanho do token. Nesta &aacute;rea ficam aparecendo diversos pontos coloridos sumindo e aparecendo "aleatoriamente". Ao encostar fisicamente o token no monitor, o token exibe uma s&eacute;rie de caracteres a serem digitados no formul&aacute;rio de login. Isso garante que a pessoa que tem o token &eacute; quem est&aacute; se logando.
 
 Pois bem, e o que isso tem haver com campanha de marketing?
 
-Bem, pensei que a Coca-Cola pudesse desenvolver um token destes que fosse utilizado para ler informações geradas em um comercial de TV. O token seria distribuído na compra do pack de 6 pets de coca-cola.
+Bem, pensei que a Coca-Cola pudesse desenvolver um token destes que fosse utilizado para ler informa&ccedil;&otilde;es geradas em um comercial de TV. O token seria distribu&iacute;do na compra do pack de 6 pets de coca-cola.
 
-A idéia é colocar a garotada para correr para frente da televisão todas as vezes que o comercial da Coca-Cola for exibido.
+A id&eacute;ia &eacute; colocar a garotada para correr para frente da televis&atilde;o todas as vezes que o comercial da Coca-Cola for exibido.
 
-A partir daí existem diversas aplicações. A primeira seria o seguinte: Cada vez que um token for enconstado na TV em um comercial da Coca-Cola, ele conta mais um ponto. A criança poderia consultar quantos pontos tem. Ao chegar a 10 pontos por exemplo, a criança poderia trocar os pontos por um brinde, na compra de um pack de refrigerante, ou seja lá o que for.
+A partir da&iacute; existem diversas aplica&ccedil;&otilde;es. A primeira seria o seguinte: Cada vez que um token for enconstado na TV em um comercial da Coca-Cola, ele conta mais um ponto. A crian&ccedil;a poderia consultar quantos pontos tem. Ao chegar a 10 pontos por exemplo, a crian&ccedil;a poderia trocar os pontos por um brinde, na compra de um pack de refrigerante, ou seja l&aacute; o que for.
 
-Outra aplicação seria apresentar no próprio token uma palavra chave no momento que a propaganda aparecer, como se o token fosse um decodificador da propaganda. A criança poderia acessar o site da Coca-Cola para digitar a palavra chave. Os primeiros a acertas todas as 5 palavras chaves, por exemplo, ganharia os brindes.
+Outra aplica&ccedil;&atilde;o seria apresentar no pr&oacute;prio token uma palavra chave no momento que a propaganda aparecer, como se o token fosse um decodificador da propaganda. A crian&ccedil;a poderia acessar o site da Coca-Cola para digitar a palavra chave. Os primeiros a acertas todas as 5 palavras chaves, por exemplo, ganharia os brindes.
 
-Temos um problema, casa televisão tem um tamanho e resolução... Não sei como resolver isso tecnicamente, mas não tenho dúvidas que há uma maneira de contornar.
+Temos um problema, casa televis&atilde;o tem um tamanho e resolu&ccedil;&atilde;o... N&atilde;o sei como resolver isso tecnicamente, mas n&atilde;o tenho d&uacute;vidas que h&aacute; uma maneira de contornar.
 
-Sem dúvida seria um bafafá danado nas escolas e na internet, além do fato das famílias estarem gritando a toda hora: "Meu filho, a propaganda da Coca-Cola, vem correndo!", mas de fato não sei qual o retorno efetivo que esta campanha traria...
+Sem d&uacute;vida seria um bafaf&aacute; danado nas escolas e na internet, al&eacute;m do fato das fam&iacute;lias estarem gritando a toda hora: "Meu filho, a propaganda da Coca-Cola, vem correndo!", mas de fato n&atilde;o sei qual o retorno efetivo que esta campanha traria...

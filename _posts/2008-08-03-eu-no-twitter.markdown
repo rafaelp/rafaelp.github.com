@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,23 +9,23 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 207
 wordpress_url: http://rafael.adm.br/?p=207
-date: 2008-08-03 20:39:49 -03:00
-categories: 
+date: 2008-08-03 20:39:49.000000000 -03:00
+categories:
 - Posts
-tags: 
-- "comunica\xC3\xA7\xC3\xA3o"
+tags:
+- comunica&ccedil;&atilde;o
 - mobile
 - twitter
 - web2.0
 ---
-Alguns serviços web se tornam tão populares que nós, profissionais de internet, não podemos deixar de usar. É uma questão de sobrevivência na profissão. Mesmo assim eu costumo resistir a qualquer novidade, mas agora que estou <a href="http://rafael.adm.br/p/off-topic-mobileado-no-que-isso-vai-dar/">mobileado</a>, não tem mais desculpas, não tive escolha e criei uma <a href="http://twitter.com/rafaelp">conta no twitter.</a>
+Alguns servi&ccedil;os web se tornam t&atilde;o populares que n&oacute;s, profissionais de internet, n&atilde;o podemos deixar de usar. &Eacute; uma quest&atilde;o de sobreviv&ecirc;ncia na profiss&atilde;o. Mesmo assim eu costumo resistir a qualquer novidade, mas agora que estou <a href="http://rafael.adm.br/p/off-topic-mobileado-no-que-isso-vai-dar/">mobileado</a>, n&atilde;o tem mais desculpas, n&atilde;o tive escolha e criei uma <a href="http://twitter.com/rafaelp">conta no twitter.</a>
 
-Hoje eu entendo que o objetivo do Twitter não apenas dizer o que vocês está fazendo, pelo menos não entrei para isso ;-), a popularidade fez com que ele se tornasse mais. Não quero discorrer muito por que qualquer coisa que eu falar é especulação, prefiro dar opiniões depois de usar.
+Hoje eu entendo que o objetivo do Twitter n&atilde;o apenas dizer o que voc&ecirc;s est&aacute; fazendo, pelo menos n&atilde;o entrei para isso ;-), a popularidade fez com que ele se tornasse mais. N&atilde;o quero discorrer muito por que qualquer coisa que eu falar &eacute; especula&ccedil;&atilde;o, prefiro dar opini&otilde;es depois de usar.
 
-Além disso coloquei no sidebar deste blog as últimas atualizações do meu twitter.
+Al&eacute;m disso coloquei no sidebar deste blog as &uacute;ltimas atualiza&ccedil;&otilde;es do meu twitter.
 
-<a href="http://twitter.com/rafaelp">Leitores e amigos, me acompanhem por lá</a>!
+<a href="http://twitter.com/rafaelp">Leitores e amigos, me acompanhem por l&aacute;</a>!
 
-Abraços a todos.
+Abra&ccedil;os a todos.
 
 P.S. Continuo resistindo o Orkut! Quem me conhece sabe.

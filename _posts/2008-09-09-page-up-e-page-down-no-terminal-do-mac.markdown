@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,19 +9,19 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 239
 wordpress_url: http://rafael.adm.br/?p=239
-date: 2008-09-09 00:07:01 -03:00
-categories: 
+date: 2008-09-09 00:07:01.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - editor
 - mac
 - macos
 ---
-Cada vez que eu precisava editar um arquivo grande pelo terminal do mac estava sendo um parto. Não conseguia de jeito nenhum usa o page up e page down.
+Cada vez que eu precisava editar um arquivo grande pelo terminal do mac estava sendo um parto. N&atilde;o conseguia de jeito nenhum usa o page up e page down.
 
 Achei <a href="http://fdiv.net/2007/05/12/keybindings-in-macosx-terminal-app/">esse post</a> que fala sobre isso.
 
-A solução é entrar na configuração de Keyboard do Terminal e colocar para as teclas enviarem os seguintes strings:
+A solu&ccedil;&atilde;o &eacute; entrar na configura&ccedil;&atilde;o de Keyboard do Terminal e colocar para as teclas enviarem os seguintes strings:
 
 End
 \033[4~

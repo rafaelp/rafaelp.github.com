@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 209
 wordpress_url: http://rafael.adm.br/?p=209
-date: 2008-08-07 23:33:03 -03:00
-categories: 
+date: 2008-08-07 23:33:03.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - linux
 - gnome
 - ubuntu
@@ -21,8 +21,8 @@ tags:
 - gedit
 - markdown
 ---
-Praticamente foram as palavras do título deste post que busquei no Google depois de ter feito um arquivo markdown todo cagado. Navegando pelos resultados, cai <a href="http://wmd-editor.com/">aqui</a> e <a href="http://mannu.livejournal.com/383339.html">aqui,</a> e acabei achando um <a href="http://live.gnome.org/Gedit/MarkdownSupport">plugin para o gedit</a>, meu editor predileto no Ubuntu (daonde escrevo agora).
+Praticamente foram as palavras do t&iacute;tulo deste post que busquei no Google depois de ter feito um arquivo markdown todo cagado. Navegando pelos resultados, cai <a href="http://wmd-editor.com/">aqui</a> e <a href="http://mannu.livejournal.com/383339.html">aqui,</a> e acabei achando um <a href="http://live.gnome.org/Gedit/MarkdownSupport">plugin para o gedit</a>, meu editor predileto no Ubuntu (daonde escrevo agora).
 
-O plugin é bom e bem útil!
+O plugin &eacute; bom e bem &uacute;til!
 
 Fica a dica para a galera que usa Gnome.

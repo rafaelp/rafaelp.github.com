@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,34 +9,34 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 171
 wordpress_url: http://rafael.adm.br/p/como-fazer-para-que-uma-ferramenta-seja-realmente-utilizada/
-date: 2008-03-07 14:07:41 -03:00
-categories: 
+date: 2008-03-07 14:07:41.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - google
 - usabilidade
 - webapp
 - sistema
 - cms
-- "conte\xC3\xBAdo"
-- "manuten\xC3\xA7\xC3\xA3o"
-- "aplica\xC3\xA7\xC3\xA3o"
+- conte&uacute;do
+- manuten&ccedil;&atilde;o
+- aplica&ccedil;&atilde;o
 ---
-Este post é uma resposta ao comentário feito pelo Alessandro no <a href="http://rafael.adm.br/p/google-sites/">post sobre o Google Sites.</a>
-<blockquote>Rafael, também estamos avaliando o Google Sites para centralizar as informações de um projeto da empresa.
-Uma das minhas preocupações é fazer com que essa ferramenta seja realmente atrativa e utilizada pelos membros da empresa.
-Que dicas você poderia me dar pra isso? Que informações vocês geralmente disponibilizam nessa ferramenta?
+Este post &eacute; uma resposta ao coment&aacute;rio feito pelo Alessandro no <a href="http://rafael.adm.br/p/google-sites/">post sobre o Google Sites.</a>
+<blockquote>Rafael, tamb&eacute;m estamos avaliando o Google Sites para centralizar as informa&ccedil;&otilde;es de um projeto da empresa.
+Uma das minhas preocupa&ccedil;&otilde;es &eacute; fazer com que essa ferramenta seja realmente atrativa e utilizada pelos membros da empresa.
+Que dicas voc&ecirc; poderia me dar pra isso? Que informa&ccedil;&otilde;es voc&ecirc;s geralmente disponibilizam nessa ferramenta?
 Obrigado
 Alessandro</blockquote>
-Na prática a ferramenta só é utilizada no dia a dia se a entrada de dados for fácil e se ela oferecer um ganho efetivo, seja de produtividade ou organização, por exemplo.
+Na pr&aacute;tica a ferramenta s&oacute; &eacute; utilizada no dia a dia se a entrada de dados for f&aacute;cil e se ela oferecer um ganho efetivo, seja de produtividade ou organiza&ccedil;&atilde;o, por exemplo.
 
-É necessário dedicar um tempo diariamente para atualizar os dados no sistema. Neste caso de centralizar informações de um projeto, é interessante que a documentação esteja toda lá, por exemplo. Toda mesmo!
+&Eacute; necess&aacute;rio dedicar um tempo diariamente para atualizar os dados no sistema. Neste caso de centralizar informa&ccedil;&otilde;es de um projeto, &eacute; interessante que a documenta&ccedil;&atilde;o esteja toda l&aacute;, por exemplo. Toda mesmo!
 
-Se algumas informações estão no sistema, mas outras estão espalhadas pelo servidor da empresa ou e-mail de cada um, dificilmente a ferramenta será utilizada pela equipe.
-Como o meu caso são projetos de sistemas, eu geralmente disponibilizo as idéias, a anatomia do sistema, a estutura de navegação do site e do sistema, o conteúdo das páginas, documentação dos serviços relacionados, planejamento de marketing, planejamento financeiro, etc.
+Se algumas informa&ccedil;&otilde;es est&atilde;o no sistema, mas outras est&atilde;o espalhadas pelo servidor da empresa ou e-mail de cada um, dificilmente a ferramenta ser&aacute; utilizada pela equipe.
+Como o meu caso s&atilde;o projetos de sistemas, eu geralmente disponibilizo as id&eacute;ias, a anatomia do sistema, a estutura de navega&ccedil;&atilde;o do site e do sistema, o conte&uacute;do das p&aacute;ginas, documenta&ccedil;&atilde;o dos servi&ccedil;os relacionados, planejamento de marketing, planejamento financeiro, etc.
 
-Estou desenvolvendo uma aplicação cujo objetivo é justamente auxiliar a entrada de dados em sistemas que precisam ser atualizados sempre. Minha percepção é que se o próprio sistema não oferece bons recursos de entrada de dados, ele acaba não sendo utilizado. Como a maioria deles pecam neste aspecto, resolvi apostar em algo neste sentido.
+Estou desenvolvendo uma aplica&ccedil;&atilde;o cujo objetivo &eacute; justamente auxiliar a entrada de dados em sistemas que precisam ser atualizados sempre. Minha percep&ccedil;&atilde;o &eacute; que se o pr&oacute;prio sistema n&atilde;o oferece bons recursos de entrada de dados, ele acaba n&atilde;o sendo utilizado. Como a maioria deles pecam neste aspecto, resolvi apostar em algo neste sentido.
 
-Espero ter respondido a questão e auxiliado outros leitores.
+Espero ter respondido a quest&atilde;o e auxiliado outros leitores.
 
-Um Abraço
+Um Abra&ccedil;o

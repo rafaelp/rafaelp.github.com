@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,18 +9,18 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 244
 wordpress_url: http://rafael.adm.br/?p=244
-date: 2008-09-15 22:34:24 -03:00
-categories: 
+date: 2008-09-15 22:34:24.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - mac
 - macos
 - freeware
 - programas
 ---
-Como sou adepto ao software livre e compro todos os softwraes que uso, achei ótima esta página:
+Como sou adepto ao software livre e compro todos os softwraes que uso, achei &oacute;tima esta p&aacute;gina:
 <a href="http://hmatt.com/mac/macbookfreeware.html">http://hmatt.com/mac/macbookfreeware.html</a>
 
-Fica a dica para os macmaníacos.
+Fica a dica para os macman&iacute;acos.
 
-Abraços
+Abra&ccedil;os

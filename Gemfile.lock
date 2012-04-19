@@ -26,10 +26,12 @@ GEM
     liquid (2.3.0)
     maruku (0.6.0)
       syntax (>= 1.0.0)
+    mysql (2.8.1)
     nokogiri (1.5.2)
     posix-spawn (0.3.6)
     rdiscount (1.6.8)
     sass (3.1.15)
+    sequel (3.34.1)
     syntax (1.0.0)
 
 PLATFORMS
@@ -40,6 +42,8 @@ DEPENDENCIES
   htmlentities (= 4.3.1)
   jekyll!
   jekyll_ext (= 0.1.4)
+  mysql (= 2.8.1)
   nokogiri (= 1.5.2)
   rdiscount (= 1.6.8)
   sass (= 3.1.15)
+  sequel (= 3.34.1)

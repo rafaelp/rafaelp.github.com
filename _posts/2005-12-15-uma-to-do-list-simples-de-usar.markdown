@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -7,24 +7,23 @@ author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-excerpt: "M\xC3\xB3dulo de To-do list para a p\xC3\xA1gina inicial personalizada do google."
+excerpt: Módulo de To-do list para a página inicial personalizada do google.
 wordpress_id: 9
 wordpress_url: http://www.rafael.adm.br/?p=9
-date: 2005-12-15 18:31:00 -02:00
-categories: 
+date: 2005-12-15 18:31:00.000000000 -02:00
+categories:
 - Posts
 tags: []
-
 ---
-É com grande satisfação que publico o módulo de to-do list para a página personalizada do google!
+&Eacute; com grande satisfa&ccedil;&atilde;o que publico o m&oacute;dulo de to-do list para a p&aacute;gina personalizada do google!
 
-Ontem, dia 14 de dezembro o google disponibilizou a documentação da API para desenvolvimento, algumas horas depois o módulo já estava desenvolvido...
+Ontem, dia 14 de dezembro o google disponibilizou a documenta&ccedil;&atilde;o da API para desenvolvimento, algumas horas depois o m&oacute;dulo j&aacute; estava desenvolvido...
 
-Para utilizá-lo, acesse os links abaixo:
-<strong><a href="http://fusion.google.com/add?moduleurl=http://rlwidgets.com/gmodules/pt_BR/rltodolist.xml">RL ToDoList (em português)</a></strong>
-<strong><a href="http://fusion.google.com/add?moduleurl=http://rlwidgets.com/gmodules/en_US/rltodolist.xml">RL ToDoList (em inglês)</a></strong>
+Para utiliz&aacute;-lo, acesse os links abaixo:
+<strong><a href="http://fusion.google.com/add?moduleurl=http://rlwidgets.com/gmodules/pt_BR/rltodolist.xml">RL ToDoList (em portugu&ecirc;s)</a></strong>
+<strong><a href="http://fusion.google.com/add?moduleurl=http://rlwidgets.com/gmodules/en_US/rltodolist.xml">RL ToDoList (em ingl&ecirc;s)</a></strong>
 
-Após publicar no fórum, alguns feedbacks já foram colocados:
+Ap&oacute;s publicar no f&oacute;rum, alguns feedbacks j&aacute; foram colocados:
 
 <em>"I've just tried the widget out, and as an interaction designer, I must
 say the author really knows what he's doing. Nothing to complain about

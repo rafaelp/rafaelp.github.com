@@ -1,23 +1,23 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Mais um servi\xC3\xA7o no mercado que eu havia concebido..."
+title: Mais um servi&ccedil;o no mercado que eu havia concebido...
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 204
 wordpress_url: http://rafael.adm.br/?p=204
-date: 2008-07-22 23:52:31 -03:00
-categories: 
+date: 2008-07-22 23:52:31.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - marketing
-- "servi\xC3\xA7o"
+- servi&ccedil;o
 - produto
-- "id\xC3\xA9ia"
+- id&eacute;ia
 ---
 <a href="http://www.slydial.com">http://www.slydial.com</a>
 
-Abraços
+Abra&ccedil;os

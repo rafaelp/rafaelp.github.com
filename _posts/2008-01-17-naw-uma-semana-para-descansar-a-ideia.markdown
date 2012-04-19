@@ -1,53 +1,53 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "NAW: Uma semana para descansar a id\xC3\xA9ia"
+title: ! 'NAW: Uma semana para descansar a id&eacute;ia'
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 160
 wordpress_url: http://rafael.adm.br/p/naw-uma-semana-para-descancar-a-ideia/
-date: 2008-01-17 04:11:55 -02:00
-categories: 
+date: 2008-01-17 04:11:55.000000000 -02:00
+categories:
 - Posts
-tags: 
+tags:
 - webapp
 - NAW
 - tempo
 ---
-Este post faz parte de uma série chamada NAW (Nova Aplicação Web) que visa acompanhar <a href="http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/">a criação de um serviço web</a> da idéia ao lançamento. <a href="http://rafael.adm.br/tag/naw">Todos os posts da série</a> iniciam com as letras NAW.
+Este post faz parte de uma s&eacute;rie chamada NAW (Nova Aplica&ccedil;&atilde;o Web) que visa acompanhar <a href="http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/">a cria&ccedil;&atilde;o de um servi&ccedil;o web</a> da id&eacute;ia ao lan&ccedil;amento. <a href="http://rafael.adm.br/tag/naw">Todos os posts da s&eacute;rie</a> iniciam com as letras NAW.
 <hr />
-Essa eu aprendi com meu amigo <a href="http://viniciusbraga.com">Vinis</a>. Ele me ensinou a dar um tempo de descanço para qualquer trabalho. Seja lá a criação de uma logomarca, um código de programação, ou até mesmo a redação de um artigo.<strong>É sempre bom você deixar o trabalho um tempo descançando. Mas o que isso quer dizer?</strong>Na prática isso significa parar, focar em outra atividade e retomar depois de um tempo, que pode variar de 2 dias à uma semana, em geral. Ao voltar, você não vai mais estar "dentro" do problema e conseguirá enxergar com mais clareza a situação como um todo. Como meu tio diz, "ter uma visão holística tridimensional". Bonito, não!?Eu só posso dizer que isso funciona!
+Essa eu aprendi com meu amigo <a href="http://viniciusbraga.com">Vinis</a>. Ele me ensinou a dar um tempo de descan&ccedil;o para qualquer trabalho. Seja l&aacute; a cria&ccedil;&atilde;o de uma logomarca, um c&oacute;digo de programa&ccedil;&atilde;o, ou at&eacute; mesmo a reda&ccedil;&atilde;o de um artigo.<strong>&Eacute; sempre bom voc&ecirc; deixar o trabalho um tempo descan&ccedil;ando. Mas o que isso quer dizer?</strong>Na pr&aacute;tica isso significa parar, focar em outra atividade e retomar depois de um tempo, que pode variar de 2 dias &agrave; uma semana, em geral. Ao voltar, voc&ecirc; n&atilde;o vai mais estar "dentro" do problema e conseguir&aacute; enxergar com mais clareza a situa&ccedil;&atilde;o como um todo. Como meu tio diz, "ter uma vis&atilde;o hol&iacute;stica tridimensional". Bonito, n&atilde;o!?Eu s&oacute; posso dizer que isso funciona!
 
 <strong>Uma semana sem trabalhar ativamente</strong>
 
-Como não podia ser diferente, depois da euforia inicial da idéia e decisão de realizar este novo serviço, fiquei uma semana sem pensar ativamente nele. Na verdade continuei pensando em um nome, mas não foi nada muito ativo...
+Como n&atilde;o podia ser diferente, depois da euforia inicial da id&eacute;ia e decis&atilde;o de realizar este novo servi&ccedil;o, fiquei uma semana sem pensar ativamente nele. Na verdade continuei pensando em um nome, mas n&atilde;o foi nada muito ativo...
 
-Agora quando retornei, já enxerguei sua estrutura de forma diferente e tive um insight para o nome.
+Agora quando retornei, j&aacute; enxerguei sua estrutura de forma diferente e tive um insight para o nome.
 
-<strong>Mais duas apresentações</strong>
+<strong>Mais duas apresenta&ccedil;&otilde;es</strong>
 
-O único trabalho que fiz desde o último post, foi apresentar o projeto para mais duas pessoas, uma na sexta-feira à tarde e outra num almoço no sábado. Para eu ficar tranquilo acho que preciso apresentar para mais um amigo que não pôde comparecer no almoço do sábado.
+O &uacute;nico trabalho que fiz desde o &uacute;ltimo post, foi apresentar o projeto para mais duas pessoas, uma na sexta-feira &agrave; tarde e outra num almo&ccedil;o no s&aacute;bado. Para eu ficar tranquilo acho que preciso apresentar para mais um amigo que n&atilde;o p&ocirc;de comparecer no almo&ccedil;o do s&aacute;bado.
 
 <strong>Escolha do nome</strong>
 
-Bem, agora pouco (às 3:00h da manhã mesmo) eu pensei em um nome interessante, procurei se o domínio existia e por incrível que pareça não havia sido registrado! Fique muito feliz e não perdi tempo, registrei-o de imediato, mesmo que decida não usá-lo depois. Vou divulgá-lo depois, pois ele pode dar uma idéia do serviço.
-Isso é uma medida de segurança.
+Bem, agora pouco (&agrave;s 3:00h da manh&atilde; mesmo) eu pensei em um nome interessante, procurei se o dom&iacute;nio existia e por incr&iacute;vel que pare&ccedil;a n&atilde;o havia sido registrado! Fique muito feliz e n&atilde;o perdi tempo, registrei-o de imediato, mesmo que decida n&atilde;o us&aacute;-lo depois. Vou divulg&aacute;-lo depois, pois ele pode dar uma id&eacute;ia do servi&ccedil;o.
+Isso &eacute; uma medida de seguran&ccedil;a.
 
-Se você achar um nome que considera a princípio bom, registre-o o quanto antes, mesmo que não vá usá-lo. O máximo que pode acontecer é você achar um nome melhor depois e descartar este, perdendo apenas $10 pelo registro feito.
+Se voc&ecirc; achar um nome que considera a princ&iacute;pio bom, registre-o o quanto antes, mesmo que n&atilde;o v&aacute; us&aacute;-lo. O m&aacute;ximo que pode acontecer &eacute; voc&ecirc; achar um nome melhor depois e descartar este, perdendo apenas $10 pelo registro feito.
 
-Eu não duvido que estes sites de busca de domínio mantenham um log das buscas realizadas e registrem os bons nomes buscados nos últimos dias.
+Eu n&atilde;o duvido que estes sites de busca de dom&iacute;nio mantenham um log das buscas realizadas e registrem os bons nomes buscados nos &uacute;ltimos dias.
 
-<strong>O que faço acordado a essa hora?</strong>
+<strong>O que fa&ccedil;o acordado a essa hora?</strong>
 
-Estou desenvolvendo para a Austrália, trata-se de uma parceria com a <a href="http://salessuccess.com.au/">Sales Success</a> que está fazendo outsourcing com a <a href="http://bielsystems.com.br">BielSystems</a>. Enquanto aqui são 3 da manhã, lá são 4 da tarde. Por isso tenho ficado acordado até tarde ultimamente.
+Estou desenvolvendo para a Austr&aacute;lia, trata-se de uma parceria com a <a href="http://salessuccess.com.au/">Sales Success</a> que est&aacute; fazendo outsourcing com a <a href="http://bielsystems.com.br">BielSystems</a>. Enquanto aqui s&atilde;o 3 da manh&atilde;, l&aacute; s&atilde;o 4 da tarde. Por isso tenho ficado acordado at&eacute; tarde ultimamente.
 
-A parceria está indo bem, já estamos no quinto projeto. Todos eles são desenvolvimento em C# .NET SQL Server e alguns utilizando o CMS Sitefinity, que por sinal é muito bom.
+A parceria est&aacute; indo bem, j&aacute; estamos no quinto projeto. Todos eles s&atilde;o desenvolvimento em C# .NET SQL Server e alguns utilizando o CMS Sitefinity, que por sinal &eacute; muito bom.
 
-Provavelmente escreverei sobre Sitefinity neste blog também.
+Provavelmente escreverei sobre Sitefinity neste blog tamb&eacute;m.
 
-Por enquanto é isso, havendo novidades eu atualizo aqui.
+Por enquanto &eacute; isso, havendo novidades eu atualizo aqui.
 
-Abraços a todos
+Abra&ccedil;os a todos

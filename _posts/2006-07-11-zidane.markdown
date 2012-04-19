@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,14 +9,13 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 56
 wordpress_url: http://rafael.adm.br/p/zidane/
-date: 2006-07-11 12:37:49 -03:00
-categories: 
+date: 2006-07-11 12:37:49.000000000 -03:00
+categories:
 - Posts
 tags: []
-
 ---
-Impressionante como o cara conseguiu em um minuto arruinar uma carreira. Abaixo uma diversão para o pessoal:
+Impressionante como o cara conseguiu em um minuto arruinar uma carreira. Abaixo uma divers&atilde;o para o pessoal:
 
 <a title="Brincadeira com Zidane" href="http://www.corriere.it/Primo_Piano/Sport/2006/07_Luglio/10/pop_zidane.shtml"> http://www.corriere.it/Primo_Piano/Sport/2006/07_Luglio/10/pop_zidane.shtml</a>
 
-Não desista e veja o que acontece!
+N&atilde;o desista e veja o que acontece!

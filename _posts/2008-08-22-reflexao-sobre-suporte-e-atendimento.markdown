@@ -1,27 +1,27 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Reflex\xC3\xA3o sobre suporte e atendimento"
+title: Reflex&atilde;o sobre suporte e atendimento
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 222
 wordpress_url: http://rafael.adm.br/?p=222
-date: 2008-08-22 22:14:39 -03:00
-categories: 
-- "Podcast: Voltando pra Casa"
+date: 2008-08-22 22:14:39.000000000 -03:00
+categories:
+- ! 'Podcast: Voltando pra Casa'
 - podcast
-tags: 
+tags:
 - webapp
-- "contrata\xC3\xA7\xC3\xA3o"
+- contrata&ccedil;&atilde;o
 - suporte
 - atendimento
 - podcast
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0008.mp3
 ---
-O suporte é uma questão importante que as vezes dá mais trabalho que o esperado, o desenvolvedor pode dar o suporte, mas com parcimônia.
+O suporte &eacute; uma quest&atilde;o importante que as vezes d&aacute; mais trabalho que o esperado, o desenvolvedor pode dar o suporte, mas com parcim&ocirc;nia.
 
 <a href="http://kayako.com">Kayako SupportSuite</a>
 

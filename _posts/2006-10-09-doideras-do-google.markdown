@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 91
 wordpress_url: http://rafael.adm.br/p/doideras-do-google/
-date: 2006-10-09 23:04:45 -03:00
-categories: 
+date: 2006-10-09 23:04:45.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - google
 ---
 <strong>Google GUP</strong>

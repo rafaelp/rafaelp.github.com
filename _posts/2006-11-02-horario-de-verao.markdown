@@ -1,24 +1,24 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Hor\xC3\xA1rio de Ver\xC3\xA3o"
+title: Hor&aacute;rio de Ver&atilde;o
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 100
 wordpress_url: http://rafael.adm.br/p/horario-de-verao/
-date: 2006-11-02 00:22:30 -03:00
-categories: 
+date: 2006-11-02 00:22:30.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - brasil
 - snippet
 - servidores
 - infra-estrutura
 ---
-Vou deixar aqui uma dica para aqueles que não poderão trocar o horário do servidor (linux) no momento da virada do horário de verão 2006.
+Vou deixar aqui uma dica para aqueles que n&atilde;o poder&atilde;o trocar o hor&aacute;rio do servidor (linux) no momento da virada do hor&aacute;rio de ver&atilde;o 2006.
 
 <strong>1. Crie o script horario_verao_2006.sh</strong>
 
@@ -26,7 +26,7 @@ Vou deixar aqui uma dica para aqueles que não poderão trocar o horário do ser
 vi /root/horario_verao_2006.sh
 [/code]
 
-<strong>2. Copie e cole o conteúdo abaixo</strong>
+<strong>2. Copie e cole o conte&uacute;do abaixo</strong>
 
 [code]
 #!/bin/sh
@@ -37,9 +37,9 @@ date -s "2006-11-05 01:00"
 /etc/init.d/mysql restart
 /etc/init.d/postgresql restart
 [/code]
-<em>Obs: Inclua ou retire os pacotes que devem ser reiniciados de acordo com os serviços que rodam no seu servidor.</em>
+<em>Obs: Inclua ou retire os pacotes que devem ser reiniciados de acordo com os servi&ccedil;os que rodam no seu servidor.</em>
 
-<strong>3. Mude a permissão do arquivo para torná-lo executável</strong>
+<strong>3. Mude a permiss&atilde;o do arquivo para torn&aacute;-lo execut&aacute;vel</strong>
 
 [code]
 chmod u=rwx,g=rx,o= /root/horario_verao_2006.sh
@@ -53,8 +53,8 @@ chmod u=rwx,g=rx,o= /root/horario_verao_2006.sh
 
 <strong>5. Reinicie o cron</strong>
 
-Agora você pode viajar sossegado e aproveitar o feriado!
+Agora voc&ecirc; pode viajar sossegado e aproveitar o feriado!
 
-Link útil: <a href="http://pcdsh01.on.br/DecHV5920.gif">Decreto do horário de verão de 2006</a>
+Link &uacute;til: <a href="http://pcdsh01.on.br/DecHV5920.gif">Decreto do hor&aacute;rio de ver&atilde;o de 2006</a>
 
-Abraços
+Abra&ccedil;os

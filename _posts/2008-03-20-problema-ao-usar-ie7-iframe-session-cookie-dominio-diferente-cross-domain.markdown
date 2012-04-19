@@ -1,19 +1,20 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Problema ao usar IE7 + Iframe + Session + Cookie + Dom\xC3\xADnio diferente (cross-domain)"
+title: Problema ao usar IE7 + Iframe + Session + Cookie + Dom&iacute;nio diferente
+  (cross-domain)
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 177
 wordpress_url: http://rafael.adm.br/p/problema-ao-usar-ie7-iframe-session-cookie-dominio-diferente-cross-domain/
-date: 2008-03-20 11:49:27 -03:00
-categories: 
+date: 2008-03-20 11:49:27.000000000 -03:00
+categories:
 - Posts
-tags: 
-- "programa\xC3\xA7\xC3\xA3o"
+tags:
+- programa&ccedil;&atilde;o
 - dicas
 - bug
 - ie7
@@ -22,20 +23,20 @@ tags:
 - cookie
 - cross-domain
 ---
-Passei por um problema agora no sistema que faço para a <a href="http://www.telequality.com.br">Telequality</a> que é chato e não tem muita coisa escrita sobre.
+Passei por um problema agora no sistema que fa&ccedil;o para a <a href="http://www.telequality.com.br">Telequality</a> que &eacute; chato e n&atilde;o tem muita coisa escrita sobre.
 
-Quando você usa um iframe, a página de dentro do iframe está em um domínio diferente da página que possui o código iframe, e essa página interna usa session com cookies, o IE7 por padrão ignora o cookie silenciosamente.
+Quando voc&ecirc; usa um iframe, a p&aacute;gina de dentro do iframe est&aacute; em um dom&iacute;nio diferente da p&aacute;gina que possui o c&oacute;digo iframe, e essa p&aacute;gina interna usa session com cookies, o IE7 por padr&atilde;o ignora o cookie silenciosamente.
 
-Isso pode acontecer no IE6 dependendo das configurações de segurança, mas não acontece por padrão, pois as configurações que vêm de fábrica são mais tranquilas do que aos do IE7.
+Isso pode acontecer no IE6 dependendo das configura&ccedil;&otilde;es de seguran&ccedil;a, mas n&atilde;o acontece por padr&atilde;o, pois as configura&ccedil;&otilde;es que v&ecirc;m de f&aacute;brica s&atilde;o mais tranquilas do que aos do IE7.
 
-Para corrigir o problema, é necessário enviar um header com as diretivas de segurança <a href="http://www.w3.org/P3P/">P3P</a> na página que é chamada dentro do iframe.
+Para corrigir o problema, &eacute; necess&aacute;rio enviar um header com as diretivas de seguran&ccedil;a <a href="http://www.w3.org/P3P/">P3P</a> na p&aacute;gina que &eacute; chamada dentro do iframe.
 
-No meu caso era um PHP e por isso inclui a seguinte linha no código:
+No meu caso era um PHP e por isso inclui a seguinte linha no c&oacute;digo:
 
 <pre lang="php">header('p3p: CP="CAO PSA OUR"');</pre>
 
-A linha seguinte diz para o navegador que o site fornece acesso a própria conta de informação (CAO), que os dados analisados são somente "pseudo-analisados" o que significa que os dados estão conectados à sua persona on-line e não à sua identidade física (PSA) e que os dados não são fornecidos para quaisquer agências externas para uso de tais agências (OUR).
+A linha seguinte diz para o navegador que o site fornece acesso a pr&oacute;pria conta de informa&ccedil;&atilde;o (CAO), que os dados analisados s&atilde;o somente "pseudo-analisados" o que significa que os dados est&atilde;o conectados &agrave; sua persona on-line e n&atilde;o &agrave; sua identidade f&iacute;sica (PSA) e que os dados n&atilde;o s&atilde;o fornecidos para quaisquer ag&ecirc;ncias externas para uso de tais ag&ecirc;ncias (OUR).
 
 Com isso o IE para de frescura e aceita os cookies dentro do iframe.
 
-Abraços e até a próxima.
+Abra&ccedil;os e at&eacute; a pr&oacute;xima.

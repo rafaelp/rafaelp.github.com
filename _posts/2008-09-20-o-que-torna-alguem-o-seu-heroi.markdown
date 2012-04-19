@@ -1,43 +1,43 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "O que torna algu\xC3\xA9m o seu her\xC3\xB3i?"
+title: O que torna algu&eacute;m o seu her&oacute;i?
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 249
 wordpress_url: http://rafael.adm.br/?p=249
-date: 2008-09-20 15:28:47 -03:00
-categories: 
+date: 2008-09-20 15:28:47.000000000 -03:00
+categories:
 - Posts
-tags: 
-- "lideran\xC3\xA7a"
+tags:
+- lideran&ccedil;a
 - amor
 - dinheiro
 ---
-Este post é uma reflexão em cima do <a href="http://www.akitaonrails.com/2008/9/20/off-topic-o-poder-do-mito-redux">artigo do Fábio Akita sobre O Poder do Mito</a>.
+Este post &eacute; uma reflex&atilde;o em cima do <a href="http://www.akitaonrails.com/2008/9/20/off-topic-o-poder-do-mito-redux">artigo do F&aacute;bio Akita sobre O Poder do Mito</a>.
 
-Parabéns pela iniciativa, Akita!
+Parab&eacute;ns pela iniciativa, Akita!
 
-Em geral gostei, embora tenha algumas idéias de que discordo. 
+Em geral gostei, embora tenha algumas id&eacute;ias de que discordo. 
 
-Especificamente um parágrafo me chamou a atenção:
+Especificamente um par&aacute;grafo me chamou a aten&ccedil;&atilde;o:
 <blockquote>
-Heróis existem, eles aparecem todos os dias. Abra a Fortune e veja a lista dos 500 mais ricos do mundo. Já são 500. Mas o último lugar desses 500 é infinitamente mais rico que qualquer um de nós. Estenda a lista e pegue os 10 mil mais ricos, ainda assim o último lugar dessa lista é muito mais rico do que qualquer pessoa que você já conheceu. Desça ainda mais na lista e você se dará conta que existem milhares de pequenos heróis: pessoas que saíram do caminho “normal” e se tornaram pequenos heróis. E não só em termos de dinheiro.
+Her&oacute;is existem, eles aparecem todos os dias. Abra a Fortune e veja a lista dos 500 mais ricos do mundo. J&aacute; s&atilde;o 500. Mas o &uacute;ltimo lugar desses 500 &eacute; infinitamente mais rico que qualquer um de n&oacute;s. Estenda a lista e pegue os 10 mil mais ricos, ainda assim o &uacute;ltimo lugar dessa lista &eacute; muito mais rico do que qualquer pessoa que voc&ecirc; j&aacute; conheceu. Des&ccedil;a ainda mais na lista e voc&ecirc; se dar&aacute; conta que existem milhares de pequenos her&oacute;is: pessoas que sa&iacute;ram do caminho &ldquo;normal&rdquo; e se tornaram pequenos her&oacute;is. E n&atilde;o s&oacute; em termos de dinheiro.
 </blockquote>
 
-Quer dizer que os heróis estão relacionados à grana primeiramente? Infelizmente são esses os valores que reinam no Brasil. A média pensa assim.
+Quer dizer que os her&oacute;is est&atilde;o relacionados &agrave; grana primeiramente? Infelizmente s&atilde;o esses os valores que reinam no Brasil. A m&eacute;dia pensa assim.
 
-Herói pra mim é o funcionário de um amigo meu. Veio do interior, não sabe a idade, não tem família e é analfabeto, mesmo com todas as dificuldades que passou está trabalhando. Ouvir a história dele é emocionante, ele continua pobre, mas ganha o suficiente para manter sua vida e seus filhos. É feliz por sentir que venceu na vida. Ele é um herói.
+Her&oacute;i pra mim &eacute; o funcion&aacute;rio de um amigo meu. Veio do interior, n&atilde;o sabe a idade, n&atilde;o tem fam&iacute;lia e &eacute; analfabeto, mesmo com todas as dificuldades que passou est&aacute; trabalhando. Ouvir a hist&oacute;ria dele &eacute; emocionante, ele continua pobre, mas ganha o suficiente para manter sua vida e seus filhos. &Eacute; feliz por sentir que venceu na vida. Ele &eacute; um her&oacute;i.
 
-<strong>Os verdadeiros heróis não estão nas revistas.</strong>
+<strong>Os verdadeiros her&oacute;is n&atilde;o est&atilde;o nas revistas.</strong>
 
-Heróis são Jesus, Gandhi, Madre Tereza de Caucuta que foram verdadeiros líderes, simplesmente por que praticavam o amor.
+Her&oacute;is s&atilde;o Jesus, Gandhi, Madre Tereza de Caucuta que foram verdadeiros l&iacute;deres, simplesmente por que praticavam o amor.
 
-Liderança é resultado do amor. Sugiro a leitura do livro <a href="http://www.submarino.com.br/books_productdetails.asp?ProdTypeId=1&ProdId=232649&St=MC">O Monge e O Executivo</a> que retrata com excelência o que vem a ser liderança.
+Lideran&ccedil;a &eacute; resultado do amor. Sugiro a leitura do livro <a href="http://www.submarino.com.br/books_productdetails.asp?ProdTypeId=1&ProdId=232649&St=MC">O Monge e O Executivo</a> que retrata com excel&ecirc;ncia o que vem a ser lideran&ccedil;a.
 
-Deixo a reflexão: <strong>Quais são as caracter?iticas e qualidades que tornam alguém o "seu herói"?</strong>
+Deixo a reflex&atilde;o: <strong>Quais s&atilde;o as caracter?iticas e qualidades que tornam algu&eacute;m o "seu her&oacute;i"?</strong>
 
-Abraço e até a próxima.
+Abra&ccedil;o e at&eacute; a pr&oacute;xima.

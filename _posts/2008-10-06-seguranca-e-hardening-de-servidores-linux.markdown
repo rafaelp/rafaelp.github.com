@@ -1,20 +1,20 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "Seguran\xC3\xA7a e Hardening de servidores linux"
+title: Seguran&ccedil;a e Hardening de servidores linux
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 257
 wordpress_url: http://rafael.adm.br/?p=257
-date: 2008-10-06 01:48:57 -03:00
-categories: 
+date: 2008-10-06 01:48:57.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - servidores
-- "seguran\xC3\xA7a"
+- seguran&ccedil;a
 - linux
 - servidor
 - hardening
@@ -32,7 +32,7 @@ tags:
 - watchdog
 - smartd
 ---
-Este final de semana fiquei envolvido com questões de segurança nos servidores da <a href="http://bielsystems.com.br">BielSystems.</a> Deixo aqui uma sopinha de letras para quem quiser buscar ler mais sobre o assunto.
+Este final de semana fiquei envolvido com quest&otilde;es de seguran&ccedil;a nos servidores da <a href="http://bielsystems.com.br">BielSystems.</a> Deixo aqui uma sopinha de letras para quem quiser buscar ler mais sobre o assunto.
 
 <ul>
 	<li><a href="http://configserver.com/cp/csf.html">csf</a></li>

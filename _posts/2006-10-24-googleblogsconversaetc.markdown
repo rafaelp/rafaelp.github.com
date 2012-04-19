@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,24 +9,24 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 95
 wordpress_url: http://rafael.adm.br/p/googleblogsconversaetc/
-date: 2006-10-24 23:52:04 -03:00
-categories: 
+date: 2006-10-24 23:52:04.000000000 -03:00
+categories:
 - Posts
-tags: 
-- "integra\xC3\xA7\xC3\xA3o"
+tags:
+- integra&ccedil;&atilde;o
 ---
 <strong>Pesquisa Google</strong>
-Por que será que o botão de busca do Google é "Google Search" ao invés de "Web Search" como é o do Yahoo??? Já perceberam!?
+Por que ser&aacute; que o bot&atilde;o de busca do Google &eacute; "Google Search" ao inv&eacute;s de "Web Search" como &eacute; o do Yahoo??? J&aacute; perceberam!?
 
 <strong>Blogs Corporativos</strong>
-Estou estudando este novo mercado, site de referência: <a href="http://www.blogcorporativo.net/">http://www.blogcorporativo.net/</a> 
+Estou estudando este novo mercado, site de refer&ecirc;ncia: <a href="http://www.blogcorporativo.net/">http://www.blogcorporativo.net/</a> 
 
-<strong>Conversa com Minha Avó</strong>
-Estava conversando com minha avó e ela disse:
-- "Eu não vejo mais TV, que TV que nada, cheio de "porcalhada". Eu prefiro a Internet, se vem qualquer coisa que eu não gosto eu deleto."
+<strong>Conversa com Minha Av&oacute;</strong>
+Estava conversando com minha av&oacute; e ela disse:
+- "Eu n&atilde;o vejo mais TV, que TV que nada, cheio de "porcalhada". Eu prefiro a Internet, se vem qualquer coisa que eu n&atilde;o gosto eu deleto."
 
 <strong>Acredito no Massa</strong>
-Já ouviram falar que todo piloto campeão tem a voz estranha? E não é que o Massa fala esquisito mesmo!
+J&aacute; ouviram falar que todo piloto campe&atilde;o tem a voz estranha? E n&atilde;o &eacute; que o Massa fala esquisito mesmo!
 
-<strong>Banco Itaú</strong>
-Na minha opinião o Banco Itaú piora a cada dia que passa, ponto.
+<strong>Banco Ita&uacute;</strong>
+Na minha opini&atilde;o o Banco Ita&uacute; piora a cada dia que passa, ponto.

@@ -1,24 +1,24 @@
---- 
+---
 layout: post
 status: publish
 published: true
-title: "A matem\xC3\xA1tica \xC3\xA9 linda"
+title: A matem&aacute;tica &eacute; linda
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 88
 wordpress_url: http://rafael.adm.br/p/a-matematica-e-linda/
-date: 2006-09-25 13:30:17 -03:00
-categories: 
+date: 2006-09-25 13:30:17.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - simplicidade
-- "matem\xC3\xA1tica"
+- matem&aacute;tica
 ---
-Muito interessante a técnica de multiplicação por grid.
+Muito interessante a t&eacute;cnica de multiplica&ccedil;&atilde;o por grid.
 
-<img id="image87" src="http://rafael.adm.br/wp-content/uploads/2006/09/mathgrid.jpg" alt="Grid de Multiplicação" />
+<img id="image87" src="http://rafael.adm.br/wp-content/uploads/2006/09/mathgrid.jpg" alt="Grid de Multiplica&ccedil;&atilde;o" />
 
-A explicação (em inglês) pode ser encontrada em:
+A explica&ccedil;&atilde;o (em ingl&ecirc;s) pode ser encontrada em:
 <a href="http://www.chicagotribune.com/news/nationworld/chi-0609210096sep21,1,3227317.story">http://www.chicagotribune.com/news/nationworld/chi-0609210096sep21,1,3227317.story</a>

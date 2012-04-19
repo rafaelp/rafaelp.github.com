@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,12 +9,12 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 72
 wordpress_url: http://rafael.adm.br/p/justificando-minha-escolha/
-date: 2006-08-22 23:53:28 -03:00
-categories: 
+date: 2006-08-22 23:53:28.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
-- "programa\xC3\xA7\xC3\xA3o"
+- programa&ccedil;&atilde;o
 - rails
 - web
 - webapp

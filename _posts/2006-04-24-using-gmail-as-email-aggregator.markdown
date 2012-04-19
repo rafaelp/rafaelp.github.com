@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -9,10 +9,10 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 26
 wordpress_url: http://rafael.adm.br/p/using-gmail-as-a-email-aggregator/
-date: 2006-04-24 00:47:14 -03:00
-categories: 
+date: 2006-04-24 00:47:14.000000000 -03:00
+categories:
 - Posts
-tags: 
+tags:
 - google
 - gmail
 - tweak

@@ -1,4 +1,4 @@
---- 
+---
 layout: index
 title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Marketing, Aplicação Web, Ruby on Rails.
 ---
@@ -10,14 +10,15 @@ title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Mar
     <div class="entry">
       <div class="tweetmeme_button" style="float: left; margin-right: 10px;"><iframe src="http://api.tweetmeme.com/button.js?url=http%3A%2F%2Frafael.adm.br{{ post.url | cgi_escape }}%2F&amp;source=rafaelp&amp;style=normal&amp;service=bit.ly" height="61" width="50" frameborder="0" scrolling="no"></iframe></div>
       {{ post.content }}
-      {{ if post.podcast }}
-      <object type="application/x-shockwave-flash" name="pod_audio_1" style="outline-style: none; outline-width: initial; outline-color: initial; visibility: visible; " data="http://rafael.adm.br/wp-content/plugins/podcasting/player/player.swf" width="290" height="24" id="pod_audio_1"><param name="wmode" value="opaque"><param name="menu" value="false"><param name="flashvars" value="soundFile={{ post.podcast | cgi_escape }}&amp;playerID=pod_audio_1"></object>
-      <script type="text/javascript">  
-      AudioPlayer.embed("pod_audio_1", {soundFile: "{{ post.podcast | cgi_escape }}"});  
-      </script>
-      {{ endif }}
+      {% if post.podcast %}
+        <object type="application/x-shockwave-flash" name="pod_audio_1" style="outline-style: none; outline-width: initial; outline-color: initial; visibility: visible; " data="http://rafael.adm.br/wp-content/plugins/podcasting/player/player.swf" width="290" height="24" id="pod_audio_1"><param name="wmode" value="opaque"><param name="menu" value="false"><param name="flashvars" value="soundFile={{ post.podcast | cgi_escape }}&amp;playerID=pod_audio_1"></object>
+        <script type="text/javascript">
+        AudioPlayer.embed("pod_audio_1", {soundFile: "{{ post.podcast | cgi_escape }}"});
+        </script>
+      {% endif %}
     </div><!-- /.entry -->
   </div><!-- /.post -->
+  <div class="tags"></div>
 {% endfor %}
 
 <div class="pagenavi">

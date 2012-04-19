@@ -14,7 +14,7 @@ layout: nil
    <email>contato@rafael.adm.br</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in paginator.posts %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://rafael.adm.br{{ post.url }}"/>

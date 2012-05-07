@@ -32,19 +32,33 @@ Meu objetivo &eacute; fazer um convite para desenvolvedores, programadores e des
 Hoje n&oacute;s somos 14 pessoas, trabalhando juntas, por&eacute;m nem sempre pr&oacute;ximas presencialmente, afim de sermos uma das empresa mais rockz do mercado, ao lado de outras que admiramos muito como a <a href="http://engage.is/">Engage</a> (antiga Softa), a <a href="http://hellobits.com/">Hellobits</a> e a <a href="http://www.codeminer42.com/">Code Miner 42</a>.
 
 Conhe&ccedil;a a galera que faz parte deste time:
+
 <a href="http://twitter.com/#!/aluisio_azevedo" target="_blank">Alu&iacute;zio Azevedo</a>
+
 <a href="http://twitter.com/#!/yogodoshi" target="_blank">Cayo Medeiros</a>
+
 <a href="http://twitter.com/#!/eduardofiorezi" target="_blank">Eduardo Fiorezi</a>
+
 <a href="http://twitter.com/#!/fbazzarella" target="_blank">Felipe Bazzarella</a>
+
 Liliane Freitas (n&atilde;o tem Twitter)
+
 <a href="http://twitter.com/#!/matheusbras_" target="_blank">Matheus Br&aacute;s</a>
+
 <a href="http://twitter.com/#!/maurogeorge" target="_blank">Mauro George</a>
+
 <a href="http://twitter.com/#!/lunks" target="_blank">Pedro Nascimento</a>
+
 <a href="http://twitter.com/#!/rafaelp" target="_blank">Rafael Lima</a>
+
 <a href="http://twitter.com/#!/ramonpage" target="_blank">Ramon Page</a>
+
 <a href="http://twitter.com/#!/rodrigoospinto" target="_blank">Rodrigo Pinto</a>
+
 <a href="http://twitter.com/#!/argerimsf" target="_blank">Rog&eacute;rio Medeiros</a>
+
 <a href="http://twitter.com/#!/smergulhao" target="_blank">Sylvestre Mergulh&atilde;o</a>
+
 <a href="http://twitter.com/#!/argentinomota" target="_blank">Vanderson Mota</a>
 
 Para exemplificar como estamos trabalhando, um dos times que montamos foi para trabalhar em um cliente na Barra da Tijuca. N&oacute;s contratamos duas pessoas de fora do RJ, sendo uma de Porto Alegre e outra do Piau&iacute;. Como eles vinham de fora e n&atilde;o conheciam muito o RJ, a empresa alugou um apartamento num condom&iacute;nio ao lado do escrit&oacute;rio do cliente. O condom&iacute;nio &eacute; irado, tem piscina, sauna, academia, etc... Assim conseguimos tirar um problema da frente deles e proporcionar uma qualidade de vida relevante!

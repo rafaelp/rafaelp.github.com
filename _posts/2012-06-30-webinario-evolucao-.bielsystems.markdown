@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Webinario de erros e acertos na criação de produtos web
+title: Webinario sobre erros e acertos na criação de produtos web
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br

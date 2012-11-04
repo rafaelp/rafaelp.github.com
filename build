@@ -1,0 +1,6 @@
+#!/bin/bash
+ 
+cp -a /Users/rafael/Projects/rafaelp.github.com.raw/_site/* /Users/rafael/Projects/rafaelp.github.com/
+git add .
+git commit -m "site build"
+git push

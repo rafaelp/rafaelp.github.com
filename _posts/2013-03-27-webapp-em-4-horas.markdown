@@ -33,7 +33,7 @@ Não, não é. Eu sinceramente não sei se vou conseguir realizar.
 
 Eu vou tentar!
 
-Para esse desafio eu chamei três caras F$*#s que eu confio muito pra realizar ese trabalho. São eles:
+Para esse desafio eu chamei três caras F$*#s que eu confio muito pra realizar esse trabalho. São eles:
 
 * [Rodrigo Pinto](https://twitter.com/rodrigoospinto) - programador
 * [Aluisio Azevedo](https://twitter.com/aluisio_azevedo) - designer
@@ -45,3 +45,5 @@ Pretendemos documentar todo o processo e para isso estamos abrindo inscrições 
 Se você tem interesse em acompanhar em primeira mão essa jornada, [inscreva-se no evento](http://www.eventick.com.br/webapp4horas), as vagas são limitadas!
 
 E no mais, torça e reze por nós :P
+
+<strong>Atualizado em 02 de Abril:</strong> Nós realizamos a façanha e deu tudo certo! O aplicativo desenvolvido foi o <a href="http://89tweets.com">89tweets.com</a>! Estamos agora vendendo os <a href="https://checkout.landingcommerce.com.br/checkout/webapp4horas">vídeos da nossa reunião e screencasts dos nossos monitores</a> enquanto trabalhamos. Confira em: <a href="http://webapp4horas.com/">http://webapp4horas.com</a>.

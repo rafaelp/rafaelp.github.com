@@ -1,12 +1,8 @@
 source 'https://rubygems.org'
+ruby '2.0.0'
 
-#gem 'jekyll', '0.11.2'
-gem 'jekyll', :git => 'git://github.com/rafaelp/jekyll.git'
-gem 'jekyll_ext', '0.1.4'
-gem 'haml', '3.1.4'
-gem 'sass', '3.1.15'
-gem 'rdiscount', '1.6.8'
-gem 'htmlentities', '4.3.1'
-gem 'nokogiri', '1.5.2'
-gem 'sequel', '3.34.1'
-gem 'unidecode', '1.0.0'
+gem 'github-pages', '8'
+
+group :development do
+  gem "foreman", "0.63.0"
+end

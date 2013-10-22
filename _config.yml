@@ -1,7 +1,6 @@
-server: true
-auto: true
-exclude: README Gemfile Gemfile.lock
+serve: true
+exclude: ['Gemfile', 'Gemfile.lock', 'README.textile']
 permalink: /p/:title
 paginate: 5
+paginate_path: "/page/:num"
 markdown: rdiscount
-tag_dir: tag

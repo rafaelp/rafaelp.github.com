@@ -2,5 +2,5 @@ serve: true
 exclude: ['Gemfile', 'Gemfile.lock', 'README.textile']
 permalink: /p/:title
 paginate: 5
-paginate_path: "/page/:num"
+paginate_path: "blog/page/:num"
 markdown: rdiscount

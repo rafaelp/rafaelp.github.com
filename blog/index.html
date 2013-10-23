@@ -13,15 +13,15 @@ title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Mar
     <div class="pagination">
       {% if paginator.previous_page %}
         {% if paginator.page >= 4 %}
-          <a href="/">« Primeira</a>
+          <a href="/blog">« Primeira</a>
         {% endif %}
-        <a href="/page/{{paginator.previous_page}}">«</a>
+        <a href="/blog/page/{{paginator.previous_page}}">«</a>
       {% endif %}
 
       {% if paginator.page == 1 %}
         <strong class="on">1</strong>
       {% elsif paginator.page < 5 %}
-        <a href="/">1</a>
+        <a href="/blog">1</a>
       {% endif %}
 
       {% capture offset %}{{paginator.page | minus: 5 }}{% endcapture %}
@@ -30,14 +30,14 @@ title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Mar
         {% if count == paginator.page %}
           <strong class="on">{{count}}</strong>
         {% else %}
-          <a href="/page/{{count}}">{{count}}</a>
+          <a href="/blog/page/{{count}}">{{count}}</a>
         {% endif %}
       {% endfor %}
 
       {% if paginator.next_page %}
-        <a href="/page/{{paginator.next_page}}">»</a>
+        <a href="/blog/page/{{paginator.next_page}}">»</a>
         {% if paginator.page <= (paginator.total_pages - 5) %}
-          <a href="/page/{{paginator.total_pages}}">Última »</a>
+          <a href="/blog/page/{{paginator.total_pages}}">Última »</a>
         {% endif %}
       {% endif %}
 

@@ -1,0 +1,46 @@
+---
+layout: blog
+title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Marketing, Aplicação Web, Ruby on Rails.
+---
+
+{% for post in paginator.posts %}
+  {% include post.html %}
+{% endfor %}
+
+<div class="pagenavi">
+  <div class="Nav">
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        {% if paginator.page >= 4 %}
+          <a href="/">« Primeira</a>
+        {% endif %}
+        <a href="/page/{{paginator.previous_page}}">«</a>
+      {% endif %}
+
+      {% if paginator.page == 1 %}
+        <strong class="on">1</strong>
+      {% elsif paginator.page < 5 %}
+        <a href="/">1</a>
+      {% endif %}
+
+      {% capture offset %}{{paginator.page | minus: 5 }}{% endcapture %}
+
+      {% for count in (2..paginator.total_pages) limit:7 offset:offset %}
+        {% if count == paginator.page %}
+          <strong class="on">{{count}}</strong>
+        {% else %}
+          <a href="/page/{{count}}">{{count}}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="/page/{{paginator.next_page}}">»</a>
+        {% if paginator.page <= (paginator.total_pages - 5) %}
+          <a href="/page/{{paginator.total_pages}}">Última »</a>
+        {% endif %}
+      {% endif %}
+
+    </div>
+  </div>
+</div>

@@ -1,23 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head profile="http://gmpg.org/xfn/11">
-  {% include head.ext %}
-</head>
-<body class="body-single">
-  <script type="text/javascript" src="/wp-content/themes/mainstream/includes/js/follow-me-referer.js"></script>
-  <div id="container">
-    {% include header.ext %}
-    <div id="main">
-      <div id="inside">
-        <div id="content">
-          {{ content }}
-        </div><!-- /#content -->
-        {% include sidebar.ext %}
-        <div class="clear"></div>
-      </div><!-- /#inside -->
-    </div><!-- /#main -->
-    {% include footer.ext %}
-  </div><!-- /#container -->
-  {% include bottom_scripts.ext %}
-</body>
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+  <body>
+    {{ content }}
+    {% include bottom_scripts.html %}
+  </body>
 </html>

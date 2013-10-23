@@ -1,0 +1,139 @@
+/* =Reset
+ * -------------------------------------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* =Global
+ * -------------------------------------------------------------- */
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: url("../images/background.png");
+  font: 1.4rem Verdana, Arial, Helvetica, sans-serif;
+  color: #555;
+}
+
+img {
+  border: none;
+}
+
+a {
+  color: #5195CE;
+  text-decoration: none;
+}
+
+/** reset tags HTML5. */
+article, aside, dialog, figure, footer, header,
+hgroup, menu, nav, section, menu {
+  display:block;
+}
+
+/* =Wrapper
+ * -------------------------------------------------------------- */
+
+#wrapper {
+  height: 430px;
+  width:960px;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  overflow: hidden;
+}
+
+/* =Header
+ * -------------------------------------------------------------- */
+
+header {
+  margin: 0 0 30px 280px;
+}
+
+header h1 {
+  color: #FF5600;
+  font-size: 5rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  letter-spacing: 0.1em;
+}
+
+header h1 span {
+  display: none;
+}
+
+/* =Container
+ * -------------------------------------------------------------- */
+
+#container {
+  overflow: hidden;
+}
+
+#profile-picture {
+ -webkit-border-radius: 150px;
+ -moz-border-radius: 150px;
+ border-radius: 150px;
+ float: left;
+ width: 230px;
+}
+
+#container p {
+  float: right;
+  width: 680px;
+  font-size: 2.5rem;
+  line-height: 1.7;
+}
+
+/* =Footer
+ * -------------------------------------------------------------- */
+
+#footer {
+  margin: 10px 0 0 265px;
+}
+
+#footer img {
+  width: 90px;
+  margin-left: 5px;
+}
+
+/* =Responsive
+ * -------------------------------------------------------------- */
+
+@media only screen and (max-width: 767px), only screen and (max-width: 767px) and (orientation: portrait), only screen and (max-width:960px) {
+
+  #wrapper {
+    width:90%;
+    margin: 10% auto;
+    position: static;
+    overflow: visible;
+  }
+
+  header {
+    margin: 0 auto 30px;
+  }
+
+  header h1 {
+    line-height: 0.9em;
+    text-align: center;
+  }
+
+  #profile-picture {
+    float: none;
+    margin: 0 auto 30px;
+    display: block;
+  }
+
+  #container p {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+  }
+
+  #footer {
+    margin: 20px auto;
+    text-align: center;
+  }
+}
+

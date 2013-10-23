@@ -1,12 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head profile="http://gmpg.org/xfn/11">
-  {% include head.ext %}
+  {% include head.html %}
+  {% include blog_head.html %}
 </head>
 <body class="body-single">
   <script type="text/javascript" src="/wp-content/themes/mainstream/includes/js/follow-me-referer.js"></script>
   <div id="container">
-    {% include header.ext %}
+    {% include header.html %}
     <div id="main">
       <div id="inside">
         <div id="content">
@@ -35,17 +36,17 @@
           <div id="disqus_thread"></div>
           <!-- comments -->
         </div><!-- /#content -->
-        {% include sidebar.ext %}
+        {% include sidebar.html %}
         <div class="clear"></div>
       </div><!-- /#inside -->
     </div><!-- /#main -->
-    {% include footer.ext %}
+    {% include footer.html %}
   </div><!-- /#container -->
   <script type="text/javascript">
   var disqus_identifier = '{{ page.wordpress_id }} {{ page.wordpress_url }}';
   var disqus_url = 'http://rafael.adm.br{{ page.url }}';
   var disqus_title = "{{ page.title }}";
   </script>
-  {% include bottom_scripts.ext %}
+  {% include bottom_scripts.html %}
 </body>
 </html>

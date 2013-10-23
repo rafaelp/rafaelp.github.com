@@ -1,46 +1,22 @@
 ---
 layout: index
-title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Marketing, Aplicação Web, Ruby on Rails.
+title: Rafael Lima - Empreendedor de negócios digitais.
 ---
-
-{% for post in paginator.posts %}
-  {% include post.ext %}
-{% endfor %}
-
-<div class="pagenavi">
-  <div class="Nav">
-    <!-- Pagination links -->
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        {% if paginator.page >= 4 %}
-          <a href="/">« Primeira</a>
-        {% endif %}
-        <a href="/page/{{paginator.previous_page}}">«</a>
-      {% endif %}
-
-      {% if paginator.page == 1 %}
-        <strong class="on">1</strong>
-      {% elsif paginator.page < 5 %}
-        <a href="/">1</a>
-      {% endif %}
-
-      {% capture offset %}{{paginator.page | minus: 5 }}{% endcapture %}
-
-      {% for count in (2..paginator.total_pages) limit:7 offset:offset %}
-        {% if count == paginator.page %}
-          <strong class="on">{{count}}</strong>
-        {% else %}
-          <a href="/page/{{count}}">{{count}}</a>
-        {% endif %}
-      {% endfor %}
-
-      {% if paginator.next_page %}
-        <a href="/page/{{paginator.next_page}}">»</a>
-        {% if paginator.page <= (paginator.total_pages - 5) %}
-          <a href="/page/{{paginator.total_pages}}">Última »</a>
-        {% endif %}
-      {% endif %}
-
-    </div>
-  </div>
-</div>
+<section id="wrapper">
+  <header id="header">
+    <h1 title="Rafael Lima">Rafael Lima <span>Empreendedor de negócios digitais</span></h1>
+  </header>
+  <article id="container">
+    <img id="profile-picture" src="http://gravatar.com/avatar/d055bb9d92e05b3435ae854eb8ad7ab3.png?size=230" alt="Foto de Rafael Lima" title="Foto de Rafael Lima" />
+    <p>Empreendedor digital e desenvolvedor web. Fundador da <a href="http://bielsystems.com.br" title="Site da BielSystems">BielSystems</a>, co-fundador da <a href="http://helabs.com.br" title="Site da HE:labs">HE:labs</a>, da <a href="http://hemobile.com.br" title="Site da HE:mobile">HE:mobile</a>, do <a href="http://startupdev.com.br" title="Site do StartupDEV">StartupDEV</a>, mentor e sócio da <a href="http://chiligumvideos.com" title="Site da Chiligum Videos">Chiligum Videos</a> e do <a href="http://codev.com.br" title="Site do Codev">Codev</a>. Mentor do <a href="http://www.startupfarm.com.br" title="Site do Startupfarm">Startupfarm</a>, <a href="http://startupweekend.org" title="Site do Startup Weekend">Startup Weekend</a>, <a href="http://www.papayaventures.com" title="Site da Papaya Ventures">Papaya Ventures</a> e <a href="http://www.germinadora.com" title="Site da Germinadora">Germinadora</a>.</p>
+  </article>
+  <footer id="footer">
+    <a href="/blog" title="Blog do Rafael Lima"><img src="images/blog.png" alt="Blog do Rafael Lima" title="Blog do Rafael Lima" /></a>
+    <a href="https://twitter.com/rafaelp" title="Twitter do Rafael Lima"><img src="images/twitter.png" alt="Twitter do Rafael Lima" title="Twitter do Rafael Lima" /></a>
+    <a href="https://github.com/rafaelp" title="Github do Rafael Lima"><img src="images/github.png" alt="Github do Rafael Lima" title="Github do Rafael Lima" /></a>
+    <a href="http://www.slideshare.net/rafael_lima" title="Slideshare do Rafael Lima"><img src="images/slideshare.png" alt="Slideshare do Rafael Lima" title="Slideshare do Rafael Lima" /></a>
+    <a href="http://www.linkedin.com/pub/rafael-lima/71/144/180" title="Linkedin do Rafael Lima"><img src="images/linkedin.png" alt="Linkedin do Rafael Lima" title="Linkedin do Rafael Lima" /></a>
+    <a href="images/troll.png" title="Facebook do Rafael Lima"><img src="images/facebook.png" alt="Facebook do Rafael Lima" title="Facebook do Rafael Lima" /></a>
+    <a href="http://scr.im/rafaelp" title="Email do Rafael Lima"><img src="images/email.png" alt="Email do Rafael Lima" title="Email do Rafael Lima" /></a>
+  </footer>
+</section>

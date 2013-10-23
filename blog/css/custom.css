@@ -1,0 +1,16 @@
+.post-tags a {
+  color: #6ca300;
+  text-decoration: none;
+}
+.post-tags a:visited {
+  color: #6ca300;
+}
+.post-tags a:hover {
+  text-decoration: underline;
+}
+
+.post-comments {
+  position: relative;
+  margin: 4rem 0 0 0;
+  padding: 4rem 0 0 0;
+}

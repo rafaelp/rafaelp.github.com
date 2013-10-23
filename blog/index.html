@@ -1,46 +1,44 @@
 ---
 layout: blog
-title: Empreendedorismo, Web, Agile, Tecnologia, Desenvolvimento, Negócios, Marketing, Aplicação Web, Ruby on Rails.
+title: Blog de Rafael Lima - Empreendedor digital.
 ---
 
 {% for post in paginator.posts %}
   {% include post.html %}
 {% endfor %}
 
-<div class="pagenavi">
-  <div class="Nav">
-    <!-- Pagination links -->
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        {% if paginator.page >= 4 %}
-          <a href="/blog">« Primeira</a>
-        {% endif %}
-        <a href="/blog/page/{{paginator.previous_page}}">«</a>
-      {% endif %}
+<nav class="pagination" role="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a href="/blog" class="newer-posts">&larr; Mais Novos</a>
+    {% else %}
+      <a href="/blog/page/{{paginator.previous_page}}" class="newer-posts">&larr; Mais Novos</a>    
+    {% endif %}
+  {% endif %}
 
-      {% if paginator.page == 1 %}
-        <strong class="on">1</strong>
-      {% elsif paginator.page < 5 %}
-        <a href="/blog">1</a>
-      {% endif %}
+  <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
+  <!--
+  {% if paginator.page == 1 %}
+    <strong class="on">1</strong>
+  {% elsif paginator.page < 5 %}
+    <a href="/blog">1</a>
+  {% endif %}
 
-      {% capture offset %}{{paginator.page | minus: 5 }}{% endcapture %}
+  {% capture offset %}{{paginator.page | minus: 5 }}{% endcapture %}
 
-      {% for count in (2..paginator.total_pages) limit:7 offset:offset %}
-        {% if count == paginator.page %}
-          <strong class="on">{{count}}</strong>
-        {% else %}
-          <a href="/blog/page/{{count}}">{{count}}</a>
-        {% endif %}
-      {% endfor %}
+  {% for count in (2..paginator.total_pages) limit:7 offset:offset %}
+    {% if count == paginator.page %}
+      <strong class="on">{{count}}</strong>
+    {% else %}
+      <a href="/blog/page/{{count}}">{{count}}</a>
+    {% endif %}
+  {% endfor %}
+  -->
 
-      {% if paginator.next_page %}
-        <a href="/blog/page/{{paginator.next_page}}">»</a>
-        {% if paginator.page <= (paginator.total_pages - 5) %}
-          <a href="/blog/page/{{paginator.total_pages}}">Última »</a>
-        {% endif %}
-      {% endif %}
-
-    </div>
-  </div>
-</div>
+  {% if paginator.next_page %}
+    <a href="/blog/page/{{paginator.next_page}}" class="older-posts">Mais Antigos &rarr;</a>
+    {% if paginator.page <= (paginator.total_pages - 5) %}
+      <!--a href="/blog/page/{{paginator.total_pages}}">Última »</a-->
+    {% endif %}
+  {% endif %}  
+</nav>

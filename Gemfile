@@ -8,4 +8,5 @@ group :development do
   gem 'simple-rss', '1.2.3'
   gem 'hpricot', '0.8.6'
   gem 'awesome_print', '1.2.0'
+  gem 'google_drive', '0.3.6'
 end

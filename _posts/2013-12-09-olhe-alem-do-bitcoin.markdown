@@ -20,7 +20,7 @@ Os que dizem que Bitcoin não é uma moeda, não entenderam ainda o conceito nem
 
 Quando ouvi sobre a Internet pela primeira vez na vida, eu estava com o meu tio e era inconcebível o conceito de milhares de pessoas numa mesma rede. A gente dizia: "Como pode isso? Tem um computador com 50 placas de rede e um mané lá trocando os cabos toda vez que uma pessoa diferente vai conectar!?". Usando os conceitos conhecidos por nós na época, uma rede mundial era inviável. Porém a invenção da internet foi uma inovação disruptiva.
 
-*Quando uma inovação trás um novo conceito, tudo muda.*
+*Quando uma inovação traz um novo conceito, tudo muda.*
 
 A questão é que o Bitcoin não é bem quisto pelos grandes players financeiros que já têm seus bois na sombra.
 

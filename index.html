@@ -4,11 +4,16 @@ title: Rafael Lima - Empreendedor de negócios digitais.
 ---
 <section id="wrapper">
   <header id="header">
-    <h1 title="Rafael Lima">Rafael Lima <span>Empreendedor de negócios digitais</span></h1>
+    <h1 title="Rafael Lima">
+      Rafael Lima <span>Empreendedor de negócios digitais</span>
+      <a href="#" class="locale pt toggle" style="display: none"><img src="/images/br.png" alt="Versão em Português" title="Versão em Português" width="16" height="11" style="margin-top: 15px" valign="top" /></a>
+      <a href="#" class="locale en toggle"><img src="/images/us.png" alt="English Version" title="English Version" width="16" height="11" style="margin-top: 15px" valign="top" /></a>
+    </h1>
   </header>
   <article id="container">
     <a href="/sobre" title="Bio detalhada"><img id="profile-picture" src="http://gravatar.com/avatar/d055bb9d92e05b3435ae854eb8ad7ab3.png?size=230" alt="Foto de Rafael Lima" title="Foto de Rafael Lima" /></a>
-    <p>Empreendedor digital e desenvolvedor web. Fundador da <a href="http://bielsystems.com.br" title="Site da BielSystems">BielSystems</a>, co-fundador da <a href="http://helabs.com.br" title="Site da HE:labs">HE:labs</a>, da <a href="http://hemobile.com.br" title="Site da HE:mobile">HE:mobile</a>, do <a href="http://startupdev.com.br" title="Site do StartupDEV">StartupDEV</a>, mentor e sócio da <a href="http://chiligumvideos.com" title="Site da Chiligum Videos">Chiligum Videos</a>. Mentor do <a href="http://www.startupfarm.com.br" title="Site do Startupfarm">Startupfarm</a>, <a href="http://startupweekend.org" title="Site do Startup Weekend">Startup Weekend</a>, <a href="http://www.papayaventures.com" title="Site da Papaya Ventures">Papaya Ventures</a> e <a href="http://www.germinadora.com" title="Site da Germinadora">Germinadora</a>.</p>
+    <p class="locale pt">Empreendedor digital e desenvolvedor web. Fundador da <a href="http://bielsystems.com.br" title="Site da BielSystems">BielSystems</a>, co-fundador da <a href="http://helabs.com.br" title="Site da HE:labs">HE:labs</a>, <a href="http://hemobile.com.br" title="Site da HE:mobile">HE:mobile</a>, <a href="http://startupdev.com.br" title="Site do Startupdev">Startupdev</a>, <a href="http://chiligumvideos.com/pt-br/" title="Site da Chiligum Videos">Chiligum Videos</a> e <a href="http://www.codev.com" title="Site do Codev">Codev</a>. Mentor do <a href="http://www.startupfarm.com.br" title="Site do Startupfarm">Startupfarm</a>, <a href="http://startupweekend.org" title="Site do Startup Weekend">Startup Weekend</a>, <a href="http://www.papayaventures.com" title="Site da Papaya Ventures">Papaya Ventures</a> e <a href="http://www.germinadora.com" title="Site da Germinadora">Germinadora</a>.</p>
+    <p class="locale en" style="display: none">Brazilian digital entrepreneur and web developer. Founder of <a href="http://bielsystems.com" title="BielSystems' Website">BielSystems</a>, co-founder of <a href="http://helabs.com" title="HE:labs' Website">HE:labs</a>, <a href="http://hemobile.com.br" title="HE:mobile's Website">HE:mobile</a>, <a href="http://startupdev48h.com" title="Startupdev's Website">Startupdev</a>, <a href="http://chiligumvideos.com" title="Chiligum Videos' Website">Chiligum Videos</a> and <a href="http://www.codev.com.br" title="Codev's Website">Codev</a>. Mentor of brazilian programs like <a href="http://www.startupfarm.com.br" title="Startupfarm's Website">Startupfarm</a>, <a href="http://startupweekend.org" title="Startup Weekend's Website">Startup Weekend</a>, <a href="http://www.papayaventures.com" title="Papaya Ventures' Website">Papaya</a> and <a href="http://www.germinadora.com" title="Germinadora's Website">Germinadora</a>.</p>
   </article>
   <footer id="footer">
     <a href="/blog" title="Blog do Rafael Lima"><img src="images/blog.png" alt="Blog do Rafael Lima" title="Blog do Rafael Lima" /></a>
@@ -21,3 +26,14 @@ title: Rafael Lima - Empreendedor de negócios digitais.
     <a href="http://scr.im/rafaelp" title="Email do Rafael Lima"><img src="images/email.png" alt="Email do Rafael Lima" title="Email do Rafael Lima" /></a>
   </footer>
 </section>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(function() {
+  $('.locale.toggle').click(function() {
+    $('.locale.pt').toggle();
+    $('.locale.en').toggle();
+  });
+  var userLocale = navigator.language || navigator.userLanguage;
+  if (userLocale.toLowerCase().indexOf("en") != -1) { $('.locale.en.toggle').click(); }
+});
+</script>

@@ -3,6 +3,12 @@
   <head>
     {% include head.html %}
     {% include blog_head.html %}
+    <meta name="description" content="{{ page.excerpt | markdownify | strip_html | truncate: 150 }}" />
+    <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | truncate: 150 }}">
+    <meta property="og:type" content="article">
+    <meta property="article:publisher" content="{{site.url}}">
+    <meta property="article:author" content="{{site.url}}/sobre">
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
   </head>
   <body class="post-template">
     <main class="content" role="main">

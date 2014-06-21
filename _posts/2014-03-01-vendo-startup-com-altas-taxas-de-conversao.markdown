@@ -16,6 +16,8 @@ tags:
 - renda passiva
 - webapp
 ---
+**UPDATE: O sistema já foi vendido e completamente transferido em 8 de abril de 2014.**
+
 
 No decorrer da minha história, eu já criei vários produtos web, dentre eles o [Webfax](http://www.webfax.me), produto que estou vendendo agora.
 

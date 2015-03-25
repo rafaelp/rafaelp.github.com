@@ -21,7 +21,7 @@ Quando estamos iniciando um novo negócio de Software as a Service na internet, 
 
 
 
-Isso não muito novidade para mim, pela experiência com o [Cobre Grátis](http://cobregratis.com.br), mas antigamente eu falava que não gostaria de fazer muito contato com os usuários, justamente por que queria aprender a montar um sistema self-service que pudesse funcionar em massa. Não acho que esse pensamento está completamente errado, mas ao realizar algumas ações diferente do Boleto Simples, tive resultados melhores.
+Isso não é muito novidade para mim, pela experiência com o [Cobre Grátis](http://cobregratis.com.br), mas antigamente eu falava que não gostaria de fazer muito contato com os usuários, justamente por que queria aprender a montar um sistema self-service que pudesse funcionar em massa. Não acho que esse pensamento está completamente errado, mas ao realizar algumas ações diferente do Boleto Simples, tive resultados melhores.
 
 
 
@@ -33,7 +33,7 @@ Na minha concepção hoje, não se roda um SaaS sem um chat para contato imediat
 
 
 
-Os usuários no Brasil são muito preguiçosos e não lêem o que está escrito no site. Buscam direto um contato humano. Fiz alguns testes colocando o número de telefone na landing page e o número de ligações para perguntar exatamente o que estava escrito em letras garrafais na própria landing page foi grande.
+Os usuários no Brasil são muito preguiçosos e não leem o que está escrito no site. Buscam direto um contato humano. Fiz alguns testes colocando o número de telefone na landing page e o número de ligações para perguntar exatamente o que estava escrito em letras garrafais na própria landing page foi grande.
 
 
 
@@ -61,7 +61,7 @@ Humanizar a relação da prestação de um serviço cuja interface é um softwar
 
 
 
-Esse foi o primeiro aprendizado que eu escolhi compartilhar. Em seguida vou publicar os próximos posts. Para ser notificado quando os próximos posts forem publicados, [assine o RSS](https://feeds.feedburner.com/rafael_lima), ou [me acompanhe no Twitter](https://twitter.com/rafaelp).
+Esse foi o primeiro aprendizado que eu escolhi compartilhar. Em breve vou publicar os próximos posts. Para ser notificado quando os próximos posts forem publicados, [assine o RSS](https://feeds.feedburner.com/rafael_lima), ou [me acompanhe no Twitter](https://twitter.com/rafaelp).
 
 
 

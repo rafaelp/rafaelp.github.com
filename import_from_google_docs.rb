@@ -4,7 +4,11 @@ require 'rubygems'
 require 'awesome_print'
 require 'yaml'
 require 'google_drive'
+require 'uri'
+require 'cgi'
+require 'pry'
 require './downmark_it'
+require './extend_string'
 
 def extract_tags(content)
   tags = []
@@ -14,7 +18,23 @@ def extract_tags(content)
   [content, tags]
 end
 
-title = "Lições aprendidas após um ano de Boleto Simples 1/5"
+def decode_urls(content)
+  changes = []
+  content.scan(/\((https?[^\s]*)\)/) do |a,b|
+    uri = URI(CGI::unescape(a))
+    if uri.query
+      query = CGI.parse(uri.query)
+      final_url = query['q'].first
+      changes << [a, final_url]
+    end
+  end
+  changes.each do |pair|
+    content = content.gsub(pair[0], pair[1])
+  end
+  content
+end
+
+title = "Lições aprendidas após um ano de Boleto Simples 2/5"
 
 session = GoogleDrive.login("rafael.lima.paula@gmail.com", ENV['RAFAELP_BLOG_GOOGLE_DRIVE_PASSWORD'])
 file = session.file_by_title(title)
@@ -22,16 +42,18 @@ html = file.download_to_string(:content_type => "text/html")
 doc = Hpricot(html)
 
 content       = doc.search("//body").html
-slug          = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+slug          = title.urlize({:downcase => true, :convert_spaces => true})
 date          = Date.today
 content       = DownmarkIt.to_markdown(content)
 content, tags = extract_tags(content)
+content       = decode_urls(content)
 name       = "%02d-%02d-%02d-%s.markdown" % [date.year, date.month, date.day, slug]
 data = {
   'layout'        => 'post',
   'status'        => 'publish',
   'published'     => true,
   'title'         => title,
+  'slug'          => slug,
   'author'        => 'Rafael Lima',
   'author_login'  => 'admin',
   'author_email'  => 'contato@rafael.adm.br',

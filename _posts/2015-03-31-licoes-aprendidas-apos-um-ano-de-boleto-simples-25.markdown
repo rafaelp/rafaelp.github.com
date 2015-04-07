@@ -10,7 +10,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 categories:
 - Posts
-tags: []
+tags:
+- boletosimples
+- saas
+- produto
+- software
 ---
 
 O [Boleto Simples](https://boletosimples.com.br) é um sistema de cobrança que permite qualquer pessoa receber dinheiro usando boleto bancário sem precisar ter a carteira de cobrança no banco. Depois de um ano do produto lançado no mercado, compartilho nessa série de 5 posts os maiores aprendizados que eu tive.

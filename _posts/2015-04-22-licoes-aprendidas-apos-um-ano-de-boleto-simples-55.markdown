@@ -42,11 +42,11 @@ Essa questão de fraude é uma corrida de gato e rato em que nós nos protegemos
 
 
 
-Quando trabalhamos com negócios financeiros, a fraude é uma certeza e tem que entrar nos custos inerentes da operação. O desafio é conseguir ganhar dinheiro o suficiente e se proteger o bastante a ponto de que o volume de fraude seja irrelevante.
+Quando trabalhamos com negócios financeiros, a fraude é uma certeza e tem que entrar nos custos inerentes à operação. O desafio é conseguir ganhar dinheiro o suficiente e se proteger o bastante a ponto de que o volume de fraude seja irrelevante.
 
 
 
-Embora eu considerasse isso, eu não sabia que o volume de tentativas de fraude seria grande o suficiente a ponto de afetar meu modelo de negócios. Esse foi uma grande aprendizado pra mim.
+Embora eu considerasse isso, eu não sabia que o volume de tentativas de fraude seria grande o suficiente a ponto de afetar meu modelo de negócios. Esse foi um grande aprendizado pra mim.
 
 
 
@@ -54,7 +54,7 @@ A partir de então, a primeira coisa que tento analisar com muita cautela são o
 
 
 
-Esse foi o quinte e último aprendizado que eu escolhi compartilhar. Os outros foram:
+Esse foi o quinto e último aprendizado que eu escolhi compartilhar. Os outros foram:
 
 [Atendimento é tudo](http://rafael.adm.br/p/lies-aprendidas-aps-um-ano-de-boleto-simples-15/), [Priorize o tracking das métricas](http://rafael.adm.br/p/licoes-aprendidas-apos-um-ano-de-boleto-simples-25/), [Investir na API é fundamental](http://rafael.adm.br/p/licoes-aprendidas-apos-um-ano-de-boleto-simples-35/) e [Monte uma estratégia de parcerias](http://rafael.adm.br/p/licoes-aprendidas-apos-um-ano-de-boleto-simples-45/).
 

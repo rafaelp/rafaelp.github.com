@@ -10,6 +10,20 @@ require 'pry'
 require './downmark_it'
 require './extend_string'
 
+def extract_images(content, slug)
+  images = content.scan(/\!\[\]\((.*) \"\"\)+/)
+  images.flatten!
+  images.each_with_index do |image, i|
+    dirname = "blog/images/posts/%02d-%02d-%02d" % [Date.today.year, Date.today.month, Date.today.day]
+    FileUtils.mkdir_p(dirname)
+    filename = "#{dirname}/#{slug}-#{i}.png"
+    system("wget #{image} -q -O #{filename}")
+    puts "Created image #{filename}"
+    content.gsub!("![](#{image} \"\")","![](/#{filename})")
+  end
+  [content, images]
+end
+
 def extract_tags(content)
   tags = []
   tags = content.scan(/\#[\w-]+/)
@@ -41,13 +55,14 @@ file = session.file_by_title(title)
 html = file.download_to_string(:content_type => "text/html")
 doc = Hpricot(html)
 
-content       = doc.search("//body").html
-slug          = title.urlize({:downcase => true, :convert_spaces => true})
-date          = Date.today
-content       = DownmarkIt.to_markdown(content)
-content, tags = extract_tags(content)
-content       = decode_urls(content)
-name       = "%02d-%02d-%02d-%s.markdown" % [date.year, date.month, date.day, slug]
+html            = doc.search("//body").html
+slug            = title.urlize({:downcase => true, :convert_spaces => true})
+date            = Date.today
+content         = DownmarkIt.to_markdown(html)
+content, tags   = extract_tags(content)
+content, images = extract_images(content, slug)
+content         = decode_urls(content)
+name            = "%02d-%02d-%02d-%s.markdown" % [date.year, date.month, date.day, slug]
 data = {
   'layout'        => 'post',
   'status'        => 'publish',

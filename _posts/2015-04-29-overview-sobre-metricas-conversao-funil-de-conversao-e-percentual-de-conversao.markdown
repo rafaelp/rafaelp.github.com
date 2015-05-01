@@ -47,7 +47,7 @@ O primeiro passo é medir o número de pessoas que passa por cada etapa do funil
 
 
 
-No exemplo acima, tivemos 200 visitantes, dentre os quais apenas 100 executaram a ação 1, representando um percentual de conversão entre visitantes e ação 1 de 50%. Dos 100 que executaram a ação 1, apenas 10 executaram a ação 2, configurando um percentual de conversão entre ação 1 e ação 2 de 10%. Por fim, apenas 2 pessoas executaram a ação de conversão. O percentual de conversão entre ação 2 e a ação final foi de 2%. O percentual de conversão do funil, ou seja, percentual calculado entre a primeira etapa e a última foi de 1% porque duas das duzentas pessoas foram convertidas.
+No exemplo acima, tivemos 200 visitantes, dentre os quais apenas 100 executaram a ação 1, representando um percentual de conversão entre visitantes e ação 1 de 50%. Dos 100 que executaram a ação 1, apenas 10 executaram a ação 2, configurando um percentual de conversão entre ação 1 e ação 2 de 10%. Por fim, apenas 2 pessoas executaram a ação de conversão. O percentual de conversão entre ação 2 e a ação final foi de 20%. O percentual de conversão do funil, ou seja, percentual calculado entre a primeira etapa e a última foi de 1% porque duas das duzentas pessoas foram convertidas.
 
 
 

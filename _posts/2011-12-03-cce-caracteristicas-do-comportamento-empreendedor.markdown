@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 status: publish
 published: true
@@ -10,11 +10,11 @@ author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 681
 wordpress_url: http://rafael.adm.br/?p=681
 date: 2011-12-03 21:55:38 -02:00
-categories: 
+categories:
 - Posts
-tags: 
+tags:
 - empreendedorismo
-- epretec
+- empretec
 - sebrae
 ---
 As CCEs, como s&atilde;o chamadas, s&atilde;o as caracter&iacute;sticas de comportamento encontradas nos empreendedores de sucesso. Esse material &eacute; do Sebrae e &eacute; utilizado no <a href="http://rafael.adm.br/p/empretec-eu-fiz/">Empretec</a>. O Empretec &eacute; um semin&aacute;rio de imers&atilde;o para forma&ccedil;&atilde;o de empreendedores, que foca basicamente em seu comportamento e rea&ccedil;&atilde;o diantes de desafios. Listei aqui as CCEs:

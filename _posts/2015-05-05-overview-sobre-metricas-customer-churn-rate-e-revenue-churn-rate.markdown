@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Overview sobre Métricas: Customer Churn Rate e Revenue Churn Rate'
+title: 'Overview sobre métricas: Customer Churn Rate e Revenue Churn Rate'
 slug: overview-sobre-metricas-customer-churn-rate-e-revenue-churn-rate
 author: Rafael Lima
 author_login: admin

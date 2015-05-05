@@ -35,13 +35,13 @@ Chamamos esse caminho entre a visita e a ação final de Funil de Conversão.
 
 Funil é por que o número de visitantes que realiza cada uma das ações vai decrescendo naturalmente. Nem todos irão realizar a conversão. Alguns não irão fazer nada e vão sair do site. Outros irão realizar uma ação intermediária mas não vão realizar a ação final, e somente uma minoria irá realizar as ações intermediárias e a ação final.
 
-![](/blog/images/posts/2015-04-29/overview-sobre-metricas-conversao-funil-de-conversao-e-percentual-de-conversao-0.png)
+![](http://rafael.adm.br/blog/images/posts/2015-04-29/overview-sobre-metricas-conversao-funil-de-conversao-e-percentual-de-conversao-0.png)
 
 O primeiro passo é medir o número de pessoas que passa por cada etapa do funil. Depois o importante é medir quantos por cento das pessoas que estiveram em uma etapa, executaram a ação e passaram pra próxima etapa do funil. Esse número é chamado de Percentual de Conversão.
 
 
 
-![](/blog/images/posts/2015-04-29/overview-sobre-metricas-conversao-funil-de-conversao-e-percentual-de-conversao-1.png)
+![](http://rafael.adm.br/blog/images/posts/2015-04-29/overview-sobre-metricas-conversao-funil-de-conversao-e-percentual-de-conversao-1.png)
 
 
 

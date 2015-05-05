@@ -10,7 +10,11 @@ author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 categories:
 - Posts
-tags: []
+tags:
+- analytics
+- métricas
+- saas
+- lean
 ---
 
 Recentemente algumas pessoas me perguntaram que métricas deviam usar em seus negócios e isso me motivou a escrever este post.

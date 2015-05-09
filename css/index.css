@@ -82,7 +82,13 @@ header h1 span {
 #container p {
   float: right;
   width: 680px;
-  font-size: 2.5rem;
+  font-size: 2.2rem;
+  line-height: 1.7;
+}
+
+#container p.last-post {
+  margin-top: 1em;
+  font-size: 1.7rem;
   line-height: 1.7;
 }
 

@@ -20,7 +20,7 @@ Enquanto eu estava sentado na frente do computador pronto para escrever o próxi
 
 
 
-![](/blog/images/posts/2015-05-12/ricardo-semler-o-visionario-brasileiro-mais-conhecido-no-exterior-0.png)
+[![](/blog/images/posts/2015-05-12/ricardo-semler-o-visionario-brasileiro-mais-conhecido-no-exterior-0.png)](https://twitter.com/yurigitahy/status/595530569942970368)
 
 
 

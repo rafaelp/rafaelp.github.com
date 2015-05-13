@@ -32,7 +32,7 @@ O Ricardo Semler é para mim o maior visionário brasileiro vivo.
 
 
 
-É muito curioso, por que poucos brasileiros o conhecem e ele é um dos empresários brasileiros mais conhecido no mundo. Acho curioso, mas entendo, dado que o público brasileiro é pouco culto em geral.
+É muito curioso, porque poucos brasileiros o conhecem e ele é um dos empresários brasileiros mais conhecido no mundo. Acho curioso, mas entendo, dado que o público brasileiro é pouco culto em geral.
 
 
 

@@ -48,7 +48,7 @@ def decode_urls(content)
   content
 end
 
-title = "Overview sobre Métricas: Customer Churn Rate e Revenue Churn Rate"
+title = "Ricardo Semler, o visionário brasileiro mais conhecido no exterior"
 
 session = GoogleDrive.login("rafael.lima.paula@gmail.com", ENV['RAFAELP_BLOG_GOOGLE_DRIVE_PASSWORD'])
 file = session.file_by_title(title)

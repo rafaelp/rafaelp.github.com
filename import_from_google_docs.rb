@@ -48,7 +48,7 @@ def decode_urls(content)
   content
 end
 
-title = "Ricardo Semler, o visionário brasileiro mais conhecido no exterior"
+title = "Bancos são basicamente software"
 
 session = GoogleDrive.login("rafael.lima.paula@gmail.com", ENV['RAFAELP_BLOG_GOOGLE_DRIVE_PASSWORD'])
 file = session.file_by_title(title)

@@ -68,7 +68,7 @@ Eu digo que essas novas empresas têm a tendência de serem melhores, basicament
 
 
 
-Primeiro, por que quando você tem uma empresa que é focada em uma única solução fica mais fácil que ela provenha um serviço melhor do que outra que possui centenas de soluções.
+Primeiro, por que quando você tem uma empresa que é focada em uma única solução fica mais fácil que ela proveja um serviço melhor do que outra que possui centenas de soluções.
 
 
 
@@ -76,7 +76,7 @@ Segundo, e mais importante, é que essas novas empresas privadas estão sendo cr
 
 
 
-Assim como estamos vivenciando a digitalização de diversos setores, como por exemplo o de telecomunicações, que vem migrando de de linhas analógicas para chamadas pela internet, e o das comunicações, que saiu de jornais para portais online, o setor financeiro passará pelo mesmo processo.
+Assim como estamos vivenciando a digitalização de diversos setores, como por exemplo o de telecomunicações, que vem migrando de linhas analógicas para chamadas pela internet, e o das comunicações, que saiu de jornais para portais online, o setor financeiro passará pelo mesmo processo.
 
 
 

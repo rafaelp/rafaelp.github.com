@@ -49,7 +49,7 @@ def decode_urls(content)
   content
 end
 
-title = "Bancos são basicamente software"
+title = "Que tal emprestar dinheiro a um estranho?"
 
 if ENV['RAFAELP_BLOG_ACCESS_TOKEN'].nil? or ENV['RAFAELP_BLOG_ACCESS_TOKEN'].empty?
   # Authorizes with OAuth and gets an access token.

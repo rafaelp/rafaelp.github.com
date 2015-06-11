@@ -37,6 +37,11 @@
             {% endfor %}
           </section>
         {% endif %}
+        {% if page.previous != nil %}
+          <section class="post-tags">
+            <p>← <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">{{ page.previous.title }}</a>
+          </section>
+        {% endif %}
         <footer class="post-footer">
           <section class="author">
             <h4>Rafael Lima</h4>

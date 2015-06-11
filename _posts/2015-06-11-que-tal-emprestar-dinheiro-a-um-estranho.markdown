@@ -59,7 +59,7 @@ Recentemente tomei conhecimento de outra iniciativa aqui no Brasil, chamada [Nex
 
 
 
-Enquanto isso, lá nos Estados Unidos, o [Zopa](https://www.zopa.com/), [Prosper](https://www.prosper.com/), [Lending Club](https://www.lendingclub.com/), e todos os outros estão movimentando mais de 5 bilhões de dólares e tem previsão de aumentar para mais de 150 bilhões de dólares em 2025 [de acordo com a ](http://www.businessinsider.com/afp-peer-to-peer-lending-surges-in-us-challenging-traditional-banks-2015-4).
+Enquanto isso, lá nos Estados Unidos, o [Zopa](https://www.zopa.com/), [Prosper](https://www.prosper.com/), [Lending Club](https://www.lendingclub.com/), e todos os outros estão movimentando mais de 5 bilhões de dólares e tem previsão de aumentar para mais de 150 bilhões de dólares em 2025 [de acordo com a PriceWaterhouseCoopers](http://www.businessinsider.com/afp-peer-to-peer-lending-surges-in-us-challenging-traditional-banks-2015-4).
 
 
 

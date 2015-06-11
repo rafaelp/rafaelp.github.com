@@ -3,6 +3,7 @@
 require 'rubygems'
 require 'awesome_print'
 require 'yaml'
+require 'google/api_client'
 require 'google_drive'
 require 'uri'
 require 'cgi'
@@ -50,9 +51,29 @@ end
 
 title = "Bancos são basicamente software"
 
-session = GoogleDrive.login("rafael.lima.paula@gmail.com", ENV['RAFAELP_BLOG_GOOGLE_DRIVE_PASSWORD'])
+if ENV['RAFAELP_BLOG_ACCESS_TOKEN'].nil? or ENV['RAFAELP_BLOG_ACCESS_TOKEN'].empty?
+  # Authorizes with OAuth and gets an access token.
+  client = Google::APIClient.new
+  auth = client.authorization
+  auth.client_id = ENV['RAFAELP_BLOG_CLIENT_ID']
+  auth.client_secret = ENV['RAFAELP_BLOG_CLIENT_SECRET']
+  auth.scope = [
+    "https://www.googleapis.com/auth/drive"
+  ]
+  auth.redirect_uri = "urn:ietf:wg:oauth:2.0:oob"
+  print("1. Open this page:\n%s\n\n" % auth.authorization_uri)
+  print("2. Enter the authorization code shown in the page: ")
+  auth.code = $stdin.gets.chomp
+  auth.fetch_access_token!
+  access_token = auth.access_token
+
+  print("Access Token: #{access_token}")
+  ENV['RAFAELP_BLOG_ACCESS_TOKEN'] = access_token
+end
+
+session = GoogleDrive.login_with_oauth(ENV['RAFAELP_BLOG_ACCESS_TOKEN'])
 file = session.file_by_title(title)
-html = file.download_to_string(:content_type => "text/html")
+html = file.export_as_string("text/html")
 doc = Hpricot(html)
 
 html            = doc.search("//body").html

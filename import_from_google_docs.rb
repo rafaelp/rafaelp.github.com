@@ -44,12 +44,12 @@ def decode_urls(content)
     end
   end
   changes.each do |pair|
-    content = content.gsub(pair[0], pair[1])
+    content = content.gsub(pair[0], pair[1]) unless pair[1].nil?
   end
   content
 end
 
-title = "Que tal emprestar dinheiro a um estranho?"
+title = "Um novo dispositivo está por vir, sua carteira virtual física"
 
 if ENV['RAFAELP_BLOG_ACCESS_TOKEN'].nil? or ENV['RAFAELP_BLOG_ACCESS_TOKEN'].empty?
   # Authorizes with OAuth and gets an access token.
@@ -67,7 +67,7 @@ if ENV['RAFAELP_BLOG_ACCESS_TOKEN'].nil? or ENV['RAFAELP_BLOG_ACCESS_TOKEN'].emp
   auth.fetch_access_token!
   access_token = auth.access_token
 
-  print("Access Token: #{access_token}")
+  print("Access Token: #{access_token}\n\n")
   ENV['RAFAELP_BLOG_ACCESS_TOKEN'] = access_token
 end
 

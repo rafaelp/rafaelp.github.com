@@ -5,3 +5,4 @@ paginate: 5
 paginate_path: "blog/page/:num"
 markdown: rdiscount
 url: http://rafael.adm.br
+excerpt_separator: <!--more-->

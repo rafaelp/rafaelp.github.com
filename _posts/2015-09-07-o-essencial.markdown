@@ -17,6 +17,7 @@ tags:
 ---
 
 Quando somos novos, buscamos sempre mais. Fazer mais, ter mais, ser mais produtivo, ser reconhecido como o melhor. Essa forma de pensar é muito limitadora.
+<!--more-->
 
 
 

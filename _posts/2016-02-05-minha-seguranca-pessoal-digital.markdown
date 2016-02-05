@@ -152,6 +152,7 @@ Percebi que esse era um ponto de falha, pois eu usava a mesma senha para todos o
 
 
 
+
 Quase todas minhas contas de email são do Google (Gmail ou Google Apps) então praticamente todas tem suporte ao two-phase authentication que eu deixo habilitado.
 
 

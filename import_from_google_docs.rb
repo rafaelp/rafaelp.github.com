@@ -49,7 +49,7 @@ def decode_urls(content)
   content
 end
 
-title = "O Essencial"
+title = "Minha Segurança Pessoal Digital"
 
 if ENV['RAFAELP_BLOG_ACCESS_TOKEN'].nil? or ENV['RAFAELP_BLOG_ACCESS_TOKEN'].empty?
   # Authorizes with OAuth and gets an access token.

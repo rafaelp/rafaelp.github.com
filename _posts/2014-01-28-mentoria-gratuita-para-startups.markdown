@@ -16,7 +16,7 @@ tags:
 - bootstrapping
 ---
 
-Por acaso encontrei um site muito bacana no qual você pode abrir um espaço na sua agenda para que pessoas agendem uma conversa com você. Chama-se [Ohours](http://ohours.org/ "").
+Por acaso encontrei um site muito bacana no qual você pode abrir um espaço na sua agenda para que pessoas agendem uma conversa com você. Chama-se [Ohours](http://ohours.org/).
 
 Resolvi testar ![:)](http://s0.wp.com/wp-includes/images/smilies/icon_smile.gif) 
 
@@ -26,7 +26,7 @@ O objetivo da conversa é ajudar os empreendedores em qualquer que seja o desafi
 
 **A primeira data que estou abrindo é segunda-feira que vem, dia 03 de fevereiro às 14h (horário de Brasília).**
 
-Só existem 2 slots de 30 minutos disponíveis, o primeiro que agendar, fecha. Minha agenda ficará disponível em: [http://ohours.org/rafaelp](http://ohours.org/rafaelp "")
+Só existem 2 slots de 30 minutos disponíveis, o primeiro que agendar, fecha. Minha agenda ficará disponível em: [http://ohours.org/rafaelp](http://ohours.org/rafaelp)
 
 Dicas para quem for agendar:
 > 

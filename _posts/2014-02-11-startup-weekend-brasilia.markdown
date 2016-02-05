@@ -16,7 +16,7 @@ tags:
 - startups
 ---
 
-De 21 a 23 de fevereiro, terceira edição do [Startup Weekend Brasília](http://brasilia.startupweekend.org/ "") promove um fim de semana de ideias inovadoras com chances de se tornarem bons negócios.
+De 21 a 23 de fevereiro, terceira edição do [Startup Weekend Brasília](http://brasilia.startupweekend.org/) promove um fim de semana de ideias inovadoras com chances de se tornarem bons negócios.
 
 Eu estarei lá realizando a abertura do evento e participando como mentor durante todo o final de semana.
 
@@ -26,7 +26,7 @@ Se você é de Brasília e deseja ser um profissional melhor, participe! Posso d
 
 Se você não for de Brasília, confira o preços das passagens, que está baratinho e vale muito a pena participar!
 
-Utilize o [cupom de desconto](http://www.eventick.com.br/swbsb-fev14?code=COMU_SWBSB "") e ganhe R$ 20 na inscrição.
+Utilize o [cupom de desconto](http://www.eventick.com.br/swbsb-fev14?code=COMU_SWBSB) e ganhe R$ 20 na inscrição.
 
 Abraços e até lá!
 

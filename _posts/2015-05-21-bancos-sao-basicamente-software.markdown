@@ -90,7 +90,7 @@ Esse papo é longo e será objeto de futuros posts, essa frase acima tem muito s
 
 Essas crenças que descrevo aqui vêm aos poucos se tornando realidade. Recentemente eu vi essa imagem que comprova o que estou falando:
 
-![](https://lh4.googleusercontent.com/XmHWcBfRXSwm_-_UV3KM9ofIqpmvkOGpIl2T1vZJHl-U1vn648ydoCu1tUw5Iw7_eBvTqaUT9KmIXtUGMevrA4qhiNVRo5BuF7YMBPjIJGpvY0EMavuugj8UfqdWkhuDzd6bsc0 "")
+![](https://lh4.googleusercontent.com/XmHWcBfRXSwm_-_UV3KM9ofIqpmvkOGpIl2T1vZJHl-U1vn648ydoCu1tUw5Iw7_eBvTqaUT9KmIXtUGMevrA4qhiNVRo5BuF7YMBPjIJGpvY0EMavuugj8UfqdWkhuDzd6bsc0)
 
 
 

@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-Constantemente eu venho trabalhando para manter minha segurança pessoal digital. Sempre busque ativamente melhorar o nível de segurança das minhas informações, dispositivos e computador. Vou descrever o que eu uso de software e práticas com esse objetivo.
+Constantemente eu venho trabalhando para manter minha segurança pessoal digital. Sempre busquei ativamente melhorar o nível de segurança das minhas informações, dispositivos e computador. Vou descrever o que eu uso de software e práticas com esse objetivo.
 
 
 
@@ -34,7 +34,7 @@ Para ativar o FileVault vá em System Preferences > Security & Privacy > FileVau
 Os HDs externos de backup também são criptografados, tenho dois HDs externos e ambos usam a criptografia padrão disponível no Disk Utility.
 ### Screen saver com senha
 
-Eu deixo configurado para solicitar a senha imediatamente após o descanso de tela ser ativado e além disso o descanso de tela configurado para ativar automaticamente após 2 minutos. Isso significa que se eu esquecer o computador sozinho e aberto em no máximo 2 minutos ele estará seguro.
+Eu deixo configurado para solicitar a senha imediatamente após o descanso de tela ser ativado e além disso o descanso de tela configurado para ativar automaticamente após 2 minutos. Isso significa que se eu esquecer o computador sozinho e aberto, em no máximo 2 minutos ele estará seguro.
 
 
 
@@ -44,7 +44,7 @@ Essa configuração fica em System Preferences > Security & Privacy > General
 
 
 
-Além disso eu configuro um HotCorner para ativar o screensaver. Criei o hábito de sempre que levantar da mesa de trabalho e for deixar o computador sozinho, levar o mouse pro canto inferior direito pra ativar logo o screensaver, e proteger com senha.
+Além disso eu configuro um HotCorner para ativar o screen saver. Criei o hábito de, sempre que for deixar o computador sozinho, levar o mouse pro canto inferior direito da tela para ativar logo o screen saver e bloquear o computador.
 
 
 
@@ -54,10 +54,10 @@ Essa configuração fica em System Preferences > Mission Control > HotCorners...
 
 
 
-Sendo assim eu ativo o screensaver na hora, senão ele ativa sozinho em 2 minutos. Mas tenho outro "backup" no que diz respeito ao travamento do computador.
+Sendo assim eu ativo o screen saver na hora, senão ele ativa sozinho em 2 minutos. Mas tenho outro "backup" no que diz respeito ao travamento do computador.
 ### Travamento da tela por distanciamento
 
-Esse eu comecei a usar agora e não sei quão efetivo vai realmente ser. Trata-se de um aplicativo chamado [Near Lock](http://nearlock.me/). Você conecta o seu iPhone com o seu Mac e todas as vezes que você se distanciar do computador com o iPhone ele bloqueia sozinho. Na prática ele vai funcionar quando eu esquecer de chamar o screensaver diminuindo o tempo de 2 minutos para quase que imediato.
+Esse eu comecei a usar agora e não sei quão efetivo vai realmente ser. Trata-se de um aplicativo chamado [Near Lock](http://nearlock.me/). Você conecta o seu iPhone com o seu Mac e todas as vezes que você se distanciar do computador com o iPhone ele bloqueia sozinho. Na prática ele vai funcionar quando eu esquecer de chamar o screen saver diminuindo o tempo descoberto de 2 minutos para quase que imediato.
 
 
 
@@ -66,7 +66,7 @@ Esse eu comecei a usar agora e não sei quão efetivo vai realmente ser. Trata-s
 
 ### Localizador e controlador &agrave; dist&acirc;ncia
 
-Eu uso um software chamado [Prey](https://preyproject.com/) que está sempre rodando e monitorando a localização do meu Macbook. Caso ele seja perdido ou roubado eu consigo localizá-lo remotamente. Ele é gratuito para até 3 dispositivos. Através do Prey eu consigo bloquear o computador, tocar um alarme para encontrá-lo ou enviar uma mensagem para a pessoa que achou ou roubou. Essa é uma medida preventiva.
+Eu uso um software chamado [Prey](https://preyproject.com/) que está sempre rodando e monitorando a localização do meu Macbook. Caso ele seja perdido ou roubado eu consigo localizá-lo remotamente. O software é gratuito para até 3 dispositivos. Através do Prey eu consigo bloquear o computador, tocar um alarme para encontrá-lo ou enviar uma mensagem para a pessoa que achou ou roubou. Usá-lo é uma medida preventiva.
 
 ![](/blog/images/posts/2016-02-05/minha-seguranca-pessoal-digital-4.png)
 ## Seguran&ccedil;a do iPhone
@@ -76,7 +76,7 @@ O Passcode está ativado e ele é solicitado toda vez que aperto o botão home p
 
 
 
-Eu também não divulgo meu passcode pra ninguém, absolutamente ninguém. No momento que você divulga, você delega a outra pessoa a sua segurança e isso é um problema em diversos casos. Primeiro que nem todo mundo se liga na criticidade de segurança e pode sem querer falar em voz alta o seu Passcode. Outra situação mais extrema é no caso de um sequestro a outra pessoa ser forçada a fornecer o seu Passcode. A melhor situação aqui é que ninguém mais saiba além de você.
+Eu também não divulgo meu passcode pra ninguém, absolutamente ninguém. No momento que você divulga, você delega a outra pessoa a sua segurança e isso é um problema em diversos casos. Primeiro que nem todo mundo se liga na criticidade de segurança e pode falar em voz alta o seu Passcode sem querer. Outra situação mais extrema é no caso de um sequestro a outra pessoa ser forçada a fornecer o seu Passcode. A melhor situação aqui é que ninguém mais saiba além de você.
 
 
 
@@ -93,7 +93,7 @@ Para fazer essa configuração vá em Settings > Touch ID & Passcode
 
 ### Tempo do Auto-Lock
 
-O meu celular bloqueia a cada 2 minutos. A mesma regra do screensaver no Macbook. Esse é o tempo máximo que alguém tem para tentar chegar no dispositivo se eu deixá-lo largado em uma mesa.
+O meu celular bloqueia a cada 2 minutos. A mesma regra do screensaver no Macbook. Esse é o tempo máximo que alguém tem para tentar chegar no dispositivo se eu deixá-lo largado em uma mesa. Quanto menor o tempo, melhor.
 
 
 
@@ -148,7 +148,7 @@ O email deve ser um dos pontos mais seguros da sua estratégia.
 
 
 
-Percebi que esse era um ponto de falha, pois eu usava a mesma senha para todos os emails e era uma senha que eu tinha desde 2006. Como o 1Password funcionou muito bem pra mim, e ele tem plugin para os navegadores que preenche a senha conforme você seleciona no aplicativo, eu defini uma senha segura pra cada conta de email agora. Esse era um grande ponto de falha, por que em geral o esqueci minha senha de todos os srviços confia na leitura do email.
+Percebi que esse era um ponto de falha, pois eu usava a mesma senha para todos os emails e era uma senha que eu tinha desde 2006. Como o 1Password funcionou muito bem pra mim, e ele tem plugin para os navegadores que preenche a senha conforme você seleciona no aplicativo, eu defini uma senha segura pra cada conta de email agora. Esse era um grande ponto de falha, por que em geral o esqueci minha senha de todos os serviços confiam no acesso ao email. Então tendo acesso ao seu email o invasor tem acesso a praticamente todos os outros serviços.
 
 
 

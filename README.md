@@ -4,4 +4,4 @@
 
 Rode com
 
-    $ jekyll serve --watch
+    $ jekyll serve --watch --incremental

@@ -12,7 +12,7 @@ require './downmark_it'
 require './extend_string'
 
 def extract_images(content, slug)
-  images = content.scan(/\!\[\]\((.*) \"\"\)+/)
+  images = content.scan(/\!\[.*\]\((.*)\)+/)
   images.flatten!
   images.each_with_index do |image, i|
     dirname = "blog/images/posts/%02d-%02d-%02d" % [Date.today.year, Date.today.month, Date.today.day]
@@ -20,9 +20,17 @@ def extract_images(content, slug)
     filename = "#{dirname}/#{slug}-#{i}.png"
     system("wget #{image} -q -O #{filename}")
     puts "Created image #{filename}"
-    content.gsub!("![](#{image} \"\")","![](/#{filename})")
+    content.gsub!(/\!\[.*\]\((.*)\)+/,"![](/#{filename})")
   end
   [content, images]
+end
+
+def clear_content(content)
+  content.gsub!("# \<\>", "# ")
+  content.gsub!("\n#", "\n\n#")
+  content.gsub!("\<span\>", "")
+  content.gsub!("\<\/span\>", "")
+  content
 end
 
 def extract_tags(content)
@@ -49,7 +57,7 @@ def decode_urls(content)
   content
 end
 
-title = "Minha Segurança Pessoal Digital"
+title = "O que preciso saber antes de abrir minha empresa de serviço"
 
 if ENV['RAFAELP_BLOG_ACCESS_TOKEN'].nil? or ENV['RAFAELP_BLOG_ACCESS_TOKEN'].empty?
   # Authorizes with OAuth and gets an access token.
@@ -80,6 +88,7 @@ html            = doc.search("//body").html
 slug            = title.urlize({:downcase => true, :convert_spaces => true})
 date            = Date.today
 content         = DownmarkIt.to_markdown(html)
+content         = clear_content(content)
 content, tags   = extract_tags(content)
 content, images = extract_images(content, slug)
 content         = decode_urls(content)

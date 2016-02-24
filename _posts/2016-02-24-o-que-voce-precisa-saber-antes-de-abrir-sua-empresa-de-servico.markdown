@@ -2,8 +2,8 @@
 layout: post
 status: publish
 published: true
-title: O que preciso saber antes de abrir minha empresa de serviço
-slug: o-que-preciso-saber-antes-de-abrir-minha-empresa-de-servico
+title: O que você precisa saber antes de abrir sua empresa de serviço
+slug: o-que-voce-precisa-saber-antes-de-abrir-sua-empresa-de-servico
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br

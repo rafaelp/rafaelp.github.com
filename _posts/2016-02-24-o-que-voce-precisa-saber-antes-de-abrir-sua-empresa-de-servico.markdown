@@ -277,7 +277,7 @@ Ou seja, nesse caso você está recebendo líquido 80,10% do total faturado. Iss
 
 ### Op&ccedil;&atilde;o do Simples Nacional
 
-O Simples facilita muita coisa a vida do empreendedor e, em alguns casos, reduz significativamente a carga tributária. Você quer com todas as forçar estar enquadrado no Simples.
+O Simples facilita muita coisa a vida do empreendedor e, em alguns casos, reduz significativamente a carga tributária. Você quer com todas as forças estar enquadrado no Simples.
 
 
 

@@ -17,7 +17,7 @@ Acabei de sair de uma conversa com um amigo que vai abrir uma empresa para ser p
 
 <!--more-->
 
-*Atualizao* Esse post está em sua segunda versão. Fiz uma série de updates e todos eles estão marcados com um <span style="color: red">*</span>
+**Atualização** Esse post está em sua segunda versão. Fiz uma série de correções e todos eles estão marcados com um <span style="color: red">*</span>
 
 ## Entendendo o cart&atilde;o CNPJ
 

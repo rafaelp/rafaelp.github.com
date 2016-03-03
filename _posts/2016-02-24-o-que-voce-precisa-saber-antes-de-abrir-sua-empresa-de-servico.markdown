@@ -17,6 +17,8 @@ Acabei de sair de uma conversa com um amigo que vai abrir uma empresa para ser p
 
 <!--more-->
 
+*Atualizao* Esse post está em sua segunda versão. Fiz uma série de updates e todos eles estão marcados com um <span style="color: red">*</span>
+
 ## Entendendo o cart&atilde;o CNPJ
 
 
@@ -53,7 +55,7 @@ A natureza jurídica mais comum é a 206-2 - SOCIEDADE EMPRESARIA LIMITADA conh
 
 
 
-Se você for abrir uma empresa para emitir notas fiscais sobre serviços prestados com valor acima de R$ 5.000, o seu caso será certamente esse. Você entenderá a questão do valor mais abaixo. É bem improvável o seu contador deixá-lo errar aqui ;-)
+Se você for abrir uma empresa para emitir notas fiscais sobre serviços prestados com valor acima de R$ 5.000, <span style="color: red">*</span> <span style="text-decoration:line-through;">o seu caso será certamente esse</span> muito provavelment seu caso será esse. Pode ser que você queira se enquadrar no 213-5 Empresário (Individual). Você entenderá a questão do valor mais abaixo. É bem improvável o seu contador deixá-lo errar aqui ;-)
 
 
 
@@ -83,7 +85,7 @@ Existem alguns tricks aqui, por exemplo, o CRA (Conselho Regional de Administra�
 
 ### T&iacute;tulo do Estabelecimento (Nome Fantasia)
 
-É o nome a ser divulgado no mercado. Você pode ter a razão social "BBD Alimentações Ltda." e usar como nome fantasia "Boa Pedida Refeições". Não existe relação entre uma e outra. O nome fantasia é opcional. Eu tenho empresas que tem o nome fantasia definido e outras não, nunca me importei muito com isso.
+É o nome a ser divulgado no mercado. Você pode ter a razão social "BBD Alimentações LTDA." e usar como nome fantasia "Boa Pedida Refeições". Não existe relação entre uma e outra. O nome fantasia é opcional. Eu tenho empresas que tem o nome fantasia definido e outras não, nunca me importei muito com isso.
 
 ### Endere&ccedil;o
 
@@ -191,7 +193,28 @@ As informações relativas ao MEI podem ser encontradas no portal do Empreendedo
 
 
 
+### Enquadramento como EI ou EIRELI
+
+<span style="color: red">*</span> Esse tópico inteiro foi incluído na primeira revisão.
+
+A segunda opção é tentar se enquadra como EI (Empresário Individual) ou EIRELI (Empresário Individual de Responsabilidade Limitada).
+
+Em abos os casos a empresa é de um sócio só e pode faturar até 3,6 milhões anuais.
+
+As diferenças entre o MEI e o EI são basicamente as atividades permitidas, o faturamento anual e as obrigações acessórias.
+
+A diferença entre o EI e o EIRELI é que no primeiro caso a responsabilidade não é limitada, ou seja, os bens pessoais do sócio ficam expostos em caso de dívidas e o EIRELI estabelece que apenas o patrimônio social da empresa esteja comprometido em casos de dívidas do negócio.
+
+Para abrir um EIRELI é necessário integralizar um capital social mínimo de cem vezes o valor do salário mínimo que no momento que escrevo é relativo a R$ 88.000,00 (oitenta e oito mil reais), já a EI não tem essa restrição.
+
+Uma pessoa pode ser sócia ao mesmo tempo de uma EI e uma LTDA, ou uma EIRELI e uma LTDA, ou uma EI e uma EIRELI. Só não pode ser sócia ao mesmo de duas EIs ou duas EIRELIs.
+
+Numa EI a Razão Social é composta pelo nome do dono da empresa, completo ou abreviado, mas nunca com omissão de partes do nome, podendo se acrescentar a descrição do objeto, ou designação da pessoa. No meu caso por exemplo poderia ser: "Rafael de L. Paula Consultoria"
+
 ### Enquadramento como ME ou EPP
+
+<span style="color: red">*</span> Esse tópico misturou um pouco o que seria o enquadramento como LTDA e o porte de ME ou EPP, mas os conceitos escritos ainda são válidos.
+
 
 As Micro Empresas (ME) e Empresas de Pequeno Porte (EPP) são aquelas que possuem um teto de faturamento e facilidade no pagamento de tributos. Em geral as regras são muito similares e o que muda é o limite de faturamento, que ao ser atingido, desenquadra automaticamente a empresa.
 
@@ -221,7 +244,12 @@ Eu nunca tive uma empresa com LTDA - EPP na razão social. Já tive empresa que 
 
 
 
-Uma empresa ME ou EPP precisa necessariamente de no mínimo dois sócios. Se você é sozinho, arrume um filho, irmão e amigo de bastante confiança para colocar com 1% e compor o quadro societário.
+<span style="color: red">*</span> <span style="text-decoration:line-through;">Uma empresa ME ou EPP precisa necessariamente de no mínimo dois sócios. Se você é sozinho, arrume um filho, irmão e amigo de bastante confiança para colocar com 1% e compor o quadro societário.</span>
+
+<span style="color: red">*</span> Uma MEI, EI ou EIRELI não possuem contrato social pois não possuem mais de um sócio. Tanto a LTDA como a EI e EIRELI podem ter porte de ME e EPP.
+
+
+Uma Sociedade Empresária LTDA precisa necessariamente de no mínimo dois sócios. Se você é sozinho, arrume um filho, irmão e amigo de bastante confiança para colocar com 1% e compor o quadro societário.
 
 
 
@@ -247,7 +275,7 @@ Dado que você tem uma empresa ME ou EPP, o seu custo tributário total será de
 
 
 
-Mas não é só isso. Toda empresa ME ou EPP precisa necessariamente ter ao menos um sócio administrador e esse sócio precisa necessariamente ganhar um pró-labore. Uma forma de fazer é definir um pró-labore mínimo para o sócio e transferir o restante do dinheiro como forma de lucros. O pró-labore precisa ser no mínimo R$ 880,00 na data em que escrevo, esse valor muda todo ano.
+Mas não é só isso. <span style="color: red">*</span> <span style="text-decoration:line-through;">Toda empresa ME ou EPP</span> As empresas LTDA precisam necessariamente ter ao menos um sócio administrador e esse sócio precisa necessariamente ganhar um pró-labore. Uma forma de fazer é definir um pró-labore mínimo para o sócio e transferir o restante do dinheiro como forma de lucros. O pró-labore precisa ser no mínimo R$ 880,00 na data em que escrevo, esse valor muda todo ano.
 
 
 

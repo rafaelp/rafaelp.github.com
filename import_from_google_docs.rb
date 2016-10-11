@@ -3,8 +3,9 @@
 require 'rubygems'
 require 'awesome_print'
 require 'yaml'
-require 'google/api_client'
-require 'google_drive'
+require 'google/apis/drive_v3'
+require 'googleauth'
+require 'googleauth/stores/file_token_store'
 require 'uri'
 require 'cgi'
 require 'pry'
@@ -57,31 +58,52 @@ def decode_urls(content)
   content
 end
 
-title = "O que preciso saber antes de abrir minha empresa de serviço"
+# if ENV['RAFAELP_BLOG_ACCESS_TOKEN'].nil? or ENV['RAFAELP_BLOG_ACCESS_TOKEN'].empty?
+#   # Authorizes with OAuth and gets an access token.
+#   client = Google::APIClient.new
+#   auth = client.authorization
+#   auth.client_id = ENV['RAFAELP_BLOG_CLIENT_ID']
+#   auth.client_secret = ENV['RAFAELP_BLOG_CLIENT_SECRET']
+#   auth.scope = [
+#     "https://www.googleapis.com/auth/drive"
+#   ]
+#   auth.redirect_uri = "urn:ietf:wg:oauth:2.0:oob"
+#   print("1. Open this page:\n%s\n\n" % auth.authorization_uri)
+#   print("2. Enter the authorization code shown in the page: ")
+#   auth.code = $stdin.gets.chomp
+#   auth.fetch_access_token!
+#   access_token = auth.access_token
+#
+#   print("Access Token: #{access_token}\n\n")
+#   ENV['RAFAELP_BLOG_ACCESS_TOKEN'] = access_token
+# end
 
-if ENV['RAFAELP_BLOG_ACCESS_TOKEN'].nil? or ENV['RAFAELP_BLOG_ACCESS_TOKEN'].empty?
-  # Authorizes with OAuth and gets an access token.
-  client = Google::APIClient.new
-  auth = client.authorization
-  auth.client_id = ENV['RAFAELP_BLOG_CLIENT_ID']
-  auth.client_secret = ENV['RAFAELP_BLOG_CLIENT_SECRET']
-  auth.scope = [
-    "https://www.googleapis.com/auth/drive"
-  ]
-  auth.redirect_uri = "urn:ietf:wg:oauth:2.0:oob"
-  print("1. Open this page:\n%s\n\n" % auth.authorization_uri)
-  print("2. Enter the authorization code shown in the page: ")
-  auth.code = $stdin.gets.chomp
-  auth.fetch_access_token!
-  access_token = auth.access_token
+OOB_URI = 'urn:ietf:wg:oauth:2.0:oob'
 
-  print("Access Token: #{access_token}\n\n")
-  ENV['RAFAELP_BLOG_ACCESS_TOKEN'] = access_token
+scope = 'https://www.googleapis.com/auth/drive'
+client_id = Google::Auth::ClientId.from_file('./auth/client_secrets.json')
+token_store = Google::Auth::Stores::FileTokenStore.new(
+  :file => './auth/tokens.yaml')
+authorizer = Google::Auth::UserAuthorizer.new(client_id, scope, token_store)
+
+credentials = authorizer.get_credentials('rafael.lima.paula@gmail.com')
+if credentials.nil?
+  url = authorizer.get_authorization_url(base_url: OOB_URI )
+  puts "Open #{url} in your browser and enter the resulting code:"
+  code = gets
+  credentials = authorizer.get_and_store_credentials_from_code(
+    user_id: 'rafael.lima.paula@gmail.com', code: code, base_url: OOB_URI)
 end
 
-session = GoogleDrive.login_with_oauth(ENV['RAFAELP_BLOG_ACCESS_TOKEN'])
-file = session.file_by_title(title)
-html = file.export_as_string("text/html")
+file_id = "1lzkUS-0qqptlxCA0_BgQkV-FdN-jrPDJ2vHmAtUXN4k"
+Drive = Google::Apis::DriveV3
+drive = Drive::DriveService.new
+drive.authorization = credentials
+file = drive.get_file(file_id)
+title = file.name
+# session = GoogleDrive.login_with_oauth(ENV['RAFAELP_BLOG_ACCESS_TOKEN'])
+# file = session.file_by_title(title)
+html = drive.export_file(file_id, "text/html")
 doc = Hpricot(html)
 
 html            = doc.search("//body").html

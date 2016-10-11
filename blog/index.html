@@ -12,7 +12,7 @@ title: Blog de Rafael Lima - Empreendedor digital.
     {% if paginator.page == 2 %}
       <a href="/blog" class="newer-posts">&larr; Mais Novos</a>
     {% else %}
-      <a href="/blog/page/{{paginator.previous_page}}" class="newer-posts">&larr; Mais Novos</a>    
+      <a href="/blog/page/{{paginator.previous_page}}" class="newer-posts">&larr; Mais Novos</a>
     {% endif %}
   {% endif %}
 
@@ -37,8 +37,9 @@ title: Blog de Rafael Lima - Empreendedor digital.
 
   {% if paginator.next_page %}
     <a href="/blog/page/{{paginator.next_page}}" class="older-posts">Mais Antigos &rarr;</a>
-    {% if paginator.page <= (paginator.total_pages - 5) %}
+    {% assign total_pages_minus_5 = paginator.total_pages - 5 %}
+    {% if paginator.page <= total_pages_minus_5 %}
       <!--a href="/blog/page/{{paginator.total_pages}}">Última »</a-->
     {% endif %}
-  {% endif %}  
+  {% endif %}
 </nav>

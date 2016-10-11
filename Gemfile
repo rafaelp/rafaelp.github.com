@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
-ruby '2.1.1'
+ruby '2.3.1'
 
-gem 'github-pages', '45'
-gem 'jekyll-paginate', '1.1.0'
+gem 'github-pages', '97'
 
 group :development do
   gem 'foreman', '0.63.0'

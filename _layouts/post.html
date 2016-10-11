@@ -1,3 +1,8 @@
+{% if page.wordpress_id %}
+  {% capture disqus_identifier %}{{page.wordpress_id}} {{page.wordpress_url}}{% endcapture %}
+{% else %}
+  {% capture disqus_identifier %}{{site.url}}{{ page.url }}{% endcapture %}
+{% endif %}
 <!DOCTYPE html>
 <html>
   <head>
@@ -18,7 +23,8 @@
             <img src="http://gravatar.com/avatar/d055bb9d92e05b3435ae854eb8ad7ab3.png?size=100" alt="Blog de Rafael Lima" />
           </a>
         </header>
-        <span class="post-meta"><time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></span><span class="post-meta comments"> ~ <a href="#disqus_thread" data-disqus-identifier="{{ page.wordpress_id }} {{ page.wordpress_url }}"></a></span>
+        <span class="post-meta"><time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></span>
+        <span class="post-meta comments"> ~ <a href="#disqus_thread" data-disqus-identifier="{{ disqus_identifier }}"></a></span>
         <h1 class="post-title">{{ page.title }}</h1>
         <section class="post-content">
           {{ content }}
@@ -67,7 +73,7 @@
     {% include footer.html %}
     {% include bottom_scripts.html %}
     <script type="text/javascript">
-    {% if page.wordpress_id %}var disqus_identifier = '{{ page.wordpress_id }} {{ page.wordpress_url }}';{% else %}var disqus_identifier = '{{site.url}}{{ page.url }}';{% endif %}
+    var disqus_identifier = '{{ disqus_identifier }}';
     var disqus_url = '{{site.url}}{{ page.url }}';
     var disqus_title = "{{ page.title }}";
     </script>

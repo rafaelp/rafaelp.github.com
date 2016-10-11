@@ -34,7 +34,7 @@ O Boleto Bancário é um meio de pagamento ainda muito comum no Brasil. Nos dias
 
 ![](/blog/images/posts/2016-10-10/sua-empresa-corre-um-alto-risco-ao-usar-um-intermediario-para-cobrancas-por-boleto-0.png)
 
-Informações detalhadas com tudo sobre Boleto Bancário você pode ler em meu livro sobre o assunto: [Boleto Bancário - Um guia completo sobre cobrança por boleto.](http://landing.boletosimples.com.br/boleto-bancario-guia-completo-de-como-funciona/)
+Informações detalhadas, com tudo sobre Boleto Bancário, você pode ler em meu livro sobre o assunto: [Boleto Bancário - Um guia completo sobre cobrança por boleto.](http://landing.boletosimples.com.br/boleto-bancario-guia-completo-de-como-funciona/)
 
 ## A história completa...
 
@@ -45,7 +45,7 @@ Um dos maiores problemas desse meio de pagamento são as fraudes. Um único grup
 
 
 
-Por esse motivo, a FEBRABAN (Federação Brasileira dos Bancos) está recebendo pressão do Ministério Público e começou a desenvolver um novo sistema para substituir o que chamaram de Projeto Nova Plataforma de Cobrança.
+Por esse motivo, a FEBRABAN (Federação Brasileira dos Bancos) está recebendo pressão do Ministério Público e começou a desenvolver um novo sistema, que chamaram de Projeto Nova Plataforma de Cobrança, para substituir o sistema atual.
 
 
 
@@ -64,7 +64,7 @@ Eu explico.
 Se você deseja emitir boletos para sua empresa, você tem basicamente duas opções:
 
 
-1. Abrir uma conta em banco, contratar uma carteira de cobran&ccedil;as e emitir os boletos por conta pr&oacute;pria;
+1. Abrir uma conta em banco, contratar uma carteira de cobran&ccedil;a e emitir os boletos por conta pr&oacute;pria;
 2. Contratar um servi&ccedil;o de intermedia&ccedil;&atilde;o que recebe os boletos e repassa o dinheiro para a sua conta banc&aacute;ria;
 
 
@@ -97,7 +97,7 @@ Essas informações que vou passar são referentes ao novo sistema que ainda est
 
 
 
-Como falei, intermediários são as empresas que oferecem emissão de boletos sem a necessidade de contratação de carteira no banco. São aquelas em que o dinheiro do boleto pago entra na conta bancária delas pra depois repassar para a conta do cliente.
+Como falei, intermediários são as empresas que oferecem emissão de boletos sem a necessidade de contratação de carteira no banco. São aqueles serviços em que o dinheiro do boleto pago entra na conta bancária deles pra depois repassar para a conta do cliente.
 
 
 
@@ -121,7 +121,7 @@ A partir de agora, cada banco irá enviar para essa base de dados única, os dad
 
 
 
-Uma das regras desse novo sistema é que um boleto só poderá ser pago se ele tiver sido previamente cadastrado nessa base de dados única. Em outras palavras, todos os boletos precisarão ser registrados antes do pagador tentar pagar.h
+Uma das regras desse novo sistema é que um boleto só poderá ser pago se ele tiver sido previamente cadastrado nessa base de dados única. Em outras palavras, todos os boletos precisarão ser registrados antes do pagador tentar pagar.
 
 
 
@@ -169,7 +169,7 @@ Agora acompanhe comigo.
 
 
 
-Suponha que um intermediário tenha um cliente que cometa uma fraude usando a sua conta no serviço. Caso isso aconteça, o cadastro do intermediados ficará negativado no sistema bancário brasileiro e todos os boletos de todos os seus usuários serão bloqueados.
+Suponha que um intermediário tenha um cliente que cometa uma fraude usando a sua conta no serviço. Caso isso aconteça, o cadastro do intermediário ficará negativado no sistema bancário brasileiro e todos os boletos de todos os seus usuários serão bloqueados.
 
 
 

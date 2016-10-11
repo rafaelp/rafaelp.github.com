@@ -205,7 +205,7 @@ Nesse caso, o emissor do boleto é um hacker que invade o computador de outras p
 
 
 
-Do ponto de vista do intermediador, não houve nenhum tipo de hacking e o processo foi tão normal quanto de um cliente edônio. Com a diferença de que o dinheiro que entrou na conta bancária dele foi originado de um processo de fraude.
+Do ponto de vista do intermediador, não houve nenhum tipo de hacking e o processo foi tão normal quanto de um cliente idôneo. Com a diferença de que o dinheiro que entrou na conta bancária dele foi originado de um processo de fraude.
 
 
 
@@ -221,7 +221,7 @@ O banco vai imediatamente negativar o cadastro de quem emitiu o boleto e recebeu
 
 
 
-Essa é a parte da história que eu estou revelando para você que ninguém quer falar a respeito.
+Essa é a parte da história que eu estou revelando para você da qual ninguém quer falar a respeito.
 
 
 
@@ -239,7 +239,7 @@ Meu conselho é: Se você está querendo emitir boleto bancário e não pode cor
 
 
 
-Eu contei aqui apenas um esquema de fraude de vários que já me deparei nos últimos 8 anos trabalhando com isso, e evidenciei o risco que você está correndo de usar um serviço de intermediação de pagamentos para recebimento por boleto bancário.
+Eu contei aqui apenas um esquema de fraude de vários com os quais já me deparei nos últimos 8 anos trabalhando com isso, e evidenciei o risco que você está correndo de usar um serviço de intermediação de pagamentos para recebimento por boleto bancário.
 
 
 

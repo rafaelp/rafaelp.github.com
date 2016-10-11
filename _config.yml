@@ -6,4 +6,6 @@ paginate_path: "blog/page/:num"
 markdown: kramdown
 url: http://rafael.adm.br
 excerpt_separator: <!--more-->
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap

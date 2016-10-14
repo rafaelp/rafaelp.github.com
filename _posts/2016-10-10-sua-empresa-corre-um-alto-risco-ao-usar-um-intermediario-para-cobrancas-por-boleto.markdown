@@ -17,6 +17,9 @@ tags:
 - pagamento
 - boletosimples
 ---
+<span style="color: #f00"><strong>Atenção!</strong> Esse artigo foi atualizado em 14 de outubro.
+<br/>
+<a href="#atualizacao-14-out">Veja as atualizações no final do artigo.</a></span>
 
 
 
@@ -253,4 +256,11 @@ Se ainda ficou alguma dúvida fale comigo que ajudo no que precisar.
 
 Abraços e até a próxima.
 
-<strong>Atualizado em 14/10</strong>: Depois de receber tantas dúvidas, criei essa página para você <a href="http://landing.boletosimples.com.br/mailing-projeto-nova-plataforma-de-cobranca/" target="_blank">se inscrever na mailing do Boleto Simples e receber as novidades do <em>Projeto Novo Sistema de Cobrança</em></a> que estou divulgando de tempos em tempo.
+<a name="atualizacao-14-out"></a>
+<strong>Atualizado em 14/10</strong>:
+
+1) Depois de receber tantas dúvidas, criei essa página para você <a href="http://landing.boletosimples.com.br/mailing-projeto-nova-plataforma-de-cobranca/" target="_blank">se inscrever na mailing do Boleto Simples e receber as novidades do <em>Projeto Novo Sistema de Cobrança</em></a> que estou divulgando de tempos em tempo.
+
+2) Algumas pessoas disseram que as informações que eu passei aqui eram infundadas e mentirosas então resolvi divulgar uma página do material que eu tenho para comprovar as bases do meu artigo. Veja na área destacada sobre a <strong>validação do status do beneficiário</strong> e a <strong>existência do boleto na base de dados única</strong> no momento do pagamento do boleto.
+
+![](/blog/images/posts/2016-10-10/sua-empresa-corre-um-alto-risco-ao-usar-um-intermediario-para-cobrancas-por-boleto-1.png)

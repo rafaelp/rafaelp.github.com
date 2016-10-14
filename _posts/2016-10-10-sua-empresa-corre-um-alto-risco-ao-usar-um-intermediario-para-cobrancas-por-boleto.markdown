@@ -251,4 +251,6 @@ Se ainda ficou alguma dúvida fale comigo que ajudo no que precisar.
 
 
 
-Abraços e até a próxima.
+Abraços e até a próxima.
+
+<strong>Atualizado em 14/10</strong>: Depois de receber tantas dúvidas, criei essa página para você <a href="http://landing.boletosimples.com.br/mailing-projeto-nova-plataforma-de-cobranca/" target="_blank">se inscrever na mailing do Boleto Simples e receber as novidades do <em>Projeto Novo Sistema de Cobrança</em></a> que estou divulgando de tempos em tempo.

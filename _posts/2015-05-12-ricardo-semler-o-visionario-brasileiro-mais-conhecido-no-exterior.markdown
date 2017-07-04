@@ -15,6 +15,8 @@ tags:
 - brasil
 - visão
 ---
+*Disclaimer:* Eu vim a trabalhar diretamente com o Ricardo Semler por alguns anos em diversos projetos na Semco Partners (Paychex e Imposto Rápido), Semco Style, Lumiar e LeadWise. Esse post foi escrito duas semanas antes da pessoa que me apresentou ao Ricardo entrar em contato pela primeira vez com a HE:labs, minha empresa. Sendo assim, essa minha opinião sobre o Ricardo, que se mantém igual, foi escrita antes de nos conhecermos.
+<hr/>
 
 Enquanto eu estava sentado na frente do computador pronto para escrever o próximo post sobre métricas, eu repassei minha timeline do twitter e revi um tweet do Yuri Gitahy, que eu tinha favoritado horas antes, sobre o vídeo de uma palestra no TED do Ricardo Semler.
 

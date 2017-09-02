@@ -4,13 +4,17 @@
 
  $(document).ready(function() {
    $("img[data-mouseover]")
-   .mouseover(function(){
-     $(this).data("mouseout", $(this).attr("src"));
-     $(this).attr("src", $(this).data("mouseover") );
-   })
-   .mouseout(function(){
-     $(this).attr("src", $(this).data("mouseout") );
-   });
+     .each(function() {
+       var preload_image = new Image();
+       preload_image.src = $(this).data("mouseover");
+     })
+     .mouseover(function(){
+       $(this).data("mouseout", $(this).attr("src"));
+       $(this).attr("src", $(this).data("mouseover") );
+     })
+     .mouseout(function(){
+       $(this).attr("src", $(this).data("mouseout") );
+     });
  });
 
 /*

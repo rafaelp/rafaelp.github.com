@@ -14,3 +14,17 @@
   margin: 4rem 0 0 0;
   padding: 4rem 0 0 0;
 }
+
+.about {
+	font-family: 'Open Sans', sans-serif;
+
+  text-align: justify;
+}
+
+.about p {
+  font-size: 20px;
+  line-height: 1.5;
+  color: #252525;
+  font-weight: 300;
+  margin-bottom: 20px;
+}

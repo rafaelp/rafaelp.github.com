@@ -1,6 +1,18 @@
 (function ($) {
  "use strict";
 
+
+ $(document).ready(function() {
+   $("img[data-mouseover]")
+   .mouseover(function(){
+     $(this).data("mouseout", $(this).attr("src"));
+     $(this).attr("src", $(this).data("mouseover") );
+   })
+   .mouseout(function(){
+     $(this).attr("src", $(this).data("mouseout") );
+   });
+ });
+
 /*
   STICKY
 ================================== */

@@ -1101,13 +1101,9 @@ table .description {
     margin: 0 auto;
     float: none; }
 
-
   .wrapper {
     width: 100%;
     margin: 0 auto; }
-
-
-
 
   .grt blockquote.right,
   .grt blockquote.left {
@@ -1341,74 +1337,6 @@ h6 {
   text-align: center;
   float: none;
   clear: both; }
-
-.andresig {
-  font-family: 'Permanent Marker', arial, serif;
-  margin-top: -25px;
-  margin-bottom: 10px;
-  font-size: 26px;
-  -webkit-font-smoothing: antialiased; }
-
-.herosig {
-  font-family: 'Permanent Marker', arial, serif;
-  margin-top: -37px;
-  font-size: 26px;
-  -webkit-font-smoothing: antialiased; }
-
-.marker-pen {
-  font-family: 'Permanent Marker', arial, serif;
-  margin-bottom: 5px;
-  font-size: 26px;
-  line-height: 37px;
-  -webkit-font-smoothing: antialiased; }
-
-.doodle {
-  font-family: 'Permanent Marker';
-  margin-bottom: 20px;
-  margin-top: 50px;
-  font-size: 26px;
-  line-height: 37px;
-  -webkit-font-smoothing: antialiased; }
-
-.doodle-epc {
-  font-family: 'Permanent Marker';
-  margin-bottom: 20px;
-  margin-top: -30px;
-  font-size: 26px;
-  line-height: 37px;
-  -webkit-font-smoothing: antialiased; }
-
-.doodle-sig {
-  font-family: 'Permanent Marker';
-  font-size: 26px;
-  line-height: 37px;
-  -webkit-font-smoothing: antialiased; }
-
-.doodle-text {
-  font-family: 'Permanent Marker';
-  margin-bottom: 20px;
-  margin-top: 0px;
-  font-size: 26px;
-  line-height: 37px;
-  -webkit-font-smoothing: antialiased; }
-
-.kudos-text {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 21px;
-  line-height: 32px;
-  -webkit-font-smoothing: antialiased;
-  font-style: italic; }
-
-.sig-byline {
-  font-size: 19px;
-  font-style: italic;
-  -webkit-font-smoothing: antialiased;
-  margin-top: -2px;
-  margin-bottom: 30px; }
-
-.wistia-spacer {
-  margin-top: 30px;
-  margin-bottom: 30px; }
 
 /*
  * [ underline ]

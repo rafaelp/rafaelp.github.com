@@ -1,6 +1,6 @@
 ---
 title: O que &eacute; Bootstrapping?
-date: 2011-05-30 03:57:15 Z
+date: 2011-05-30 00:57:15 -03:00
 categories:
 - Posts
 tags:

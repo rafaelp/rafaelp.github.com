@@ -1,6 +1,6 @@
 ---
 title: Simplicidade requer tempo
-date: 2006-08-01 20:38:07 Z
+date: 2006-08-01 17:38:07 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: O cara que trabalha com CSS/XHTML &eacute; considerado programador?
-date: 2009-08-28 17:08:53 Z
+date: 2009-08-28 14:08:53 -03:00
 categories:
 - Posts
 tags:

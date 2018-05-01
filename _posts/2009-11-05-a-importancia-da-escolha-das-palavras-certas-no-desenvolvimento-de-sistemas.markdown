@@ -1,6 +1,6 @@
 ---
 title: A import&acirc;ncia da escolha das palavras certas no desenvolvimento de sistemas
-date: 2009-11-05 16:04:03 Z
+date: 2009-11-05 14:04:03 -02:00
 categories:
 - Posts
 tags:

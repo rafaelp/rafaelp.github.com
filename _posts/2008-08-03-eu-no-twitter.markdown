@@ -1,6 +1,6 @@
 ---
 title: Eu no Twitter
-date: 2008-08-03 23:39:49 Z
+date: 2008-08-03 20:39:49 -03:00
 categories:
 - Posts
 tags:

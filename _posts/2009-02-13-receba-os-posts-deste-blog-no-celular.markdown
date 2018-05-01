@@ -1,6 +1,6 @@
 ---
 title: Receba os posts deste blog no celular
-date: 2009-02-13 18:06:51 Z
+date: 2009-02-13 16:06:51 -02:00
 categories:
 - Posts
 tags:

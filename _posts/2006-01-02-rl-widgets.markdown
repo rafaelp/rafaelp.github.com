@@ -1,6 +1,6 @@
 ---
 title: RL Widgets
-date: 2006-01-02 03:03:32 Z
+date: 2006-01-02 01:03:32 -02:00
 categories:
 - Posts
 layout: post

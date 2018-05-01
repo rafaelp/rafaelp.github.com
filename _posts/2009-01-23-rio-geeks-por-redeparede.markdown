@@ -1,6 +1,6 @@
 ---
 title: Rio Geeks por RedeParede
-date: 2009-01-23 03:11:14 Z
+date: 2009-01-23 01:11:14 -02:00
 categories:
 - Posts
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Problema ao usar IE7 + Iframe + Session + Cookie + Dom&iacute;nio diferente
   (cross-domain)
-date: 2008-03-20 14:49:27 Z
+date: 2008-03-20 11:49:27 -03:00
 categories:
 - Posts
 tags:

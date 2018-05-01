@@ -1,6 +1,6 @@
 ---
 title: Hor&aacute;rio de Ver&atilde;o
-date: 2006-11-02 03:22:30 Z
+date: 2006-11-02 00:22:30 -03:00
 categories:
 - Posts
 tags:

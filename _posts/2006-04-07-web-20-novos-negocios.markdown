@@ -1,6 +1,6 @@
 ---
 title: Web 2.0 & Novos Neg&oacute;cios
-date: 2006-04-07 10:43:21 Z
+date: 2006-04-07 07:43:21 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Rapidinha: Planilha e Velocidade'
-date: 2006-06-07 03:06:50 Z
+date: 2006-06-07 00:06:50 -03:00
 categories:
 - Posts
 tags:

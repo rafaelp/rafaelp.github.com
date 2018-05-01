@@ -1,6 +1,6 @@
 ---
 title: 'Engine Yard: Um hosting estilo Rails'
-date: 2006-08-03 04:21:42 Z
+date: 2006-08-03 01:21:42 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Removendo todas as gems de uma s&oacute; vez
-date: 2009-02-01 16:07:17 Z
+date: 2009-02-01 14:07:17 -02:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Seguran&ccedil;a para os celulares
-date: 2006-10-30 15:51:04 Z
+date: 2006-10-30 12:51:04 -03:00
 categories:
 - Posts
 tags:

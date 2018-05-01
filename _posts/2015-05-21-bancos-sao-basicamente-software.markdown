@@ -1,6 +1,6 @@
 ---
 title: Bancos são basicamente software
-date: 2015-05-21 00:00:00 Z
+date: 2015-05-21 00:00:00 -03:00
 categories:
 - Posts
 tags:

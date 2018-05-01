@@ -1,7 +1,7 @@
 ---
 title: BielSystems entre as 45 startups que est&atilde;o mudando a cara da internet
   no Brasil
-date: 2011-06-13 15:38:19 Z
+date: 2011-06-13 12:38:19 -03:00
 categories:
 - Posts
 layout: post

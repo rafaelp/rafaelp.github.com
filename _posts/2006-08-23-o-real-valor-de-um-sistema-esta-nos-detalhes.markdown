@@ -1,6 +1,6 @@
 ---
 title: O real valor de um sistema est&aacute; nos detalhes
-date: 2006-08-23 23:51:55 Z
+date: 2006-08-23 20:51:55 -03:00
 categories:
 - Posts
 tags:

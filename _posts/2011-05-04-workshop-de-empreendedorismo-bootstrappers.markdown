@@ -1,6 +1,6 @@
 ---
 title: Workshop de Empreendedorismo Bootstrappers
-date: 2011-05-04 22:53:55 Z
+date: 2011-05-04 19:53:55 -03:00
 categories:
 - Posts
 tags:

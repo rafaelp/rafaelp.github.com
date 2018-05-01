@@ -1,6 +1,6 @@
 ---
 title: Generalista X Especialista
-date: 2008-09-17 03:49:16 Z
+date: 2008-09-17 00:49:16 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

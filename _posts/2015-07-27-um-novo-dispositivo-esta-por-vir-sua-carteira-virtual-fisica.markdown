@@ -1,6 +1,6 @@
 ---
 title: Um novo dispositivo está por vir, sua carteira virtual física
-date: 2015-07-27 00:00:00 Z
+date: 2015-07-27 00:00:00 -03:00
 categories:
 - Posts
 tags:

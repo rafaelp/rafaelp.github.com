@@ -1,6 +1,6 @@
 ---
 title: V&iacute;deo da palestra no Dev in Rio 2010
-date: 2011-04-06 21:18:53 Z
+date: 2011-04-06 18:18:53 -03:00
 categories:
 - Posts
 layout: post

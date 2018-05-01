@@ -1,6 +1,6 @@
 ---
 title: Discuss&atilde;o sobre o uso do Orkut
-date: 2007-12-20 12:19:05 Z
+date: 2007-12-20 10:19:05 -02:00
 categories:
 - Posts
 tags:

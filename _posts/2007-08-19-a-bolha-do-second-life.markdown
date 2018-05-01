@@ -1,6 +1,6 @@
 ---
 title: A bolha do Second Life
-date: 2007-08-19 16:39:41 Z
+date: 2007-08-19 13:39:41 -03:00
 categories:
 - Posts
 tags:

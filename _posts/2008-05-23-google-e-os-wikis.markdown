@@ -1,6 +1,6 @@
 ---
 title: Google e os wikis
-date: 2008-05-23 15:34:49 Z
+date: 2008-05-23 12:34:49 -03:00
 categories:
 - Posts
 tags:

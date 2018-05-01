@@ -1,6 +1,6 @@
 ---
 title: 'Agilidade e simplicidade nas cota&ccedil;&otilde;es pela web: BielBid'
-date: 2006-03-17 20:57:18 Z
+date: 2006-03-17 17:57:18 -03:00
 categories:
 - Posts
 tags:

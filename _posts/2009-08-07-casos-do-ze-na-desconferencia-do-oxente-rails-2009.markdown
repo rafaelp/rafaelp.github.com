@@ -1,6 +1,6 @@
 ---
 title: Casos do Z&eacute; na Desconfer&ecirc;ncia do Oxente Rails 2009
-date: 2009-08-07 23:14:02 Z
+date: 2009-08-07 20:14:02 -03:00
 categories:
 - Posts
 tags:

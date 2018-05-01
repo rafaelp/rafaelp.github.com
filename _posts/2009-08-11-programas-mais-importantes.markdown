@@ -1,6 +1,6 @@
 ---
 title: Programas mais importantes
-date: 2009-08-11 23:06:39 Z
+date: 2009-08-11 20:06:39 -03:00
 categories:
 - Posts
 tags:

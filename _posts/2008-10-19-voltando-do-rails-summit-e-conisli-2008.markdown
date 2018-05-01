@@ -1,6 +1,6 @@
 ---
 title: Voltando do Rails Summit e Conisli 2008
-date: 2008-10-19 21:05:28 Z
+date: 2008-10-19 19:05:28 -02:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

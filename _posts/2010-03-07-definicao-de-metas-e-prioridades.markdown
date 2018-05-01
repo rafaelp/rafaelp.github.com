@@ -1,6 +1,6 @@
 ---
 title: Defini&ccedil;&atilde;o de Metas e Prioridades
-date: 2010-03-07 17:21:36 Z
+date: 2010-03-07 14:21:36 -03:00
 categories:
 - Posts
 tags:

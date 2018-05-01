@@ -1,6 +1,6 @@
 ---
 title: Mensagem de Edson
-date: 2006-08-01 18:31:54 Z
+date: 2006-08-01 15:31:54 -03:00
 categories:
 - Posts
 tags:

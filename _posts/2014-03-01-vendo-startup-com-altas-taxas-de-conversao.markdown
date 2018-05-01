@@ -1,6 +1,6 @@
 ---
 title: Vendo startup com altas taxas de conversão
-date: 2014-03-01 00:00:00 Z
+date: 2014-03-01 00:00:00 -03:00
 categories:
 - Posts
 tags:

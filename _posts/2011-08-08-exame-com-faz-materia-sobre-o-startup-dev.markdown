@@ -1,6 +1,6 @@
 ---
 title: EXAME.com faz mat&eacute;ria sobre o Startup DEV
-date: 2011-08-08 03:37:20 Z
+date: 2011-08-08 00:37:20 -03:00
 categories:
 - Posts
 layout: post

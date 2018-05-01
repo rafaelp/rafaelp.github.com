@@ -1,6 +1,6 @@
 ---
 title: Negatividade nas palavras
-date: 2008-08-27 04:13:23 Z
+date: 2008-08-27 01:13:23 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

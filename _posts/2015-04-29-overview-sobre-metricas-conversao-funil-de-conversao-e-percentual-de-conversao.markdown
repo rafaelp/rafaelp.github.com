@@ -1,6 +1,6 @@
 ---
 title: 'Overview sobre métricas: conversão, funil de conversão e percentual de conversão'
-date: 2015-04-29 00:00:00 Z
+date: 2015-04-29 00:00:00 -03:00
 categories:
 - Posts
 tags:

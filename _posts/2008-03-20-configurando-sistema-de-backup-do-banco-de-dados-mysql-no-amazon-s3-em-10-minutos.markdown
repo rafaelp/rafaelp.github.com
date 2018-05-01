@@ -1,6 +1,6 @@
 ---
 title: Configurando sistema de backup do banco de dados MySQL no Amazon S3 em 10 minutos
-date: 2008-03-20 05:20:11 Z
+date: 2008-03-20 02:20:11 -03:00
 categories:
 - Posts
 tags:

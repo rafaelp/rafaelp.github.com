@@ -1,7 +1,7 @@
 ---
 title: Indica&ccedil;&otilde;es interessantes de livros, blogs, sites, cursos e eventos
   de Marketing
-date: 2009-05-10 19:07:02 Z
+date: 2009-05-10 16:07:02 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Cuidado ao fazer migra&ccedil;&atilde;o de reposit&oacute;rio subversion
-date: 2009-04-22 13:22:40 Z
+date: 2009-04-22 10:22:40 -03:00
 categories:
 - Posts
 tags:

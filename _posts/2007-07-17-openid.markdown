@@ -1,6 +1,6 @@
 ---
 title: OpenID
-date: 2007-07-17 03:28:59 Z
+date: 2007-07-17 00:28:59 -03:00
 categories:
 - Posts
 tags:

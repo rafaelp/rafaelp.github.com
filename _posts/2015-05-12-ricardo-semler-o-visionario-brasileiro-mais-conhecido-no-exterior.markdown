@@ -1,6 +1,6 @@
 ---
 title: Ricardo Semler, o visionário brasileiro mais conhecido no exterior
-date: 2015-05-12 00:00:00 Z
+date: 2015-05-12 00:00:00 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Artigo sobre backup do mySQL no Amazon S3 no iMasters
-date: 2008-04-28 16:48:24 Z
+date: 2008-04-28 13:48:24 -03:00
 categories:
 - Posts
 tags:

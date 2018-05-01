@@ -1,6 +1,6 @@
 ---
 title: Workshop Bizstart
-date: 2012-03-29 14:28:31 Z
+date: 2012-03-29 11:28:31 -03:00
 categories:
 - Posts
 layout: post

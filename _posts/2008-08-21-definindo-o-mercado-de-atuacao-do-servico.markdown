@@ -1,6 +1,6 @@
 ---
 title: Definindo o mercado de atua&ccedil;&atilde;o do servi&ccedil;o
-date: 2008-08-21 05:18:34 Z
+date: 2008-08-21 02:18:34 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

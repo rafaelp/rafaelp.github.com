@@ -1,6 +1,6 @@
 ---
 title: O que você precisa saber antes de abrir sua empresa de serviço
-date: 2016-02-24 00:00:00 Z
+date: 2016-02-24 00:00:00 -03:00
 categories:
 - Posts
 layout: post

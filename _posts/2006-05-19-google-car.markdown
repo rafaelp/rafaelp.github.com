@@ -1,6 +1,6 @@
 ---
 title: Google Car
-date: 2006-05-19 03:52:46 Z
+date: 2006-05-19 00:52:46 -03:00
 categories:
 - Posts
 tags:

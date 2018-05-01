@@ -1,6 +1,6 @@
 ---
 title: Sopa de Tecnologias para Aplica&ccedil;&otilde;es Web
-date: 2008-05-23 11:51:48 Z
+date: 2008-05-23 08:51:48 -03:00
 categories:
 - Posts
 tags:

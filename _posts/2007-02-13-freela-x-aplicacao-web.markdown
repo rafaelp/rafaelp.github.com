@@ -1,6 +1,6 @@
 ---
 title: Freela x Aplica&ccedil;&atilde;o Web
-date: 2007-02-13 12:23:07 Z
+date: 2007-02-13 10:23:07 -02:00
 categories:
 - Posts
 tags:

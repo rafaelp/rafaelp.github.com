@@ -1,6 +1,6 @@
 ---
 title: Tamb&eacute;m quero "blogonversar"
-date: 2006-04-25 23:26:28 Z
+date: 2006-04-25 20:26:28 -03:00
 categories:
 - Posts
 tags:

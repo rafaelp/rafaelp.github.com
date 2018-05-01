@@ -1,6 +1,6 @@
 ---
 title: Google Spreadsheet
-date: 2006-06-07 23:56:40 Z
+date: 2006-06-07 20:56:40 -03:00
 categories:
 - Posts
 tags:

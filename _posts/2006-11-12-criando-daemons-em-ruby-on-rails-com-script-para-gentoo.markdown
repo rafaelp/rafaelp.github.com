@@ -1,6 +1,6 @@
 ---
 title: Criando daemons em Ruby on Rails (com script para Gentoo)
-date: 2006-11-12 15:29:32 Z
+date: 2006-11-12 13:29:32 -02:00
 categories:
 - Posts
 tags:

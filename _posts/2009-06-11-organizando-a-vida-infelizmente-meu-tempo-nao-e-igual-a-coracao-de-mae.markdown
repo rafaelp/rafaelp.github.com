@@ -1,7 +1,7 @@
 ---
 title: Organizando a vida, infelizmente meu tempo n&atilde;o &eacute; igual a cora&ccedil;&atilde;o
   de m&atilde;e.
-date: 2009-06-11 17:25:07 Z
+date: 2009-06-11 14:25:07 -03:00
 categories:
 - Posts
 tags:

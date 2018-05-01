@@ -1,6 +1,6 @@
 ---
 title: Coment&aacute;rios em post sobre empreendedorismo web no Brasil
-date: 2009-05-27 14:57:02 Z
+date: 2009-05-27 11:57:02 -03:00
 categories:
 - Posts
 tags:

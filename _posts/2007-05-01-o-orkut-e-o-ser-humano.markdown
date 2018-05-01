@@ -1,6 +1,6 @@
 ---
 title: O Orkut e o ser humano
-date: 2007-05-01 18:10:11 Z
+date: 2007-05-01 15:10:11 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Ferramenta de CRM
-date: 2008-05-11 20:09:40 Z
+date: 2008-05-11 17:09:40 -03:00
 categories:
 - Posts
 tags:

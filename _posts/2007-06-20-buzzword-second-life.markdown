@@ -1,6 +1,6 @@
 ---
 title: 'Buzzword: Second Life'
-date: 2007-06-20 22:40:00 Z
+date: 2007-06-20 19:40:00 -03:00
 categories:
 - Posts
 layout: post

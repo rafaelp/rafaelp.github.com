@@ -1,6 +1,6 @@
 ---
 title: Arquitetura de servidores para aplica&ccedil;&otilde;es Rails
-date: 2008-01-11 16:01:07 Z
+date: 2008-01-11 14:01:07 -02:00
 categories:
 - Posts
 tags:

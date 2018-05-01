@@ -1,6 +1,6 @@
 ---
 title: WordPress 2.5 Beta est&aacute; na &aacute;rea!
-date: 2008-03-19 03:58:10 Z
+date: 2008-03-19 00:58:10 -03:00
 categories:
 - Posts
 tags:

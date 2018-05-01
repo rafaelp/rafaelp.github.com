@@ -1,6 +1,6 @@
 ---
 title: Servi&ccedil;os relacionados a um projeto de site na internet
-date: 2007-11-09 03:01:36 Z
+date: 2007-11-09 01:01:36 -02:00
 categories:
 - Posts
 tags:

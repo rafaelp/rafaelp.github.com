@@ -1,6 +1,6 @@
 ---
 title: Curso gratuito de SEO no Stoodos
-date: 2011-06-21 03:23:43 Z
+date: 2011-06-21 00:23:43 -03:00
 categories:
 - Posts
 layout: post

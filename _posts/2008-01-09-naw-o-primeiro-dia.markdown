@@ -1,6 +1,6 @@
 ---
 title: 'NAW: O primeiro dia'
-date: 2008-01-09 02:28:57 Z
+date: 2008-01-09 00:28:57 -02:00
 categories:
 - Posts
 tags:

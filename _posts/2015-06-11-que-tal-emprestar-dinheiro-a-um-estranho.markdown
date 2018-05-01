@@ -1,6 +1,6 @@
 ---
 title: Que tal emprestar dinheiro a um estranho?
-date: 2015-06-11 00:00:00 Z
+date: 2015-06-11 00:00:00 -03:00
 categories:
 - Posts
 tags:

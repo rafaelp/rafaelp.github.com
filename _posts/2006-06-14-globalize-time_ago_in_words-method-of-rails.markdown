@@ -1,6 +1,6 @@
 ---
 title: Globalize time_ago_in_words method of Rails
-date: 2006-06-14 23:02:27 Z
+date: 2006-06-14 20:02:27 -03:00
 categories:
 - Posts
 tags:

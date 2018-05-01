@@ -1,6 +1,6 @@
 ---
 title: Lições aprendidas após um ano de Boleto Simples 1/5
-date: 2015-03-24 00:00:00 Z
+date: 2015-03-24 00:00:00 -03:00
 categories:
 - Posts
 tags:

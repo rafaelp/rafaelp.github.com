@@ -1,6 +1,6 @@
 ---
 title: Better gsub method for Prototype library.
-date: 2006-07-14 20:32:04 Z
+date: 2006-07-14 17:32:04 -03:00
 categories:
 - Posts
 tags:

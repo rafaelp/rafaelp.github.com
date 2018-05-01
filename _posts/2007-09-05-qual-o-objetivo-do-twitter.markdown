@@ -1,6 +1,6 @@
 ---
 title: Qual o objetivo do Twitter?
-date: 2007-09-05 04:03:30 Z
+date: 2007-09-05 01:03:30 -03:00
 categories:
 - Posts
 layout: post

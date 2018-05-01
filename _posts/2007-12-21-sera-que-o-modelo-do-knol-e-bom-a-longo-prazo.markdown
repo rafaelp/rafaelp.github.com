@@ -1,6 +1,6 @@
 ---
 title: Ser&aacute; que o modelo do Knol &eacute; bom a longo prazo?
-date: 2007-12-21 11:10:54 Z
+date: 2007-12-21 09:10:54 -02:00
 categories:
 - Posts
 tags:

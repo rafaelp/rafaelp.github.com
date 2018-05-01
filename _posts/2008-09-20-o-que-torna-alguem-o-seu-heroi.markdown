@@ -1,6 +1,6 @@
 ---
 title: O que torna algu&eacute;m o seu her&oacute;i?
-date: 2008-09-20 18:28:47 Z
+date: 2008-09-20 15:28:47 -03:00
 categories:
 - Posts
 tags:

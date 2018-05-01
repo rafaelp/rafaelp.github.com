@@ -1,6 +1,6 @@
 ---
 title: Not&iacute;cias boas de uma tacada s&oacute;
-date: 2006-08-23 03:28:26 Z
+date: 2006-08-23 00:28:26 -03:00
 categories:
 - Posts
 tags:

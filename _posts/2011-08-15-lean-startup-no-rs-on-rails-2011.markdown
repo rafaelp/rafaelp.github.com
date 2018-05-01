@@ -1,6 +1,6 @@
 ---
 title: Lean Startup no RS on Rails 2011
-date: 2011-08-15 14:56:45 Z
+date: 2011-08-15 11:56:45 -03:00
 categories:
 - Posts
 layout: post

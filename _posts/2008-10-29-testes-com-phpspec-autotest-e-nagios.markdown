@@ -1,6 +1,6 @@
 ---
 title: Testes com PHPSpec, Autotest e Nagios
-date: 2008-10-29 02:38:17 Z
+date: 2008-10-29 00:38:17 -02:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

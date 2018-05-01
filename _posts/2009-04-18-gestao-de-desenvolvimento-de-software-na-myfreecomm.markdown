@@ -1,6 +1,6 @@
 ---
 title: Gest&atilde;o de Desenvolvimento de Software na Myfreecomm
-date: 2009-04-18 19:29:42 Z
+date: 2009-04-18 16:29:42 -03:00
 categories:
 - Posts
 tags:

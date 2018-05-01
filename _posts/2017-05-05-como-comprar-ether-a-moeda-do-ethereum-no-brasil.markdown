@@ -1,6 +1,6 @@
 ---
 title: Como comprar Ether (a moeda do Ethereum) no Brasil
-date: 2017-05-05 00:00:00 Z
+date: 2017-05-05 00:00:00 -03:00
 categories:
 - Posts
 tags:

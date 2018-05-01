@@ -1,6 +1,6 @@
 ---
 title: Decis&otilde;es de funcionalidades no software
-date: 2008-10-29 02:38:16 Z
+date: 2008-10-29 00:38:16 -02:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

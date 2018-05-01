@@ -1,6 +1,6 @@
 ---
 title: Cad&ecirc; o GoogleID?
-date: 2007-11-28 02:14:35 Z
+date: 2007-11-28 00:14:35 -02:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Qual o motivo de você ter sua empresa?
-date: 2014-01-11 00:00:00 Z
+date: 2014-01-11 00:00:00 -02:00
 categories:
 - Posts
 tags:

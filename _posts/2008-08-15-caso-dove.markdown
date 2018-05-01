@@ -1,6 +1,6 @@
 ---
 title: Caso Dove vs Greenpeace
-date: 2008-08-15 23:56:40 Z
+date: 2008-08-15 20:56:40 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

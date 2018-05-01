@@ -1,6 +1,6 @@
 ---
 title: Comunidade de Blogs com IA, Sem&acirc;ntica, Colabora&ccedil;&atilde;o e OpenID
-date: 2007-08-02 04:08:52 Z
+date: 2007-08-02 01:08:52 -03:00
 categories:
 - Posts
 tags:

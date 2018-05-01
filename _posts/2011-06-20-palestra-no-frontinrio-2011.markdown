@@ -1,6 +1,6 @@
 ---
 title: Palestra no FrontInRio 2011
-date: 2011-06-20 13:57:14 Z
+date: 2011-06-20 10:57:14 -03:00
 categories:
 - Posts
 layout: post

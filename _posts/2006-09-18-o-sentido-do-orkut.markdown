@@ -1,6 +1,6 @@
 ---
 title: O sentido do Orkut
-date: 2006-09-18 13:12:10 Z
+date: 2006-09-18 10:12:10 -03:00
 categories:
 - Posts
 tags:

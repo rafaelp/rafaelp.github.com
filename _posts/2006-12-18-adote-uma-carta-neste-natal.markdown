@@ -1,6 +1,6 @@
 ---
 title: Adote uma carta neste Natal
-date: 2006-12-18 20:22:07 Z
+date: 2006-12-18 18:22:07 -02:00
 categories:
 - Posts
 layout: post

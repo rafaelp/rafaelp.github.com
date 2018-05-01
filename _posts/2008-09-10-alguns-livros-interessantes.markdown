@@ -1,6 +1,6 @@
 ---
 title: Alguns livros interessantes
-date: 2008-09-10 03:44:55 Z
+date: 2008-09-10 00:44:55 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

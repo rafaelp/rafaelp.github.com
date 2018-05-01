@@ -1,6 +1,6 @@
 ---
 title: Pap&eacute;is no SCRUM - Voc&ecirc; sabe responder?
-date: 2009-08-05 15:03:10 Z
+date: 2009-08-05 12:03:10 -03:00
 categories:
 - Posts
 tags:

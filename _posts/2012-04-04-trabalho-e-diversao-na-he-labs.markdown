@@ -1,6 +1,6 @@
 ---
 title: Trabalho e Divers&atilde;o na HE Labs
-date: 2012-04-04 19:35:18 Z
+date: 2012-04-04 16:35:18 -03:00
 categories:
 - Posts
 layout: post

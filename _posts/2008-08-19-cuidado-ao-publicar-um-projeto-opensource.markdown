@@ -1,6 +1,6 @@
 ---
 title: Cuidado ao publicar um projeto OpenSource
-date: 2008-08-19 04:27:37 Z
+date: 2008-08-19 01:27:37 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

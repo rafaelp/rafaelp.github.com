@@ -1,6 +1,6 @@
 ---
 title: Blog para Empresas
-date: 2006-11-30 16:38:35 Z
+date: 2006-11-30 14:38:35 -02:00
 categories:
 - Posts
 layout: post

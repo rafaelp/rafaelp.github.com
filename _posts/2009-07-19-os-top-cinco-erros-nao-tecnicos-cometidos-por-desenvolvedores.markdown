@@ -1,6 +1,6 @@
 ---
 title: Os top cinco erros n&atilde;o t&eacute;cnicos cometidos por desenvolvedores
-date: 2009-07-19 17:50:50 Z
+date: 2009-07-19 14:50:50 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: N&atilde;o estou sozinho (sobre o Knol)
-date: 2007-12-28 02:49:01 Z
+date: 2007-12-28 00:49:01 -02:00
 categories:
 - Posts
 tags:

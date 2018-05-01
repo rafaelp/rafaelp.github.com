@@ -1,6 +1,6 @@
 ---
 title: Uma parte da minha hist&oacute;ria
-date: 2007-04-29 15:22:31 Z
+date: 2007-04-29 12:22:31 -03:00
 categories:
 - Posts
 layout: post

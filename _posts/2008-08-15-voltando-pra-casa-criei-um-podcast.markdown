@@ -1,6 +1,6 @@
 ---
 title: Voltando pra casa criei um Podcast
-date: 2008-08-15 05:28:01 Z
+date: 2008-08-15 02:28:01 -03:00
 categories:
 - Posts
 tags:

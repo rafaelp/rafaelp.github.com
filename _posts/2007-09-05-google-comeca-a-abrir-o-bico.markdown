@@ -1,6 +1,6 @@
 ---
 title: Google come&ccedil;a a abrir o bico
-date: 2007-09-05 04:29:26 Z
+date: 2007-09-05 01:29:26 -03:00
 categories:
 - Posts
 tags:

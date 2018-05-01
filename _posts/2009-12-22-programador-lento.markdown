@@ -1,6 +1,6 @@
 ---
 title: Programador lento
-date: 2009-12-22 10:34:44 Z
+date: 2009-12-22 08:34:44 -02:00
 categories:
 - Posts
 tags:

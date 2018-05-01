@@ -1,6 +1,6 @@
 ---
 title: A procura da batida perfeita - Parte 1
-date: 2009-12-17 12:57:12 Z
+date: 2009-12-17 10:57:12 -02:00
 categories:
 - Posts
 tags:

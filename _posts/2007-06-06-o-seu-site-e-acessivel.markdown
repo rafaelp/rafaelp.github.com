@@ -1,6 +1,6 @@
 ---
 title: O seu site &eacute; acess&iacute;vel?
-date: 2007-06-06 03:52:57 Z
+date: 2007-06-06 00:52:57 -03:00
 categories:
 - Posts
 layout: post

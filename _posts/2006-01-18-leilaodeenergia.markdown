@@ -1,6 +1,6 @@
 ---
 title: Leil&atilde;o de Energia
-date: 2006-01-18 21:03:19 Z
+date: 2006-01-18 19:03:19 -02:00
 categories:
 - Posts
 layout: post

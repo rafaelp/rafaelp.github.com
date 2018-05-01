@@ -1,6 +1,6 @@
 ---
 title: O escopo &eacute; determinante para o sucesso de um projeto
-date: 2007-03-24 21:01:02 Z
+date: 2007-03-24 18:01:02 -03:00
 categories:
 - Posts
 tags:

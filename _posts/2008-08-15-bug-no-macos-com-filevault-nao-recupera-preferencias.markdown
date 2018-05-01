@@ -1,6 +1,6 @@
 ---
 title: Bug no MacOS com FileVault n&atilde;o recupera prefer&ecirc;ncias
-date: 2008-08-15 23:53:28 Z
+date: 2008-08-15 20:53:28 -03:00
 categories:
 - Posts
 tags:

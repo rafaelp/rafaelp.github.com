@@ -1,6 +1,6 @@
 ---
 title: Resultado do Curso Gratuito de SEO
-date: 2011-06-22 13:00:48 Z
+date: 2011-06-22 10:00:48 -03:00
 categories:
 - Posts
 layout: post

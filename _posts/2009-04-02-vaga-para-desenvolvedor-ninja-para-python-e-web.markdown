@@ -1,6 +1,6 @@
 ---
 title: Vaga para Desenvolvedor Ninja para Python e Web
-date: 2009-04-02 20:29:47 Z
+date: 2009-04-02 17:29:47 -03:00
 categories:
 - Posts
 tags:

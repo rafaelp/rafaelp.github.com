@@ -1,6 +1,6 @@
 ---
 title: Zidane
-date: 2006-07-11 15:37:49 Z
+date: 2006-07-11 12:37:49 -03:00
 categories:
 - Posts
 layout: post

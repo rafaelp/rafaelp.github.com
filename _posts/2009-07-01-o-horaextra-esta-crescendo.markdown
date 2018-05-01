@@ -1,6 +1,6 @@
 ---
 title: 'O #horaextra est&aacute; crescendo!'
-date: 2009-07-01 03:54:31 Z
+date: 2009-07-01 00:54:31 -03:00
 categories:
 - Posts
 layout: post

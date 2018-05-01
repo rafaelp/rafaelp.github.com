@@ -1,6 +1,6 @@
 ---
 title: Mais um projeto Startup DEV rolando...
-date: 2011-07-12 13:19:23 Z
+date: 2011-07-12 10:19:23 -03:00
 categories:
 - Posts
 tags:

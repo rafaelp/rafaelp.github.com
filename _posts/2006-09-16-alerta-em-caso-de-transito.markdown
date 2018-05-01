@@ -1,6 +1,6 @@
 ---
 title: Alerta em caso de tr&acirc;nsito
-date: 2006-09-16 16:47:20 Z
+date: 2006-09-16 13:47:20 -03:00
 categories:
 - Brainstorm
 tags:

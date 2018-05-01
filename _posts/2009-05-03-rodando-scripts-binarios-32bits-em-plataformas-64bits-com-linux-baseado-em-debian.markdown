@@ -1,7 +1,7 @@
 ---
 title: Rodando scripts bin&aacute;rios 32bits em plataformas 64bits com linux baseado
   em Debian
-date: 2009-05-03 03:39:55 Z
+date: 2009-05-03 00:39:55 -03:00
 categories:
 - Posts
 tags:

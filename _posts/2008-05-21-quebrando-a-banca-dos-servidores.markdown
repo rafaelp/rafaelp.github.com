@@ -1,6 +1,6 @@
 ---
 title: Quebrando a banca dos servidores
-date: 2008-05-21 03:21:05 Z
+date: 2008-05-21 00:21:05 -03:00
 categories:
 - Posts
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: Compara&ccedil;&atilde;o do processo de venda do Mac OS X, Ubuntu e Windows
   7
-date: 2009-11-04 13:38:17 Z
+date: 2009-11-04 11:38:17 -02:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Como fazer para que uma ferramenta seja realmente utilizada?
-date: 2008-03-07 17:07:41 Z
+date: 2008-03-07 14:07:41 -03:00
 categories:
 - Posts
 tags:

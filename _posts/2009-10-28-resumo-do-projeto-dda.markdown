@@ -1,6 +1,6 @@
 ---
 title: Resumo do Projeto DDA
-date: 2009-10-28 17:56:48 Z
+date: 2009-10-28 15:56:48 -02:00
 categories:
 - Posts
 tags:

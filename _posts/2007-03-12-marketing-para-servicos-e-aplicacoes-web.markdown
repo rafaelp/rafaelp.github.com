@@ -1,6 +1,6 @@
 ---
 title: Marketing para Servi&ccedil;os e Aplica&ccedil;&otilde;es Web
-date: 2007-03-12 16:44:59 Z
+date: 2007-03-12 13:44:59 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: N&atilde;o sejamos ing&ecirc;nuos
-date: 2006-09-13 03:02:59 Z
+date: 2006-09-13 00:02:59 -03:00
 categories:
 - Posts
 layout: post

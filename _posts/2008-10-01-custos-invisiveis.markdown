@@ -1,6 +1,6 @@
 ---
 title: Custos invis&iacute;veis
-date: 2008-10-01 03:53:06 Z
+date: 2008-10-01 00:53:06 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

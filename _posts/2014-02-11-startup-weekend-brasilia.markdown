@@ -1,6 +1,6 @@
 ---
 title: Startup Weekend Brasília
-date: 2014-02-11 00:00:00 Z
+date: 2014-02-11 00:00:00 -02:00
 categories:
 - Posts
 tags:

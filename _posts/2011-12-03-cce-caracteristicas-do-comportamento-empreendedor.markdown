@@ -1,6 +1,6 @@
 ---
 title: CCE - Caracter&iacute;sticas do Comportamento Empreendedor
-date: 2011-12-03 23:55:38 Z
+date: 2011-12-03 21:55:38 -02:00
 categories:
 - Posts
 tags:

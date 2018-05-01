@@ -1,6 +1,6 @@
 ---
 title: Workshop de Lean Startup em Bras&iacute;lia
-date: 2011-08-26 14:09:36 Z
+date: 2011-08-26 11:09:36 -03:00
 categories:
 - Posts
 layout: post

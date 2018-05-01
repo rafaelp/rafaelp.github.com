@@ -1,6 +1,6 @@
 ---
 title: O que o Android, plataforma para mobiles do Google, vai trazer de mudan&ccedil;a?
-date: 2008-01-14 11:21:43 Z
+date: 2008-01-14 09:21:43 -02:00
 categories:
 - Posts
 tags:

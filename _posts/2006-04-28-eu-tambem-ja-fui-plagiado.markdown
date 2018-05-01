@@ -1,6 +1,6 @@
 ---
 title: Eu tamb&eacute;m j&aacute; fui plagiado
-date: 2006-04-28 14:45:50 Z
+date: 2006-04-28 11:45:50 -03:00
 categories:
 - Posts
 tags:

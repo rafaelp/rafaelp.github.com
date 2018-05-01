@@ -1,6 +1,6 @@
 ---
 title: Blogs Corporativos
-date: 2006-10-26 05:01:47 Z
+date: 2006-10-26 02:01:47 -03:00
 categories:
 - Posts
 tags:

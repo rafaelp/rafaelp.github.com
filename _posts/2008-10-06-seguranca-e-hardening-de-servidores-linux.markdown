@@ -1,6 +1,6 @@
 ---
 title: Seguran&ccedil;a e Hardening de servidores linux
-date: 2008-10-06 04:48:57 Z
+date: 2008-10-06 01:48:57 -03:00
 categories:
 - Posts
 tags:

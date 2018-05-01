@@ -1,6 +1,6 @@
 ---
 title: 'Brainstorm: Token da Coca-Cola'
-date: 2007-07-17 03:12:22 Z
+date: 2007-07-17 00:12:22 -03:00
 categories:
 - Brainstorm
 tags:

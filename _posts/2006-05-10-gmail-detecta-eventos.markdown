@@ -1,6 +1,6 @@
 ---
 title: Gmail detecta eventos
-date: 2006-05-10 15:30:26 Z
+date: 2006-05-10 12:30:26 -03:00
 categories:
 - Posts
 tags:

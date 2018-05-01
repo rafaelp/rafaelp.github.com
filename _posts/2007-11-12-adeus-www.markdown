@@ -1,6 +1,6 @@
 ---
 title: Adeus WWW
-date: 2007-11-12 22:10:53 Z
+date: 2007-11-12 20:10:53 -02:00
 categories:
 - Posts
 tags:

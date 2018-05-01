@@ -1,6 +1,6 @@
 ---
 title: Temperatura da "gelada"
-date: 2006-09-16 16:42:51 Z
+date: 2006-09-16 13:42:51 -03:00
 categories:
 - Brainstorm
 tags:

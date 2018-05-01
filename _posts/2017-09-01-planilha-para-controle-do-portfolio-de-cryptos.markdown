@@ -1,6 +1,6 @@
 ---
 title: Planilha para controle do portfólio de cryptos
-date: 2017-09-01 00:00:00 Z
+date: 2017-09-01 00:00:00 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "[Resolvido] Problema com alguns sites usando Velox no Windows Vista"
-date: 2009-01-20 13:00:09 Z
+date: 2009-01-20 11:00:09 -02:00
 categories:
 - Posts
 tags:

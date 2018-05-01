@@ -1,6 +1,6 @@
 ---
 title: Definindo o foco do blog pessoal
-date: 2008-09-17 03:49:15 Z
+date: 2008-09-17 00:49:15 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

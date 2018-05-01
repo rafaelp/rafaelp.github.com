@@ -1,6 +1,6 @@
 ---
 title: Passeio de Buggy no Oxente Rails 2009
-date: 2009-08-08 14:09:11 Z
+date: 2009-08-08 11:09:11 -03:00
 categories:
 - Posts
 tags:

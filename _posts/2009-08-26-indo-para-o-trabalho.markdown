@@ -1,6 +1,6 @@
 ---
 title: Indo para o trabalho
-date: 2009-08-26 03:36:36 Z
+date: 2009-08-26 00:36:36 -03:00
 categories:
 - Posts
 layout: post

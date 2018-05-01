@@ -1,6 +1,6 @@
 ---
 title: 'Knol: Um passo do Google contra a sustentabilidade'
-date: 2007-12-17 12:41:57 Z
+date: 2007-12-17 10:41:57 -02:00
 categories:
 - Posts
 tags:

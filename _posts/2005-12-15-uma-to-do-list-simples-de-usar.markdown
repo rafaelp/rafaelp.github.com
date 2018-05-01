@@ -1,6 +1,6 @@
 ---
 title: Uma To-do list simples de usar
-date: 2005-12-15 20:31:00 Z
+date: 2005-12-15 18:31:00 -02:00
 categories:
 - Posts
 layout: post

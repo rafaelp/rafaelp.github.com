@@ -1,6 +1,6 @@
 ---
 title: A publicidade offline como suporte ao marketing digital
-date: 2008-03-14 23:45:47 Z
+date: 2008-03-14 20:45:47 -03:00
 categories:
 - Posts
 tags:

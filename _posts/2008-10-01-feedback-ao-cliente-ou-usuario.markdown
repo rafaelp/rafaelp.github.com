@@ -1,6 +1,6 @@
 ---
 title: Feedback ao cliente ou usu&aacute;rio
-date: 2008-10-01 03:53:05 Z
+date: 2008-10-01 00:53:05 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

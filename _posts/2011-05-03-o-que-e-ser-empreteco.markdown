@@ -1,6 +1,6 @@
 ---
 title: O que &eacute; ser Empreteco?
-date: 2011-05-03 19:33:49 Z
+date: 2011-05-03 16:33:49 -03:00
 categories:
 - Posts
 layout: post

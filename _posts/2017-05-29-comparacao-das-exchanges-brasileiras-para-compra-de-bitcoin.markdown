@@ -1,6 +1,6 @@
 ---
 title: Comparação das exchanges brasileiras para compra de Bitcoin
-date: 2017-05-29 00:00:00 Z
+date: 2017-05-29 00:00:00 -03:00
 categories:
 - Posts
 tags:

@@ -1,7 +1,7 @@
 ---
 title: IE 6 Cookie bug - Setting cookies fails when the hostname of the server contains
   an underscore.
-date: 2008-05-28 16:44:42 Z
+date: 2008-05-28 13:44:42 -03:00
 categories:
 - Posts
 tags:

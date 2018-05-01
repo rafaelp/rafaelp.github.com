@@ -1,6 +1,6 @@
 ---
 title: Projetos opensource publicados no Github
-date: 2008-08-11 04:33:44 Z
+date: 2008-08-11 01:33:44 -03:00
 categories:
 - Posts
 tags:

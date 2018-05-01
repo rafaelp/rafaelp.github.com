@@ -1,6 +1,6 @@
 ---
 title: Orkut para os pais
-date: 2006-11-02 14:48:25 Z
+date: 2006-11-02 11:48:25 -03:00
 categories:
 - Posts
 tags:

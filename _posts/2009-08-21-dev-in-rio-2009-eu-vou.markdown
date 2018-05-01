@@ -1,6 +1,6 @@
 ---
 title: 'Dev in Rio 2009: eu vou!'
-date: 2009-08-21 16:28:29 Z
+date: 2009-08-21 13:28:29 -03:00
 categories:
 - Posts
 tags:

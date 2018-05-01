@@ -1,6 +1,6 @@
 ---
 title: Etiquetagem (sistema de tags) para navega&ccedil;&atilde;o
-date: 2006-05-05 16:21:00 Z
+date: 2006-05-05 13:21:00 -03:00
 categories:
 - Posts
 tags:

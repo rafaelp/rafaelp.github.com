@@ -1,6 +1,6 @@
 ---
 title: Using Gmail as email aggregator
-date: 2006-04-24 03:47:14 Z
+date: 2006-04-24 00:47:14 -03:00
 categories:
 - Posts
 tags:

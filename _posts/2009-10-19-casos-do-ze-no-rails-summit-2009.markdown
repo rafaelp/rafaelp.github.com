@@ -1,6 +1,6 @@
 ---
 title: Casos do Z&eacute; no Rails Summit 2009
-date: 2009-10-19 17:33:35 Z
+date: 2009-10-19 15:33:35 -02:00
 categories:
 - Posts
 tags:

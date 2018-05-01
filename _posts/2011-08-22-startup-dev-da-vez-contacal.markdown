@@ -1,6 +1,6 @@
 ---
 title: 'Startup DEV da vez: ContaCal'
-date: 2011-08-22 18:41:35 Z
+date: 2011-08-22 15:41:35 -03:00
 categories:
 - Posts
 layout: post

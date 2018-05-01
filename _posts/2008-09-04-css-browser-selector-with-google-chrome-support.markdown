@@ -1,6 +1,6 @@
 ---
 title: CSS Browser Selector with Google Chrome Support
-date: 2008-09-04 03:30:49 Z
+date: 2008-09-04 00:30:49 -03:00
 categories:
 - Posts
 tags:

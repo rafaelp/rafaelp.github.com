@@ -1,6 +1,6 @@
 ---
 title: Podcast Deployment no GitHub
-date: 2008-08-29 04:02:23 Z
+date: 2008-08-29 01:02:23 -03:00
 categories:
 - Posts
 tags:

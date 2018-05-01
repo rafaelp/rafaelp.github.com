@@ -1,6 +1,6 @@
 ---
 title: Como resolver o problema de lentid&atilde;o do Rubygems com Github
-date: 2008-09-20 15:17:47 Z
+date: 2008-09-20 12:17:47 -03:00
 categories:
 - Posts
 tags:

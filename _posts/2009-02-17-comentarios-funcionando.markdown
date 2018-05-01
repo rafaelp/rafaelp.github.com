@@ -1,6 +1,6 @@
 ---
 title: Coment&aacute;rios funcionando
-date: 2009-02-17 04:28:14 Z
+date: 2009-02-17 01:28:14 -03:00
 categories:
 - Posts
 layout: post

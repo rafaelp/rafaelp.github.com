@@ -1,6 +1,6 @@
 ---
 title: Pagamento on-line no Brasil - Boleto Banc&aacute;rio
-date: 2008-04-30 20:47:54 Z
+date: 2008-04-30 17:47:54 -03:00
 categories:
 - Posts
 tags:

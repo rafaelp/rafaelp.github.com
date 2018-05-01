@@ -1,6 +1,6 @@
 ---
 title: Outdoor no Celular
-date: 2006-11-01 04:31:50 Z
+date: 2006-11-01 01:31:50 -03:00
 categories:
 - Posts
 - Brainstorm

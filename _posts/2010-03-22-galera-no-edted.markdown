@@ -1,6 +1,6 @@
 ---
 title: Galera no EDTED
-date: 2010-03-22 13:50:20 Z
+date: 2010-03-22 10:50:20 -03:00
 categories:
 - Posts
 tags:

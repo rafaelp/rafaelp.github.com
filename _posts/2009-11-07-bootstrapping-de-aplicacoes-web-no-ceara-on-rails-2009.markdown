@@ -1,6 +1,6 @@
 ---
 title: Bootstrapping de Aplica&ccedil;&otilde;es Web no Cear&aacute; on Rails 2009
-date: 2009-11-07 21:59:27 Z
+date: 2009-11-07 19:59:27 -02:00
 categories:
 - Posts
 tags:

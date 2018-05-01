@@ -1,6 +1,6 @@
 ---
 title: Mentoria gratuita para Startups
-date: 2014-01-28 00:00:00 Z
+date: 2014-01-28 00:00:00 -02:00
 categories:
 - Posts
 tags:

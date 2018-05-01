@@ -1,6 +1,6 @@
 ---
 title: A ilus&atilde;o da previsibilidade
-date: 2012-04-04 21:14:27 Z
+date: 2012-04-04 18:14:27 -03:00
 categories:
 - Posts
 layout: post

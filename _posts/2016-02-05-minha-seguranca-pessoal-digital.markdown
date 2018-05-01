@@ -1,6 +1,6 @@
 ---
 title: Minha Segurança Pessoal Digital
-date: 2016-02-05 00:00:00 Z
+date: 2016-02-05 00:00:00 -02:00
 categories:
 - Posts
 layout: post

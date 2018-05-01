@@ -1,6 +1,6 @@
 ---
 title: 'NAW: Depois do nome, vem a equipe'
-date: 2008-02-01 05:00:27 Z
+date: 2008-02-01 03:00:27 -02:00
 categories:
 - Posts
 tags:

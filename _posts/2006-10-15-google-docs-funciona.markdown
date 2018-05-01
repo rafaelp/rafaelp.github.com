@@ -1,6 +1,6 @@
 ---
 title: GoogleDocs funciona?
-date: 2006-10-15 19:50:00 Z
+date: 2006-10-15 16:50:00 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Rails Summit: Eu vou!'
-date: 2008-08-22 13:23:28 Z
+date: 2008-08-22 10:23:28 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Por que desenvolvimento de software &eacute; caro?
-date: 2008-11-12 02:25:04 Z
+date: 2008-11-12 00:25:04 -02:00
 categories:
 - Posts
 tags:

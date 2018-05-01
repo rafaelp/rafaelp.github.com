@@ -1,6 +1,6 @@
 ---
 title: Page Up e Page Down no Terminal do Mac
-date: 2008-09-09 03:07:01 Z
+date: 2008-09-09 00:07:01 -03:00
 categories:
 - Posts
 tags:

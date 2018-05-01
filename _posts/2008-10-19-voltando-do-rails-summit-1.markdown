@@ -1,6 +1,6 @@
 ---
 title: 'Voltando do Rails Summit 2008 #1'
-date: 2008-10-19 21:05:24 Z
+date: 2008-10-19 19:05:24 -02:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

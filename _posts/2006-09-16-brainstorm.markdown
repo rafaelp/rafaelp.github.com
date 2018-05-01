@@ -1,6 +1,6 @@
 ---
 title: Brainstorm
-date: 2006-09-16 16:30:05 Z
+date: 2006-09-16 13:30:05 -03:00
 categories:
 - Posts
 - Brainstorm

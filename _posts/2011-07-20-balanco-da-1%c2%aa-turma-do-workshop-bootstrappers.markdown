@@ -1,6 +1,6 @@
 ---
 title: Balan&ccedil;o da 1&ordf; turma do Workshop Bootstrappers
-date: 2011-07-20 23:56:22 Z
+date: 2011-07-20 20:56:22 -03:00
 categories:
 - Posts
 layout: post

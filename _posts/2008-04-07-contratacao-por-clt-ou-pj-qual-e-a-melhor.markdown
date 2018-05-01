@@ -1,6 +1,6 @@
 ---
 title: Contrata&ccedil;&atilde;o por CLT ou PJ. Qual &eacute; a melhor?
-date: 2008-04-07 22:11:13 Z
+date: 2008-04-07 19:11:13 -03:00
 categories:
 - Posts
 tags:

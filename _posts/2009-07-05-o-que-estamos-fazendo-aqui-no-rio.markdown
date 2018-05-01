@@ -1,6 +1,6 @@
 ---
 title: O que estamos fazendo aqui no Rio
-date: 2009-07-05 16:21:24 Z
+date: 2009-07-05 13:21:24 -03:00
 categories:
 - Posts
 tags:

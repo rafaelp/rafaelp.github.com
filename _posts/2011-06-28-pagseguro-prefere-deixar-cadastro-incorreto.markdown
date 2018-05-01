@@ -1,6 +1,6 @@
 ---
 title: PagSeguro prefere deixar cadastro incorreto
-date: 2011-06-28 19:04:42 Z
+date: 2011-06-28 16:04:42 -03:00
 categories:
 - Posts
 layout: post

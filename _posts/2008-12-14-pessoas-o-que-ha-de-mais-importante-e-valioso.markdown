@@ -1,6 +1,6 @@
 ---
 title: Pessoas, o que h&aacute; de mais importante e valioso
-date: 2008-12-14 14:47:16 Z
+date: 2008-12-14 12:47:16 -02:00
 categories:
 - Posts
 tags:

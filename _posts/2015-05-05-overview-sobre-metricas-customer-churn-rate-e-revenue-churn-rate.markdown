@@ -1,6 +1,6 @@
 ---
 title: 'Overview sobre métricas: Customer Churn Rate e Revenue Churn Rate'
-date: 2015-05-05 00:00:00 Z
+date: 2015-05-05 00:00:00 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Experimentos de Lean Startup realizados no Cobre Gr&aacute;tis
-date: 2011-08-17 21:51:08 Z
+date: 2011-08-17 18:51:08 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Deployment de aplica&ccedil;&atilde;o web no Amazon Web Services
-date: 2008-08-22 04:43:58 Z
+date: 2008-08-22 01:43:58 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

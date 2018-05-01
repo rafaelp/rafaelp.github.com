@@ -1,6 +1,6 @@
 ---
 title: Instalando a gem postgres no Mac OS X 10.5 (Leopard)
-date: 2008-09-24 03:45:47 Z
+date: 2008-09-24 00:45:47 -03:00
 categories:
 - Posts
 tags:

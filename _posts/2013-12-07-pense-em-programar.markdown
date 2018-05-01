@@ -1,6 +1,6 @@
 ---
 title: Pense em programar
-date: 2013-12-07 00:00:00 Z
+date: 2013-12-07 00:00:00 -02:00
 categories:
 - Posts
 tags:

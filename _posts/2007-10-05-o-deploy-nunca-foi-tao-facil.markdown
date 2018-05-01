@@ -1,6 +1,6 @@
 ---
 title: O deploy nunca foi t&atilde;o f&aacute;cil
-date: 2007-10-05 23:22:47 Z
+date: 2007-10-05 20:22:47 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Nova Home Page do Yahoo
-date: 2006-05-17 16:20:33 Z
+date: 2006-05-17 13:20:33 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Iniciando o site...
-date: 2005-09-07 13:23:03 Z
+date: 2005-09-07 10:23:03 -03:00
 categories:
 - Posts
 layout: post

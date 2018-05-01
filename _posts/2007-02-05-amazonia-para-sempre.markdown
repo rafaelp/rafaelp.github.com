@@ -1,6 +1,6 @@
 ---
 title: Amaz&ocirc;nia para Sempre
-date: 2007-02-05 11:24:12 Z
+date: 2007-02-05 09:24:12 -02:00
 categories:
 - Posts
 tags:

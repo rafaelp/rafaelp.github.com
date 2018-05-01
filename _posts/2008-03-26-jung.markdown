@@ -1,6 +1,6 @@
 ---
 title: Jung
-date: 2008-03-26 13:29:22 Z
+date: 2008-03-26 10:29:22 -03:00
 categories:
 - Posts
 tags:

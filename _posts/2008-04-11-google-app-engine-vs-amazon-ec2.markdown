@@ -1,6 +1,6 @@
 ---
 title: Google App Engine vs Amazon EC2
-date: 2008-04-11 18:56:40 Z
+date: 2008-04-11 15:56:40 -03:00
 categories:
 - Posts
 tags:

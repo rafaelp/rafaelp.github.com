@@ -1,6 +1,6 @@
 ---
 title: Valida&ccedil;&atilde;o de formul&aacute;rios ultra simples
-date: 2007-06-18 03:40:17 Z
+date: 2007-06-18 00:40:17 -03:00
 categories:
 - Posts
 tags:

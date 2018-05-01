@@ -1,6 +1,6 @@
 ---
 title: 'Off-topic: hora de trabalhar'
-date: 2008-02-11 22:10:50 Z
+date: 2008-02-11 20:10:50 -02:00
 categories:
 - Posts
 layout: post

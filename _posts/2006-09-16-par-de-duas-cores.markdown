@@ -1,6 +1,6 @@
 ---
 title: Par de duas cores
-date: 2006-09-16 16:37:10 Z
+date: 2006-09-16 13:37:10 -03:00
 categories:
 - Brainstorm
 tags:

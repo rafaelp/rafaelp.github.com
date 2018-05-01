@@ -1,6 +1,6 @@
 ---
 title: Webinario sobre erros e acertos na criação de produtos web
-date: 2012-06-30 00:00:00 Z
+date: 2012-06-30 00:00:00 -03:00
 categories:
 - Posts
 layout: post

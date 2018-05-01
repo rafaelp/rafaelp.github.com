@@ -1,6 +1,6 @@
 ---
 title: Bluetooth no capacete
-date: 2006-09-16 16:57:27 Z
+date: 2006-09-16 13:57:27 -03:00
 categories:
 - Brainstorm
 layout: post

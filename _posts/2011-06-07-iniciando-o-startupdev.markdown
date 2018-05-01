@@ -1,6 +1,6 @@
 ---
 title: Iniciando o Startup DEV
-date: 2011-06-07 12:49:56 Z
+date: 2011-06-07 09:49:56 -03:00
 categories:
 - Posts
 tags:

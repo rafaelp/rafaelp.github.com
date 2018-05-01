@@ -1,6 +1,6 @@
 ---
 title: A import&acirc;ncia do Deadline
-date: 2008-09-10 03:46:15 Z
+date: 2008-09-10 00:46:15 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

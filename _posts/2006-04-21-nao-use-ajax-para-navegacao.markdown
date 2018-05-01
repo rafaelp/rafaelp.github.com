@@ -1,6 +1,6 @@
 ---
 title: N&atilde;o use ajax para navega&ccedil;&atilde;o
-date: 2006-04-21 14:04:37 Z
+date: 2006-04-21 11:04:37 -03:00
 categories:
 - Posts
 tags:

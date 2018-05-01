@@ -1,6 +1,6 @@
 ---
 title: Startupfarm - Cultivando Startups Espetaculares
-date: 2011-10-19 02:26:59 Z
+date: 2011-10-19 00:26:59 -02:00
 categories:
 - Posts
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: Produto para cria&ccedil;&atilde;o de sites e publica&ccedil;&atilde;o de fotos
   na internet
-date: 2009-04-18 20:01:55 Z
+date: 2009-04-18 17:01:55 -03:00
 categories:
 - Posts
 tags:

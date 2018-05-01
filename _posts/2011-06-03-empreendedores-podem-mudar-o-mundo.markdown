@@ -1,6 +1,6 @@
 ---
 title: Empreendedores podem mudar o mundo
-date: 2011-06-03 03:14:47 Z
+date: 2011-06-03 00:14:47 -03:00
 categories:
 - Posts
 layout: post

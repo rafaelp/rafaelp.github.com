@@ -1,6 +1,6 @@
 ---
 title: Bons profissionais de TI
-date: 2007-09-16 20:40:28 Z
+date: 2007-09-16 17:40:28 -03:00
 categories:
 - Posts
 layout: post

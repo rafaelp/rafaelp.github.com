@@ -1,6 +1,6 @@
 ---
 title: Um must-read para desenvolvedores Rails
-date: 2008-01-13 04:22:16 Z
+date: 2008-01-13 02:22:16 -02:00
 categories:
 - Posts
 tags:

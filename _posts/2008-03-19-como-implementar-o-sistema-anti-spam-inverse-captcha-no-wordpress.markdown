@@ -1,6 +1,6 @@
 ---
 title: Como implementar o sistema anti-spam Inverse Captcha no WordPress
-date: 2008-03-19 03:01:47 Z
+date: 2008-03-19 00:01:47 -03:00
 categories:
 - Posts
 tags:

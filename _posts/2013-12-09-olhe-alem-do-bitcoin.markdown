@@ -1,6 +1,6 @@
 ---
 title: Olhe além do Bitcoin
-date: 2013-12-09 00:00:00 Z
+date: 2013-12-09 00:00:00 -02:00
 categories:
 - Posts
 tags:

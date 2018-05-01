@@ -1,7 +1,7 @@
 ---
 title: Depend&ecirc;ncias externas em um servi&ccedil;o no modelo aplica&ccedil;&atilde;o
   web
-date: 2008-08-20 03:45:02 Z
+date: 2008-08-20 00:45:02 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

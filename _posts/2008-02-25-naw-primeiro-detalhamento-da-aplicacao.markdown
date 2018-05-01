@@ -1,6 +1,6 @@
 ---
 title: 'NAW: Primeiro detalhamento da aplica&ccedil;&atilde;o'
-date: 2008-02-25 14:52:41 Z
+date: 2008-02-25 11:52:41 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Off-topic: Mobileado, no que isso vai dar?'
-date: 2008-08-01 03:02:37 Z
+date: 2008-08-01 00:02:37 -03:00
 categories:
 - Posts
 layout: post

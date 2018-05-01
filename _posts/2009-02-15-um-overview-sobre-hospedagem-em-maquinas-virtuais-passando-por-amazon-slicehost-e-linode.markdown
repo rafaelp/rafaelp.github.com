@@ -1,7 +1,7 @@
 ---
 title: Um overview sobre hospedagem em m&aacute;quinas virtuais, passando por Amazon,
   Slicehost e Linode.
-date: 2009-02-15 14:01:24 Z
+date: 2009-02-15 11:01:24 -03:00
 categories:
 - Posts
 layout: post

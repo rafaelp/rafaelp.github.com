@@ -1,6 +1,6 @@
 ---
 title: Minha filosofia e meus valores sobre produtos de software
-date: 2016-11-24 00:00:00 Z
+date: 2016-11-24 00:00:00 -02:00
 categories:
 - Posts
 tags:

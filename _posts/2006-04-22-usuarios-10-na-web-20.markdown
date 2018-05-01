@@ -1,6 +1,6 @@
 ---
 title: Usu&aacute;rios 1.0 na Web 2.0
-date: 2006-04-22 23:35:23 Z
+date: 2006-04-22 20:35:23 -03:00
 categories:
 - Posts
 tags:

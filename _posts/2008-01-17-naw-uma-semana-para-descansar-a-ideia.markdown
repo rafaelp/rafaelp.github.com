@@ -1,6 +1,6 @@
 ---
 title: 'NAW: Uma semana para descansar a id&eacute;ia'
-date: 2008-01-17 06:11:55 Z
+date: 2008-01-17 04:11:55 -02:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Como se organizar utilizando o Gmail
-date: 2006-04-25 22:19:16 Z
+date: 2006-04-25 19:19:16 -03:00
 categories:
 - Posts
 tags:

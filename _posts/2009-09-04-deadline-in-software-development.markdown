@@ -1,6 +1,6 @@
 ---
 title: Deadline in Software Development
-date: 2009-09-04 20:06:23 Z
+date: 2009-09-04 17:06:23 -03:00
 categories:
 - Posts
 tags:

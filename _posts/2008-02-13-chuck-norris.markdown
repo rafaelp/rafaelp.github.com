@@ -1,6 +1,6 @@
 ---
 title: Chuck Norris
-date: 2008-02-13 02:02:07 Z
+date: 2008-02-13 00:02:07 -02:00
 categories:
 - Posts
 tags:

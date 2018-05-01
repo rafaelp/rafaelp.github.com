@@ -1,6 +1,6 @@
 ---
 title: 'Recebendo fax no e-mail: emailfax.com.br'
-date: 2007-01-19 21:16:15 Z
+date: 2007-01-19 19:16:15 -02:00
 categories:
 - Posts
 tags:

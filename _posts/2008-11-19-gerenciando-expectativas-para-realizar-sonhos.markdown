@@ -1,6 +1,6 @@
 ---
 title: Gerenciando expectativas para realizar sonhos
-date: 2008-11-19 03:44:30 Z
+date: 2008-11-19 01:44:30 -02:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

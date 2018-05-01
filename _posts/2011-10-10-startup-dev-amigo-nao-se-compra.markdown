@@ -1,6 +1,6 @@
 ---
 title: 'Startup DEV: Amigo n&atilde;o se compra'
-date: 2011-10-10 19:32:44 Z
+date: 2011-10-10 16:32:44 -03:00
 categories:
 - Posts
 layout: post

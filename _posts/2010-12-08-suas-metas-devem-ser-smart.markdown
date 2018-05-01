@@ -1,6 +1,6 @@
 ---
 title: Suas Metas devem ser SMART
-date: 2010-12-08 02:43:41 Z
+date: 2010-12-08 00:43:41 -02:00
 categories:
 - Posts
 layout: post

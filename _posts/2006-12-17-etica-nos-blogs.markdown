@@ -1,6 +1,6 @@
 ---
 title: "&Eacute;tica nos blogs"
-date: 2006-12-17 22:38:55 Z
+date: 2006-12-17 20:38:55 -02:00
 categories:
 - Posts
 layout: post

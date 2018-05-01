@@ -1,6 +1,6 @@
 ---
 title: Java x Rails para Web
-date: 2007-10-07 15:49:21 Z
+date: 2007-10-07 12:49:21 -03:00
 categories:
 - Posts
 tags:

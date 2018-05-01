@@ -1,6 +1,6 @@
 ---
 title: South Schema Migration Cheat Sheet
-date: 2009-05-26 16:08:49 Z
+date: 2009-05-26 13:08:49 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Ambiente de trabalho para uma equipe de desenvolvimento &aacute;gil
-date: 2009-04-23 03:14:46 Z
+date: 2009-04-23 00:14:46 -03:00
 categories:
 - Posts
 tags:

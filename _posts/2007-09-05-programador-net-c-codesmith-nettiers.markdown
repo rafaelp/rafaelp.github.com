@@ -1,6 +1,6 @@
 ---
 title: Programador .NET C# CodeSmith .netTiers
-date: 2007-09-05 19:17:19 Z
+date: 2007-09-05 16:17:19 -03:00
 categories:
 - Posts
 layout: post

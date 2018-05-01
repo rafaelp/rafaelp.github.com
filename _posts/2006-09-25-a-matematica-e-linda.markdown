@@ -1,6 +1,6 @@
 ---
 title: A matem&aacute;tica &eacute; linda
-date: 2006-09-25 16:30:17 Z
+date: 2006-09-25 13:30:17 -03:00
 categories:
 - Posts
 tags:

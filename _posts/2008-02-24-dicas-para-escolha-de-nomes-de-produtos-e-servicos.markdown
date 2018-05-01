@@ -1,6 +1,6 @@
 ---
 title: Dicas para escolha de nomes de produtos e servi&ccedil;os
-date: 2008-02-24 17:29:19 Z
+date: 2008-02-24 14:29:19 -03:00
 categories:
 - Posts
 tags:

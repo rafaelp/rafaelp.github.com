@@ -1,6 +1,6 @@
 ---
 title: Otimizando leitura dos feeds
-date: 2008-03-12 22:02:57 Z
+date: 2008-03-12 19:02:57 -03:00
 categories:
 - Posts
 tags:

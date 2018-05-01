@@ -1,6 +1,6 @@
 ---
 title: eu, a web, n&oacute;s...
-date: 2006-09-22 18:40:15 Z
+date: 2006-09-22 15:40:15 -03:00
 categories:
 - Posts
 layout: post

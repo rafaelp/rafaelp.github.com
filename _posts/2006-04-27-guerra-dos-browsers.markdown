@@ -1,6 +1,6 @@
 ---
 title: Guerra dos Browsers
-date: 2006-04-27 18:14:59 Z
+date: 2006-04-27 15:14:59 -03:00
 categories:
 - Posts
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Em &eacute;poca de Copa...
-date: 2006-05-15 15:10:34 Z
+date: 2006-05-15 12:10:34 -03:00
 categories:
 - Posts
 tags:

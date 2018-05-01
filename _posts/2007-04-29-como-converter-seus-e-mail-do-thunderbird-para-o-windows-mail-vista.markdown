@@ -1,6 +1,6 @@
 ---
 title: Como converter seus e-mail do Thunderbird para o Windows Mail (Vista)
-date: 2007-04-29 16:03:01 Z
+date: 2007-04-29 13:03:01 -03:00
 categories:
 - Posts
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Acervo da Superinteressante
-date: 2008-03-04 20:01:11 Z
+date: 2008-03-04 17:01:11 -03:00
 categories:
 - Posts
 tags:

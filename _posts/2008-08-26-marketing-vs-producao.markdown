@@ -1,6 +1,6 @@
 ---
 title: Marketing vs Produ&ccedil;&atilde;o
-date: 2008-08-26 03:56:39 Z
+date: 2008-08-26 00:56:39 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

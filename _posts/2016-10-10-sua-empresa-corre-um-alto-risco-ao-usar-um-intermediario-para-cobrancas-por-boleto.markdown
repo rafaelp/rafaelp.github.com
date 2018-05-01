@@ -1,7 +1,7 @@
 ---
 title: Sua empresa corre um alto risco ao usar um intermediário para cobranças por
   boleto
-date: 2016-10-10 00:00:00 Z
+date: 2016-10-10 00:00:00 -03:00
 categories:
 - Posts
 tags:

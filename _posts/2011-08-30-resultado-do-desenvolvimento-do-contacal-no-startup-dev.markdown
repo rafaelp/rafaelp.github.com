@@ -1,6 +1,6 @@
 ---
 title: Resultado do desenvolvimento do ContaCal no Startup DEV
-date: 2011-08-30 13:11:21 Z
+date: 2011-08-30 10:11:21 -03:00
 categories:
 - Posts
 tags:

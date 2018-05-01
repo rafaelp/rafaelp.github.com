@@ -1,6 +1,6 @@
 ---
 title: A id&eacute;ia
-date: 2008-08-15 05:10:25 Z
+date: 2008-08-15 02:10:25 -03:00
 categories:
 - 'Podcast: Voltando pra Casa'
 - podcast

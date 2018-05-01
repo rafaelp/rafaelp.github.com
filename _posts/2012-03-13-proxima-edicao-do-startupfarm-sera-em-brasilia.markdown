@@ -1,6 +1,6 @@
 ---
 title: Pr&oacute;xima edi&ccedil;&atilde;o do Startupfarm ser&aacute; em Bras&iacute;lia
-date: 2012-03-13 20:21:15 Z
+date: 2012-03-13 17:21:15 -03:00
 categories:
 - Posts
 layout: post

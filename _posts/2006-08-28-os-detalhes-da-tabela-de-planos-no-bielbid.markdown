@@ -1,6 +1,6 @@
 ---
 title: Os detalhes da tabela de planos no BielBid
-date: 2006-08-28 13:48:50 Z
+date: 2006-08-28 10:48:50 -03:00
 categories:
 - Posts
 tags:

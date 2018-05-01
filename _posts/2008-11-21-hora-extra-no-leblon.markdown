@@ -1,6 +1,6 @@
 ---
 title: Hora Extra no Leblon
-date: 2008-11-21 10:17:29 Z
+date: 2008-11-21 08:17:29 -02:00
 categories:
 - Posts
 tags:

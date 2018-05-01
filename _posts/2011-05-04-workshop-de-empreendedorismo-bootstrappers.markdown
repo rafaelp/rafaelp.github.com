@@ -1,23 +1,23 @@
---- 
+---
+title: Workshop de Empreendedorismo Bootstrappers
+date: 2011-05-04 22:53:55 Z
+categories:
+- Posts
+tags:
+- neg&oacute;cios
+- startup
+- empreendedorismo
+- workshop
 layout: post
 status: publish
-published: true
-title: Workshop de Empreendedorismo Bootstrappers
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 477
 wordpress_url: http://rafael.adm.br/?p=477
-date: 2011-05-04 19:53:55 -03:00
-categories: 
-- Posts
-tags: 
-- neg&oacute;cios
-- startup
-- empreendedorismo
-- workshop
 ---
+
 Estou anunciando hoje o <a href="http://bootstrappers.com.br/workshop/">workshop de empreendedorismo</a> que estou realizando. O nome &eacute; <a href="http://bootstrappers.com.br/workshop/">Workshop Bootstrappers</a>.
 
 Bootstrappers &eacute; o nome que se d&aacute; ao empreendedor que inicia o seu neg&oacute;cio com poucos recursos, em geral recursos pr&oacute;prios. Para ler mais sobre esse tipo de empreendedor, veja um <a href="http://www.saiadolugar.com.br/2010/06/10/o-manifesto-do-empreendedor-alca-de-bota/">post no Saia do Lugar sobre empreendedor al&ccedil;a-de-bota</a>.

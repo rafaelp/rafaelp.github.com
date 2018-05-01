@@ -1,22 +1,22 @@
 ---
-layout: post
-status: publish
-published: true
 title: CCE - Caracter&iacute;sticas do Comportamento Empreendedor
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 681
-wordpress_url: http://rafael.adm.br/?p=681
-date: 2011-12-03 21:55:38 -02:00
+date: 2011-12-03 23:55:38 Z
 categories:
 - Posts
 tags:
 - empreendedorismo
 - empretec
 - sebrae
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 681
+wordpress_url: http://rafael.adm.br/?p=681
 ---
+
 As CCEs, como s&atilde;o chamadas, s&atilde;o as caracter&iacute;sticas de comportamento encontradas nos empreendedores de sucesso. Esse material &eacute; do Sebrae e &eacute; utilizado no <a href="http://rafael.adm.br/p/empretec-eu-fiz/">Empretec</a>. O Empretec &eacute; um semin&aacute;rio de imers&atilde;o para forma&ccedil;&atilde;o de empreendedores, que foca basicamente em seu comportamento e rea&ccedil;&atilde;o diantes de desafios. Listei aqui as CCEs:
 
 <ul>

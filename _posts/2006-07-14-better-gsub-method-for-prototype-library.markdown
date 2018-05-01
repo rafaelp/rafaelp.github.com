@@ -1,23 +1,23 @@
---- 
+---
+title: Better gsub method for Prototype library.
+date: 2006-07-14 20:32:04 Z
+categories:
+- Posts
+tags:
+- programa&ccedil;&atilde;o
+- rails
+- ruby
+- javascript
 layout: post
 status: publish
-published: true
-title: Better gsub method for Prototype library.
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 57
 wordpress_url: http://rafael.adm.br/p/better-gsub-method-for-prototype-library/
-date: 2006-07-14 17:32:04 -03:00
-categories: 
-- Posts
-tags: 
-- programa&ccedil;&atilde;o
-- rails
-- ruby
-- javascript
 ---
+
 Today I needed to use the method <strong>gsub</strong> implemented by the <a href="http://prototype.conio.net/">Prototype</a>, the javascript library used by <a href="http://rubyonrails.com/">Rails</a>. I perceived that it was a little different of <a href="http://corelib.rubyonrails.com/classes/String.html#M001538">ruby's one</a>.
 
 <strong>The ruby method return a array if called without replacement string, but prototype's doesn't.</strong>

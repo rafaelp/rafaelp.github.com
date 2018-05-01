@@ -1,20 +1,20 @@
---- 
+---
+title: Hora Extra no Leblon
+date: 2008-11-21 10:17:29 Z
+categories:
+- Posts
+tags:
+- "#horaextra"
 layout: post
 status: publish
-published: true
-title: Hora Extra no Leblon
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 270
 wordpress_url: http://rafael.adm.br/?p=270
-date: 2008-11-21 08:17:29 -02:00
-categories: 
-- Posts
-tags: 
-- "#horaextra"
 ---
+
 <strong>Atualizado: </strong> Veja o an&uacute;ncio do <a href="http://rafael.adm.br/p/novo-ponto-de-encontro-do-hora-extra/">novo ponto de encontro</a>.
 
 Amigos do Rio de Janeiro, voc&ecirc;s est&atilde;o todos convidados a fazer hora extra na segunda-feira em nosso escrit&oacute;rio no Leblon. O escrit&oacute;rio &eacute; o Informal na Conde Bernadote (perto da Cobal e da Sendas). O pessoal chega para trabalhar umas 19:30h-20:00h

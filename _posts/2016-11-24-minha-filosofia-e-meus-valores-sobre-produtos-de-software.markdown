@@ -1,13 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Minha filosofia e meus valores sobre produtos de software
-slug: minha-filosofia-e-meus-valores-sobre-produtos-de-software
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2016-11-24 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -16,6 +9,12 @@ tags:
 - software
 - webapp
 - produto
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Quando montei minha empresa, eu publiquei esses textos que representam a minha visão sobre software. Embora escritos por volta de 2006, ainda são válidos até hoje. Reproduzo aqui os textos sem absolutamente nenhuma modificação.

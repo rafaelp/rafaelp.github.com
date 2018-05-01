@@ -1,21 +1,21 @@
---- 
+---
+title: A matem&aacute;tica &eacute; linda
+date: 2006-09-25 16:30:17 Z
+categories:
+- Posts
+tags:
+- simplicidade
+- matem&aacute;tica
 layout: post
 status: publish
-published: true
-title: A matem&aacute;tica &eacute; linda
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 88
 wordpress_url: http://rafael.adm.br/p/a-matematica-e-linda/
-date: 2006-09-25 13:30:17 -03:00
-categories: 
-- Posts
-tags: 
-- simplicidade
-- matem&aacute;tica
 ---
+
 Muito interessante a t&eacute;cnica de multiplica&ccedil;&atilde;o por grid.
 
 <img id="image87" src="http://rafael.adm.br/wp-content/uploads/2006/09/mathgrid.jpg" alt="Grid de Multiplica&ccedil;&atilde;o" />

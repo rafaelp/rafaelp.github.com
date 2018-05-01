@@ -1,20 +1,18 @@
---- 
+---
+title: EXAME.com faz mat&eacute;ria sobre o Startup DEV
+date: 2011-08-08 03:37:20 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: EXAME.com faz mat&eacute;ria sobre o Startup DEV
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 555
 wordpress_url: http://rafael.adm.br/?p=555
-date: 2011-08-08 00:37:20 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Na sexta-feira da semana passada saiu uma <a href="http://exame.abril.com.br/pme/startups/noticias/startupdev-cria-prototipo-de-negocios-online-em-48h">mat&eacute;ria na EXAME.com sobre o Startup DEV</a>. A mat&eacute;ria ficou muito boa e explicou perfeitamente como funciona o nosso modelo de trabalho.
 
 O <a href="http://startupdev.com.br">Startup DEV</a> &eacute; um modelo de trabalho inovador de desenvolvimento &aacute;gil no menor espa&ccedil;o de tempo poss&iacute;vel. &Eacute; uma iniciativa minha e do <a href="http://mergulhao.info">Sylvestre Mergulh&atilde;o</a>. 

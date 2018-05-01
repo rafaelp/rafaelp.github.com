@@ -1,12 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Vendo startup com altas taxas de conversão
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2014-03-01 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -15,7 +9,14 @@ tags:
 - venda
 - renda passiva
 - webapp
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
+
 **UPDATE: O sistema já foi vendido e completamente transferido em 8 de abril de 2014.**
 
 

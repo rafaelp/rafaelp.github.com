@@ -1,20 +1,18 @@
---- 
+---
+title: Workshop de Lean Startup em Bras&iacute;lia
+date: 2011-08-26 14:09:36 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Workshop de Lean Startup em Bras&iacute;lia
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 605
 wordpress_url: http://rafael.adm.br/?p=605
-date: 2011-08-26 11:09:36 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Eu tenho estudado e aplicado as t&eacute;cnicas de Lean Startup em meus neg&oacute;cios faz tempo. Nos &uacute;ltimos meses eu comecei a compartilhar o que eu estou aprendendo atrav&eacute;s do <a href="http://bit.ly/leanstartup-bsb">Workshop Bootstrappers</a>, que come&ccedil;ou sendo um workshop online, realizado pelo <a href="http://treinatom.com.br">Treina TOM</a>.
 
 Lean Startup &eacute; um conjunto de t&eacute;cnicas de gest&atilde;o de projetos que visa implementar mecanismos de aprendizado cont&iacute;nuo no processo de desenvolvimento do neg&oacute;cio a fim de diminuir as chances de que o "maravilhoso" produto que est&aacute; sendo desenvolvido n&atilde;o seja aceito no mercado. Esse movimento come&ccedil;ou muito ligado &agrave;s empresas de tecnologia e agora est&aacute; aos poucos migrando para o mercado corporativo.

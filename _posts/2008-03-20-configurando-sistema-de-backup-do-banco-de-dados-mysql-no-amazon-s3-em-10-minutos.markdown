@@ -1,24 +1,24 @@
---- 
+---
+title: Configurando sistema de backup do banco de dados MySQL no Amazon S3 em 10 minutos
+date: 2008-03-20 05:20:11 Z
+categories:
+- Posts
+tags:
+- seguran&ccedil;a
+- backup
+- banco de dados
+- mysql
+- servidor
 layout: post
 status: publish
-published: true
-title: Configurando sistema de backup do banco de dados MySQL no Amazon S3 em 10 minutos
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 176
 wordpress_url: http://rafael.adm.br/p/configurando-sistema-de-backup-do-banco-de-dados-mysql-no-amazon-s3-em-10-minutos/
-date: 2008-03-20 02:20:11 -03:00
-categories: 
-- Posts
-tags: 
-- seguran&ccedil;a
-- backup
-- banco de dados
-- mysql
-- servidor
 ---
+
 Por indica&ccedil;&atilde;o do <a href="http://williamaraujo.eng.br/">William</a>, passei a usar o <a href="http://sourceforge.net/projects/automysqlbackup/">AutoMySQLBackup</a> em conjunto com um script de sincroniza&ccedil;&atilde;o de diret&oacute;rios no Amazon S3, para realizar backup dos bancos de dados MySQL dos servidores dedicados da <a href="http://bielsystems.com.br">BielSystems</a>.
 
 <strong>Este script &eacute; bem completo e tem tudo que algu&eacute;m pode precisar para um sistema de backup eficiente e seguro em ambiente de produ&ccedil;&atilde;o.</strong>

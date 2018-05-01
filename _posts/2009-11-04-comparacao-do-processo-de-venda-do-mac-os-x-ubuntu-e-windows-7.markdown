@@ -1,18 +1,10 @@
---- 
-layout: post
-status: publish
-published: true
-title: Compara&ccedil;&atilde;o do processo de venda do Mac OS X, Ubuntu e Windows 7
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 416
-wordpress_url: http://rafael.adm.br/?p=416
-date: 2009-11-04 11:38:17 -02:00
-categories: 
+---
+title: Compara&ccedil;&atilde;o do processo de venda do Mac OS X, Ubuntu e Windows
+  7
+date: 2009-11-04 13:38:17 Z
+categories:
 - Posts
-tags: 
+tags:
 - windows
 - microsoft
 - sistema
@@ -20,7 +12,16 @@ tags:
 - mac
 - macos
 - apple
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 416
+wordpress_url: http://rafael.adm.br/?p=416
 ---
+
 Hoje eu entrei no site da <a href="http://www.microsoft.com/pt/br/default.aspx">Microsoft</a> para comprar o Windows 7 e percebi o quanto a Microsoft &eacute; _________ (complete voc&ecirc; mesmo nos coment&aacute;rios ap&oacute;s ler o post).
 
 Depois de comentar o caso com o pessoal na Myfreecomm, o <a href="http://celloguerra.com">Marcelo Guerra</a>, designer freak em web, imediatamente entrou no site do <a href="http://www.apple.com/macosx/">Mac OS X</a> e do <a href="http://www.ubuntu.com/">Ubuntu</a> para comparar. Veja a discrep&acirc;ncia e tire suas pr&oacute;prias conclus&otilde;es.

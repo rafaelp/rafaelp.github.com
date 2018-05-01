@@ -1,20 +1,20 @@
---- 
+---
+title: Par de duas cores
+date: 2006-09-16 16:37:10 Z
+categories:
+- Brainstorm
+tags:
+- Brainstorm
 layout: post
 status: publish
-published: true
-title: Par de duas cores
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 80
 wordpress_url: http://rafael.adm.br/p/par-de-duas-cores/
-date: 2006-09-16 13:37:10 -03:00
-categories: 
-- Brainstorm
-tags: 
-- Brainstorm
 ---
+
 Imagina s&oacute;, as pessoas na rua andando com um lado do t&ecirc;nis azul e outro verde. Parece coisa de maluco n&eacute;!?!? Na verdade isso &eacute; apenas uma quest&atilde;o cultural. Se todos andassem assim ningu&eacute;m iria achar estranho.
 
 O que ser&aacute; que aconteceria se a Nike, Alpargatas e outras grandes ind&uacute;strias multi-nacionais vestissem o Ronaldinho Ga&uacute;cho, Gisele Bundchen, Angelina Jolie e outros artistas com pares trocados?

@@ -1,16 +1,14 @@
---- 
+---
+title: Desenvolvendo uma webapp em 4 horas
+date: 2013-03-27 00:00:00 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Desenvolvendo uma webapp em 4 horas
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-categories: 
-- Posts
-tags: []
-
 ---
 
 Em meados de 2011 me surgiu a ideia de desenvolver aplicativos em 48 horas (seguidas) e vender esse serviço para quem precisasse fazer um MVP. Daí surgiu o [Startup DEV](http://startupdev.com.br). A ideia foi muito bem executada e hoje a [HE:labs](http://helabs.com.br) já entregou mais de 40 projetos em que os clientes ficaram felizes.

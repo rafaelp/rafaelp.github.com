@@ -1,18 +1,9 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: O real valor de um sistema est&aacute; nos detalhes
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 74
-wordpress_url: http://rafael.adm.br/p/o-real-valor-de-um-sistema-esta-nos-detalhes/
-date: 2006-08-23 20:51:55 -03:00
-categories: 
+date: 2006-08-23 23:51:55 Z
+categories:
 - Posts
-tags: 
+tags:
 - projetos
 - Tecnologia
 - comunica&ccedil;&atilde;o
@@ -21,7 +12,16 @@ tags:
 - interface
 - futuro
 - simplicidade
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 74
+wordpress_url: http://rafael.adm.br/p/o-real-valor-de-um-sistema-esta-nos-detalhes/
 ---
+
 Achei interessante o post do <a href="http://zeroseis.com.br/">Fabr&iacute;cio</a> relatando a <a href="http://zeroseis.com.br/blog/tchau-bloglines-ola-newshutch">sa&iacute;da do Bloglines em troca do Newshutch</a>. O que me chamou a aten&ccedil;&atilde;o foi o &uacute;ltimo par&aacute;grafo:
 
 <blockquote>"O que acho bacana nele (e o que <strong>me convenceu a mudar definitivamente</strong>) &eacute; o fato dele mostrar na lista de feeds somente os sites que ainda cont&eacute;m itens n&atilde;o lidos. Assim, quando leio o &uacute;ltimo item de um feed, ele some da coluna esquerda com uma anima&ccedil;&atilde;o suave. No Bloglines, com todos os feeds ao mesmo tempo na coluna esquerda, dava a <strong>impress&atilde;o de que eu nunca acabaria de ler tudo</strong>."</blockquote>

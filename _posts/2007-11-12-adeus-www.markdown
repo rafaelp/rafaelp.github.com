@@ -1,24 +1,24 @@
---- 
+---
+title: Adeus WWW
+date: 2007-11-12 22:10:53 Z
+categories:
+- Posts
+tags:
+- Tecnologia
+- web
+- futuro
+- tend&ecirc;ncias
+- web2.0
 layout: post
 status: publish
-published: true
-title: Adeus WWW
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 145
 wordpress_url: http://rafael.adm.br/p/adeus-www/
-date: 2007-11-12 20:10:53 -02:00
-categories: 
-- Posts
-tags: 
-- Tecnologia
-- web
-- futuro
-- tend&ecirc;ncias
-- web2.0
 ---
+
 O prefixo "www" nos endere&ccedil;os da web est&aacute; depreciado. Ele aos poucos est&aacute; sumindo, mas aqui no Brasil o n&uacute;mero de pessoas que mant&eacute;m o www ainda &eacute; grande e por isso estou escrevendo aqui sobre isso.
 Qual o motivo de n&atilde;o usar mais o "www"?
 Simplesmente por que n&atilde;o &eacute; necess&aacute;rio. Quando voc&ecirc; acessa um site o navegador j&aacute; pressup&otilde;e que seja web e acessa a porta certa com o protocolo certo, voc&ecirc; n&atilde;o precisa dizer, no nome do dom&iacute;nio, que est&aacute; querendo acessar a www. O prefixo "www" s&oacute; deixa o endere&ccedil;o maior.

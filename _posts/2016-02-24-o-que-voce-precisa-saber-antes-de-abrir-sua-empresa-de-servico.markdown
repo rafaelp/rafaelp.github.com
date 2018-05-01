@@ -1,16 +1,14 @@
 ---
+title: O que você precisa saber antes de abrir sua empresa de serviço
+date: 2016-02-24 00:00:00 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: O que você precisa saber antes de abrir sua empresa de serviço
-slug: o-que-voce-precisa-saber-antes-de-abrir-sua-empresa-de-servico
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-categories:
-- Posts
-tags: []
 ---
 
 Acabei de sair de uma conversa com um amigo que vai abrir uma empresa para ser prestador de serviço e comecei a escrever esse post. Surgiram várias questões e resolvi compilar aqui algumas informações úteis para auxiliar quem deseja abrir seu CNPJ para começar uma atividade.

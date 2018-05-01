@@ -1,23 +1,23 @@
---- 
+---
+title: Servi&ccedil;os relacionados a um projeto de site na internet
+date: 2007-11-09 03:01:36 Z
+categories:
+- Posts
+tags:
+- programa&ccedil;&atilde;o
+- design
+- consultoria
+- hospedagem
 layout: post
 status: publish
-published: true
-title: Servi&ccedil;os relacionados a um projeto de site na internet
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 144
 wordpress_url: http://rafael.adm.br/p/servicos-relacionados-a-um-projeto-de-site-na-internet/
-date: 2007-11-09 01:01:36 -02:00
-categories: 
-- Posts
-tags: 
-- programa&ccedil;&atilde;o
-- design
-- consultoria
-- hospedagem
 ---
+
 Este post &eacute; dedicado aqueles que desejam construir um site na internet e n&atilde;o tem nenhum conhecimento sobre os processos e servi&ccedil;os envolvidos. Tenho feito alguns sites de profissionais liberais e tenho percebido que nem todos sabem o que &eacute; necess&aacute;rio para ter um site funcionando e quais os servi&ccedil;os envolvidos.
 Se voc&ecirc; &eacute; um usu&aacute;rio avan&ccedil;ado, fique a vontade para indicar este post para seus clientes ou conhecidos que precisam ler sobre o assunto.
 

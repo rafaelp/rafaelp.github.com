@@ -1,13 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Que tal emprestar dinheiro a um estranho?
-slug: que-tal-emprestar-dinheiro-a-um-estranho
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-06-11 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -17,6 +10,12 @@ tags:
 - peer-to-peer
 - money
 - dinheiro
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 O peer-to-peer lending é uma novidade no mercado de FinTech. Trata-se de uma modalidade de empréstimo que é realizada diretamente entre pessoas, sem a presença de um banco.

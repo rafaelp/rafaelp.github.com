@@ -1,13 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Lições aprendidas após um ano de Boleto Simples 5/5
-slug: licoes-aprendidas-apos-um-ano-de-boleto-simples-55
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-04-22 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -15,6 +8,12 @@ tags:
 - saas
 - produto
 - software
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 O [Boleto Simples](https://boletosimples.com.br) é um sistema de cobrança que permite qualquer pessoa receber dinheiro usando boleto bancário sem precisar ter a carteira de cobrança no banco. Depois de um ano do produto lançado no mercado, compartilho nessa série de 5 posts os maiores aprendizados que eu tive.

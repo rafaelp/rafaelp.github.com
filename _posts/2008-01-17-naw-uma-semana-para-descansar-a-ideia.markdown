@@ -1,22 +1,22 @@
---- 
+---
+title: 'NAW: Uma semana para descansar a id&eacute;ia'
+date: 2008-01-17 06:11:55 Z
+categories:
+- Posts
+tags:
+- webapp
+- NAW
+- tempo
 layout: post
 status: publish
-published: true
-title: "NAW: Uma semana para descansar a id&eacute;ia"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 160
 wordpress_url: http://rafael.adm.br/p/naw-uma-semana-para-descancar-a-ideia/
-date: 2008-01-17 04:11:55 -02:00
-categories: 
-- Posts
-tags: 
-- webapp
-- NAW
-- tempo
 ---
+
 Este post faz parte de uma s&eacute;rie chamada NAW (Nova Aplica&ccedil;&atilde;o Web) que visa acompanhar <a href="http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/">a cria&ccedil;&atilde;o de um servi&ccedil;o web</a> da id&eacute;ia ao lan&ccedil;amento. <a href="http://rafael.adm.br/tag/naw">Todos os posts da s&eacute;rie</a> iniciam com as letras NAW.
 <hr />
 Essa eu aprendi com meu amigo <a href="http://viniciusbraga.com">Vinis</a>. Ele me ensinou a dar um tempo de descan&ccedil;o para qualquer trabalho. Seja l&aacute; a cria&ccedil;&atilde;o de uma logomarca, um c&oacute;digo de programa&ccedil;&atilde;o, ou at&eacute; mesmo a reda&ccedil;&atilde;o de um artigo.<strong>&Eacute; sempre bom voc&ecirc; deixar o trabalho um tempo descan&ccedil;ando. Mas o que isso quer dizer?</strong>Na pr&aacute;tica isso significa parar, focar em outra atividade e retomar depois de um tempo, que pode variar de 2 dias &agrave; uma semana, em geral. Ao voltar, voc&ecirc; n&atilde;o vai mais estar "dentro" do problema e conseguir&aacute; enxergar com mais clareza a situa&ccedil;&atilde;o como um todo. Como meu tio diz, "ter uma vis&atilde;o hol&iacute;stica tridimensional". Bonito, n&atilde;o!?Eu s&oacute; posso dizer que isso funciona!

@@ -1,18 +1,9 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Projetos opensource publicados no Github
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 210
-wordpress_url: http://rafael.adm.br/?p=210
-date: 2008-08-11 01:33:44 -03:00
-categories: 
+date: 2008-08-11 04:33:44 Z
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - projetos
@@ -22,7 +13,16 @@ tags:
 - scripts
 - plugins
 - php
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 210
+wordpress_url: http://rafael.adm.br/?p=210
 ---
+
 Nesta &uacute;ltima semana publiquei alguns projetos no Github. Meu perfil fica em <a href="http://github.com/rafaelp">github.com/rafaelp</a>
 
 Quem tiver interessado poder&aacute; acompanhar os projetos por l&aacute;. Tamb&eacute;m deixo a <a href="http://rafael.adm.br/projetos">p&aacute;gina de projetos deste site </a>sempre atualizada.Tamb&eacute;m estarei divulgando futuros projetos pelo twitter, quem quiser pode <a href="http://twitter.com/rafaelp">me acompanhar por l&aacute;</a>.

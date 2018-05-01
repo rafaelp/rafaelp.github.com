@@ -1,24 +1,24 @@
---- 
+---
+title: Backup dos e-mails, chegou a hora de se preocupar
+date: 2009-04-26 16:41:03 Z
+categories:
+- Posts
+tags:
+- gmail
+- email
+- linux
+- backup
+- mac
 layout: post
 status: publish
-published: true
-title: Backup dos e-mails, chegou a hora de se preocupar
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 320
 wordpress_url: http://rafael.adm.br/?p=320
-date: 2009-04-26 13:41:03 -03:00
-categories: 
-- Posts
-tags: 
-- gmail
-- email
-- linux
-- backup
-- mac
 ---
+
 Visto alguns <a href="http://www.techcrunch.com/2006/12/28/gmail-disaster-reports-of-mass-email-deletions/">problemas</a> com algumas contas no <a href="http://gmail.com">Gmail</a> que foram perdidas e o grande n&uacute;mero de e-mails que eu j&aacute; tenho l&aacute;, resolvi de uma vez por todas dedicar um tempo para configurar um backup autom&aacute;tico dos e-mails no meu computador.
 
 Os links de refer&ecirc;ncia s&atilde;o:

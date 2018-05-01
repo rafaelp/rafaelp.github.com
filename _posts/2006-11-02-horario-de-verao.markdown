@@ -1,23 +1,23 @@
---- 
+---
+title: Hor&aacute;rio de Ver&atilde;o
+date: 2006-11-02 03:22:30 Z
+categories:
+- Posts
+tags:
+- brasil
+- snippet
+- servidores
+- infra-estrutura
 layout: post
 status: publish
-published: true
-title: Hor&aacute;rio de Ver&atilde;o
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 100
 wordpress_url: http://rafael.adm.br/p/horario-de-verao/
-date: 2006-11-02 00:22:30 -03:00
-categories: 
-- Posts
-tags: 
-- brasil
-- snippet
-- servidores
-- infra-estrutura
 ---
+
 Vou deixar aqui uma dica para aqueles que n&atilde;o poder&atilde;o trocar o hor&aacute;rio do servidor (linux) no momento da virada do hor&aacute;rio de ver&atilde;o 2006.
 
 <strong>1. Crie o script horario_verao_2006.sh</strong>

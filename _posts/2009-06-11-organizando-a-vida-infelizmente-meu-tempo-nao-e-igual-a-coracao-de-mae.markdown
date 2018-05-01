@@ -1,23 +1,24 @@
---- 
+---
+title: Organizando a vida, infelizmente meu tempo n&atilde;o &eacute; igual a cora&ccedil;&atilde;o
+  de m&atilde;e.
+date: 2009-06-11 17:25:07 Z
+categories:
+- Posts
+tags:
+- neg&oacute;cios
+- webapp
+- servi&ccedil;o
+- produto
 layout: post
 status: publish
-published: true
-title: Organizando a vida, infelizmente meu tempo n&atilde;o &eacute; igual a cora&ccedil;&atilde;o de m&atilde;e.
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 344
 wordpress_url: http://rafael.adm.br/?p=344
-date: 2009-06-11 14:25:07 -03:00
-categories: 
-- Posts
-tags: 
-- neg&oacute;cios
-- webapp
-- servi&ccedil;o
-- produto
 ---
+
 Quem me acompanha por este blog ou pelo <a href="http://twitter.com/rafaelp">Twitter</a> sabe que no momento eu estou organizando minha vida e me desfazendo de alguns projetos pessoais. Eu j&aacute; resolvi a <a href="http://rafael.adm.br/p/repassando-prospects-leads-e-novos-clientes-de-servicos-na-web/">quest&atilde;o dos prospects e clientes de servi&ccedil;os</a> e ontem eu <a href="http://twitter.com/rafaelp/status/2102976765">publiquei</a> <a href="http://twitter.com/rafaelp/status/2103020341">alguns</a> <a href="http://twitter.com/rafaelp/status/2103484126">tweets</a> <a href="http://twitter.com/rafaelp/status/2103504901">sobre</a> <a href="http://twitter.com/rafaelp/status/2103514940">produtos</a>.
 
 Ao longo do tempo eu produzi muitos aplicativos e servi&ccedil;os que s&atilde;o bem interessantes e que um grande potencial, mas que n&atilde;o s&atilde;o t&atilde;o interessantes pra mim no momento por conta das novidades que estou me envolvendo.

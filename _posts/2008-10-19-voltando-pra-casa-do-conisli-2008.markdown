@@ -1,24 +1,24 @@
---- 
+---
+title: Voltando pra casa do Conisli 2008
+date: 2008-10-19 21:05:27 Z
+categories:
+- 'Podcast: Voltando pra Casa'
+- podcast
+tags:
+- podcast
+- evento
+- conisli
 layout: post
 status: publish
-published: true
-title: Voltando pra casa do Conisli 2008
 author: podcast_deployment
 author_login: podcast_deployment
 author_email: rafael.lima.paula@gmail.com
 author_url: http://
 wordpress_id: 264
 wordpress_url: http://rafael.adm.br/?p=264
-date: 2008-10-19 19:05:27 -02:00
-categories: 
-- "Podcast: Voltando pra Casa"
-- podcast
-tags: 
-- podcast
-- evento
-- conisli
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0028.mp3
 ---
+
 Voltando pra casa da Conisli, onde ouvi loucuras. A organiza&ccedil;&atilde;o do evento foi boa, mas o conte&uacute;do deixou a desejar. Ou&ccedil;a a minha opini&atilde;o e a do Henrique Bastos.
 
 Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.

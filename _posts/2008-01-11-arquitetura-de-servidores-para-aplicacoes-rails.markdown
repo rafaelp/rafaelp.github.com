@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Arquitetura de servidores para aplica&ccedil;&otilde;es Rails
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 156
-wordpress_url: http://rafael.adm.br/p/arquitetura-de-servidores-para-aplicacoes-rails/
-date: 2008-01-11 14:01:07 -02:00
-categories: 
+date: 2008-01-11 16:01:07 Z
+categories:
 - Posts
-tags: 
+tags:
 - rails
 - webapp
 - servidores
 - tend&ecirc;ncias
 - web-services
 - datacenter
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 156
+wordpress_url: http://rafael.adm.br/p/arquitetura-de-servidores-para-aplicacoes-rails/
 ---
+
 Eu estudei ontem v&aacute;rias op&ccedil;&otilde;es de arquitetura para aplica&ccedil;&otilde;es web, focando um pouco em Rails. Eu queria chegar h&aacute; uma op&ccedil;&atilde;o econ&ocirc;mica que tivesse alta performance, alta disponibilidade e fosse altamente escal&aacute;vel.
 
 Encontrei este excelente slide entitulado  <a href="http://www.slideshare.net/tim.lossen.de/how-to-build-a-stateoftheart-rails-cluster">How to build a state-of-art rails cluster</a>.

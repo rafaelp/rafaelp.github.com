@@ -1,19 +1,18 @@
 ---
-layout: post
-status: publish
-published: true
 title: Mudança do trabalho na HE:labs
-slug: mudanca-do-trabalho-na-helabs
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-08-31 00:00:00 Z
 categories:
 - Posts
 tags:
 - helabs
 - administração
 - futuro
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Hoje é meu último dia na operação da [HE:labs](http://helabs.com.br), deixo a área comercial da empresa e passo a fazer parte do novo conselho consultivo da empresa.

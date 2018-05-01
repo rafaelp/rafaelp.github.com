@@ -1,22 +1,22 @@
---- 
+---
+title: Not&iacute;cias boas de uma tacada s&oacute;
+date: 2006-08-23 03:28:26 Z
+categories:
+- Posts
+tags:
+- comunica&ccedil;&atilde;o
+- not&iacute;cias
+- clipping
 layout: post
 status: publish
-published: true
-title: Not&iacute;cias boas de uma tacada s&oacute;
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 73
 wordpress_url: http://rafael.adm.br/p/noticias-boas-de-uma-tacada-so/
-date: 2006-08-23 00:28:26 -03:00
-categories: 
-- Posts
-tags: 
-- comunica&ccedil;&atilde;o
-- not&iacute;cias
-- clipping
 ---
+
 <strong>Tomara que ele goste do Firefox! Imagina s&oacute; o IE com gecko!!! Sonhos e sonhos...</strong>
 Sam Ramji, o diretor do laborat&oacute;rio de c&oacute;digo-fonte aberto da Microsoft convida programadores do Firefox e Thunderbird para passar quatro dias em Redmond a fim de afinar seus programas com o Windows Vista.
 Mais informa&ccedil;&otilde;es: <a href="http://info.abril.com.br/blog/sandra/">http://info.abril.com.br/blog/sandra/</a>

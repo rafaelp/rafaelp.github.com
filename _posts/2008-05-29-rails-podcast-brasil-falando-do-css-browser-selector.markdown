@@ -1,0 +1,24 @@
+---
+title: Rails Podcast Brasil falando do CSS Browser Selector
+date: 2008-05-29 00:52:27 Z
+categories:
+- Posts
+tags:
+- rails
+- podcast
+- css browser selector
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 202
+wordpress_url: http://rafael.adm.br/?p=202
+---
+
+S&oacute; para registrar: O <a href="http://www.rubyonrails.pro.br/podcasts">Rails Podcast Brasil</a> #18 (<a href="http://download.podcast.rubyonrails.pro.br/RailsPodcastBrasil_018.mp3">download</a>) cita o CSS Browser Selector aos 12min e 30seg.
+
+Legal!
+
+Abra&ccedil;os para o <a href="http://www.nomedojogo.com">Carlos Brando</a> e para o <a href="http://www.akitaonrails.com/">Fabio Akita</a>.

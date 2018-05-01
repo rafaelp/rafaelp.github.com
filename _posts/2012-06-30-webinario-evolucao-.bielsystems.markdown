@@ -1,17 +1,16 @@
---- 
+---
+title: Webinario sobre erros e acertos na criação de produtos web
+date: 2012-06-30 00:00:00 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Webinario sobre erros e acertos na criação de produtos web
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-categories: 
-- Posts
-tags: []
-
 ---
+
 Eu sou fundador da <a href="http://bielsystems.com.br">BielSystems</a>, empresa de produtos web. Estou trabalhando com desenvolvimento de aplicativos web há 9 anos e de lá pra cá já criei diversos produtos na web. Nem todos deram certo...
 
 Comecei com o BielTender, sistema de leilão reverso, depois passei para o BielBid, sistema para agilizar o processo de cotação em compras, depois desenvolvi o Blog Empresa, plataforma de blogs corporativos, depois o EmailFax, sistema de envio de fax pela internet, em seguida o Cobre Grátis, aplicativo para emissão de boletos bancários e por fim o Webfax, outro sistema de fax pela internet, só que muito mais simples que o EmailFax. De todas estas iniciativas, atualmente estou trabalhando somente com duas, o <a href="http://cobregratis.com.br">Cobre Grátis</a> e o <a href="http://webfax.com.br">Webfax</a>.

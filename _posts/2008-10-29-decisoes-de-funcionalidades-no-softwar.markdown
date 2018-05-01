@@ -1,26 +1,26 @@
---- 
+---
+title: Decis&otilde;es de funcionalidades no software
+date: 2008-10-29 02:38:16 Z
+categories:
+- 'Podcast: Voltando pra Casa'
+- podcast
+tags:
+- desenvolvimento
+- gerenciamento
+- myfreecomm
+- financedesktop
+- podcast
 layout: post
 status: publish
-published: true
-title: Decis&otilde;es de funcionalidades no software
 author: podcast_deployment
 author_login: podcast_deployment
 author_email: rafael.lima.paula@gmail.com
 author_url: http://
 wordpress_id: 266
 wordpress_url: http://rafael.adm.br/?p=266
-date: 2008-10-29 00:38:16 -02:00
-categories: 
-- "Podcast: Voltando pra Casa"
-- podcast
-tags: 
-- desenvolvimento
-- gerenciamento
-- myfreecomm
-- financedesktop
-- podcast
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0030.mp3
 ---
+
 Neste epis&oacute;dio eu conto um caso real que ocorreu na Myfreecomm, que evidenciou a diferen&ccedil;a entre a vis&atilde;o t&eacute;cnica e a vis&atilde;o comercial sobre a implanta&ccedil;&atilde;o de uma funcionalidade no FinanceDesktop. Ou&ccedil;a e confira!
 
 Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.

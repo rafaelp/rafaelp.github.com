@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: OpenID
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 132
-wordpress_url: http://rafael.adm.br/p/openid/
-date: 2007-07-17 00:28:59 -03:00
-categories: 
+date: 2007-07-17 03:28:59 Z
+categories:
 - Posts
-tags: 
+tags:
 - Tecnologia
 - usabilidade
 - webapp
 - seguran&ccedil;a
 - servi&ccedil;o
 - openid
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 132
+wordpress_url: http://rafael.adm.br/p/openid/
 ---
+
 Estou maravilhado com a id&eacute;ia filos&oacute;fica por tr&aacute;s do <a href="http://openid.net">OpenID</a>.
 Conseguiram montar um esquema em que voc&ecirc; possa realizar um login apenas para acessar qualquer sistema, de forma segura e descentralizada. &Eacute; isso mesmo, voc&ecirc; passa a ter apenas um login e senha para acessar todos os sistemas. Teoricamente acabou o problema de v&aacute;rios logins e milh&otilde;es de senhas.
 

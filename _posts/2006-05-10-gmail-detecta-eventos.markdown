@@ -1,23 +1,23 @@
---- 
+---
+title: Gmail detecta eventos
+date: 2006-05-10 15:30:26 Z
+categories:
+- Posts
+tags:
+- google
+- gmail
+- email
+- privacidade
 layout: post
 status: publish
-published: true
-title: Gmail detecta eventos
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 40
 wordpress_url: http://rafael.adm.br/p/gmail-detecta-eventos/
-date: 2006-05-10 12:30:26 -03:00
-categories: 
-- Posts
-tags: 
-- google
-- gmail
-- email
-- privacidade
 ---
+
 <strong>Atualizado:</strong> Caso voc&ecirc; tenha d&uacute;vidas sobre acesso ao Gmail, <a href="https://mail.google.com/support/bin/topic.py?topic=1536">leia a central de ajuda</a>
 
 ***

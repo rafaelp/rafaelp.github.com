@@ -1,23 +1,23 @@
---- 
+---
+title: O cara que trabalha com CSS/XHTML &eacute; considerado programador?
+date: 2009-08-28 17:08:53 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- programa&ccedil;&atilde;o
+- web
+- designer
 layout: post
 status: publish
-published: true
-title: O cara que trabalha com CSS/XHTML &eacute; considerado programador?
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 403
 wordpress_url: http://rafael.adm.br/?p=403
-date: 2009-08-28 14:08:53 -03:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- programa&ccedil;&atilde;o
-- web
-- designer
 ---
+
 Essa foi a <a href="http://twitter.com/egenial/status/3603437277">pergunta que o Carlos Eduardo fez no Twitter</a>.
 
 Eu <a href="http://twitter.com/rafaelp/status/3603462893">respondi</a> <a href="http://twitter.com/egenial/status/3603497452">pelo</a> <a href="http://twitter.com/rafaelp/statuses/3605226229">pr&oacute;prio</a> <a href="http://twitter.com/rafaelp/statuses/3605254171">Twitter</a>, e <a href="http://twitter.com/rafaelp/statuses/3605285009">complementei</a>, mas achei oportuno escrever aqui a minha opini&atilde;o.

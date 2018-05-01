@@ -1,24 +1,24 @@
---- 
+---
+title: Resultado do desenvolvimento do ContaCal no Startup DEV
+date: 2011-08-30 13:11:21 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- development
+- startupdev
+- leanstartup
+- clientefeliz
 layout: post
 status: publish
-published: true
-title: Resultado do desenvolvimento do ContaCal no Startup DEV
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 617
 wordpress_url: http://rafael.adm.br/?p=617
-date: 2011-08-30 10:11:21 -03:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- development
-- startupdev
-- leanstartup
-- clientefeliz
 ---
+
 Na semana passada, <a href="http://rafael.adm.br/p/startup-dev-da-vez-contacal/">realizamos um Startup DEV</a> para o desenvolvimento de um sistema chamado ContaCal.
 
 O <a href="http://www.contacal.com.br/">ContaCal</a> &eacute; um aplicativo web para voc&ecirc; monitorar as calorias consumidas no seu dia a dia. O aplicativo te mostra quantas calorias voc&ecirc; consumiu por dia e voc&ecirc; pode monitorar como anda a sua dieta.

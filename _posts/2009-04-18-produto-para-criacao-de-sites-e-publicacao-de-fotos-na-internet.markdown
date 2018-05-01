@@ -1,25 +1,26 @@
---- 
-layout: post
-status: publish
-published: true
-title: Produto para cria&ccedil;&atilde;o de sites e publica&ccedil;&atilde;o de fotos na internet
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 312
-wordpress_url: http://rafael.adm.br/?p=312
-date: 2009-04-18 17:01:55 -03:00
-categories: 
+---
+title: Produto para cria&ccedil;&atilde;o de sites e publica&ccedil;&atilde;o de fotos
+  na internet
+date: 2009-04-18 20:01:55 Z
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
 - simplicidade
 - internet
 - produto
 - fotos
 - site
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 312
+wordpress_url: http://rafael.adm.br/?p=312
 ---
+
 A BielSystems durante bastante tempo fez projetos de sites e blogs sob demanda. Por conta de conhecer muitos designers e ter formado, vamos dizer, uma parceria legal com eles, muitos projetos eram de "colocar a programa&ccedil;&atilde;o" no design concebido.
 
 Designers e fot&oacute;grafos s&atilde;o muito pr&oacute;ximos e por conta disso acabei fazendo v&aacute;rios sites de fot&oacute;grafos, tais como: <a href="http://1500brasil.com">1500brasil</a>, <a href="http://vavaribeiro.com">Vava Ribeiro</a>, <a href="http://danielklajmic.com">Daniel Klajmic</a>, <a href="http://quinta-feira.org">5a feira</a>, <a href="http://murillomeirelles.com">Murillo Meirelles</a>.

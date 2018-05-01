@@ -1,23 +1,23 @@
---- 
+---
+title: Mais um projeto Startup DEV rolando...
+date: 2011-07-12 13:19:23 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- agile
+- development
+- startupdev
 layout: post
 status: publish
-published: true
-title: Mais um projeto Startup DEV rolando...
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 546
 wordpress_url: http://rafael.adm.br/?p=546
-date: 2011-07-12 10:19:23 -03:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- agile
-- development
-- startupdev
 ---
+
 Tenho pouco tempo para escrever este post, pois meu deadline agora &eacute; de 48 horas.
 Eu e o <a href="http://mergulhao.info">Sylveste Mergulh&atilde;o</a> come&ccedil;amos mais um projeto do <a href="http://startupdev.com.br">Startup DEV</a>.
 

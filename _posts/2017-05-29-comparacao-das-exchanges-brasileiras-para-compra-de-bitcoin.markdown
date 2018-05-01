@@ -1,18 +1,17 @@
 ---
-layout: post
-status: publish
-published: true
 title: Comparação das exchanges brasileiras para compra de Bitcoin
-slug: comparacao-das-exchanges-brasileiras-para-compra-de-bitcoin
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2017-05-29 00:00:00 Z
 categories:
 - Posts
 tags:
 - bitcoin
 - crypto-currency
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Eu faço parte de alguns grupos no Whatsapp onde as pessoas discutem as melhores opções de compra de bitcoins e outras moedas no Brasil.

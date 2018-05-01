@@ -1,24 +1,24 @@
---- 
+---
+title: Pap&eacute;is no SCRUM - Voc&ecirc; sabe responder?
+date: 2009-08-05 15:03:10 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- gerenciamento
+- software
+- gest&atilde;o
+- scrum
 layout: post
 status: publish
-published: true
-title: Pap&eacute;is no SCRUM - Voc&ecirc; sabe responder?
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 375
 wordpress_url: http://rafael.adm.br/?p=375
-date: 2009-08-05 12:03:10 -03:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- gerenciamento
-- software
-- gest&atilde;o
-- scrum
 ---
+
 <strong>Atualiza&ccedil;&atilde;o em 18/08/09</strong> - Depois de esvaziar o buffer neste post, continuei lendo e pesquisando sorbe o assunto. Pretendo formatar um modelo que funcione bem para as caracter&iacute;sticas espec&iacute;ficas aqui da Myfreecomm. Nas leituras achei <a href="http://blog.xebia.com/2009/07/04/flow-to-ready-iterate-to-done/">este post que responde exatamente as minhas perguntas</a>.
 
 <strong>Atualiza&ccedil;&atilde;o em 06/08/09</strong> - A quest&atilde;o n&atilde;o &eacute; a literatura sobre P.O. e Scrum Master em si, mas o que &eacute; vivenciado na pr&aacute;tica. Algumas literaturas dizem que o P.O. deve ser o cliente, outras dizem que pode ser um representante dele e por a&iacute; vai. Minha id&eacute;ia &eacute; tentar entender como isso funciona em alguns casos pr&aacute;ticos. Realmente a pergunta no t&iacute;tulo ficou muito ruim, deveria ser: <strong>Como funciona pra voc&ecirc;?</strong>

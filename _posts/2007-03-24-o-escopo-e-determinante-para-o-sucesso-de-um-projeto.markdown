@@ -1,18 +1,9 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: O escopo &eacute; determinante para o sucesso de um projeto
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 115
-wordpress_url: http://rafael.adm.br/p/o-escopo-e-determinante-para-o-sucesso-de-um-projeto/
-date: 2007-03-24 18:01:02 -03:00
-categories: 
+date: 2007-03-24 21:01:02 Z
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - projetos
@@ -21,7 +12,16 @@ tags:
 - futuro
 - marketing
 - an&aacute;lise
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 115
+wordpress_url: http://rafael.adm.br/p/o-escopo-e-determinante-para-o-sucesso-de-um-projeto/
 ---
+
 Venho desenvolvendo <a href="http://chiaragadaleta.com">alguns</a> <a href="http://1500brasil.com">projetos</a> para terceiros e tenho enviado cerca de 3 propostas por semana para os mais variados casos.
 
 Nos &uacute;ltimos meses enviei proposta para:

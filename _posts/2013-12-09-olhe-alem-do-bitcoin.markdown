@@ -1,19 +1,20 @@
 ---
-layout: post
-status: publish
-published: true
 title: Olhe além do Bitcoin
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2013-12-09 00:00:00 Z
 categories:
 - Posts
 tags:
 - bitcoin
 - crypto-currency
 - futuro
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
+
 O Bitcoin é ao mesmo tempo um conceito, um protocolo e uma moeda. Foi o nascimento do conceito de crypto-currency, a implementação do protocolo que viabiliza transações de troca de dinheiro de forma virtual e a primeira moeda completamente digital.
 
 Os que dizem que Bitcoin não é uma moeda, não entenderam ainda o conceito nem o protocolo e não estão considerando a possibilidade da inovação disruptiva.

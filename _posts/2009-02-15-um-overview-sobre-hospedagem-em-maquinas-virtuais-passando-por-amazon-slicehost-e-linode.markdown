@@ -1,20 +1,19 @@
---- 
+---
+title: Um overview sobre hospedagem em m&aacute;quinas virtuais, passando por Amazon,
+  Slicehost e Linode.
+date: 2009-02-15 14:01:24 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Um overview sobre hospedagem em m&aacute;quinas virtuais, passando por Amazon, Slicehost e Linode.
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 280
 wordpress_url: http://rafael.adm.br/?p=280
-date: 2009-02-15 11:01:24 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Especificamente na &eacute;poca entre o Natal e o Ano novo, andei pesquisando sobre as op&ccedil;&otilde;es de hospedagem em m&aacute;quinas virtuais. Hoje j&aacute; migrei grande parte das aplica&ccedil;&otilde;es/sites (chamarei de sites para facilitar) da <a href="http://myfreecomm.com.br">Myfreecomm</a> e da <a href="http://bielsystems.com.br">BielSystems</a> e pretendo colocar aqui a experi&ecirc;ncia que obtive neste processo. Avaliei os servi&ccedil;os <a href="http://aws.amazon.com/ec2">Amazon EC2</a>, <a href="http://aws.amazon.com/ebs">Amazon EBS</a>, <a href="http://aws.amazon.com/s3">Amazon S3</a>, <a href="http://slicehost.com">Slicehost</a> e <a href="http://linode.com">Linode</a>.
 
 Antes desta mudan&ccedil;a os sites estavam em servidores dedicados pois esta era a melhor op&ccedil;&atilde;o h&aacute; uns 2 anos atr&aacute;s. Tudo bem, mas quais as vantagens de contratar uma VM (Virtual Machine) ao inv&eacute;s de servidor dedicado?

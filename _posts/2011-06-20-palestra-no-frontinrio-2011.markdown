@@ -1,20 +1,18 @@
---- 
+---
+title: Palestra no FrontInRio 2011
+date: 2011-06-20 13:57:14 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Palestra no FrontInRio 2011
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 522
 wordpress_url: http://rafael.adm.br/?p=522
-date: 2011-06-20 10:57:14 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Neste final de semana participei do <a href="http://www.frontinrio.com.br/">Front In Rio 2011</a>. O evento superou expectativas e foi um marco para o mercado de desenvolvimento front-end. Gostei muito de ter participado!
 
 Minha palestra foi sobre o alinhamento do design &agrave;s m&eacute;tricas e convers&otilde;es. Neste trabalho sugiro um processo bem definido para realizar o design de front-end de um website com objetivo de aumentar as convers&otilde;es. Este processo envolve alguns passos como cria&ccedil;&atilde;o de uma Landing Page, Defini&ccedil;&atilde;o de M&eacute;tricas, Tracking e Testes A/B.

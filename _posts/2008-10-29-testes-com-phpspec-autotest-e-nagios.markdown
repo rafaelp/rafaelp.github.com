@@ -1,24 +1,24 @@
---- 
+---
+title: Testes com PHPSpec, Autotest e Nagios
+date: 2008-10-29 02:38:17 Z
+categories:
+- 'Podcast: Voltando pra Casa'
+- podcast
+tags:
+- podcast
+- testes
+- taft
 layout: post
 status: publish
-published: true
-title: Testes com PHPSpec, Autotest e Nagios
 author: podcast_deployment
 author_login: podcast_deployment
 author_email: rafael.lima.paula@gmail.com
 author_url: http://
 wordpress_id: 267
 wordpress_url: http://rafael.adm.br/?p=267
-date: 2008-10-29 00:38:17 -02:00
-categories: 
-- "Podcast: Voltando pra Casa"
-- podcast
-tags: 
-- podcast
-- testes
-- taft
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0031.mp3
 ---
+
 Aqui eu falo um pouco sobre o background do esquema de testes que eu montei para testar a disponibilidade das aplica&ccedil;&otilde;es da plataforma de Web Services que desenvolvi na Myfreecomm.
 
 Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.

@@ -1,24 +1,24 @@
---- 
+---
+title: N&atilde;o use ajax para navega&ccedil;&atilde;o
+date: 2006-04-21 14:04:37 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- programa&ccedil;&atilde;o
+- ajax
+- navega&ccedil;&atilde;o
+- web2.0
 layout: post
 status: publish
-published: true
-title: N&atilde;o use ajax para navega&ccedil;&atilde;o
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 15
 wordpress_url: http://rafael.adm.br/nao-use-ajax-para-navegacao/
-date: 2006-04-21 11:04:37 -03:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- programa&ccedil;&atilde;o
-- ajax
-- navega&ccedil;&atilde;o
-- web2.0
 ---
+
 Existe uma discuss&atilde;o grande sobre a utiliza&ccedil;&atilde;o do ajax, suas vantagens e defici&ecirc;ncias. O recente artigo da <a href="http://webinsider.uol.com.br/">Web Insider</a>, <a href="http://webinsider.uol.com.br/vernoticia.php/id/2801">"Ajax tamb&eacute;m enfrenta problemas. Veja quais s&atilde;o."</a> nos traz algumas desvantagens na utiliza&ccedil;&atilde;o do ajax. N&atilde;o acho que s&atilde;o desvantagens dependendo de como voc&ecirc; utiliza a tecnologia.
 
 Se formor analisar, as maiores desvantagens est&atilde;o relacionadas com a utiliza&ccedil;&atilde;o do ajax para navega&ccedil;&atilde;o, ou seja, voc&ecirc; carregar apenas a primeira p&aacute;gina completa e fazer de todo link, uma requisi&ccedil;&atilde;o ajax, que carrega apenas o que precisa mudar na tela.

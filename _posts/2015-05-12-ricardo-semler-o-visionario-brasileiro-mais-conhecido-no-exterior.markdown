@@ -1,20 +1,20 @@
 ---
-layout: post
-status: publish
-published: true
 title: Ricardo Semler, o visionário brasileiro mais conhecido no exterior
-slug: ricardo-semler-o-visionario-brasileiro-mais-conhecido-no-exterior
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-05-12 00:00:00 Z
 categories:
 - Posts
 tags:
 - empreendedorismo
 - brasil
 - visão
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
+
 *Disclaimer:* Eu vim a trabalhar diretamente com o Ricardo Semler por alguns anos em diversos projetos na Semco Partners (Paychex e Imposto Rápido), Semco Style, Lumiar e LeadWise. Esse post foi escrito duas semanas antes da pessoa que me apresentou ao Ricardo entrar em contato pela primeira vez com a HE:labs, minha empresa. Sendo assim, essa minha opinião sobre o Ricardo, que se mantém igual, foi escrita antes de nos conhecermos.
 <hr/>
 

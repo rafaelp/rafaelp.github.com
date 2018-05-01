@@ -1,24 +1,24 @@
---- 
+---
+title: Custos invis&iacute;veis
+date: 2008-10-01 03:53:06 Z
+categories:
+- 'Podcast: Voltando pra Casa'
+- podcast
+tags:
+- podcast
+- proposta
+- pre&ccedil;o
 layout: post
 status: publish
-published: true
-title: Custos invis&iacute;veis
 author: podcast_deployment
 author_login: podcast_deployment
 author_email: rafael.lima.paula@gmail.com
 author_url: http://
 wordpress_id: 256
 wordpress_url: http://rafael.adm.br/?p=256
-date: 2008-10-01 00:53:06 -03:00
-categories: 
-- "Podcast: Voltando pra Casa"
-- podcast
-tags: 
-- podcast
-- proposta
-- pre&ccedil;o
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0023.mp3
 ---
+
 Nem sempre estimamos corretamente os custos de um trabalho. Peguei um exemplo real para demonstrar os custos embutidos que as vezes passam desapercebidos. Ou&ccedil;a e comente, voc&ecirc; j&aacute; passou por isso?
 
 Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.

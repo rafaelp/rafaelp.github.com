@@ -1,20 +1,18 @@
---- 
+---
+title: 'Startup DEV: Amigo n&atilde;o se compra'
+date: 2011-10-10 19:32:44 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: "Startup DEV: Amigo n&atilde;o se compra"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 644
 wordpress_url: http://rafael.adm.br/?p=644
-date: 2011-10-10 16:32:44 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Estamos prontos para fazer mais um Startup DEV!
 
 Para quem n&atilde;o sabe, o <a href="http://startupdev.com.br">Startup DEV</a> &eacute; um <a href="http://startupdev.com.br/">modelo de desenvolvimento &aacute;gil de software</a> que eu realizo com o <a href="http://mergulhao.info/">Sylvestre Mergulh&atilde;o</a> e <a href="http://ramonpage.com/">Ramon Page</a>.

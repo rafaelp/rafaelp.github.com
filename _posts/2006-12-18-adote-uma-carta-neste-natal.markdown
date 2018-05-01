@@ -1,20 +1,18 @@
---- 
+---
+title: Adote uma carta neste Natal
+date: 2006-12-18 20:22:07 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Adote uma carta neste Natal
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 110
 wordpress_url: http://rafael.adm.br/p/adote-uma-carta-neste-natal/
-date: 2006-12-18 18:22:07 -02:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 <strong>Atualizado:</strong> Aproveitem a dica para o pr&oacute;ximo ano!
 
 Querem fazer algo diferente, este ano, no Natal?

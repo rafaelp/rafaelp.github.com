@@ -1,13 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Overview sobre métricas: conversão, funil de conversão e percentual de conversão'
-slug: overview-sobre-metricas-conversao-funil-de-conversao-e-percentual-de-conversao
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-04-29 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -15,6 +8,12 @@ tags:
 - métricas
 - saas
 - lean
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Recentemente algumas pessoas me perguntaram que métricas deviam usar em seus negócios e isso me motivou a escrever este post.

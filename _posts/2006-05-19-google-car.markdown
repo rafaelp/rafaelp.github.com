@@ -1,22 +1,22 @@
---- 
+---
+title: Google Car
+date: 2006-05-19 03:52:46 Z
+categories:
+- Posts
+tags:
+- google
+- privacidade
+- futuro
 layout: post
 status: publish
-published: true
-title: Google Car
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 45
 wordpress_url: http://rafael.adm.br/p/google-car/
-date: 2006-05-19 00:52:46 -03:00
-categories: 
-- Posts
-tags: 
-- google
-- privacidade
-- futuro
 ---
+
 Estava voltando pra casa, passando pela ponte Rio-Niter&oacute;i, pensando e lembrando do <a title="Visitar (nova janela)" target="_blank" href="http://www.robinsloan.com/epic/">EPIC 2014</a> quando cheguei a uma quest&atilde;o:
 
 <strong>Se o Google te desse um carro, de gra&ccedil;a, por um ano, com a &uacute;nica condi&ccedil;&atilde;o de ter um sistema de rastreamento, como um GPS,  voc&ecirc; aceitaria?</strong>

@@ -1,16 +1,14 @@
---- 
+---
+title: Escritório Bombadão
+date: 2012-12-01 00:00:00 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Escritório Bombadão
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-categories: 
-- Posts
-tags: []
-
 ---
 
 Nós da [HE:labs](http://helabs.com.br) estamos de mudança e iremos para um ambiente bem grande que comportará dentre outras coisas, 3 empresas de fora que queiram estar junto conosco!

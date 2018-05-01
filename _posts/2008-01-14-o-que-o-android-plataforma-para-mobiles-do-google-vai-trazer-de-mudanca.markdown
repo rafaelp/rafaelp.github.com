@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: O que o Android, plataforma para mobiles do Google, vai trazer de mudan&ccedil;a?
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 159
-wordpress_url: http://rafael.adm.br/p/o-que-o-android-plataforma-para-mobiles-do-google-vai-trazer-de-mudanca/
-date: 2008-01-14 09:21:43 -02:00
-categories: 
+date: 2008-01-14 11:21:43 Z
+categories:
 - Posts
-tags: 
+tags:
 - google
 - web
 - tend&ecirc;ncias
 - android
 - mobile
 - Celular
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 159
+wordpress_url: http://rafael.adm.br/p/o-que-o-android-plataforma-para-mobiles-do-google-vai-trazer-de-mudanca/
 ---
+
 <div id="strConteudo">Conversando sobre o Android com um amigo no final de semana, comentei sobre este texto que havia escrito para o iMasters. Ele disse que, embora acompanhasse meu blog, n&atilde;o tinha visto ainda. Percebi que realmente nem mencionei este artigo aqui no blog. Resolvi public&aacute;-lo aqui tamb&eacute;m. Vou procurar publicar aqui no blog todos os artigos que escrevo para fora.
 
 <hr />O Android, plataforma aberta para mobiles, que foi anunciado oficialmente pelo Google no in&iacute;cio de novembro de 2007, &eacute; resultado da aquisi&ccedil;&atilde;o realizada pelo Google da startup chamada Android, aquisi&ccedil;&atilde;o esta realizada no dia 17 de agosto de 2005. Este dia foi o marco da entrada "pesada" do Google no mundo wireless.

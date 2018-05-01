@@ -1,19 +1,18 @@
 ---
-layout: post
-status: publish
-published: true
 title: O Essencial
-slug: o-essencial
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-09-07 00:00:00 Z
 categories:
 - Posts
 tags:
 - lifestyle
 - felicidade
 - vida
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Quando somos novos, buscamos sempre mais. Fazer mais, ter mais, ser mais produtivo, ser reconhecido como o melhor. Essa forma de pensar é muito limitadora.

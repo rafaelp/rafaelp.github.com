@@ -1,20 +1,18 @@
---- 
+---
+title: Trabalho e Divers&atilde;o na HE Labs
+date: 2012-04-04 19:35:18 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Trabalho e Divers&atilde;o na HE Labs
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 709
 wordpress_url: http://rafael.adm.br/?p=709
-date: 2012-04-04 16:35:18 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Faz tempo que n&atilde;o escrevo, mas quem me <a href="http://twitter.com/rafaelp">acompanha no Twitter</a> sabe das minhas &uacute;ltimas realiza&ccedil;&otilde;es.
 
 Eu continuo trabalhando com a <a href="http://bielsystems.com.br">BielSystems</a> no <a href="http://cobregratis.com.br">Cobre Gr&aacute;tis</a> e no <a href="http://emailfax.com.br">Emailfax</a>. E vira e mexe fa&ccedil;o uma divulga&ccedil;&atilde;o do <a href="http://workshop.bootstrappers.com.br">Workshop Bootstrappers</a>.

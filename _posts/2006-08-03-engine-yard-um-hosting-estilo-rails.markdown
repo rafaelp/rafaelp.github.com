@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
-title: "Engine Yard: Um hosting estilo Rails"
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 63
-wordpress_url: http://rafael.adm.br/p/engine-yard-um-hosting-estilo-rails/
-date: 2006-08-03 01:21:42 -03:00
-categories: 
+---
+title: 'Engine Yard: Um hosting estilo Rails'
+date: 2006-08-03 04:21:42 Z
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
 - programa&ccedil;&atilde;o
 - rails
 - Tecnologia
 - servidores
 - infra-estrutura
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 63
+wordpress_url: http://rafael.adm.br/p/engine-yard-um-hosting-estilo-rails/
 ---
+
 Estou muito perto de lan&ccedil;ar o <a href="http://bielbid.com.br">sistema web de e-Procurement BielBid</a> e estive estudando mais a fundo a quest&atilde;o do deployment, que significa colocar o site on-line ou subir para o(s) servidor(es) de produ&ccedil;&atilde;o.
 
 Achei diversos blogs, artigos e livros interessantes, dando diversas <a href="http://duncandavidson.com/essay/2005/12/railsdeployment">li&ccedil;&otilde;es</a>, sobre o <a href="http://manuals.rubyonrails.com/read/book/17">Capistrano</a>, <a href="http://railsbench.rubyforge.org/">Railsbench</a>, <a href="http://www.fepus.net/ruby1line.txt">commands</a>, e mais.

@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Vaga para Desenvolvedor Ninja para Python e Web
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 306
-wordpress_url: http://rafael.adm.br/?p=306
-date: 2009-04-02 17:29:47 -03:00
-categories: 
+date: 2009-04-02 20:29:47 Z
+categories:
 - Posts
-tags: 
+tags:
 - programa&ccedil;&atilde;o
 - web
 - python
 - desenvolvedor
 - oportunidade
 - programador
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 306
+wordpress_url: http://rafael.adm.br/?p=306
 ---
+
 Este texto foi copiado do <a href="http://henriquebastos.net/2009/04/02/vaga-para-desenvolvedor-ninja-para-python-e-web/">post do Henrique</a>.
 
 Novamente estamos procurando por um <strong>Desenvolvedor Ninja</strong> para integrar permanentemente o cl&atilde; da <a onclick="pageTracker._trackPageview('/outgoing/www.myfreecomm.com.br?referer=');" href="http://www.myfreecomm.com.br/">Myfreecomm</a>. Desta vez a vaga tem o foco principal em <strong>Python</strong> e <strong>Aplica&ccedil;&otilde;es Web</strong>.

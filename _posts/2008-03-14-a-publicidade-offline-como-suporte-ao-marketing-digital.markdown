@@ -1,24 +1,24 @@
---- 
+---
+title: A publicidade offline como suporte ao marketing digital
+date: 2008-03-14 23:45:47 Z
+categories:
+- Posts
+tags:
+- marketing
+- consultoria
+- publicidade
+- an&uacute;ncios
+- venda
 layout: post
 status: publish
-published: true
-title: A publicidade offline como suporte ao marketing digital
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 169
 wordpress_url: http://rafael.adm.br/p/a-publicidade-offline-como-suporte-ao-marketing-digital/
-date: 2008-03-14 20:45:47 -03:00
-categories: 
-- Posts
-tags: 
-- marketing
-- consultoria
-- publicidade
-- an&uacute;ncios
-- venda
 ---
+
 Recebi um e-mail que dizia o seguinte:
 <blockquote><font face="sans-serif" size="2">"Gostaria de propor uma discuss&atilde;o sobre Marketing digital, mais precisamente sua utiliza&ccedil;&atilde;o na web e a import&acirc;ncia da publicidade offline como suporte &agrave;s a&ccedil;&otilde;es de marketing e publicidade online. No entanto n&atilde;o achei muito material que verse sobre o assunto. Na maioria dos artigos sobre publicidade online, discute-se basicamente formatos de an&uacute;ncios e divulga&ccedil;&atilde;o na pr&oacute;pria web com troca de espa&ccedil;os entre sites, ferramentas de busca, links patrocinados, mas quase n&atilde;o se fala do potencial de aproveitamento da m&iacute;dia tradicional para aumentar o fluxo de visitas no web site da empresa e n&atilde;o raramente se v&ecirc; an&uacute;ncios em m&iacute;dias tradicionais, como TV e jornal, onde n&atilde;o h&aacute; refer&ecirc;ncia ao endere&ccedil;o do site da empresa. </font>
 <font face="sans-serif" size="2">Gostaria de saber seu ponto de vista sobre a quest&atilde;o e tamb&eacute;m se tens alguma indica&ccedil;&atilde;o de livro ou fontes de pesquisa do assunto.</font>"</blockquote>

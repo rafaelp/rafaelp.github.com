@@ -1,22 +1,23 @@
---- 
+---
+title: Indica&ccedil;&otilde;es interessantes de livros, blogs, sites, cursos e eventos
+  de Marketing
+date: 2009-05-10 19:07:02 Z
+categories:
+- Posts
+tags:
+- marketing
+- cursos
+- eventos
 layout: post
 status: publish
-published: true
-title: Indica&ccedil;&otilde;es interessantes de livros, blogs, sites, cursos e eventos de Marketing
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 333
 wordpress_url: http://rafael.adm.br/?p=333
-date: 2009-05-10 16:07:02 -03:00
-categories: 
-- Posts
-tags: 
-- marketing
-- cursos
-- eventos
 ---
+
 Meu primo Ian me repassou um e-mail que ele recebeu, com algumas indica&ccedil;&otilde;es de livros, blogs e sites, cursos e eventos interessantes. Achei bem legal e pedi permiss&atilde;o para Luiz Felipe, autor do e-mail, para public&aacute;-lo aqui no blog.
 
 Espero que gostem como eu gostei!

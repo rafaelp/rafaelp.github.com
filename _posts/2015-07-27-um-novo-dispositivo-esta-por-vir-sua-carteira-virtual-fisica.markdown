@@ -1,13 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Um novo dispositivo está por vir, sua carteira virtual física
-slug: um-novo-dispositivo-esta-por-vir-sua-carteira-virtual-fisica
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-07-27 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -18,6 +11,12 @@ tags:
 - inovação
 - crypto-currency
 - futuro
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Há aproximadamente 2 anos eu estava trabalhando bastante com Bitcoin e aprofundei meus estudos sobre moedas criptográficas. Comecei a vislumbrar o desencadeamento que tal novidade traria para o nosso dia-a-dia e tive um insight de um produto que eu ainda acredito que irá existir.

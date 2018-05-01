@@ -1,24 +1,24 @@
---- 
+---
+title: Etiquetagem (sistema de tags) para navega&ccedil;&atilde;o
+date: 2006-05-05 16:21:00 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- programa&ccedil;&atilde;o
+- navega&ccedil;&atilde;o
+- tags
+- usabilidade
 layout: post
 status: publish
-published: true
-title: Etiquetagem (sistema de tags) para navega&ccedil;&atilde;o
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 38
 wordpress_url: http://rafael.adm.br/p/etiquetagem-sistema-de-tags-para-navegacao/
-date: 2006-05-05 13:21:00 -03:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- programa&ccedil;&atilde;o
-- navega&ccedil;&atilde;o
-- tags
-- usabilidade
 ---
+
 Eu estava de frente para o sistema de gest&atilde;o, ou <a target="_blank" title="Defini&ccedil;&otilde;es de ERP no Google (nova janela)" href="http://www.google.com/search?hs=w5L&hl=en&lr=&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&q=define%3A+ERP&btnG=Search">ERP</a> como queiram chamar, Advanced Protheus da <a target="_blank" href="http://www.microsiga.com.br/">Microsiga</a> quando tive uma id&eacute;a. N&atilde;o sei ainda se &eacute; boa ou ruim, pois n&atilde;o apliquei em nenhum projeto, mas deixo meu post aqui para compartilhar.
 
 Uma usu&aacute;ria do sistema estava me mostrando um problema relativo a uma sequ&ecirc;ncia de opera&ccedil;&otilde;es. Percebi a dificuldade que ela tinha de encontrar a op&ccedil;&atilde;o do menu para a tarefa que ela queria realizar. Era necess&aacute;rio escolher o m&oacute;dulo (Gest&atilde;o de Pessoal), clicar sobre a op&ccedil;&atilde;o no menu (Atualizar), depois abrir um sub-menu (Lan&ccedil;amentos), clicar sobre a tarefa (Marca&ccedil;&otilde;es), por fim, escolher um funcion&aacute;rio e clicar na a&ccedil;&atilde;o (Atualizar). Invariavelmente ela se perdia procurando aonde estava a tarefa desejada.

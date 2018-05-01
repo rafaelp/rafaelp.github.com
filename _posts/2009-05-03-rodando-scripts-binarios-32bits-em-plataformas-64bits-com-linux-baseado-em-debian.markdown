@@ -1,25 +1,26 @@
---- 
-layout: post
-status: publish
-published: true
-title: Rodando scripts bin&aacute;rios 32bits em plataformas 64bits com linux baseado em Debian
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 325
-wordpress_url: http://rafael.adm.br/?p=325
-date: 2009-05-03 00:39:55 -03:00
-categories: 
+---
+title: Rodando scripts bin&aacute;rios 32bits em plataformas 64bits com linux baseado
+  em Debian
+date: 2009-05-03 03:39:55 Z
+categories:
 - Posts
-tags: 
+tags:
 - web
 - servidores
 - servidor
 - apache
 - configura&ccedil;&atilde;o
 - script
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 325
+wordpress_url: http://rafael.adm.br/?p=325
 ---
+
 <strong> Atualizado:</strong> Pareceu o dia inteiro, quando escrevi isso, mas depois constatei que foram umas 5 horas.
 
 Hoje eu passei <strong>o dia inteiro</strong> tentando colocar um script bin&aacute;rio escrito em C, para rodar no meu servidor novo. Depois de <a href="http://twitter.com/rafaelp/status/1683570361">quebrar muito a cabe&ccedil;a</a> entrei no chat do servi&ccedil;o de hospedagem, pois j&aacute; estava achando que era problema de hardware ou das m&aacute;quinas virtuais.

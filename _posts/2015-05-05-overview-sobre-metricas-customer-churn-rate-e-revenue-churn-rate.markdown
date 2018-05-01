@@ -1,13 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Overview sobre métricas: Customer Churn Rate e Revenue Churn Rate'
-slug: overview-sobre-metricas-customer-churn-rate-e-revenue-churn-rate
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-05-05 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -15,6 +8,12 @@ tags:
 - métricas
 - saas
 - lean
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 O Churn Rate é uma das métricas largamente utilizadas em praticamente qualquer análise de negócios digitais. Dedico esse post a explicá-lo e, o mais legal, a passar números absolutos para que você possa comparar com o seu negócio e saber se ele está indo bem ou mal.

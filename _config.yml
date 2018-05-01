@@ -1,11 +1,26 @@
+---
+title: Rafaelp.Github.Com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 serve: true
-exclude: ['Gemfile', 'Gemfile.lock', 'README.textile', 'import.rb', 'downmark_it.rb']
-permalink: /p/:title
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.textile
+- import.rb
+- downmark_it.rb
+permalink: "/p/:title"
 paginate: 5
-paginate_path: "blog/page/:num"
+paginate_path: blog/page/:num
 markdown: kramdown
 url: http://rafael.adm.br
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 gems:
-  - jekyll-paginate
-  - jekyll-sitemap
+- jekyll-paginate
+- jekyll-sitemap

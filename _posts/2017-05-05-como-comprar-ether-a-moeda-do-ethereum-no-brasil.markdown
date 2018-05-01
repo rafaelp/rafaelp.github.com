@@ -1,13 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Como comprar Ether (a moeda do Ethereum) no Brasil
-slug: como-comprar-ether-a-moeda-do-ethereum-no-brasil
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2017-05-05 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -15,6 +8,12 @@ tags:
 - bitcoin
 - ethereum
 - tecnologia
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 O Ethereum é uma plataforma open-source de computação distribuída usando blockchain. Imagina que o Bitcoin é uma calculadora no blockchain enquanto o Ethereum é um smartphone onde qualquer pessoa pode escrever código pra ser executado como aplicativos de forma distribuída e um dos aplicativos pode ser uma calculadora. Ou seja, o Ethereum usa o blockchain em um nível de abstração além do que o Bitcoin usa.

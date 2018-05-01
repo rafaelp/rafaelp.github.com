@@ -1,24 +1,24 @@
---- 
+---
+title: Gerenciando expectativas para realizar sonhos
+date: 2008-11-19 03:44:30 Z
+categories:
+- 'Podcast: Voltando pra Casa'
+- podcast
+tags:
+- pensamentos
+- podcast
+- sonhos
 layout: post
 status: publish
-published: true
-title: Gerenciando expectativas para realizar sonhos
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 269
 wordpress_url: http://rafael.adm.br/?p=269
-date: 2008-11-19 01:44:30 -02:00
-categories: 
-- "Podcast: Voltando pra Casa"
-- podcast
-tags: 
-- pensamentos
-- podcast
-- sonhos
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0032.mp3
 ---
+
 Confesso que dessa vez acabei repetindo algumas coisas e n&atilde;o ficou t&atilde;o claro, at&eacute; por que o assunto n&atilde;o &eacute; f&aacute;cil, mas n&atilde;o importa, a caracter&iacute;stica deste podcast &eacute; justamente ser improvisado e sem cortes. Este epis&oacute;dio &eacute; fruto de uma conversa que tive no almo&ccedil;o sobre o motivo das frustra&ccedil;&otilde;es, como podemos gerenciar nossas expectativas e a import&acirc;ncia do positivismo para a realiza&ccedil;&atilde;o de sonhos.
 
 Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.

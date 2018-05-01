@@ -1,18 +1,18 @@
 ---
-layout: post
-status: publish
-published: true
 title: Pense em programar
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2013-12-07 00:00:00 Z
 categories:
 - Posts
 tags:
 - futuro
 - programação
 - mercado
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Tudo está indo pro digital.

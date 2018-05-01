@@ -1,20 +1,18 @@
---- 
+---
+title: Balan&ccedil;o da 1&ordf; turma do Workshop Bootstrappers
+date: 2011-07-20 23:56:22 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Balan&ccedil;o da 1&ordf; turma do Workshop Bootstrappers
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 548
 wordpress_url: http://rafael.adm.br/?p=548
-date: 2011-07-20 20:56:22 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 H&aacute; cerca de dois meses atr&aacute;s eu vislumbrei um <a href="http://bootstrappers.com.br/workshop">workshop de empreendedorismo</a> onde eu pudesse falar sobre o aprendizado adquirido no processo de gest&atilde;o da <a href="http://bielsystems.com.br">BielSystems</a> e cria&ccedil;&atilde;o dos novos produtos como o <a href="http://cobregratis.com.br">Cobre Gr&aacute;tis</a>.
 
 Essa ideia virou realidade e foi uma grande conquista pessoal. As duas aulas ocorreram online nos dias 10/07 e 17/07, pela plataforma <a href="http://www.treinatom.com.br/pt/">Treina TOM</a>, e foram muito bem recebidas pelos participantes. Todos gostaram e deram um feedback muito positivo.

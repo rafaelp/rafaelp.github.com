@@ -1,20 +1,18 @@
---- 
+---
+title: 'Startup DEV da vez: ContaCal'
+date: 2011-08-22 18:41:35 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: "Startup DEV da vez: ContaCal"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 597
 wordpress_url: http://rafael.adm.br/?p=597
-date: 2011-08-22 15:41:35 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Estamos prontos para fazer mais um Startup DEV!
 Para quem n&atilde;o sabe, o Startup DEV &eacute; um modelo de desenvolvimento de software &aacute;gil que eu e o <a href="http://mergulhao.info">Sylvestre</a> criamos. N&oacute;s <a href="http://startupdev.com.br">desenvolvemos aplicativos web em 48 horas</a>. E desta vez temos novidades, o <a href="http://ramonpage.com/">Ramon Page</a> ir&aacute; participar!
 

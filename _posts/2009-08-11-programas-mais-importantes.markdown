@@ -1,21 +1,21 @@
---- 
+---
+title: Programas mais importantes
+date: 2009-08-11 23:06:39 Z
+categories:
+- Posts
+tags:
+- linux
+- programas
 layout: post
 status: publish
-published: true
-title: Programas mais importantes
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 368
 wordpress_url: http://rafael.adm.br/?p=368
-date: 2009-08-11 20:06:39 -03:00
-categories: 
-- Posts
-tags: 
-- linux
-- programas
 ---
+
 Instalei uma nova m&aacute;quina pra mim no trabalho recentemente e percebi que preciso de muito poucos prgramas para o dia-a-dia.
 
 Depois de instalar o Ubuntu 9.04 e suas atualiza&ccedil;&otilde;es, instalei os seguintes programas:

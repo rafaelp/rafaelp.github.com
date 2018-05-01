@@ -1,20 +1,20 @@
---- 
+---
+title: 'Brainstorm: Token da Coca-Cola'
+date: 2007-07-17 03:12:22 Z
+categories:
+- Brainstorm
+tags:
+- Brainstorm
 layout: post
 status: publish
-published: true
-title: "Brainstorm: Token da Coca-Cola"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 131
 wordpress_url: http://rafael.adm.br/p/brainstorm-token-da-coca-cola/
-date: 2007-07-17 00:12:22 -03:00
-categories: 
-- Brainstorm
-tags: 
-- Brainstorm
 ---
+
 Essa eu pensei faz tempo. Trata-se de uma campanha custosa e que envolve muitas vari&aacute;veis. Imagino que a Coca-Cola poderia realiz&aacute;-la.
 
 Existe um dispositivo parecido com um token que &eacute; utilizado para autentica&ccedil;&atilde;o de usu&aacute;rios em sistemas acessados remotamente. Este token funciona da seguinte maneira:

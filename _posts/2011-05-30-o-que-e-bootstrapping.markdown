@@ -1,22 +1,22 @@
---- 
+---
+title: O que &eacute; Bootstrapping?
+date: 2011-05-30 03:57:15 Z
+categories:
+- Posts
+tags:
+- neg&oacute;cios
+- business
+- bootstrapping
 layout: post
 status: publish
-published: true
-title: O que &eacute; Bootstrapping?
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 483
 wordpress_url: http://rafael.adm.br/?p=483
-date: 2011-05-30 00:57:15 -03:00
-categories: 
-- Posts
-tags: 
-- neg&oacute;cios
-- business
-- bootstrapping
 ---
+
 Existem v&aacute;rias defini&ccedil;&otilde;es para Bootstrapping, como voc&ecirc; pode <a href="http://en.wikipedia.org/wiki/Bootstrapping" target="_blank">conferir na Wikipedia</a>, mas eu vou falar aqui somente sobre a defini&ccedil;&atilde;o relacionada &agrave; empresas.
 
 A palavra em portugu&ecirc;s significa "al&ccedil;a de botas" e o <a href="http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0508b&amp;L=ads-l&amp;P=14972" target="_blank">significado veio de uma met&aacute;fora</a> que dizia "puxar-se para cima com suas pr&oacute;prias al&ccedil;as de botas" como sendo algo imposs&iacute;vel.

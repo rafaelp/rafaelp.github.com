@@ -1,21 +1,21 @@
---- 
+---
+title: Seguran&ccedil;a para os celulares
+date: 2006-10-30 15:51:04 Z
+categories:
+- Posts
+tags:
+- Tecnologia
+- seguran&ccedil;a
 layout: post
 status: publish
-published: true
-title: Seguran&ccedil;a para os celulares
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 98
 wordpress_url: http://rafael.adm.br/p/seguranca-para-os-celulares/
-date: 2006-10-30 12:51:04 -03:00
-categories: 
-- Posts
-tags: 
-- Tecnologia
-- seguran&ccedil;a
 ---
+
 Recebi este e-mail hoje e como n&atilde;o gosto de correntes, resolvi publicar no site! Desconhe&ccedil;o o autor, caso algu&eacute;m saiba, fique a vontade para avisar que eu coloco aqui.
 
 ***

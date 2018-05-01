@@ -1,23 +1,23 @@
---- 
+---
+title: 'NAW: Primeiro detalhamento da aplica&ccedil;&atilde;o'
+date: 2008-02-25 14:52:41 Z
+categories:
+- Posts
+tags:
+- webapp
+- Brainstorm
+- marketing
+- NAW
 layout: post
 status: publish
-published: true
-title: "NAW: Primeiro detalhamento da aplica&ccedil;&atilde;o"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 167
 wordpress_url: http://rafael.adm.br/p/naw-primeiro-detalhamento-da-aplicacao/
-date: 2008-02-25 11:52:41 -03:00
-categories: 
-- Posts
-tags: 
-- webapp
-- Brainstorm
-- marketing
-- NAW
 ---
+
 Este post faz parte de uma s&eacute;rie chamada NAW (Nova Aplica&ccedil;&atilde;o Web) que visa acompanhar <a href="http://rafael.adm.br/p/que-tal-acompanhar-o-nascimento-de-um-servico-web/">a cria&ccedil;&atilde;o de um servi&ccedil;o web</a> da id&eacute;ia ao lan&ccedil;amento. <a href="http://rafael.adm.br/tag/naw">Todos os posts da s&eacute;rie</a> iniciam com as letras NAW.
 
 <hr /><strong>Nome decidido</strong>

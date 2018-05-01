@@ -1,22 +1,22 @@
---- 
+---
+title: O que torna algu&eacute;m o seu her&oacute;i?
+date: 2008-09-20 18:28:47 Z
+categories:
+- Posts
+tags:
+- lideran&ccedil;a
+- amor
+- dinheiro
 layout: post
 status: publish
-published: true
-title: O que torna algu&eacute;m o seu her&oacute;i?
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 249
 wordpress_url: http://rafael.adm.br/?p=249
-date: 2008-09-20 15:28:47 -03:00
-categories: 
-- Posts
-tags: 
-- lideran&ccedil;a
-- amor
-- dinheiro
 ---
+
 Este post &eacute; uma reflex&atilde;o em cima do <a href="http://www.akitaonrails.com/2008/9/20/off-topic-o-poder-do-mito-redux">artigo do F&aacute;bio Akita sobre O Poder do Mito</a>.
 
 Parab&eacute;ns pela iniciativa, Akita!

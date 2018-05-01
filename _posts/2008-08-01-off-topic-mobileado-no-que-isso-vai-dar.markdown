@@ -1,20 +1,18 @@
---- 
+---
+title: 'Off-topic: Mobileado, no que isso vai dar?'
+date: 2008-08-01 03:02:37 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: "Off-topic: Mobileado, no que isso vai dar?"
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 206
 wordpress_url: http://rafael.adm.br/?p=206
-date: 2008-08-01 00:02:37 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Agora estou "mobileado" de vez (n&atilde;o confunda com baleado!), MacBook novo e Nokia N95 com plano 3G da Claro. Vamos ver no que isso vai dar!
 
 A primeira maravilha do MacOS foi poder sincronizar os contatos do Highrise com o Address Book e com o meu antigo Motorola V3. Agora estou sincronizando o que est&aacute; no laptop com o novo celular.

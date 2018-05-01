@@ -1,12 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Mentoria gratuita para Startups
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2014-01-28 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -14,6 +8,12 @@ tags:
 - mentoria
 - consultoria
 - bootstrapping
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Por acaso encontrei um site muito bacana no qual você pode abrir um espaço na sua agenda para que pessoas agendem uma conversa com você. Chama-se [Ohours](http://ohours.org/).

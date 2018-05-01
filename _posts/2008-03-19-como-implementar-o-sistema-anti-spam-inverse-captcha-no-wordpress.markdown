@@ -1,18 +1,9 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Como implementar o sistema anti-spam Inverse Captcha no WordPress
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 174
-wordpress_url: http://rafael.adm.br/p/como-implementar-o-sistema-anti-spam-inverse-captcha-no-wordpress/
-date: 2008-03-19 00:01:47 -03:00
-categories: 
+date: 2008-03-19 03:01:47 Z
+categories:
 - Posts
-tags: 
+tags:
 - programa&ccedil;&atilde;o
 - dicas
 - blog
@@ -20,7 +11,16 @@ tags:
 - anti-spam
 - spam
 - c&oacute;digo
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 174
+wordpress_url: http://rafael.adm.br/p/como-implementar-o-sistema-anti-spam-inverse-captcha-no-wordpress/
 ---
+
 Amigo,
 
 Implementei um sistema anti-spam neste blog e  <a href="http://blog.bielsystems.com.br/2008/03/16/inverse-captcha-no-blog-empresa/">no servi&ccedil;o Blog Empresa</a>, que &eacute; um sucesso!

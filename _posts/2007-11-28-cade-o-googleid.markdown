@@ -1,24 +1,24 @@
---- 
+---
+title: Cad&ecirc; o GoogleID?
+date: 2007-11-28 02:14:35 Z
+categories:
+- Posts
+tags:
+- Tecnologia
+- seguran&ccedil;a
+- openid
+- tend&ecirc;ncias
+- internet
 layout: post
 status: publish
-published: true
-title: Cad&ecirc; o GoogleID?
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 147
 wordpress_url: http://rafael.adm.br/p/cade-o-googleid/
-date: 2007-11-28 00:14:35 -02:00
-categories: 
-- Posts
-tags: 
-- Tecnologia
-- seguran&ccedil;a
-- openid
-- tend&ecirc;ncias
-- internet
 ---
+
 Por que o Google n&atilde;o se torna um provedor de OpenID?
 
 O conceito do <a href="http://rafael.adm.br/p/openid/">OpenID</a> &eacute; que cada usu&aacute;rio tenha uma <a href="http://pt.wikipedia.org/wiki/URI">URI</a> (endere&ccedil;o de web) e a utilize para fazer o login em qualquer sistema. O OpenID acaba com o problema de v&aacute;rios logins e senhas. Expliquei melhor num <a href="http://rafael.adm.br/p/openid/">post anterior</a>.

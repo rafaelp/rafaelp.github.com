@@ -1,13 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Bancos são basicamente software
-slug: bancos-sao-basicamente-software
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2015-05-21 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -16,9 +9,13 @@ tags:
 - disruptive
 - banking
 - futuro
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
-
-
 
 Não é de hoje que eu reflito sobre a estrutura dos bancos e o futuro dos serviços financeiros. Venho construindo uma visão que compartilho aqui e mostro como está se tornando realidade. Embora pareça estritamente financeiro, esse é um assunto relevante para qualquer pessoa que trabalhe com software e eu explico o porquê.
 

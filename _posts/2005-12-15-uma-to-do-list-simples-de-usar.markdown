@@ -1,21 +1,19 @@
---- 
+---
+title: Uma To-do list simples de usar
+date: 2005-12-15 20:31:00 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Uma To-do list simples de usar
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-excerpt: "M\xC3\xB3dulo de To-do list para a p\xC3\xA1gina inicial personalizada do google."
+excerpt: MÃ³dulo de To-do list para a pÃ¡gina inicial personalizada do google.
 wordpress_id: 9
 wordpress_url: http://www.rafael.adm.br/?p=9
-date: 2005-12-15 18:31:00 -02:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 &Eacute; com grande satisfa&ccedil;&atilde;o que publico o m&oacute;dulo de to-do list para a p&aacute;gina personalizada do google!
 
 Ontem, dia 14 de dezembro o google disponibilizou a documenta&ccedil;&atilde;o da API para desenvolvimento, algumas horas depois o m&oacute;dulo j&aacute; estava desenvolvido...

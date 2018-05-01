@@ -1,21 +1,21 @@
---- 
+---
+title: Eu tamb&eacute;m j&aacute; fui plagiado
+date: 2006-04-28 14:45:50 Z
+categories:
+- Posts
+tags:
+- web
+- blog
 layout: post
 status: publish
-published: true
-title: Eu tamb&eacute;m j&aacute; fui plagiado
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 37
 wordpress_url: http://rafael.adm.br/p/eu-tambem-ja-fui-plagiado/
-date: 2006-04-28 11:45:50 -03:00
-categories: 
-- Posts
-tags: 
-- web
-- blog
 ---
+
 O <a title="Visitar (nova janela)" target="_blank" href="http://www.meiobit.com">Meio Bit</a> colocou <a title="Ver o Post (nova janela)" target="_blank" href="http://www.meiobit.com/arq/007827.html">em pauta</a> a quest&atilde;o do pl&aacute;gio. Pelo que &eacute; escrito, o <a href="http://ovelho.com/">O Velho</a> j&aacute; passou por este problema e recentemente o <a title="Ver o Post (nova janela)" target="_blank" href="http://www.carloscardoso.com/?p=283">Blog do Cardoso</a> foi copiado.
 
 Eu tamb&eacute;m j&aacute; tive este problema, na &eacute;poca eu tinha uma "home-page" que ficava hospedado naqueles endere&ccedil;os www.host.com/~usuario, lembram-se disso? Pois &eacute;, faz tempo. Nesta &eacute;poca o Pr&ecirc;mio Ibest estava come&ccedil;ando e tudo mais.

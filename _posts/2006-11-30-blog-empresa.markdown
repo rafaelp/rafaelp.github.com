@@ -1,20 +1,18 @@
---- 
+---
+title: Blog para Empresas
+date: 2006-11-30 16:38:35 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Blog para Empresas
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 106
 wordpress_url: http://rafael.adm.br/p/blog-empresa/
-date: 2006-11-30 14:38:35 -02:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Lan&ccedil;amos hoje o servi&ccedil;o <a href="http://blogempresa.com.br">Blog Empresa - A plataforma para blogs corporativos</a>.
 
 A plataforma Blog Empresa foi criada com o intuito de ajudar as empresas a entrar na blogosfera brasileira. Percebi que toda empresa precisa de um blog nos dias de hoje. A mat&eacute;ria entitulada "Blog para cliente ver" que saiu no Boa Chance do Globo no dia 01/10/2006 comprova o que estou falando.

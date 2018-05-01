@@ -1,23 +1,23 @@
---- 
+---
+title: Marketing para Servi&ccedil;os e Aplica&ccedil;&otilde;es Web
+date: 2007-03-12 16:44:59 Z
+categories:
+- Posts
+tags:
+- neg&oacute;cios
+- marketing
+- roi
+- an&aacute;lise
 layout: post
 status: publish
-published: true
-title: Marketing para Servi&ccedil;os e Aplica&ccedil;&otilde;es Web
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 114
 wordpress_url: http://rafael.adm.br/p/marketing-para-servicos-e-aplicacoes-web/
-date: 2007-03-12 13:44:59 -03:00
-categories: 
-- Posts
-tags: 
-- neg&oacute;cios
-- marketing
-- roi
-- an&aacute;lise
 ---
+
 Muitas vezes n&oacute;s simplesmente copiamos id&eacute;ias de especialistas sem adapt&aacute;-las a nossa realidade. Vou discorrer aqui a quest&atilde;o do site de uma p&aacute;gina s&oacute; (One Page Site) e da nova t&eacute;cnica que estou desenvolvendo.
 
 O pessoal da <a href="http://37signals.com">37signals</a> defende a id&eacute;ia de que um site pode ter uma p&aacute;gina s&oacute;. Realmente, o site deles tem apenas uma p&aacute;gina!

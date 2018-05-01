@@ -1,24 +1,24 @@
---- 
+---
+title: Google Spreadsheet
+date: 2006-06-07 23:56:40 Z
+categories:
+- Posts
+tags:
+- Tecnologia
+- google
+- web
+- futuro
+- planilha
 layout: post
 status: publish
-published: true
-title: Google Spreadsheet
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 50
 wordpress_url: http://rafael.adm.br/p/google-spreadsheet/
-date: 2006-06-07 20:56:40 -03:00
-categories: 
-- Posts
-tags: 
-- Tecnologia
-- google
-- web
-- futuro
-- planilha
 ---
+
 Hoje recebi o convite do Google para utilizar sua planilha eletr&ocirc;nica na web, o <a title="Visitar o Google Spreadsheet (nova janela)" target="_blank" href="http://spreadsheets.google.com">Google Spreadsheet</a>. <strong>Confesso que fiquei abismado com o que eu vi.</strong> J&aacute; havia testado outros <a title="Googling (nova janela)" target="_blank" href="http://www.google.com.br/search?hs=GRm&hl=pt-BR&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&q=spreadsheet+web&btnG=Pesquisar&meta=">sisteminhas de planilhas</a> na web, mas nada se compara com o que eu vi hoje. N&atilde;o quero escrever p&aacute;ginas e p&aacute;ginas sobre o servi&ccedil;o, pois mais cedo ou mais tarde todos voc&ecirc;s vir&atilde;o com os pr&oacute;prios olhos, por isso, vou ser bem direto:
 
 <a target="_blank" href="http://rafael.adm.br/wp-content/uploads/2006/06/google_spreadsheet.png"><img width="90%" height="90%" border="0" alt="Google Spreadsheet Screenshot" id="image51" src="http://rafael.adm.br/wp-content/uploads/2006/06/google_spreadsheet.png" /></a>

@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Amaz&ocirc;nia para Sempre
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 112
-wordpress_url: http://rafael.adm.br/p/amazonia-para-sempre/
-date: 2007-02-05 09:24:12 -02:00
-categories: 
+date: 2007-02-05 11:24:12 Z
+categories:
 - Posts
-tags: 
+tags:
 - marketing
 - utilidade
 - amaz&ocirc;nia
 - sempre
 - amaz&ocirc;nia-para-sempre
 - desmatamento
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 112
+wordpress_url: http://rafael.adm.br/p/amazonia-para-sempre/
 ---
+
 Foram desmatados 17 mil quil&ocirc;metros quadrados da Floresta Amaz&ocirc;nica nos &uacute;ltimos 3 anos, quase metade do territ&oacute;rio da Holanda. Esse &eacute; um dos dados apresentados na Carta Aberta de Artistas Brasileiros sobre a devasta&ccedil;&atilde;o da Amaz&ocirc;nia.
 
 Deixo aqui o <a href="http://www.amazoniaparasempre.com.br">link para o projeto Amaz&ocirc;nia para sempre</a>, esta foi a forma que encontrei de ajudar na divulga&ccedil;&atilde;o.

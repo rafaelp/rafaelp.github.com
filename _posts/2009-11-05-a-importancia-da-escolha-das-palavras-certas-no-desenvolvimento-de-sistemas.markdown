@@ -1,23 +1,23 @@
---- 
+---
+title: A import&acirc;ncia da escolha das palavras certas no desenvolvimento de sistemas
+date: 2009-11-05 16:04:03 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- programa&ccedil;&atilde;o
+- dicas
+- sistema
 layout: post
 status: publish
-published: true
-title: A import&acirc;ncia da escolha das palavras certas no desenvolvimento de sistemas
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 424
 wordpress_url: http://rafael.adm.br/?p=424
-date: 2009-11-05 14:04:03 -02:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- programa&ccedil;&atilde;o
-- dicas
-- sistema
 ---
+
 Estamos desenvolvendo na <a href="http://myfreecomm.com.br">Myfreecomm</a> um sistema de cobran&ccedil;a que est&aacute; ficando muito interessante. Ele ir&aacute; resolver um problema real e trar&aacute; muita conveni&ecirc;ncia no dia-a-dia das empresas que realizam cobran&ccedil;a com integra&ccedil;&atilde;o com os bancos.
 
 O sistema est&aacute; quase pronto e estamos neste momento definindo aqueles detalhes que fazem toda a diferen&ccedil;a.

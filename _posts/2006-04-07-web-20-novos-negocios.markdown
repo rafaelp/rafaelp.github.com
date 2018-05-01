@@ -1,23 +1,23 @@
---- 
+---
+title: Web 2.0 & Novos Neg&oacute;cios
+date: 2006-04-07 10:43:21 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- neg&oacute;cios
+- palestra
+- web2.0
 layout: post
 status: publish
-published: true
-title: Web 2.0 & Novos Neg&oacute;cios
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 14
 wordpress_url: http://rafael.adm.br/web-20-novos-negocios/
-date: 2006-04-07 07:43:21 -03:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- neg&oacute;cios
-- palestra
-- web2.0
 ---
+
 Nesta semana realizei uma <a href="http://www.rafael.adm.br/palestras/web2.0/">palestra sobre web 2.0</a> muito interessante!
 O tema principal foi web 2.0, suas caracter&iacute;sticas e aplica&ccedil;&otilde;es. Al&eacute;m disso o "Novos Neg&oacute;cios" do tema &eacute; justificado pelos conceitos sobre neg&oacute;cio, design, programa&ccedil;&atilde;o e marketing para aplica&ccedil;&otilde;es web que foram apresentados.
 

@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Google App Engine vs Amazon EC2
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 181
-wordpress_url: http://rafael.adm.br/p/google-app-engine-vs-amazon-ec2/
-date: 2008-04-11 15:56:40 -03:00
-categories: 
+date: 2008-04-11 18:56:40 Z
+categories:
 - Posts
-tags: 
+tags:
 - webapp
 - servidores
 - tend&ecirc;ncias
 - web-services
 - datacenter
 - escalabilidade
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 181
+wordpress_url: http://rafael.adm.br/p/google-app-engine-vs-amazon-ec2/
 ---
+
 O Google lan&ccedil;ou nesta semana o <a href="http://code.google.com/appengine/">Google App Engine</a> que &eacute; uma plataforma de <a href="http://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a> para qualquer desenvolvedor realizar o deploy da sua aplica&ccedil;&atilde;o de forma simples num ambiente escal&aacute;vel. A novidade j&aacute; est&aacute; causando burburinhos l&aacute; fora e realmente tem motivos para tal.
 
 <strong>Voc&ecirc; j&aacute; imaginou desenvolver uma aplica&ccedil;&atilde;o e oferec&ecirc;-la ao mundo com a estrutura do Google?</strong>

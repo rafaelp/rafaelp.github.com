@@ -1,24 +1,24 @@
---- 
+---
+title: Criando daemons em Ruby on Rails (com script para Gentoo)
+date: 2006-11-12 15:29:32 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- programa&ccedil;&atilde;o
+- rails
+- ruby
+- gentoo
 layout: post
 status: publish
-published: true
-title: Criando daemons em Ruby on Rails (com script para Gentoo)
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 104
 wordpress_url: http://rafael.adm.br/p/criando-daemons-em-ruby-on-rails-com-script-para-gentoo/
-date: 2006-11-12 13:29:32 -02:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- programa&ccedil;&atilde;o
-- rails
-- ruby
-- gentoo
 ---
+
 <h4>ruby on rails+daemon gem+daemon plugin+capistrano+gentoo linux</h4>
 
 Eu estava utilizando o RailsCron para envio de email em batch e segundo plano, por&eacute;m tive muitos problemas com este plugin. Ele n&atilde;o reiniciava bem, era necess&aacute;rio reinici&aacute;-lo manualmente toda vez que o servidor web fosse reiniciado. Isso era um grande problema!

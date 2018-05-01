@@ -1,25 +1,25 @@
---- 
+---
+title: Feedback ao cliente ou usu&aacute;rio
+date: 2008-10-01 03:53:05 Z
+categories:
+- 'Podcast: Voltando pra Casa'
+- podcast
+tags:
+- suporte
+- atendimento
+- podcast
+- cliente
 layout: post
 status: publish
-published: true
-title: Feedback ao cliente ou usu&aacute;rio
 author: podcast_deployment
 author_login: podcast_deployment
 author_email: rafael.lima.paula@gmail.com
 author_url: http://
 wordpress_id: 255
 wordpress_url: http://rafael.adm.br/?p=255
-date: 2008-10-01 00:53:05 -03:00
-categories: 
-- "Podcast: Voltando pra Casa"
-- podcast
-tags: 
-- suporte
-- atendimento
-- podcast
-- cliente
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0022.mp3
 ---
+
 Neste epis&oacute;dio falei um pouquinho sobre boas pr&aacute;ticas no atendimento ao cliente, tanto nas respostas por e-mail como contato telef&ocirc;nico. Ou&ccedil;a e critique!
 
 Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.

@@ -1,20 +1,18 @@
---- 
+---
+title: Balan&ccedil;o da 2&ordf; turma do Workshop Bootstrappers
+date: 2011-09-12 16:16:05 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Balan&ccedil;o da 2&ordf; turma do Workshop Bootstrappers
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 630
 wordpress_url: http://rafael.adm.br/?p=630
-date: 2011-09-12 13:16:05 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Eu venho fazendo um <a href="http://workshop.bootstrappers.com.br" target="_blank">workshop de empreendedorismo</a> online para pessoas que desejam utilizar as mais novas t&eacute;cnicas de gest&atilde;o e desenvolvimento de novos produtos e mercados.
 
 O workshop &eacute; realizado online pela plataforma <a href="http://www.treinatom.com.br" target="_blank">Treina TOM</a> em duas aulas de 4 horas. O Treina TOM possui diversos recursos avan&ccedil;ados para intera&ccedil;&atilde;o entre os participantes, &eacute; muito legal. Este modelo de workshop viabiliza a participa&ccedil;&atilde;o de pessoas de qualquer lugar do Brasil.

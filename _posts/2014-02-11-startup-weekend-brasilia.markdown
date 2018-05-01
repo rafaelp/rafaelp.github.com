@@ -1,12 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Startup Weekend Brasília
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2014-02-11 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -14,6 +8,12 @@ tags:
 - swbsb
 - empreendedorismo
 - startups
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 De 21 a 23 de fevereiro, terceira edição do [Startup Weekend Brasília](http://brasilia.startupweekend.org/) promove um fim de semana de ideias inovadoras com chances de se tornarem bons negócios.

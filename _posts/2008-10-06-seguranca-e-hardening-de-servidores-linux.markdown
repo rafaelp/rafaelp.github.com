@@ -1,18 +1,9 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Seguran&ccedil;a e Hardening de servidores linux
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 257
-wordpress_url: http://rafael.adm.br/?p=257
-date: 2008-10-06 01:48:57 -03:00
-categories: 
+date: 2008-10-06 04:48:57 Z
+categories:
 - Posts
-tags: 
+tags:
 - servidores
 - seguran&ccedil;a
 - linux
@@ -31,7 +22,16 @@ tags:
 - mrtg
 - watchdog
 - smartd
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 257
+wordpress_url: http://rafael.adm.br/?p=257
 ---
+
 Este final de semana fiquei envolvido com quest&otilde;es de seguran&ccedil;a nos servidores da <a href="http://bielsystems.com.br">BielSystems.</a> Deixo aqui uma sopinha de letras para quem quiser buscar ler mais sobre o assunto.
 
 <ul>

@@ -1,18 +1,10 @@
---- 
-layout: post
-status: publish
-published: true
-title: Problema ao usar IE7 + Iframe + Session + Cookie + Dom&iacute;nio diferente (cross-domain)
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 177
-wordpress_url: http://rafael.adm.br/p/problema-ao-usar-ie7-iframe-session-cookie-dominio-diferente-cross-domain/
-date: 2008-03-20 11:49:27 -03:00
-categories: 
+---
+title: Problema ao usar IE7 + Iframe + Session + Cookie + Dom&iacute;nio diferente
+  (cross-domain)
+date: 2008-03-20 14:49:27 Z
+categories:
 - Posts
-tags: 
+tags:
 - programa&ccedil;&atilde;o
 - dicas
 - bug
@@ -21,7 +13,16 @@ tags:
 - session
 - cookie
 - cross-domain
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 177
+wordpress_url: http://rafael.adm.br/p/problema-ao-usar-ie7-iframe-session-cookie-dominio-diferente-cross-domain/
 ---
+
 Passei por um problema agora no sistema que fa&ccedil;o para a <a href="http://www.telequality.com.br">Telequality</a> que &eacute; chato e n&atilde;o tem muita coisa escrita sobre.
 
 Quando voc&ecirc; usa um iframe, a p&aacute;gina de dentro do iframe est&aacute; em um dom&iacute;nio diferente da p&aacute;gina que possui o c&oacute;digo iframe, e essa p&aacute;gina interna usa session com cookies, o IE7 por padr&atilde;o ignora o cookie silenciosamente.

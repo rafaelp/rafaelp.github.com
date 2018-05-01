@@ -1,23 +1,23 @@
---- 
+---
+title: Orkut para os pais
+date: 2006-11-02 14:48:25 Z
+categories:
+- Posts
+tags:
+- google
+- privacidade
+- orkut
+- amizades
 layout: post
 status: publish
-published: true
-title: Orkut para os pais
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 101
 wordpress_url: http://rafael.adm.br/p/orkut-para-os-pais/
-date: 2006-11-02 11:48:25 -03:00
-categories: 
-- Posts
-tags: 
-- google
-- privacidade
-- orkut
-- amizades
 ---
+
 Quando escrevi o post <a href="http://rafael.adm.br/p/o-sentido-do-orkut">O sentido do Orkut</a>, n&atilde;o imaginei a repercuss&atilde;o que daria e muito menos que faria uma "parte 2".
 
 Este post &eacute; uma resposta &agrave; <a href="http://rafael.adm.br/p/o-sentido-do-orkut#comments">pergunta do Carlos</a>, pai de duas meninas que usam o Orkut. Resolvi aproveitar para fazer uma continua&ccedil;&atilde;o do artigo para todos os pais cujos filhos utilizam o Orkut.

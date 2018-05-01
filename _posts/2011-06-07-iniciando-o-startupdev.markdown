@@ -1,21 +1,21 @@
---- 
+---
+title: Iniciando o Startup DEV
+date: 2011-06-07 12:49:56 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- startupdev
 layout: post
 status: publish
-published: true
-title: Iniciando o Startup DEV
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 508
 wordpress_url: http://rafael.adm.br/?p=508
-date: 2011-06-07 09:49:56 -03:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- startupdev
 ---
+
 Tenho pouco tempo para escrever este post, pois meu deadline agora &eacute; de 48 horas.
 Eu e o Sylveste Mergulh&atilde;o come&ccedil;amos ontem uma nova empreitada.
 Chamamos de Startup DEV e trata-se de um modelo de venda e desenvolvimento de software totalmente inovador.

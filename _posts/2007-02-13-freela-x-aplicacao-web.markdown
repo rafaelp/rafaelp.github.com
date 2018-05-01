@@ -1,24 +1,24 @@
---- 
+---
+title: Freela x Aplica&ccedil;&atilde;o Web
+date: 2007-02-13 12:23:07 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- programa&ccedil;&atilde;o
+- projetos
+- design
+- webapp
 layout: post
 status: publish
-published: true
-title: Freela x Aplica&ccedil;&atilde;o Web
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 113
 wordpress_url: http://rafael.adm.br/p/freela-x-aplicacao-web/
-date: 2007-02-13 10:23:07 -02:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- programa&ccedil;&atilde;o
-- projetos
-- design
-- webapp
 ---
+
 O <a href="http://fatorw.com">Walmar Andrade</a> escreveu sobre <a href="http://fatorw.com/2007/02/08/getting-real/">O impacto da metodologia Getting Real</a> em seu blog semana passada. Postei um coment&aacute;rio e respondendo o e-mail dele resolvi fazer este r&aacute;pido post.
 
 Acompanhei o <a href="http://www.fatorw.com/index.php?s=MUF">projeto do Caf&eacute; Colombo</a> que o Walmar desenvolveu. Achei muito interessante a metodologia utilizada, aprendi a fazer assim com os designers que trabalhei no decorrer da minha carreira.

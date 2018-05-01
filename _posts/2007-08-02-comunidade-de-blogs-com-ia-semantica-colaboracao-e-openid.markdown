@@ -1,23 +1,23 @@
---- 
+---
+title: Comunidade de Blogs com IA, Sem&acirc;ntica, Colabora&ccedil;&atilde;o e OpenID
+date: 2007-08-02 04:08:52 Z
+categories:
+- Posts
+tags:
+- web
+- futuro
+- comunidade
+- blog
 layout: post
 status: publish
-published: true
-title: Comunidade de Blogs com IA, Sem&acirc;ntica, Colabora&ccedil;&atilde;o e OpenID
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 133
 wordpress_url: http://rafael.adm.br/p/comunidade-de-blogs-com-ia-semantica-colaboracao-e-openid/
-date: 2007-08-02 01:08:52 -03:00
-categories: 
-- Posts
-tags: 
-- web
-- futuro
-- comunidade
-- blog
 ---
+
 Acabei de conversar durante horas (literalmente) com meu grande amigo <a href="http://pensoporquepenso.com">Marcelo</a> e n&atilde;o pude deixar de postar algumas id&eacute;ias frescas.Falamos sobre as novidades e para variar filosofamos sobre a web e o futuro. O <a href="http://pensoporquepenso.com/2007/07/26/indexacao-de-servicos-brutos/">&uacute;ltimo post dele</a> resume muito bem o assunto principal de nossa conversa.
 
 Foi incr&iacute;vel perceber o nossas id&eacute;ias estavam alinhavadas mesmo estando a bastante tempo sem conversar sobre o assunto. Abaixo coloco um trecho da entrevista que eu fiz para a revista Neg&oacute;cios da Comunica&ccedil;&atilde;o em resposta &agrave; pergunta sobre as tend&ecirc;ncias de comunica&ccedil;&atilde;o on-line para empresas. Veja como est&aacute; em perfeita sintonia com o post do Marcelo!

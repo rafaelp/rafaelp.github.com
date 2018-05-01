@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Cuidado ao fazer migra&ccedil;&atilde;o de reposit&oacute;rio subversion
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 315
-wordpress_url: http://rafael.adm.br/?p=315
-date: 2009-04-22 10:22:40 -03:00
-categories: 
+date: 2009-04-22 13:22:40 Z
+categories:
 - Posts
-tags: 
+tags:
 - servidor
 - svn
 - subversion
 - apache
 - configura&ccedil;&atilde;o
 - migra&ccedil;&atilde;o
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 315
+wordpress_url: http://rafael.adm.br/?p=315
 ---
+
 Este final de semana eu fiz uma migra&ccedil;&atilde;o de um servidor subversion. Como eu esperava, teria algumas dores de cabe&ccedil;a pois o subversion &eacute; muito sens&iacute;vel. Fiz muitos testes durane o processo e consegui uma maneira que funcionasse.
 
 No final das contas consegui migrar todo o reposit&oacute;rio de um servidor para outro e manter a mesma URL de modo que ficasse transparente para os clients, evitando a necessidade de rodar um "svn switch --relocate" em cada working copy.

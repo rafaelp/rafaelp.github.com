@@ -1,23 +1,23 @@
---- 
+---
+title: 'Voltando do Rails Summit 2008 #3'
+date: 2008-10-19 21:05:26 Z
+categories:
+- 'Podcast: Voltando pra Casa'
+- podcast
+tags:
+- podcast
+- railssummit
 layout: post
 status: publish
-published: true
-title: "Voltando do Rails Summit 2008 #3"
 author: podcast_deployment
 author_login: podcast_deployment
 author_email: rafael.lima.paula@gmail.com
 author_url: http://
 wordpress_id: 263
 wordpress_url: http://rafael.adm.br/?p=263
-date: 2008-10-19 19:05:26 -02:00
-categories: 
-- "Podcast: Voltando pra Casa"
-- podcast
-tags: 
-- podcast
-- railssummit
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0027.mp3
 ---
+
 Voltando pra casa do Rails Summit 2008 com Vinicius Teles, Juan, Sylvestre Mergulh&atilde;o e Eduardo (ocurioso.com). Ou&ccedil;a e divirta-se!
 
 Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.

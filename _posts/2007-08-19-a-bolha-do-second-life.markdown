@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: A bolha do Second Life
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 135
-wordpress_url: http://rafael.adm.br/p/a-bolha-do-second-life/
-date: 2007-08-19 13:39:41 -03:00
-categories: 
+date: 2007-08-19 16:39:41 Z
+categories:
 - Posts
-tags: 
+tags:
 - neg&oacute;cios
 - Tecnologia
 - web
 - futuro
 - second-life
 - e-commerce
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 135
+wordpress_url: http://rafael.adm.br/p/a-bolha-do-second-life/
 ---
+
 Faz tempo que estou acompanhando o Second Life. Sempre me interessei em ler todas as not&iacute;cias nas principais revistas sobre este ambiente e procurei estar atento ao que acontecia. No dia 20/06/2007 eu <a href="http://rafael.adm.br/p/buzzword-second-life/">entrei pela primeira vez</a> para ver como funcionava. N&atilde;o sa&iacute; da ilha de aprendizado, fiquei s&oacute; ali, andei, pulei, voei, e ponto.
 
 O motivo maior para eu ter entrado pela primeira vez, foi a possibilidade de executar um projeto dentro do Second Life. Achei que iria entrar novamente, mas naturalmente n&atilde;o ocorreu. Eu nunca fui ligado &agrave; jogos e talvez seja isso que n&atilde;o tenha me motivado a interagir novamente naquele ambiente.

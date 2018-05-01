@@ -1,18 +1,9 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Os detalhes da tabela de planos no BielBid
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 77
-wordpress_url: http://rafael.adm.br/p/os-detalhes-da-tabela-de-planos-no-bielbid/
-date: 2006-08-28 10:48:50 -03:00
-categories: 
+date: 2006-08-28 13:48:50 Z
+categories:
 - Posts
-tags: 
+tags:
 - desenvolvimento
 - comunica&ccedil;&atilde;o
 - usabilidade
@@ -20,7 +11,16 @@ tags:
 - interface
 - simplicidade
 - bielbid
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 77
+wordpress_url: http://rafael.adm.br/p/os-detalhes-da-tabela-de-planos-no-bielbid/
 ---
+
 O <a href="http://bielbid.com.br">sistema web que agiliza o processo de cota&ccedil;&atilde;o</a> foi lan&ccedil;ado na segunda-feira passada. Nossa estrat&eacute;gia foi disponibiliz&aacute;-lo na segunda passada e come&ccedil;ar a divulg&aacute;-lo hoje, uma semana depois.
 Hoje iniciaremos os an&uacute;ncios no sistema <a href="https://adwords.google.com">Google Ad Words</a>, enviaremos o Press Release para alguns jornalistas da &aacute;rea e come&ccedil;aremos a postar nossa experi&ecirc;ncia, eu em desenvolvimento, e <a href="http://viniciusbraga.com">Vinicius Braga em design</a>, baseado no trabalho que vem sendo realizado com o <a href="http://bielbid.com.br">BielBid</a>.
 

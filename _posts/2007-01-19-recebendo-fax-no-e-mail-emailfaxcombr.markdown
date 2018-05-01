@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
-title: "Recebendo fax no e-mail: emailfax.com.br"
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 111
-wordpress_url: http://rafael.adm.br/p/recebendo-fax-no-e-mail-emailfaxcombr/
-date: 2007-01-19 19:16:15 -02:00
-categories: 
+---
+title: 'Recebendo fax no e-mail: emailfax.com.br'
+date: 2007-01-19 21:16:15 Z
+categories:
 - Posts
-tags: 
+tags:
 - neg&oacute;cios
 - Tecnologia
 - web
 - servi&ccedil;o
 - utilidade
 - blog
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 111
+wordpress_url: http://rafael.adm.br/p/recebendo-fax-no-e-mail-emailfaxcombr/
 ---
+
 Ol&aacute; Pessoal,
 
 Eu sempre quis ter um n&uacute;mero de fax que enviasse automaticamente os documentos recebidos para meu e-mail. Buscando na internet achei algumas op&ccedil;&otilde;es l&aacute; fora e quase nenhuma aqui no Brasil. Resolvi estudar o assunto e o resultado foi o novo servi&ccedil;o oferecido pela BielSystems.

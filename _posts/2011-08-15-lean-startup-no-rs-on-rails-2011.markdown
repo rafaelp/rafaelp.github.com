@@ -1,20 +1,18 @@
---- 
+---
+title: Lean Startup no RS on Rails 2011
+date: 2011-08-15 14:56:45 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Lean Startup no RS on Rails 2011
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 558
 wordpress_url: http://rafael.adm.br/?p=558
-date: 2011-08-15 11:56:45 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Neste s&aacute;bado rolou o <a href="http://rsonrails.com.br/">RS on Rails</a>, evento realizado pela galera da <a href="http://softa.com.br/pt">Softa</a>. <a href="http://twitter.com/#!/joaomilho">Juan</a>, muit&iacute;ssimo obrigado pelo convite!
 
 Cheguei na sexta-feira &agrave; noite, e fui direto para a casa da Softa. Um ambiente muito, mas muito legal mesmo. L&aacute; encontrei uma galera que j&aacute; estava se preparando para o evento, bebendo cerveja :)

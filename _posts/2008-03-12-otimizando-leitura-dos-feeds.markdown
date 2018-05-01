@@ -1,25 +1,25 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Otimizando leitura dos feeds
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 172
-wordpress_url: http://rafael.adm.br/p/otimizando-leitura-dos-feeds/
-date: 2008-03-12 19:02:57 -03:00
-categories: 
+date: 2008-03-12 22:02:57 Z
+categories:
 - Posts
-tags: 
+tags:
 - gmail
 - feed
 - rss
 - not&iacute;cia
 - informa&ccedil;&atilde;o
 - otimiza&ccedil;&atilde;o
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 172
+wordpress_url: http://rafael.adm.br/p/otimizando-leitura-dos-feeds/
 ---
+
 Quem usa um agregador de feeds a bastante tempo sabe como se torna um problema ler tudo que pipoca diariamente.
 
 <strong>Eu tomei uma decis&atilde;o que est&aacute; funcionando muito bem, abaixo vou discorrer sobre a minha id&eacute;ia.</strong>

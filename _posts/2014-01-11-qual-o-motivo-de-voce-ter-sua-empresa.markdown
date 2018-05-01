@@ -1,12 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Qual o motivo de você ter sua empresa?
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2014-01-11 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -14,6 +8,12 @@ tags:
 - empresa
 - reflexão
 - dica
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
 
 Essa é uma pergunta simples que ajuda bastante no alinhamento do seu trabalho com a sua felicidade.

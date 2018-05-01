@@ -1,18 +1,9 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: N&atilde;o estou sozinho (sobre o Knol)
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 151
-wordpress_url: http://rafael.adm.br/p/nao-estou-sozinho-sobre-o-knol/
-date: 2007-12-28 00:49:01 -02:00
-categories: 
+date: 2007-12-28 02:49:01 Z
+categories:
 - Posts
-tags: 
+tags:
 - Tecnologia
 - google
 - internet
@@ -20,7 +11,16 @@ tags:
 - sustentabilidade
 - wikipedia
 - knol
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 151
+wordpress_url: http://rafael.adm.br/p/nao-estou-sozinho-sobre-o-knol/
 ---
+
 Como declarei em posts anteriores, n&atilde;o vejo com bons olhos a iniciativa do Google com o Knol. Depois de levar algumas pauladas por expor essa minha opini&atilde;o, resolvi fazer uma busca e ler mais ainda sobre o assunto.
 Separei alguns links de outros articulistas que compartilham esta id&eacute;ia:
 <a href="http://librarianbydesign.blogspot.com/2007/12/googles-knol-good-ideabad-idea.html">http://librarianbydesign.blogspot.com/2007/12/googles-knol-good-ideabad-idea.html</a>

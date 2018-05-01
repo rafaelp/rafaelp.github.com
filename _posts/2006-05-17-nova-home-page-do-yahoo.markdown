@@ -1,23 +1,23 @@
---- 
+---
+title: Nova Home Page do Yahoo
+date: 2006-05-17 16:20:33 Z
+categories:
+- Posts
+tags:
+- yahoo
+- design
+- interface
+- web2.0
 layout: post
 status: publish
-published: true
-title: Nova Home Page do Yahoo
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 43
 wordpress_url: http://rafael.adm.br/p/nova-home-page-do-yahoo/
-date: 2006-05-17 13:20:33 -03:00
-categories: 
-- Posts
-tags: 
-- yahoo
-- design
-- interface
-- web2.0
 ---
+
 Recentemente o Yahoo <a target="_blank" title="Ver o post (nova janela)" href="http://www.ysearchblog.com/archives/000304.html">publicou em seu blog</a> que estar&aacute; renovando sua <a title="Visitar o Preview (nova janela)" target="_blank" href="http://www.yahoo.com/preview">p&aacute;gina inicial</a>. Eu entrei para analisar e duas coisas me chamaram muito a aten&ccedil;&atilde;o! N&atilde;o farei uma an&aacute;lise da p&aacute;gina incial nova aqui, mas comentarei sobre dois detalhes, um que gostei muito e outro que n&atilde;o gostei tanto.
 
 <strong>1. N&atilde;o cabe em 800x600 (N&atilde;o gostei)

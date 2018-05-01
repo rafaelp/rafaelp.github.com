@@ -1,20 +1,18 @@
---- 
+---
+title: Guerra dos Browsers
+date: 2006-04-27 18:14:59 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Guerra dos Browsers
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 36
 wordpress_url: http://rafael.adm.br/p/guerra-dos-browsers/
-date: 2006-04-27 15:14:59 -03:00
-categories: 
-- Posts
-tags: []
-
 ---
+
 Realmente tenho a sensa&ccedil;&atilde;o de que a web est&aacute; entrando em uma nova era. Fala-se muito de web 2.0, foco no usu&aacute;rio, etc etc...
 
 Mas o que me chama a aten&ccedil;&atilde;o &eacute; a volta da Guerra dos Browsers. Eu lembro da acirrada disputa entre o Netscape e Internet Explorer l&aacute; na "d&eacute;cada de 90".

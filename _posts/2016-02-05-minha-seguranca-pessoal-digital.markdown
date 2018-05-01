@@ -1,16 +1,14 @@
 ---
+title: Minha Segurança Pessoal Digital
+date: 2016-02-05 00:00:00 Z
+categories:
+- Posts
 layout: post
 status: publish
-published: true
-title: Minha Segurança Pessoal Digital
-slug: minha-seguranca-pessoal-digital
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
-categories:
-- Posts
-tags: []
 ---
 
 Constantemente eu venho trabalhando para manter minha segurança pessoal digital. Sempre busquei ativamente melhorar o nível de segurança das minhas informações, dispositivos e computador. Vou descrever o que eu uso de software e práticas com esse objetivo.

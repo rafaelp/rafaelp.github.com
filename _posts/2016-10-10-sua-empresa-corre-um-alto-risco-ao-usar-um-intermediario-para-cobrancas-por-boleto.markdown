@@ -1,13 +1,7 @@
 ---
-layout: post
-status: publish
-published: true
-title: Sua empresa corre um alto risco ao usar um intermediário para cobranças por boleto
-slug: sua-empresa-corre-um-alto-risco-ao-usar-um-intermediario-para-cobrancas-por-boleto
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+title: Sua empresa corre um alto risco ao usar um intermediário para cobranças por
+  boleto
+date: 2016-10-10 00:00:00 Z
 categories:
 - Posts
 tags:
@@ -16,7 +10,14 @@ tags:
 - cobrança
 - pagamento
 - boletosimples
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
+
 <span style="color: #f00"><strong>Atenção!</strong> Esse artigo foi atualizado em 14 de outubro.
 <br/>
 <a href="#atualizacao-14-out">Veja as atualizações no final do artigo.</a></span>

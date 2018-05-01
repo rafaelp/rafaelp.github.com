@@ -1,19 +1,20 @@
 ---
-layout: post
-status: publish
-published: true
 title: Como pensar o futuro da tecnologia
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
+date: 2013-12-30 00:00:00 Z
 categories:
 - Posts
 tags:
 - futuro
 - tecnologia
 - tendências
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
 ---
+
 Não sou eu que falo, mas Fred Wilson, um dos VCs mais conhecidos no ecossistema de tecnologia. Ele é sócio da [Union Square Ventures](http://www.usv.com/), que já investiu em gigantes como Twitter, Disqus, Codecademy, Soundcloud, Twilio, Meetup, MongoDB, FourSquare, Kickstarter, Zynga, Tumblr e dezenas de outras startups que cresceram.
 
 Ele foi convidado para palestrar sobre as tecnologias que iremos ver nos próximos 10 anos na conferência [LeWeb](http://leweb.co/), que em 2013 rolou em Paris, nos dias 10 a 12 de dezembro.

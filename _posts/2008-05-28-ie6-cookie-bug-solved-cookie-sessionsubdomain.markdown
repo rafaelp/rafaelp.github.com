@@ -1,18 +1,10 @@
---- 
-layout: post
-status: publish
-published: true
-title: IE 6 Cookie bug - Setting cookies fails when the hostname of the server contains an underscore.
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 201
-wordpress_url: http://rafael.adm.br/?p=201
-date: 2008-05-28 13:44:42 -03:00
-categories: 
+---
+title: IE 6 Cookie bug - Setting cookies fails when the hostname of the server contains
+  an underscore.
+date: 2008-05-28 16:44:42 Z
+categories:
 - Posts
-tags: 
+tags:
 - dicas
 - bug
 - session
@@ -21,7 +13,16 @@ tags:
 - ie
 - solved
 - trick
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 201
+wordpress_url: http://rafael.adm.br/?p=201
 ---
+
 <strong>Setting  	cookies fails when the hostname of the server contains an underscore. </strong>
 
 <span id="PostView1"><span class="normalTextSmall">This happens because  	the machine name contains an underscore, technically prohibited by DNS rules  	(LetterDigitsHyphen) and hence blocked. This issue is mostly relevant for  	Intranet sites; most DNS systems will prohibit use of underscores in  	hostnames due to the LDH rule.  See 	<a href="http://support.microsoft.com/kb/909264"> http://support.microsoft.com/kb/909264</a> for more info.</span></span>

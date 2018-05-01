@@ -1,23 +1,23 @@
---- 
+---
+title: 'Voltando do Rails Summit 2008 #1'
+date: 2008-10-19 21:05:24 Z
+categories:
+- 'Podcast: Voltando pra Casa'
+- podcast
+tags:
+- podcast
+- railssummit
 layout: post
 status: publish
-published: true
-title: "Voltando do Rails Summit 2008 #1"
 author: podcast_deployment
 author_login: podcast_deployment
 author_email: rafael.lima.paula@gmail.com
 author_url: http://
 wordpress_id: 261
 wordpress_url: http://rafael.adm.br/?p=261
-date: 2008-10-19 19:05:24 -02:00
-categories: 
-- "Podcast: Voltando pra Casa"
-- podcast
-tags: 
-- podcast
-- railssummit
 podcast: http://rafael.adm.br/voltandopracasa/rafael_lima-voltando_pra_casa-0025.mp3
 ---
+
 Voltando pra casa do Rails Summit com Henrique Bastos, Miguel Baldi, Marcio Trindade. Ou&ccedil;a a opini&atilde;o de cada um.
 
 Leitores de feeds, visitem o site para ouvir on-line ou utilizem o link abaixo para fazer o download do arquivo de &Aacute;udio.

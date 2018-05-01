@@ -1,24 +1,24 @@
---- 
+---
+title: Pagamento on-line no Brasil - Boleto Banc&aacute;rio
+date: 2008-04-30 20:47:54 Z
+categories:
+- Posts
+tags:
+- webapp
+- e-commerce
+- venda
+- cobran&ccedil;a
+- pagamento
 layout: post
 status: publish
-published: true
-title: Pagamento on-line no Brasil - Boleto Banc&aacute;rio
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 184
 wordpress_url: http://rafael.adm.br/p/pagamento-on-line-no-brasil-boleto-bancario/
-date: 2008-04-30 17:47:54 -03:00
-categories: 
-- Posts
-tags: 
-- webapp
-- e-commerce
-- venda
-- cobran&ccedil;a
-- pagamento
 ---
+
 <strong>Atualizado em 06/11/2009:</strong> O <a href="http://cobregratis.com.br/?utm_campaign=blogwatch&amp;utm_source=rafael.adm.br&amp;utm_medium=link&amp;utm_term=pagamento-on-line-no-brasil-boleto-bancario">Cobre Gr&aacute;tis</a> emite e gerencia boletos banc&aacute;rios gratuitamente.
 
 Este post &eacute; uma tentativa de responder as perguntas do <a href="http://www.improveit.com.br/vinicius">Vinicius</a> feitas no <a href="http://blog.improveit.com.br">blog da Improve-It</a> no post entitulado <a href="http://blog.improveit.com.br/articles/2008/04/28/call-for-help">Call for Help</a>. O objetivo dele &eacute; justamente usar o poder do blog para fomentar discuss&atilde;o interessante para seu uso pessoal, uma iniciativa inteligente que eu apoio. As empresas poderiam criar seu <a href="http://blogempresa.com.br">Blog Empresa</a> e fazer isso tamb&eacute;m!

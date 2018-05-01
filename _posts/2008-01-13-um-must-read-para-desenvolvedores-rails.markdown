@@ -1,22 +1,22 @@
---- 
+---
+title: Um must-read para desenvolvedores Rails
+date: 2008-01-13 04:22:16 Z
+categories:
+- Posts
+tags:
+- programa&ccedil;&atilde;o
+- rails
+- ruby
 layout: post
 status: publish
-published: true
-title: Um must-read para desenvolvedores Rails
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 157
 wordpress_url: http://rafael.adm.br/p/um-must-read-para-desenvolvedores-rails/
-date: 2008-01-13 02:22:16 -02:00
-categories: 
-- Posts
-tags: 
-- programa&ccedil;&atilde;o
-- rails
-- ruby
 ---
+
 Acabei de ler o <a href="http://www.zedshaw.com/rants/rails_is_a_ghetto.html">post do Zed sobre a decis&atilde;o de largar a comunidade Rails</a>.
 
 Para quem n&atilde;o conhece, esse cara &eacute; uma referencia na comunidade Rails. Ele escreveu o <a href="http://mongrel.rubyforge.org/">Mongrel</a> que &eacute; um servidor de aplica&ccedil;&atilde;o escrito em Ruby, muito utiizado por aplica&ccedil;&otilde;es Rails.

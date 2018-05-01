@@ -1,24 +1,24 @@
---- 
+---
+title: Casos do Z&eacute; no Rails Summit 2009
+date: 2009-10-19 17:33:35 Z
+categories:
+- Posts
+tags:
+- neg&oacute;cios
+- palestra
+- webapp
+- business
+- railssumiit
 layout: post
 status: publish
-published: true
-title: Casos do Z&eacute; no Rails Summit 2009
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 412
 wordpress_url: http://rafael.adm.br/?p=412
-date: 2009-10-19 15:33:35 -02:00
-categories: 
-- Posts
-tags: 
-- neg&oacute;cios
-- palestra
-- webapp
-- business
-- railssumiit
 ---
+
 Eu j&aacute; agradeci ao Akita pelo Rails Summit 2009 que foi um evento realmente muito bom. Adorei ter participado e feito a bagun&ccedil;a com o pessoal do Rio. As palestras foram muito boas e o saldo do evento foi bem positivo.
 
 Eu fiz novamente a lightning talk sobre desenvolvimento de produto e Casos do Z&eacute; na Rails Summit 2009. A <a href="http://rafael.adm.br/p/casos-do-ze-na-desconferencia-do-oxente-rails-2009/">primeira vez foi no Oxente Rails 2009</a>.

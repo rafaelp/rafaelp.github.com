@@ -1,23 +1,23 @@
---- 
+---
+title: Programador lento
+date: 2009-12-22 10:34:44 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- programa&ccedil;&atilde;o
+- c&oacute;digo
+- programador
 layout: post
 status: publish
-published: true
-title: Programador lento
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 437
 wordpress_url: http://rafael.adm.br/?p=437
-date: 2009-12-22 08:34:44 -02:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- programa&ccedil;&atilde;o
-- c&oacute;digo
-- programador
 ---
+
 Na <a href="http://myfreecomm.com.br">Myfreecomm</a> temos alguns programadores lentos, gra&ccedil;as a Deus. Conversando sobre isso com o <a href="http://henriquebastos.net">Henrique</a>, ele disse que merecia um post. Atendendo a pedidos, a&iacute; est&aacute;.
 
 Depois de bastante tempo sem programar, eu passei dois dias escrevendo um pequeno sistema para integrar a parte de pagamento de uma aplica&ccedil;&atilde;o com o <a href="http://paypal.com">Paypal</a>.

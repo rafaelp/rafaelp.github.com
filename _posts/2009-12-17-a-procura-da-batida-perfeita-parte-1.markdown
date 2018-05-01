@@ -1,23 +1,23 @@
---- 
+---
+title: A procura da batida perfeita - Parte 1
+date: 2009-12-17 12:57:12 Z
+categories:
+- Posts
+tags:
+- desenvolvimento
+- neg&oacute;cios
+- empreendedorismo
+- gest&atilde;o
 layout: post
 status: publish
-published: true
-title: A procura da batida perfeita - Parte 1
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 434
 wordpress_url: http://rafael.adm.br/?p=434
-date: 2009-12-17 10:57:12 -02:00
-categories: 
-- Posts
-tags: 
-- desenvolvimento
-- neg&oacute;cios
-- empreendedorismo
-- gest&atilde;o
 ---
+
 Na minha <a href="http://rafael.adm.br/p/bootstrapping-de-aplicacoes-web-no-ceara-on-rails-2009/">&uacute;ltima palestra</a>, no Cear&aacute; On Rails, eu tive que preparar tudo de um dia para o outro e n&atilde;o pude organizar melhor as id&eacute;ias colocadas nos slides. Em um deles eu escrevi &ldquo;A procura da batida perfeita&rdquo;, no momento que eu ia falar sobre as caracter&iacute;sticas de uma aplica&ccedil;&atilde;o web ideal, da maneira que eu busco.
 
 De l&aacute; pra c&aacute; eu venho pensando sobre o termo &ldquo;batida perfeita&rdquo; e relacionando com os acontecimentos do dia-a-dia na minha vida.

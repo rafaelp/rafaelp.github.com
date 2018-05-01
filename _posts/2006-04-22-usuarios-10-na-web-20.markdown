@@ -1,24 +1,24 @@
---- 
+---
+title: Usu&aacute;rios 1.0 na Web 2.0
+date: 2006-04-22 23:35:23 Z
+categories:
+- Posts
+tags:
+- usu&aacute;rios
+- api
+- integra&ccedil;&atilde;o
+- Tecnologia
+- web2.0
 layout: post
 status: publish
-published: true
-title: Usu&aacute;rios 1.0 na Web 2.0
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 25
 wordpress_url: http://rafael.adm.br/p/usuarios-10-na-web-20/
-date: 2006-04-22 20:35:23 -03:00
-categories: 
-- Posts
-tags: 
-- usu&aacute;rios
-- api
-- integra&ccedil;&atilde;o
-- Tecnologia
-- web2.0
 ---
+
 Acabei de ler o artigo <a title="Ler o artigo (nova janela)" target="_blank" href="http://www.meiobit.com/arq/007774.html">Na Web 2.0, email ainda &eacute; 1.0</a> e concordei bastante com o autor. Acho que cada vez mais os sistemas estar&atilde;o integrados ao e-mail, principalmente com as APIs disponilibilizadas pelo GMail, por exemplo. A possibilidade de entrada de dados pelo e-mail &eacute; fant&aacute;stica, mas desde que o usu&aacute;rio saiba utiliz&aacute;-la.
 Pegando o gancho do coment&aacute;rio feito pelo <a title="Visitar o link (nova janela)" target="_blank" href="http://joeedman.blogspot.com/">Joe Edman</a> , os usu&aacute;rios ainda s&atilde;o 1.0!
 

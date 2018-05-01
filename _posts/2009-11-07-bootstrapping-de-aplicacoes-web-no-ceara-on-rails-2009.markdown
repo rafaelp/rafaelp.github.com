@@ -1,40 +1,38 @@
---- 
+---
+title: Bootstrapping de Aplica&ccedil;&otilde;es Web no Cear&aacute; on Rails 2009
+date: 2009-11-07 21:59:27 Z
+categories:
+- Posts
+tags:
+- palestra
+- rails
+- webapp
+- business
+- cearaonrails
 layout: post
 status: publish
-published: true
-title: Bootstrapping de Aplica&ccedil;&otilde;es Web no Cear&aacute; on Rails 2009
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 excerpt: |
   Esses &uacute;ltimos tr&ecirc;s dias foram muito loucos pra mim. Uma sequ&ecirc;ncia de acontecimentos resultou em um final de semana bem interessante, pelo menos at&eacute; agora.
-  
-  Tudo come&ccedil;ou quando eu coloquei no ar, na noite de quinta-feira (05/11/09), o site do <a href="http://cobregratis.com.br">Cobre Gr&aacute;tis</a>, uma nova aplica&ccedil;&atilde;o web que estou lan&ccedil;ando. Na sexta-feira de manh&atilde; o <a href="http://tapajos.me">Tapaj&oacute;s</a> me ligou dizendo que teve um problema pessoal e que n&atilde;o poderia realizar a palestra sobre CouchDB no <a href="http://cearaonrails.com.br/">Cear&aacute; On Rails</a> e me perguntando se eu gostaria de ir no lugar dele.
-  
-  Eu gostaria de agradecer imensamente ao <a href="http://tapajos.me">Tapa</a> por ter lembrado de mim e ter feito o convite. Gostaria tamb&eacute;m de deixar um grande abra&ccedil;o e vibra&ccedil;&atilde;o positiva para que fique tudo bem em rela&ccedil;&atilde;o ao problema que ele teve.
-  
-  Voltando ao dia de sexta-feira, depois de alguns telefonemas, fechamos a minha vinda para o <a href="http://cearaonrails.com.br/">Cear&aacute; On Rails</a> por volta das 12:00h. A partir da&iacute; foi uma loucura. Depois do dia de trabalho normal na <a href="http://myfreecomm.com.br">Myfreecomm</a>, fui pra casa me arrumar e ir para o aeroporto. Meu vo&ocirc; era 1:25h da manh&atilde; de s&aacute;bado.
-  
-  Quando estava com a mala arrumada e sentei para come&ccedil;ar a pensar na palestra, faltavam 30 minutos para eu sair de casa e ir para o aeroporto. &Eacute; claro que n&atilde;o deu pra fazer nada!
-  
-  Chegando no aeroporto fiz o check-in e comecei a preparar a palestra, foram duas horas, com uma pequena interrup&ccedil;&atilde;o para um <a href="https://twitter.com/rafaelp/status/5496678566">doido</a> que pediu para comprar uma passagem pela internet no meu laptop.
-  
-  Fiz o que pude at&eacute; a hora do embarque, por volta das 2:00h da manh&atilde;. Cheguei no hotel em Natal umas 5:00h e fui dormir. No dia seguinte acordei por volta das 8:00h e fui fazendo a palestra nos momentos que davam at&eacute; o &uacute;ltimo minuto, literalmente.
-  
 
+  Tudo come&ccedil;ou quando eu coloquei no ar, na noite de quinta-feira (05/11/09), o site do <a href="http://cobregratis.com.br">Cobre Gr&aacute;tis</a>, uma nova aplica&ccedil;&atilde;o web que estou lan&ccedil;ando. Na sexta-feira de manh&atilde; o <a href="http://tapajos.me">Tapaj&oacute;s</a> me ligou dizendo que teve um problema pessoal e que n&atilde;o poderia realizar a palestra sobre CouchDB no <a href="http://cearaonrails.com.br/">Cear&aacute; On Rails</a> e me perguntando se eu gostaria de ir no lugar dele.
+
+  Eu gostaria de agradecer imensamente ao <a href="http://tapajos.me">Tapa</a> por ter lembrado de mim e ter feito o convite. Gostaria tamb&eacute;m de deixar um grande abra&ccedil;o e vibra&ccedil;&atilde;o positiva para que fique tudo bem em rela&ccedil;&atilde;o ao problema que ele teve.
+
+  Voltando ao dia de sexta-feira, depois de alguns telefonemas, fechamos a minha vinda para o <a href="http://cearaonrails.com.br/">Cear&aacute; On Rails</a> por volta das 12:00h. A partir da&iacute; foi uma loucura. Depois do dia de trabalho normal na <a href="http://myfreecomm.com.br">Myfreecomm</a>, fui pra casa me arrumar e ir para o aeroporto. Meu vo&ocirc; era 1:25h da manh&atilde; de s&aacute;bado.
+
+  Quando estava com a mala arrumada e sentei para come&ccedil;ar a pensar na palestra, faltavam 30 minutos para eu sair de casa e ir para o aeroporto. &Eacute; claro que n&atilde;o deu pra fazer nada!
+
+  Chegando no aeroporto fiz o check-in e comecei a preparar a palestra, foram duas horas, com uma pequena interrup&ccedil;&atilde;o para um <a href="https://twitter.com/rafaelp/status/5496678566">doido</a> que pediu para comprar uma passagem pela internet no meu laptop.
+
+  Fiz o que pude at&eacute; a hora do embarque, por volta das 2:00h da manh&atilde;. Cheguei no hotel em Natal umas 5:00h e fui dormir. No dia seguinte acordei por volta das 8:00h e fui fazendo a palestra nos momentos que davam at&eacute; o &uacute;ltimo minuto, literalmente.
 wordpress_id: 427
 wordpress_url: http://rafael.adm.br/?p=427
-date: 2009-11-07 19:59:27 -02:00
-categories: 
-- Posts
-tags: 
-- palestra
-- rails
-- webapp
-- business
-- cearaonrails
 ---
+
 Esses &uacute;ltimos tr&ecirc;s dias foram muito loucos pra mim. Uma sequ&ecirc;ncia de acontecimentos resultou em um final de semana bem interessante, pelo menos at&eacute; agora.
 
 Tudo come&ccedil;ou quando eu coloquei no ar, na noite de quinta-feira (05/11/09), o site do <a href="http://cobregratis.com.br">Cobre Gr&aacute;tis</a>, uma nova aplica&ccedil;&atilde;o web que estou lan&ccedil;ando. Na sexta-feira de manh&atilde; o <a href="http://tapajos.me">Tapaj&oacute;s</a> me ligou dizendo que teve um problema pessoal e que n&atilde;o poderia realizar a palestra sobre CouchDB no <a href="http://cearaonrails.com.br/">Cear&aacute; On Rails</a> e me perguntando se eu gostaria de ir no lugar dele.

@@ -1,18 +1,9 @@
---- 
-layout: post
-status: publish
-published: true
+---
 title: Ferramenta de CRM
-author: Rafael Lima
-author_login: admin
-author_email: contato@rafael.adm.br
-author_url: http://rafael.lima.myopenid.com/
-wordpress_id: 186
-wordpress_url: http://rafael.adm.br/?p=186
-date: 2008-05-11 17:09:40 -03:00
-categories: 
+date: 2008-05-11 20:09:40 Z
+categories:
 - Posts
-tags: 
+tags:
 - web
 - webapp
 - marketing
@@ -21,7 +12,16 @@ tags:
 - atendimento
 - chat
 - saas
+layout: post
+status: publish
+author: Rafael Lima
+author_login: admin
+author_email: contato@rafael.adm.br
+author_url: http://rafael.lima.myopenid.com/
+wordpress_id: 186
+wordpress_url: http://rafael.adm.br/?p=186
 ---
+
 <strong>Atualizado em 27/07/2011</strong>: Foi lan&ccedil;ada uma ferramenta nacional, muito boa que eu recomendo: <a href="http://clientela.com.br"><img src="http://rafael.adm.br/wp-content/uploads/2011/07/clientela.png" alt="" title="clientela" width="116" height="25" class="aligncenter size-full wp-image-551"  border="0" style="border: 0; display: inline" /></a>
 
 Este post &eacute; uma tentativa de responder as perguntas do <a href="http://www.improveit.com.br/vinicius">Vinicius</a> feitas no <a href="http://blog.improveit.com.br">blog da Improve-It</a> no post entitulado <a href="http://blog.improveit.com.br/articles/2008/04/28/call-for-help">Call for Help</a>. O objetivo dele &eacute; justamente usar o poder do blog para fomentar discuss&atilde;o interessante para seu uso pessoal, uma iniciativa inteligente que eu apoio. As empresas poderiam criar seu <a href="http://blogempresa.com.br">Blog Empresa</a> e fazer isso tamb&eacute;m!

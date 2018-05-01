@@ -1,24 +1,24 @@
---- 
+---
+title: Experimentos de Lean Startup realizados no Cobre Gr&aacute;tis
+date: 2011-08-17 21:51:08 Z
+categories:
+- Posts
+tags:
+- webapp
+- startup
+- leanstartup
+- split testing
+- lean
 layout: post
 status: publish
-published: true
-title: Experimentos de Lean Startup realizados no Cobre Gr&aacute;tis
 author: Rafael Lima
 author_login: admin
 author_email: contato@rafael.adm.br
 author_url: http://rafael.lima.myopenid.com/
 wordpress_id: 571
 wordpress_url: http://rafael.adm.br/?p=571
-date: 2011-08-17 18:51:08 -03:00
-categories: 
-- Posts
-tags: 
-- webapp
-- startup
-- leanstartup
-- split testing
-- lean
 ---
+
 Nos &uacute;ltimos tempos venho aplicando bastante as t&eacute;cnicas de Lean Startup em meus neg&oacute;cios e tenho tido bons resultados. Nas &uacute;ltimas semanas, eu fiz alguns testes no <a href="http://cobregratis.com.br">Cobre Gr&aacute;tis</a> e compartilho neste post o processo, as ferramentas usadas e o resultado de um destes testes realizados.
 
 Eu estava pensando maneiras de converter mais visitantes em usu&aacute;rios no Cobre Gr&aacute;tis, ou seja, fazer com que as pessoas que visitassem o site, criassem uma conta para experimentar o aplicativo. Uma das ideias que tive, foi retirar o link de Planos e Pre&ccedil;os no menu superior. Desta forma, eu estaria reduzindo as interfer&ecirc;ncias da tela e com menos op&ccedil;&otilde;es de cliques eu acreditava que o caminho natural para o usu&aacute;rio seria criar a conta.

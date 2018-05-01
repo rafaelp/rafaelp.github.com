@@ -6,6 +6,7 @@ tags:
 - helabs
 - impulso
 - neg&oacute;cios
+layout: post
 ---
 
 No dia 20 de março de 2018 eu entrei na operação da Impulso, uma das minhas 4 empresas no momento.

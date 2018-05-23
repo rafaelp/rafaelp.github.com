@@ -51,7 +51,7 @@ Qual sentido faria viver em Portugal (como temos 3 pessoas no time da Impulso), 
 
 Como já falei anteriormente independente de ser feriado ou não, qualquer um tem autonomia pra folgar quando for realmente relevante. Bem como tem a autonomia de escolher trabalhar no final de semana.
 
-Sendo assim, minha decisão foi de determinar que não seguiríamos feriado de nenhum lugar e todos os dias seriam dias normais de trabalho.
+Sendo assim, minha decisão foi de determinar que não seguiríamos feriado de nenhum lugar e todos os dias seriam dias normais de trabalho (mais recentemente tomamos outra decisão em relação a férias que complementa essa aí).
 
 Eu conclui que o feriado serve pra quem está escravizado, quem não tem autonomia e nem liberdade de agenda. É para alguns um refúgio e pra outros uma benção de folga que ajuda a se equilibrar melhor, descansando ou fazendo coisas que gostaria mas normalmente não pode.
 

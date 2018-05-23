@@ -1,7 +1,6 @@
 ---
 title: Folgar nos feriados é para os escravizados
 date: 2018-05-02 09:09:00 -03:00
-published: false
 tags:
 - cultura
 - impulso

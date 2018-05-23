@@ -24,9 +24,11 @@ Eu confio que todas trabalham porque querem e não porque estão sendo obrigadas
 
 Sendo assim todos têm liberdade para fazer seus horários, ir num médico numa segunda de manhã ou levar o cachorro pra tosar numa quinta de tarde.
 
-Já ouvi de uma pessoa que não poderia me atender na hora porque estava no salão fazendo unha, num dia de semana qualquer pela manhã.
+Já ouvi de uma pessoa que não poderia me atender na hora, porque estava no salão fazendo unha, num dia de semana qualquer pela manhã.
 
-Resolvi escrever sobre isso porque tive querepensar  a política de folgas em feriados da Impulso, que possui uma questão a parte por um motivo.
+Resolvi escrever sobre isso porque tive que repensar  a política de folgas em feriados da Impulso.
+
+A Impulso possui uma questão a parte.
 
 Somos um time distribuído com pessoas trabalhando em várias cidades e até em países diferentes. O trabalho remoto é uma realidade pra nós.
 
@@ -52,7 +54,7 @@ Como já falei anteriormente independente de ser feriado ou não, qualquer um te
 
 Sendo assim, minha decisão foi de determinar que não seguiríamos feriado de nenhum lugar e todos os dias seriam dias normais de trabalho.
 
-Eu conclui que o feriado serve pra quem está escravizado, quem não tem autonomia e nem liberdade de agenda. É para alguns um refúgio e pra outros uma benção de folga que ajuda a se equilibrar melhor, descansando ou fazendo coisas que gostaria mas não pode.
+Eu conclui que o feriado serve pra quem está escravizado, quem não tem autonomia e nem liberdade de agenda. É para alguns um refúgio e pra outros uma benção de folga que ajuda a se equilibrar melhor, descansando ou fazendo coisas que gostaria mas normalmente não pode.
 
 O feriado não pode ser a sua única chance de descansar e fazer coisas que você deseja, bem como não precisa ser um dia que você vá se forçar a não trabalhar.
 
@@ -61,3 +63,5 @@ Na medida que sua vida está equilibrada, trabalhar no feriado ou no final de se
 Por isso comecei a achar que folgar no feriado é para os escravizados e que infelizmente passa a fazer sentido uma vez que essa é a realidade de mais de 90% da população.
 
 P.S. Artigo escrito com a ajuda intelectual do meu sócio Rafael Miranda.
+
+P.S. Essa cultura é valida para o chamado Core Team da Impulso. Os Impulsers que são os profissionais que trabalham diretamente nos projetos que executamos trabalham sob a cultura da empresa contratante.

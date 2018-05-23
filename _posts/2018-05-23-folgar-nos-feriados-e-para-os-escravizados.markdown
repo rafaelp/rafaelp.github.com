@@ -33,7 +33,7 @@ Somos um time distribuído com pessoas trabalhando em várias cidades e até em 
 
 Dentro desse cenário, como definir as folgas em feriados? Que feriado seguir?
 
-Por algum tempo determinou-se que todo mundo seguiria o feriado do Rio de Janeiro, porque é a cidade que a empresa está registrada.
+Por algum tempo determinou-se que todo mundo seguiria o feriado do Rio de Janeiro, porque é a cidade na qual a empresa está registrada.
 
 O objetivo foi determinar uma regra que fosse justa e acabasse com as dúvidas como: Vamos trabalhar tal dia? Vamos enforcar? Etc...
 

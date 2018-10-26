@@ -87,15 +87,15 @@ token_store = Google::Auth::Stores::FileTokenStore.new(
 authorizer = Google::Auth::UserAuthorizer.new(client_id, scope, token_store)
 
 credentials = authorizer.get_credentials('rafael.lima.paula@gmail.com')
-if credentials.nil?
+# if credentials.nil?
   url = authorizer.get_authorization_url(base_url: OOB_URI )
   puts "Open #{url} in your browser and enter the resulting code:"
   code = gets
   credentials = authorizer.get_and_store_credentials_from_code(
     user_id: 'rafael.lima.paula@gmail.com', code: code, base_url: OOB_URI)
-end
+# end
 
-file_id = "1dxnCaUi3PPoHeBsGeNZjiQDpSbZlNKzzqe5uTSef6ks"
+file_id = "1Di67Gi7V1XDtURq1h7tkuAr2Sip0pIm31NEYg3MycAo"
 Drive = Google::Apis::DriveV3
 drive = Drive::DriveService.new
 drive.authorization = credentials

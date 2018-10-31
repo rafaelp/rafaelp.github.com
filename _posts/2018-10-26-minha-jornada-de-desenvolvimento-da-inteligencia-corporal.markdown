@@ -547,7 +547,7 @@ Queria agradecer também a todos os profissionais que estiveram junto comigo nes
 
 [Lucas Costa](https://www.instagram.com/dr.lucascosta/) - Endocrinologista
 
-Marcão - Personal Trainer
+Marcos Paulo (Marcão) - Personal Trainer
 
 [Murilo Portugal](https://www.instagram.com/muriloportugaltrainer/) - Personal Trainer
 

@@ -37,9 +37,5 @@ layout: blog
 
   {% if paginator.next_page %}
     <a href="/blog/page/{{paginator.next_page}}" class="older-posts">Mais Antigos &rarr;</a>
-    {% assign total_pages_minus_5 = paginator.total_pages - 5 %}
-    {% if paginator.page <= total_pages_minus_5 %}
-      <!--a href="/blog/page/{{paginator.total_pages}}">Última »</a-->
-    {% endif %}
   {% endif %}
 </nav>

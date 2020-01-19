@@ -950,6 +950,7 @@ select {
 	        filter:brightness(0) invert(1);
 }
 .mainmenu-box li a {
+    color: #fff;
     border-top: 1px solid #555555;
     display: block;
     padding: 13px 0;

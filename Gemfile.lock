@@ -298,7 +298,7 @@ DEPENDENCIES
   pry (= 0.10.4)
 
 RUBY VERSION
-   ruby 2.6.5p114
+   ruby 2.7.3p183
 
 BUNDLED WITH
-   1.17.2
+   2.2.16

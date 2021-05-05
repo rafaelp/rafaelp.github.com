@@ -89,9 +89,9 @@ No futuro, o protocolo se conectará com outros mercados como o Youtube, Spotify
 
 Estamos vivendo uma revolução no mercado criativo.
 
-## Porqu&ecirc; investir neste protocolo?
+## Por que investir neste protocolo?
 
-Desde que eu vi esse projeto, ele me instigou. Comprei um pouquinho para ficar exposto a ele e sentir como iria evoluir, bem como faço com todas as novas cryptos que vou entrar.
+Desde que eu vi esse projeto, ele me instigou. Comprei um pouquinho para ficar exposto a ele e sentir como iria evoluir, bem como faço com todas as novas cryptos em que vou entrar.
 
 
 

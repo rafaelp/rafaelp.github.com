@@ -164,8 +164,8 @@ Para comprar DEV hoje, você precisa usar uma corretora descentralizada como a U
 No momento que escrevo este artigo esse token ainda não está listado em nenhuma corretora centralizada.
 
 Hoje em dia já existe muita informação na Internet sobre como usar as corretoras descentralizadas e por isso não se faz necessário explicar neste artigo. Se você não está familiarizado com o mercado de DEFI, estude antes de continuar.
-- <span style="color:#1155cc;font-size:12pt">[Comprar DEV na Uniswap](https://app.uniswap.org/)
-- <span style="color:#1155cc;font-size:12pt">[Comprar DEV na 1INCH](https://app.1inch.io/)
+- <span style="color:#1155cc;font-size:12pt">[Comprar DEV na Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x5caf454ba92e6f2c929df14667ee360ed9fd5b26)
+- <span style="color:#1155cc;font-size:12pt">[Comprar DEV na 1INCH](https://app.1inch.io/#/1/swap/ETH/DEV)
 
 ## Conclus&atilde;o
 

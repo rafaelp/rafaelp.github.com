@@ -29,7 +29,7 @@ Naquela época eu consegui perceber o quão valioso e revolucionário era o proj
 
 
 
-Comprei a moeda do Ethereum a um preço de U$48 (quarenta e oito dólares) e hoje, exatamente 4 anos depois ela está com o preço unitário de U$3.300 (três mil e trezentos dólares), ou seja, uma valorização de aproximadamente de 7.000% (70 vezes)!
+Comprei a moeda do Ethereum a um preço de U$48 (quarenta e oito dólares) e hoje, exatamente 4 anos depois ela está com o preço unitário de U$3.300 (três mil e trezentos dólares), ou seja, uma valorização de aproximadamente 7.000% (70 vezes)!
 
 
 

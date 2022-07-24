@@ -19,6 +19,10 @@ tags:
 - blockchain
 ---
 
+*Atualização*: Eu gostei tanto das possibilidades apresentadas pelo DEV Protocol que comecei um novo negócio para levar o protocolo ao mercado de criadores de conteúdo. No decorrer do desenvolvimento, decidimos deixar o DEV Protocol e criar o nosso próprio tokenomics. Infelizmente o protocolo em si não evoluiu mas acabei por aumentar ainda mais minha aposta na ideia. Para mais informações, [visite cobogo](https://cobogo.social).
+
+----------
+
 Uma dinâmica econômica extremamente nova, que no meu ponto de vista irá revolucionar o mercado econômico de doações.
 
 Voltando a 05 de maio de 2017, eu escrevi [um artigo sobre o Ethereum](https://rafael.adm.br/p/como-comprar-ether-a-moeda-do-ethereum-no-brasil), um crypto-token (ou criptomoeda), que de lá pra cá vem revolucionando a tecnologia, as finanças e a infraestrutura do futuro da internet.

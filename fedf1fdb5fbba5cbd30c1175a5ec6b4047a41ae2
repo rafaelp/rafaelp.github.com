@@ -1,0 +1,23 @@
+_config.yml
+  e87361abca6c165b 24-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "fedf1fdb5fbba5cbd30c1175a5ec6b4047a41ae2",
+  "prompts": {
+    "e87361abca6c165b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fe8c16f1-84d5-4ea0-8643-51faeb6213b6",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Rafael Lima <contato@rafael.adm.br>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+CLAUDE.md
+  da1b43c73ee48a4f 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "1596c7c3d9c8a0e228521723c79d9febce54629e",
+  "prompts": {
+    "da1b43c73ee48a4f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5e9b2c8f-1587-497f-8286-5f57d6ea0653",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Rafael Lima <contato@rafael.adm.br>",
+      "messages": [],
+      "total_additions": 70,
+      "total_deletions": 0,
+      "accepted_lines": 70,
+      "overriden_lines": 0
+    }
+  }
+}

@@ -263,6 +263,20 @@ section.dark h3 {
   object-fit: contain;
 }
 
+:root[data-theme="dark"] .support-item {
+  background: #fff;
+  color: #333;
+  border-color: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .support-item {
+    background: #fff;
+    color: #333;
+    border-color: #fff;
+  }
+}
+
 .support-item span {
   display: flex;
   align-items: center;

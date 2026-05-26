@@ -1,27 +1,101 @@
----
-title: WOW! Página Não Encontrada (Erro 404)
-layout: error
----
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404 — Página não encontrada · Rafael Lima</title>
+  <meta name="robots" content="noindex,follow">
+  <link rel="icon" type="image/png" sizes="96x96" href="assets/favicon/favicon-96x96.png">
+  <link rel="icon" href="assets/favicon/favicon.svg" type="image/svg+xml" sizes="any">
+  <link rel="icon" href="assets/favicon/favicon.ico">
+  <link rel="apple-touch-icon" href="assets/favicon/apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script>
+    (function () {
+      const stored = localStorage.getItem('theme');
+      if (stored === 'dark' || stored === 'light') {
+        document.documentElement.dataset.theme = stored;
+      }
+    })();
+  </script>
+  <style>
+    .error-page {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      align-items: center;
+      gap: 40px;
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 60px 32px;
+    }
 
-<p style="margin-top: 5em">
-  <strong>
-    WOW! Página Não Encontrada (Erro 404) :-(
-  </strong>
-</p>
-<p>A página requisitada não existe.</p>
-<p>
-  Você pode ter usado um endereço antigo, ou ter digitado incorretamente na
-  <strong>
-    Barra de Endereço
-  </strong>
-  do seu programa.
-</p>
-<p>Por favor, verifique o endereço digitado ou tente <a href="http://rafael.adm.br">http://rafael.adm.br</a></p>
-<p>Caso você esteja certo do endereço e este erro insista em aparecer, fique à vontade para me <a href="http://scr.im/rafaelp/">avisar</a>.</p>
-<p>
-  Desejando a sua compreensão,
-  <br />
-  <strong>
-    Rafael Lima
-  </strong>
-</p>
+    .error-text .code {
+      font-size: 96px;
+      font-weight: 700;
+      line-height: 1;
+      letter-spacing: -2px;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+
+    .error-text h1 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .error-text p {
+      font-size: 18px;
+      color: var(--text-light);
+      margin-bottom: 28px;
+    }
+
+    .error-img {
+      text-align: right;
+    }
+
+    .error-img img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+    }
+
+    @media (max-width: 768px) {
+      .error-page {
+        grid-template-columns: 1fr;
+        text-align: center;
+        padding: 40px 24px;
+      }
+      .error-img {
+        text-align: center;
+        order: -1;
+        max-width: 280px;
+        margin: 0 auto;
+      }
+      .error-text .code {
+        font-size: 72px;
+      }
+      .error-text h1 {
+        font-size: 28px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<main class="error-page">
+  <div class="error-text">
+    <div class="code">404</div>
+    <h1>Página não encontrada</h1>
+    <p>Essa página não existe (ou existia e saiu do ar). Se você chegou aqui por um link antigo, segue o caminho de volta.</p>
+    <a class="btn" href="/">voltar para o início</a>
+  </div>
+  <div class="error-img">
+    <img src="assets/img/rafael_lima-2026-hover.png" alt="Rafael Lima rezando">
+  </div>
+</main>
+
+</body>
+</html>

@@ -4,67 +4,35 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Rafael Lima's personal portfolio and blog website (rafael.adm.br), built with Jekyll and hosted on GitHub Pages.
+Rafael Lima's personal site (rafael.adm.br) — single-page static HTML hosted on GitHub Pages.
 
 ## Tech Stack
 
-- **Jekyll 3.9.5** static site generator
-- **Ruby 3.3.1** (see `.ruby-version`)
-- **Bootstrap 3** + jQuery with plugins (Fancybox, Slick, Isotope)
-- **GitHub Pages** gem (v231) for deployment
+- Pure HTML + CSS (no framework, no build step)
+- GitHub Pages (static file serving)
 
-## Development Commands
+## Structure
+
+- `index.html` — single-page site (Sobre, Empresas, Filosofias, Manifesto)
+- `assets/css/style.css` — site styles
+- `assets/img/` — images used by index.html (foto, logos, signature)
+- `css_browser_selector/` — standalone showcase page for css_browser_selector library
+- `.well-known/` — WKD (Web Key Directory) for contato@rafael.adm.br GPG key
+- `CNAME` — custom domain mapping to rafael.adm.br
+- `pre-2026/` — archive of the previous Jekyll-based site (not actively served as homepage)
+
+## Development
+
+No build step. Edit HTML/CSS directly. Preview locally with any static server:
 
 ```bash
-# Install dependencies
-bundle install
-
-# Run local dev server (with auto-rebuild)
-jekyll serve --watch --incremental
-
-# Or use foreman (reads Procfile)
-foreman start
+python3 -m http.server 4000
 ```
 
-## Architecture
+## Deployment
 
-### Content Structure
+Automatic via GitHub Pages on push to `main`. Custom domain: `rafael.adm.br` (see `CNAME`).
 
-- `_posts/` — Blog posts (313 posts, Markdown/HTML with YAML frontmatter)
-- `_layouts/` — Page templates (index, blog, post, page, mentoria, tags, error)
-- `_includes/` — Reusable HTML fragments (head, footer, scripts)
-- `_config.yml` — Jekyll configuration
+## Language
 
-### Site Sections
-
-- **Homepage** (`index.html`) — One-page portfolio with smooth scrolling sections
-- **Blog** (`blog/`) — Paginated blog with its own CSS/JS/fonts
-- **Mentorship** (`mentoria/`) — Mentorship program pages
-- **Podcast** (`voltandopracasa/`) — Podcast episode archive with MP3 files
-- **Talks** (`palestras/`) — Presentations archive
-
-### Key Configuration (`_config.yml`)
-
-- Permalink pattern: `/p/:title`
-- Excerpt separator: `<!--more-->`
-- Pagination: 5 posts per page at `blog/page/:num`
-- Plugins: jekyll-paginate, jekyll-sitemap
-
-### Ruby Utility Scripts (root directory)
-
-- `downmark_it.rb` — HTML to Markdown converter for blog content
-- `import_from_google_docs.rb` — Imports posts from Google Docs via Drive API
-- `extend_string.rb` — String extensions for accent removal and URL generation
-
-### Frontend Assets
-
-- `assets/` — Main site CSS, JS, images (Bootstrap, jQuery plugins)
-- `blog/` — Blog-specific assets (separate from main site)
-
-### Deployment
-
-Automatic via GitHub Pages on push to master. Custom domain configured in `CNAME` → rafael.adm.br.
-
-### Language
-
-Site content is in **Brazilian Portuguese**.
+Site content is in Brazilian Portuguese.

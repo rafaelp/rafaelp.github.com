@@ -31,9 +31,18 @@ export const metadata: Metadata = {
   },
 };
 
+/*
+ * Aplica o tema guardado antes da primeira pintura. Precisa ser síncrono e
+ * inline no <head>, senão a página pisca no tema errado ao carregar.
+ */
+const themeScript = `(function(){try{var t=localStorage.getItem("tema");if(t==="light"||t==="dark"){document.documentElement.dataset.theme=t}}catch(e){}})()`;
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang={site.locale} className={inter.variable}>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+      </head>
       <body>
         <a className="skip-link" href="#conteudo">
           Pular para o conteúdo

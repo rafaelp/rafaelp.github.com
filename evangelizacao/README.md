@@ -12,7 +12,7 @@ CMS externo. Publicar é editar um arquivo e dar push.
 - **Markdown** com frontmatter, lido por `gray-matter` e convertido por `unified`
   (remark + rehype)
 - **CSS puro**, tema inspirado no [Casper](https://github.com/TryGhost/Casper),
-  o tema padrão do Ghost
+  o tema padrão do Ghost, com modo claro, escuro e automático
 - Sem dependências de runtime: o site é 100% estático
 
 ## Conteúdo migrado
@@ -38,13 +38,12 @@ app/
   [...slug]/page.tsx       posts (/AAAA/MM/DD/slug) e páginas (/slug)
   pagina/[page]/           páginas 2..N do feed
   categoria/[slug]/        feed por categoria
-  categorias/              índice de categorias
   arquivo/                 todos os posts agrupados por ano
   busca/                   busca client-side sobre o texto completo
   feed.xml/                RSS
   search-index.json/       índice de busca (JSON estático)
   sitemap.ts, robots.ts    SEO
-components/                cabeçalho, rodapé, feed, comentários
+components/                cabeçalho, rodapé, feed, comentários, seletor de tema
 lib/
   content.ts               leitura dos arquivos de conteúdo
   markdown.ts              Markdown -> HTML

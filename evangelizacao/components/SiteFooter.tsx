@@ -12,7 +12,6 @@ export function SiteFooter() {
           </a>
         </p>
         <nav aria-label="Rodapé">
-          <Link href="/categorias/">Categorias</Link>
           <Link href="/arquivo/">Arquivo</Link>
           <Link href="/busca/">Busca</Link>
           <a href="/feed.xml">RSS</a>

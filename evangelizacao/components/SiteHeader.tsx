@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import { getPages } from "@/lib/content";
 import { site } from "@/lib/site";
 
@@ -18,10 +19,10 @@ export function SiteHeader() {
               {page.title}
             </Link>
           ))}
-          <Link href="/categorias/">Categorias</Link>
           <Link href="/arquivo/">Arquivo</Link>
           <Link href="/busca/">Busca</Link>
         </nav>
+        <ThemeToggle />
       </div>
     </header>
   );

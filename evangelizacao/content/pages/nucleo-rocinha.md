@@ -17,4 +17,4 @@ Há mais de quinze anos O Núcleo Assistencial de nossa casa dedica parte de seu
 
 Muitos alunos cresceram e tornaram-se voluntários do próprio grupo, outros se afastaram da Doutrina Espírita, mas levam consigo boas lembranças e preciosos ensinamentos que norteiam suas vidas.
 
-Mais informações: <http://casamariadenazare.org.br/projeto-social-maria-de-nazare/programas/>
+Mais informações: <https://www.rita.org.br/>

@@ -21,7 +21,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     })),
     ...getPages().map((page) => ({ url: `${base}${page.permalink}/`, priority: 0.6 })),
-    { url: `${base}/categorias/`, priority: 0.5 },
     ...getCategories().map((category) => ({
       url: `${base}/categoria/${category.slug}/`,
       priority: 0.5,

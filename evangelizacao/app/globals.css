@@ -3,7 +3,20 @@
  * cabeçalho sóbrio, feed em cartões e uma coluna de leitura estreita e serifada.
  */
 
+/*
+ * Três modos: sem data-theme o site segue o sistema; data-theme="light" e
+ * data-theme="dark" são a escolha explícita do leitor, guardada no navegador
+ * e aplicada antes da primeira pintura pelo script em app/layout.tsx.
+ *
+ * O bloco escuro aparece duas vezes de propósito — uma para o sistema, outra
+ * para a escolha explícita. CSS não deixa juntar media query e seletor na mesma
+ * regra, e `light-dark()` resolveria isso mas quebraria o site inteiro em
+ * navegadores antigos, que não é um risco que vale a pena aqui.
+ */
+
 :root {
+  color-scheme: light;
+
   --accent: #2f6f8f;
   --accent-soft: #e8f1f5;
 
@@ -26,7 +39,9 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+
     --accent: #7ab8d6;
     --accent-soft: #1d2a32;
 
@@ -39,6 +54,22 @@
     --text-tertiary: #8b939b;
     --border: #2b2e34;
   }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --accent: #7ab8d6;
+  --accent-soft: #1d2a32;
+
+  --bg: #131417;
+  --bg-muted: #1a1c20;
+  --surface: #1a1c20;
+
+  --text: #f2f4f6;
+  --text-secondary: #a9b0b8;
+  --text-tertiary: #8b939b;
+  --border: #2b2e34;
 }
 
 *,
@@ -138,6 +169,51 @@ a:hover {
   align-items: center;
   gap: 4px;
   flex-wrap: wrap;
+  margin-left: auto;
+}
+
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.theme-toggle svg {
+  width: 17px;
+  height: 17px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* O ícone visível vem do data-theme no <html>, não do estado do React, para
+   já sair certo na primeira pintura. */
+.theme-toggle svg,
+:root[data-theme="light"] .theme-icon-system,
+:root[data-theme="dark"] .theme-icon-system {
+  display: none;
+}
+
+:root:not([data-theme]) .theme-icon-system,
+:root[data-theme="light"] .theme-icon-light,
+:root[data-theme="dark"] .theme-icon-dark {
+  display: block;
 }
 
 .site-nav a {
@@ -171,6 +247,7 @@ a:hover {
   }
 
   .site-nav {
+    order: 3;
     flex: 1 0 100%;
     flex-wrap: nowrap;
     overflow-x: auto;
@@ -550,38 +627,6 @@ a:hover {
   border-radius: var(--radius);
   color: var(--text-tertiary);
   font-size: 0.86rem;
-}
-
-/* -------------------------------------------------------------- categorias */
-
-.chip-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
-  padding: 32px 0 0;
-  list-style: none;
-  margin: 0;
-}
-
-.chip {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 7px 15px;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  font-size: 0.9rem;
-}
-
-.chip:hover {
-  border-color: var(--accent);
-  color: var(--accent);
-}
-
-.chip span {
-  color: var(--text-tertiary);
-  font-size: 0.82rem;
 }
 
 /* ---------------------------------------------------------------- arquivo */

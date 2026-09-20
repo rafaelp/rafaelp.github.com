@@ -163,3 +163,46 @@ export function readingTime(body: string): number {
 export function joinMeta(parts: (string | null)[]): string {
   return parts.filter(Boolean).map((part) => `\u00a0· ${part}`).join("");
 }
+
+/**
+ * O que um cartão do feed precisa, já resolvido. Serve tanto para a renderização
+ * no servidor quanto para o feed que cresce no cliente, que recebe estes mesmos
+ * objetos por /posts.json — assim as duas metades nunca divergem.
+ */
+export type PostCard = {
+  title: string;
+  url: string;
+  excerpt: string;
+  date: string;
+  dateLabel: string;
+  meta: string;
+  category: string | null;
+  categoryUrl: string | null;
+};
+
+export function getPostCards(posts: Post[] = getPosts()): PostCard[] {
+  const categories = getCategories();
+  const counts = getCommentCounts();
+
+  return posts.map((post) => {
+    const name = post.categories[0] ?? null;
+    const slug = name
+      ? categories.find((category) => category.name === name)?.slug
+      : undefined;
+    const comments = counts[post.wordpressId] ?? 0;
+
+    return {
+      title: post.title,
+      url: `${post.permalink}/`,
+      excerpt: post.excerpt,
+      date: post.date,
+      dateLabel: formatDate(post.date),
+      meta: joinMeta([
+        `${readingTime(post.body)} min de leitura`,
+        comments > 0 ? `${comments} ${comments === 1 ? "comentário" : "comentários"}` : null,
+      ]),
+      category: name,
+      categoryUrl: slug ? `/categoria/${slug}/` : null,
+    };
+  });
+}

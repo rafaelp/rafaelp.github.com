@@ -34,13 +34,14 @@ Internet Archive. O link foi mantido no texto como estava no original.
 
 ```
 app/
-  page.tsx                 página inicial (feed paginado)
+  page.tsx                 página inicial (feed que cresce ao rolar)
   [...slug]/page.tsx       posts (/AAAA/MM/DD/slug) e páginas (/slug)
-  pagina/[page]/           páginas 2..N do feed
+  pagina/[page]/           páginas 2..N do feed (fallback sem JavaScript)
   categoria/[slug]/        feed por categoria
   arquivo/                 todos os posts agrupados por ano
   busca/                   busca client-side sobre o texto completo
   feed.xml/                RSS
+  posts.json/              cartões do feed, para o carregamento ao rolar
   search-index.json/       índice de busca (JSON estático)
   sitemap.ts, robots.ts    SEO
 components/                cabeçalho, rodapé, feed, comentários, seletor de tema
@@ -73,6 +74,17 @@ wordpressId: "36"
 
 `permalink` é a URL da página e `wordpressId` liga o post aos seus comentários
 em `content/data/comments.json`.
+
+## Feed da página inicial
+
+A home traz os 12 posts mais recentes já no HTML e vai acrescentando os
+próximos conforme o leitor chega ao fim da página, 12 por vez. A lista completa
+mora em `/posts.json` e é baixada uma única vez, só quando o primeiro lote
+acaba — quem não rolar a página não paga por ela.
+
+O botão "Carregar mais" é um link de verdade para `/pagina/2/`: sem JavaScript
+ele continua levando aos posts mais antigos, e as rotas `/pagina/<n>/`
+continuam existindo para isso e para os buscadores.
 
 ## URLs
 

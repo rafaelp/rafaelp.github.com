@@ -1,12 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { PostFeed } from "@/components/PostFeed";
-import {
-  getCategories,
-  getCategoryBySlug,
-  getCommentCounts,
-  getPostsByCategory,
-} from "@/lib/content";
+import { getCategories, getCategoryBySlug, getPostCards, getPostsByCategory } from "@/lib/content";
 
 export const dynamicParams = false;
 
@@ -32,7 +27,7 @@ export default async function CategoryPage({ params }: Params) {
   const category = getCategoryBySlug(slug);
   if (!category) notFound();
 
-  const posts = getPostsByCategory(category.name);
+  const cards = getPostCards(getPostsByCategory(category.name));
 
   return (
     <>
@@ -40,12 +35,12 @@ export default async function CategoryPage({ params }: Params) {
         <div className="container">
           <h1>{category.name}</h1>
           <p>
-            {posts.length} {posts.length === 1 ? "post" : "posts"}
+            {cards.length} {cards.length === 1 ? "post" : "posts"}
           </p>
         </div>
       </header>
       <div className="container">
-        <PostFeed posts={posts} categories={getCategories()} commentCounts={getCommentCounts()} />
+        <PostFeed cards={cards} />
       </div>
     </>
   );

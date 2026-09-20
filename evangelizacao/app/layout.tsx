@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
@@ -29,6 +29,23 @@ export const metadata: Metadata = {
     title: site.title,
     description: site.description,
   },
+  // Mesmo conjunto de ícones do site principal (assets/favicon/ na raiz do repo).
+  icons: {
+    icon: [
+      { url: "/favicon/favicon-96x96.png", type: "image/png", sizes: "96x96" },
+      { url: "/favicon.ico", sizes: "any" },
+    ],
+    apple: "/favicon/apple-touch-icon.png",
+  },
+  manifest: "/manifest.webmanifest",
+};
+
+/* Acompanha as cores de fundo dos dois modos do tema. */
+export const viewport: Viewport = {
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
+    { media: "(prefers-color-scheme: dark)", color: "#131417" },
+  ],
 };
 
 /*

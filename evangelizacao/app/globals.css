@@ -202,17 +202,32 @@ a:hover {
   stroke-linejoin: round;
 }
 
-/* O ícone visível vem do data-theme no <html>, não do estado do React, para
-   já sair certo na primeira pintura. */
-.theme-toggle svg,
-:root[data-theme="light"] .theme-icon-system,
-:root[data-theme="dark"] .theme-icon-system {
+/* O botão mostra para onde vai, não onde está: lua no claro, sol no escuro.
+   Quem decide é o CSS, a partir do data-theme no <html> e do sistema, para o
+   ícone já sair certo na primeira pintura, sem depender do estado do React. */
+.theme-icon-to-light {
   display: none;
 }
 
-:root:not([data-theme]) .theme-icon-system,
-:root[data-theme="light"] .theme-icon-light,
-:root[data-theme="dark"] .theme-icon-dark {
+.theme-icon-to-dark {
+  display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) .theme-icon-to-dark {
+    display: none;
+  }
+
+  :root:not([data-theme]) .theme-icon-to-light {
+    display: block;
+  }
+}
+
+:root[data-theme="dark"] .theme-icon-to-dark {
+  display: none;
+}
+
+:root[data-theme="dark"] .theme-icon-to-light {
   display: block;
 }
 

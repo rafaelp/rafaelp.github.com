@@ -20,6 +20,10 @@ Rafael Lima's personal site (rafael.adm.br) — single-page static HTML hosted o
 - `.well-known/` — WKD (Web Key Directory) for contato@rafael.adm.br GPG key
 - `CNAME` — custom domain mapping to rafael.adm.br
 - `pre-2026/` — archive of the previous Jekyll-based site (not actively served as homepage)
+- `evangelizacao/` — separate Next.js project (the Evangelização Espírita blog migrated off
+  WordPress.com), deployed to Vercel with Root Directory `evangelizacao`. It is NOT part of
+  the GitHub Pages site: `.nojekyll` keeps Pages from rendering its Markdown, and `robots.txt`
+  disallows `/evangelizacao/`. See `evangelizacao/README.md`.
 
 ## Development
 

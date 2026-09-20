@@ -17,6 +17,8 @@ Página pessoal — single-page HTML estática hospedada no GitHub Pages.
 - `.well-known/` — WKD (Web Key Directory) da chave GPG de contato@rafael.adm.br
 - `CNAME` — mapeamento do domínio rafael.adm.br
 - `pre-2026/` — arquivo da versão Jekyll anterior do site
+- `evangelizacao/` — projeto Next.js do blog Evangelização Espírita, publicado à
+  parte na Vercel (ver `evangelizacao/README.md`)
 
 ## Rodando localmente
 
